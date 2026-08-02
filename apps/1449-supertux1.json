@@ -5,17 +5,14 @@
   "category": "game",
   "platform": "vita",
   "titleid": "SUPERTUX1",
-
   "repo": "theheroGAC/SuperTux-PSVITA",
   "asset": "SuperTux-PSVITA.vpk",
   "prerelease": false,
-
   "icon": "1449-supertux1.png",
-
   "description": "PSVITA port of SuperTux Classic (Milestone 1) with extensive bug fixes and performance optimizations.",
   "requirements": "",
-
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }
