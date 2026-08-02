@@ -112,6 +112,19 @@ in the build script is the authoritative list; changing it without changing the 
 breaks the catalog silently, which is exactly the failure mode the schema and the
 CI check exist to prevent.
 
+## Forking this catalog
+
+Forking this repo to run your own catalog (for NeoVitaDB Downloader's in-app catalog switcher)
+needs one manual step the workflow can't do for you: **enable GitHub Pages on your fork**
+(Settings → Pages → Source: GitHub Actions). `dist/` is gitignored — it only ever exists as the
+build workflow's output, never committed — so without Pages enabled nothing serves it anywhere,
+not even `raw.githubusercontent.com`. The build will keep succeeding either way; your fork just
+stays unreachable to any client pointed at it until Pages is turned on.
+
+Once Pages is enabled, the existing `build.yml` (runs on push, on a schedule, and via
+`workflow_dispatch`) starts publishing to `https://<your-username>.github.io/NeoVitaDB-Catalog/`
+automatically — that's the URL to give NeoVitaDB Downloader's `catalogs.cfg`.
+
 ## Local build
 
 ```bash
