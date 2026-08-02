@@ -1,0 +1,23 @@
+{
+  "$comment": "Copy this file to apps/vita/NNNN-your-slug.json, pick the next free id, and open a pull request. Files starting with an underscore are ignored by the build.",
+
+  "id": 9999,
+  "name": "My Homebrew",
+  "author": "Your Name",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "MYHB00001",
+
+  "repo": "youruser/your-repo",
+  "asset": "*.vpk",
+  "prerelease": false,
+
+  "icon": "9999-my-homebrew.png",
+
+  "description": "What it does, in a couple of sentences.\nNewlines are fine.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

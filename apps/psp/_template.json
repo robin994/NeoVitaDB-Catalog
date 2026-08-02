@@ -1,15 +1,14 @@
 {
-  "$comment": "Copy this file to apps/NNNN-your-slug.json, pick the next free id, and open a pull request. Files starting with an underscore are ignored by the build.",
+  "$comment": "Copy this file to apps/psp/NNNN-your-slug.json, pick the next free id, and open a pull request. Files starting with an underscore are ignored by the build. No titleid needed for psp - the build derives the ux0:pspemu/PSP/GAME/<folder> install path from the release archive itself.",
 
   "id": 9999,
   "name": "My Homebrew",
   "author": "Your Name",
   "category": "game",
-  "platform": "vita",
-  "titleid": "MYHB00001",
+  "platform": "psp",
 
   "repo": "youruser/your-repo",
-  "asset": "*.vpk",
+  "asset": "*.zip",
   "prerelease": false,
 
   "icon": "9999-my-homebrew.png",

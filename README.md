@@ -11,21 +11,29 @@ Published at `https://robin994.github.io/NeoVitaDB-Catalog/`.
 
 ## Adding your homebrew
 
-1. Copy `apps/_template.json` to `apps/NNNN-your-slug.json`, using the next free id.
+Entries live under `apps/vita/` or `apps/psp/`, kept separate for tidiness.
+
+1. Copy `apps/vita/_template.json` (or `apps/psp/_template.json` for a PSP
+   homebrew) to `apps/<platform>/NNNN-your-slug.json`, using the next free id.
 2. Add a 128×128 PNG icon under `icons/`, named `NNNN-your-slug.png`.
 3. Open a pull request. CI validates your entry and fails the check if something
    is off, so you get the answer without waiting for a human.
 
 You only describe the project. Version, release date, download size, download
 count, checksums and the download URL all come from your latest GitHub release —
-publish a new release and the catalog follows within six hours.
+publish a new release and the catalog follows within six hours. PSP entries
+also get `folder` derived automatically — the top-level folder EBOOT.PBP sits
+in inside your release archive, e.g. "APOLLO" — since that's where Adrenaline
+expects the game installed (`ux0:pspemu/PSP/GAME/APOLLO/`); nothing to set by
+hand for it.
 
 The one exception is `trusted`: unlike the fields above, it *is* written into
-your `apps/NNNN-your-slug.json`, but not by you. Every build recomputes it from
-your repository's GitHub star count (currently more than 50) and, when it
-changes, rewrites the field in place and commits it back — same mechanism as
-`cache/hashes.json`. Setting it yourself in a PR has no lasting effect; the next
-scheduled build overwrites it with the real star count.
+your `apps/<platform>/NNNN-your-slug.json`, but not by you. Every build
+recomputes it from your repository's GitHub star count (currently more than
+50) and, when it changes, rewrites the field in place and commits it back —
+same mechanism as `cache/hashes.json`. Setting it yourself in a PR has no
+lasting effect; the next scheduled build overwrites it with the real star
+count.
 
 ```json
 {

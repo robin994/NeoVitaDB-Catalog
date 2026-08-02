@@ -241,7 +241,7 @@ def main() -> None:
         log("! no GitHub token: 60 requests an hour, this will not get far")
 
     taken_ids = set()
-    for path in APPS_DIR.glob("**/*.json"):  # vita entries are flat under apps/, psp entries live under apps/psp/
+    for path in APPS_DIR.glob("**/*.json"):  # apps/vita/ and apps/psp/
         if not path.name.startswith("_"):
             taken_ids.add(json.loads(path.read_text())["id"])
 
@@ -299,9 +299,8 @@ def main() -> None:
             continue
         ICONS_DIR.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(icon_src, ICONS_DIR / app["icon"])
-        # vita entries stay flat under apps/ (untouched, existing convention);
-        # psp entries go under apps/psp/ to keep the two visually separate.
-        target_dir = APPS_DIR / "psp" if args.platform == "psp" else APPS_DIR
+        # apps/vita/ and apps/psp/ - kept separate for tidiness.
+        target_dir = APPS_DIR / args.platform
         target_dir.mkdir(parents=True, exist_ok=True)
         (target_dir / f"{stem}.json").write_text(json.dumps(app, indent=2, ensure_ascii=False) + "\n")
         written += 1

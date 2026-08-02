@@ -285,10 +285,8 @@ def build() -> None:
     }
 
     entries = []
-    # Recursive: vita entries stay flat under apps/, psp entries live under
-    # apps/psp/ (kept separate for tidiness - see the "riguardo alla cartella
-    # apps" thread - since retroactively moving the existing vita entries
-    # wasn't worth the churn).
+    # Recursive: entries live under apps/vita/ or apps/psp/, kept separate
+    # for tidiness.
     for path in sorted(APPS_DIR.glob("**/*.json")):
         if path.name.startswith("_"):
             continue
