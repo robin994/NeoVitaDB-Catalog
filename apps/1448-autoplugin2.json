@@ -1,0 +1,21 @@
+{
+  "id": 1448,
+  "name": "Autoplugin 2",
+  "author": "theheroGAC/OneLua",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "AUTOPLUG2",
+
+  "repo": "ONElua/AutoPlugin2",
+  "asset": "AutoPlugin2.vpk",
+  "prerelease": false,
+
+  "icon": "1448-autoplugin2.png",
+
+  "description": "AutoPlugin II is a PS Vita homebrew that lets users easily install, update, and manage plugins.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
