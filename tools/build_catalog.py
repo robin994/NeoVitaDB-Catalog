@@ -32,6 +32,7 @@ ROOT = Path(__file__).resolve().parent.parent
 APPS_DIR = ROOT / "apps"
 DIST_DIR = ROOT / "dist"
 CACHE_FILE = ROOT / "cache" / "hashes.json"
+DOWNLOADS_CACHE_FILE = ROOT / "cache" / "downloads.json"
 SCHEMA_FILE = ROOT / "schema" / "app.schema.json"
 CATEGORIES_FILE = ROOT / "categories.json"
 
@@ -174,6 +175,46 @@ def save_cache(cache: dict) -> None:
     CACHE_FILE.write_text(json.dumps(cache, indent=2, sort_keys=True) + "\n")
 
 
+def load_downloads_cache() -> dict:
+    if DOWNLOADS_CACHE_FILE.exists():
+        return json.loads(DOWNLOADS_CACHE_FILE.read_text())
+    return {}
+
+
+def save_downloads_cache(cache: dict) -> None:
+    DOWNLOADS_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DOWNLOADS_CACHE_FILE.write_text(json.dumps(cache, indent=2, sort_keys=True) + "\n")
+
+
+def accumulate_downloads(cache: dict, app_id: str, tag: str, release_downloads: int) -> int:
+    """Running lifetime total, built up across builds instead of re-summing
+    every release's assets every time (which would need one API call per
+    release instead of one per app - see the "conteggio dei download" thread).
+
+    GitHub's own download_count is per-release: it only ever reflects the
+    currently published release's assets, and resets to 0 the moment a repo's
+    latest release changes. So each build just needs to remember, per app,
+    what the *previous* release's final count was, add it to a running base
+    the first time a version change is noticed, and keep tracking the current
+    release's count on top of that base until the version changes again.
+
+    This under-counts anything downloaded before an app was first seen by
+    this cache (no retroactive history), and the "freeze" amount for a
+    release that just got superseded is only as fresh as the last build
+    before the change, not the exact moment it happened - both acceptable
+    given the alternative is paginating every release of every app.
+    """
+    prev = cache.get(app_id)
+    if prev is None:
+        base_total = 0
+    elif prev["tag"] != tag:
+        base_total = prev["base_total"] + prev["release_downloads"]
+    else:
+        base_total = prev["base_total"]
+    cache[app_id] = {"tag": tag, "release_downloads": release_downloads, "base_total": base_total}
+    return base_total + release_downloads
+
+
 def validate(entries: list[dict]) -> None:
     try:
         import jsonschema
@@ -227,6 +268,7 @@ def build() -> None:
     log(f"{len(entries)} entries")
 
     cache = load_cache()
+    downloads_cache = load_downloads_cache()
     out = {"vita": [], "psp": []}
     icons = []
 
@@ -256,6 +298,11 @@ def build() -> None:
         published = release.get("published_at") or release.get("created_at") or ""
         date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+        release_downloads = sum(a.get("download_count", 0) for a in release.get("assets", []))
+        lifetime_downloads = accumulate_downloads(
+            downloads_cache, str(entry["id"]), release.get("tag_name", ""), release_downloads
+        )
+
         is_psp = entry["platform"] == "psp"
         type_num = categories[entry["category"]] + (10 if is_psp else 0)
 
@@ -277,7 +324,7 @@ def build() -> None:
             "titleid": entry.get("titleid", ""),
             "screenshots": ";".join(entry.get("screenshots", [])),
             "long_description": entry["description"],
-            "downloads": str(sum(a.get("download_count", 0) for a in release.get("assets", []))),
+            "downloads": str(lifetime_downloads),
             "source": release.get("html_url", "").rsplit("/releases/", 1)[0],
             "release_page": release.get("html_url", ""),
             "trailer": entry.get("trailer", ""),
@@ -298,6 +345,7 @@ def build() -> None:
         icons.append(entry["icon"])
 
     save_cache(cache)
+    save_downloads_cache(downloads_cache)
     DIST_DIR.mkdir(parents=True, exist_ok=True)
 
     for platform, blocks in out.items():

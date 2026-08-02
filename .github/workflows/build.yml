@@ -42,17 +42,19 @@ jobs:
       # On pull requests we stop here: the build having succeeded is the check.
       # Besides the checksum cache, the build also rewrites each entry's
       # "trusted" flag in apps/*.json in place when its star count crosses
-      # TRUSTED_STARS, so that flag needs committing back too.
-      - name: Commit refreshed checksum cache and trust flags
+      # TRUSTED_STARS, and it tracks lifetime download totals in
+      # cache/downloads.json (see accumulate_downloads() in build_catalog.py) -
+      # both need committing back too, or the next run loses the running state.
+      - name: Commit refreshed caches and trust flags
         if: github.event_name != 'pull_request'
         run: |
-          git add cache/hashes.json apps
+          git add cache/hashes.json cache/downloads.json apps
           if git diff --cached --quiet; then
             echo "nothing to refresh"
           else
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git commit -m "Refresh checksum cache and trust flags"
+            git commit -m "Refresh caches and trust flags"
             git push
           fi
 
