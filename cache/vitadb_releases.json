@@ -1,0 +1,133 @@
+{
+  "BenMcLean/Wolf3D-PSP": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "CrossCraft/CrossCraft-Classic": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "CrossCraft/CrossCraft-SurvivalTest": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Crow-bar/xash3d-fwgs": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "DaedalusX64/daedalus": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "EmiyaBestBoy/Touhou-Mohofu-PSP-Mod": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Fighter19/Quake3PSP-mirror": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "IridescentRose/Slender-PSP": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Jormii/BackAway": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "KorigamiK/UntitledPSP": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Mips96/Trogdor-Reburninated": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "MrJPGames/PSP-2048-Lua-Port": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "PSP-Archive/Stella": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "SJRNoodles/AgarioPSP": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "TheMrIron2/DeSmuME-PSP": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "WagicProject/wagic": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "aggressivepixels/ccleste": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "bomblik/BlockOut_II_PSP": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "bomblik/GNU_Robbo_PSVITA_PSP": {
+    "ok": true,
+    "tag": "GNU_Robbo_0.68_PSVITA",
+    "vpks": [
+      "gnurobbo_0.68.vpk"
+    ]
+  },
+  "bucanero/apollo-psp": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "darkduke606/Insomnia-ProQuake-Engine": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "gamblore/gambleftp": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "gtzampanakis/bookr": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "joel16/CMFileManager-PSP": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "kevinbchen/cspsp": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "libcg/neverball-svn-psp": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "libretro/RetroArch": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "mafu9/PSPMania": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "nzp-team/nzportable": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "psjuan97/Stardust-Celeste": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "stacksta/cannonball-psp": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "weetabix-su/ikezawa": {
+    "ok": false,
+    "reason": "no releases"
+  }
+}

@@ -40,15 +40,16 @@ API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 # Order is fixed: the parser reads these sequentially. hash2 is vita-only.
-# "trusted" is appended at the very end deliberately: an app build that
-# predates this field simply stops reading before it and is unaffected,
-# whereas inserting it earlier would shift every field the old parser reads
-# afterwards. A future app release can start reading it once this lands.
+# New fields are appended at the very end deliberately (see "trusted", then
+# "folder"): an app build that predates a field simply stops reading before
+# it and is unaffected, whereas inserting one earlier would shift every field
+# the old parser reads afterwards. A future app release can start reading a
+# new field once it lands.
 FIELD_ORDER = [
     "name", "icon", "version", "author", "type", "id", "date", "titleid",
     "screenshots", "long_description", "downloads", "source", "release_page",
     "trailer", "size", "data_size", "hash", "hash2", "requirements",
-    "trophies", "ai", "data", "url", "changelog", "trusted",
+    "trophies", "ai", "data", "url", "changelog", "trusted", "folder",
 ]
 
 # A repo needs more stars than this to be flagged trusted.
@@ -134,21 +135,46 @@ def pick_asset(release: dict, pattern: str) -> dict | None:
     return None
 
 
-def checksums(vpk_bytes: bytes) -> tuple[str, str]:
-    """MD5 of eboot.bin, plus the engine asset when the loader has one.
+def checksums(vpk_bytes: bytes, platform: str = "vita") -> tuple[str, str, str]:
+    """MD5 of the loader executable, plus (vita only) the engine asset when
+    the loader has one, plus (psp only) the folder the executable lives in.
 
     Mirrors what the app computes on device, so a freshly installed homebrew
-    compares equal and shows as up to date.
+    compares equal and shows as up to date. Vita expects eboot.bin at the zip
+    root; PSP releases instead wrap EBOOT.PBP in a top-level folder (the
+    game's actual name, e.g. "APOLLO/EBOOT.PBP") that the app extracts as-is
+    into ux0:pspemu/PSP/GAME/ - see the "folder" field this returns, matched
+    by basename rather than full path since that folder name is arbitrary
+    per release and not something a fixed lookup key could anticipate.
     """
-    main_hash, aux_hash = "", ""
     try:
         zf = zipfile.ZipFile(io.BytesIO(vpk_bytes))
     except zipfile.BadZipFile:
         log("  ! asset is not a zip; cannot derive checksums")
-        return "", ""
+        return "", "", ""
 
     lookup = {n.lower().lstrip("./"): n for n in zf.namelist()}
 
+    if platform == "psp":
+        executable = next(
+            (real for path_lower, real in lookup.items() if path_lower.rsplit("/", 1)[-1] == "eboot.pbp"),
+            None,
+        )
+        if not executable:
+            log("  ! no EBOOT.PBP inside the asset")
+            return "", "", ""
+        if "/" not in executable:
+            # No wrapping folder to preserve on install - the app's PSP
+            # install path always needs one (see main.cpp), so this asset
+            # isn't installable as-is rather than something worth guessing a
+            # folder name for.
+            log("  ! EBOOT.PBP is at the zip root, no folder to install it under")
+            return "", "", ""
+        main_hash = hashlib.md5(zf.read(executable)).hexdigest()
+        folder = executable.rsplit("/", 1)[0]
+        return main_hash, "", folder
+
+    main_hash, aux_hash = "", ""
     eboot = lookup.get("eboot.bin")
     if eboot:
         main_hash = hashlib.md5(zf.read(eboot)).hexdigest()
@@ -161,7 +187,7 @@ def checksums(vpk_bytes: bytes) -> tuple[str, str]:
             aux_hash = hashlib.md5(zf.read(real)).hexdigest()
             break
 
-    return main_hash, aux_hash
+    return main_hash, aux_hash, ""
 
 
 def load_cache() -> dict:
@@ -259,7 +285,11 @@ def build() -> None:
     }
 
     entries = []
-    for path in sorted(APPS_DIR.glob("*.json")):
+    # Recursive: vita entries stay flat under apps/, psp entries live under
+    # apps/psp/ (kept separate for tidiness - see the "riguardo alla cartella
+    # apps" thread - since retroactively moving the existing vita entries
+    # wasn't worth the churn).
+    for path in sorted(APPS_DIR.glob("**/*.json")):
         if path.name.startswith("_"):
             continue
         entries.append((path, json.loads(path.read_text())))
@@ -288,12 +318,12 @@ def build() -> None:
 
         key = f"{repo}@{asset['id']}@{asset['updated_at']}"
         if key in cache:
-            main_hash, aux_hash = cache[key]["hash"], cache[key]["hash2"]
+            main_hash, aux_hash, folder = cache[key]["hash"], cache[key]["hash2"], cache[key].get("folder", "")
             log("  cached")
         else:
             log(f"  downloading {asset['name']} ({asset['size']} bytes)")
-            main_hash, aux_hash = checksums(fetch(asset["browser_download_url"]))
-            cache[key] = {"hash": main_hash, "hash2": aux_hash}
+            main_hash, aux_hash, folder = checksums(fetch(asset["browser_download_url"]), entry["platform"])
+            cache[key] = {"hash": main_hash, "hash2": aux_hash, "folder": folder}
 
         published = release.get("published_at") or release.get("created_at") or ""
         date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -339,6 +369,7 @@ def build() -> None:
             "url": asset["browser_download_url"],
             "changelog": sanitise_changelog(release.get("body") or ""),
             "trusted": "1" if trusted else "0",
+            "folder": folder,
         }
 
         out["psp" if is_psp else "vita"].append(emit_entry(fields, is_psp))

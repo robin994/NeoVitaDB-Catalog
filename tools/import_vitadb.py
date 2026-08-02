@@ -48,7 +48,20 @@ CACHE_FILE = ROOT / "cache" / "vitadb_releases.json"
 API = "https://api.github.com"
 
 # VitaDB's numeric type, which is the same numbering categories.json uses.
+# PSP entries in the dump carry the Vita type +10 (11/12/14/15) - the same
+# offset build_catalog.py adds back when it writes "type" for a psp entry -
+# so normalise_type() below strips it before this lookup runs.
 TYPE_TO_CATEGORY = {"1": "game", "2": "port", "4": "utility", "5": "emulator"}
+
+# One dump file per platform; both share the same icons/ folder (VitaDB kept
+# a single icon store regardless of platform).
+DUMP_FILE = {"vita": "apps.json", "psp": "psp_apps.json"}
+
+
+def normalise_type(type_str: str, platform: str) -> str:
+    if platform == "psp":
+        return str(int(type_str) - 10)
+    return type_str
 
 # Two entries in the dump carry a title id the schema rejects. Both are typos
 # in VitaDB rather than what the VPK installs, so they are corrected here.
@@ -181,7 +194,7 @@ def pick_vpk(vpks: list[str], name: str) -> str:
     return max(vpks, key=lambda v: difflib.SequenceMatcher(None, wanted, normalise(v[:-4])).ratio())
 
 
-def build_entry(src: dict, repo: str, vpks: list[str]) -> dict:
+def build_entry(src: dict, repo: str, vpks: list[str], platform: str) -> dict:
     app_id = int(src["id"])
     slug = slugify(src["name"])
     stem = f"{app_id:04d}-{slug}"
@@ -189,8 +202,8 @@ def build_entry(src: dict, repo: str, vpks: list[str]) -> dict:
         "id": app_id,
         "name": src["name"],
         "author": src["author"] or "Unknown",
-        "category": TYPE_TO_CATEGORY[src["type"]],
-        "platform": "vita",
+        "category": TYPE_TO_CATEGORY[normalise_type(src["type"], platform)],
+        "platform": platform,
         "titleid": TITLEID_FIXES.get(src["titleid"], src["titleid"]),
         "repo": repo,
         "asset": asset_glob(vpks, src["name"]),
@@ -209,7 +222,8 @@ def build_entry(src: dict, repo: str, vpks: list[str]) -> dict:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dump", default="sampleData/VitaDB", help="folder holding apps.json")
+    ap.add_argument("--dump", default="sampleData/VitaDB", help="folder holding the dump file(s)")
+    ap.add_argument("--platform", choices=["vita", "psp"], default="vita", help="which dump file to import")
     ap.add_argument("--limit", type=int, default=0, help="stop after N candidates")
     ap.add_argument("--report-only", action="store_true", help="resolve but write nothing")
     ap.add_argument("--skipped-report", help="write the entries left out, grouped by reason")
@@ -217,8 +231,8 @@ def main() -> None:
     args = ap.parse_args()
 
     dump = (ROOT / args.dump) if not Path(args.dump).is_absolute() else Path(args.dump)
-    source = json.loads((dump / "apps.json").read_text())
-    log(f"{len(source)} entries in the dump")
+    source = json.loads((dump / DUMP_FILE[args.platform]).read_text())
+    log(f"{len(source)} entries in the {args.platform} dump")
 
     token = github_token()
     if token:
@@ -227,7 +241,7 @@ def main() -> None:
         log("! no GitHub token: 60 requests an hour, this will not get far")
 
     taken_ids = set()
-    for path in APPS_DIR.glob("*.json"):
+    for path in APPS_DIR.glob("**/*.json"):  # vita entries are flat under apps/, psp entries live under apps/psp/
         if not path.name.startswith("_"):
             taken_ids.add(json.loads(path.read_text())["id"])
 
@@ -238,7 +252,7 @@ def main() -> None:
 
     candidates = []
     for entry in source:
-        if entry["type"] not in TYPE_TO_CATEGORY:
+        if normalise_type(entry["type"], args.platform) not in TYPE_TO_CATEGORY:
             skip("unknown category", entry)
             continue
         titleid = TITLEID_FIXES.get(entry["titleid"], entry["titleid"])
@@ -274,7 +288,7 @@ def main() -> None:
         if not result["ok"]:
             skip(result["reason"], entry)
             continue
-        app = build_entry(entry, repo, result["vpks"])
+        app = build_entry(entry, repo, result["vpks"], args.platform)
         if args.report_only:
             written += 1
             continue
@@ -285,7 +299,11 @@ def main() -> None:
             continue
         ICONS_DIR.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(icon_src, ICONS_DIR / app["icon"])
-        (APPS_DIR / f"{stem}.json").write_text(json.dumps(app, indent=2, ensure_ascii=False) + "\n")
+        # vita entries stay flat under apps/ (untouched, existing convention);
+        # psp entries go under apps/psp/ to keep the two visually separate.
+        target_dir = APPS_DIR / "psp" if args.platform == "psp" else APPS_DIR
+        target_dir.mkdir(parents=True, exist_ok=True)
+        (target_dir / f"{stem}.json").write_text(json.dumps(app, indent=2, ensure_ascii=False) + "\n")
         written += 1
 
     verb = "would import" if args.report_only else "imported"
