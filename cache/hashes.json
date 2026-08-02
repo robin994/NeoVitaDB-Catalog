@@ -327,6 +327,10 @@
     "hash": "6f43f1da486da60bf2548f41cc0868ec",
     "hash2": "1f3069bcbba63704fecb07ad7774117d"
   },
+  "LiEnby/real-package-installer@462948610@2026-07-01T07:22:36Z": {
+    "hash": "84ef89aed6bc0c35788476412ffd40ae",
+    "hash2": ""
+  },
   "Lordchickenblaster/Crazy-Cattle-Vita@253376175@2025-05-10T02:37:08Z": {
     "hash": "c12c08752b3f1d352a59fc3f0e6218bb",
     "hash2": "aa1a7c4e45ee047c91c21bfd499041bb"
@@ -1571,6 +1575,14 @@
     "hash": "9eb66f7dcae5efa4b4b5ee05bb5cf4dc",
     "hash2": ""
   },
+  "minecraftpe-vita/minecraftpe-vita@429249636@2026-05-25T10:06:49Z": {
+    "hash": "61084f3b0482bc793662fd274f58eadd",
+    "hash2": ""
+  },
+  "minecraftpe-vita/minecraftpe-vita@429249666@2026-05-25T10:06:54Z": {
+    "hash": "ad6801c2aaa8ceb369c9e31ad1aee912",
+    "hash2": ""
+  },
   "mmozeiko/pkgi@5154755@2017-10-24T22:26:29Z": {
     "hash": "d53edbbb1c6e3927b1a5528a0872b5c2",
     "hash2": ""
@@ -1605,6 +1617,10 @@
   },
   "nyorem/vitapong@2328537@2016-09-17T09:50:01Z": {
     "hash": "3f37c4ac3b3194282ede90d50f9b6641",
+    "hash2": ""
+  },
+  "oestriot/GcToolKit@462947512@2026-07-01T07:21:09Z": {
+    "hash": "59d1ca63addc6800e0fdf0f463dcb7fd",
     "hash2": ""
   },
   "onurkuru/skyrift@483938162@2026-07-20T21:44:18Z": {
