@@ -1,0 +1,21 @@
+{
+  "id": 1445,
+  "name": "Minecraft PE",
+  "author": "minecraftpe-vita",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MCPE00000",
+
+  "repo": "minecraftpe-vita/minecraftpe-vita",
+  "asset": "minecraftpe.vpk",
+  "prerelease": false,
+
+  "icon": "1445-minecraftpe.png",
+
+  "description": "Port of Minecraft Pocket Edition 0.6.1 alpha to PlayStation Vita.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

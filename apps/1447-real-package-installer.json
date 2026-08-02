@@ -1,0 +1,21 @@
+{
+  "id": 1447,
+  "name": "Real Package Installer",
+  "author": "Li",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RPKG10031",
+
+  "repo": "LiEnby/real-package-installer",
+  "asset": "real_package_installer.vpk",
+  "prerelease": false,
+
+  "icon": "1447-real-package-installer.png",
+
+  "description": "A utility to install Package Files onto the PSVita.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

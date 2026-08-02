@@ -1,0 +1,21 @@
+{
+  "id": 1446,
+  "name": "Minecraft PE DEMO",
+  "author": "minecraftpe-vita",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MCPEDEMO0",
+
+  "repo": "minecraftpe-vita/minecraftpe-vita",
+  "asset": "minecraftpe_demo.vpk",
+  "prerelease": false,
+
+  "icon": "1446-minecraftpe-demo.png",
+
+  "description": "Port of the DEMO verison of Minecraft Pocket Edition 0.6.1 alpha to PlayStation Vita.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
