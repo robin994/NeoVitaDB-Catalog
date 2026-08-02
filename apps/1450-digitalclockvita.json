@@ -1,0 +1,21 @@
+{
+  "id": 1450,
+  "name": "Digital Clock Vita",
+  "author": "theheroGAC",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "DIGICLOCK",
+
+  "repo": "theheroGAC/Digital-Clock-Vita",
+  "asset": "DigitalClockVita.vpk",
+  "prerelease": false,
+
+  "icon": "1450-digitalclockvita.png",
+
+  "description": "Minimal PlayStation Vita digital clock with MP3 music playback, alarm scheduling and touch dismiss.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
