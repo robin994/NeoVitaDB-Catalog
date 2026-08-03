@@ -1,0 +1,21 @@
+{
+  "id": 1453,
+  "name": "Adrenaline Bubbles Manager",
+  "author": "OneLua",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ADRBUBMAN",
+
+  "repo": "ONElua/AdrenalineBubbleManager",
+  "asset": "AdrenalineBubbleManager.vpk",
+  "prerelease": false,
+
+  "icon": "1453-adrenalinebubblemanager.png",
+
+  "description": "This useful application allows you to make personalized bubbles with 'icon' and 'title' of your PSP content (HBS/PSX/ISO/CSO) quick and easy.(It doesn't work on Adrenaline 8).",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
