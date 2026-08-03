@@ -97,6 +97,17 @@ inspecting `direct_url` itself, so update detection works exactly like any other
 entry. The app shows a "Direct Download" badge on any entry using `direct_url`,
 in either sub-case.
 
+> **⚠️ It is strictly forbidden to use `direct_url` (or any other field) to link
+> pirated material** — copyrighted commercial games, ROMs, BIOS files, or any
+> other content you don't have the right to redistribute. This catalog only
+> ever indexes freely-distributable homebrew published by its own author. A PR
+> linking infringing content will be rejected and the contributor blocked; if
+> infringing content is ever found already merged, it will be removed on sight.
+> Repeated or ignored violations risk a DMCA takedown against this entire
+> repository and its GitHub Pages hosting, which would shut the catalog down
+> for every contributor and user — not just the offending entry. When in
+> doubt about a project's licensing, don't add it.
+
 **Some characters are reserved.** The parser on the console is not a JSON parser:
 it scans for `"key": "` and cuts at the next quote. So `requirements` cannot
 contain quotes at all, and `description` cannot contain the two-character sequence
