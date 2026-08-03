@@ -485,6 +485,11 @@
     "hash": "ae17ea2a880ef6e9fb41507abcce8d77",
     "hash2": ""
   },
+  "ONElua/AdrenalineBubbleManager@118267070@2023-07-23T19:24:44Z": {
+    "folder": "",
+    "hash": "622d942552fc171c2f23302cf832ab21",
+    "hash2": ""
+  },
   "ONElua/AutoPlugin2@445293087@2026-06-12T03:07:32Z": {
     "hash": "b8b24ff5af74c855fa1c86e2319a6ec4",
     "hash2": ""
@@ -1810,6 +1815,11 @@
   },
   "theheroGAC/Digital-Clock-Vita@498660521@2026-08-02T06:58:03Z": {
     "hash": "5620c51477f780493f8c1b5a00c77d07",
+    "hash2": ""
+  },
+  "theheroGAC/PSV-Cleaner@469443639@2026-07-07T18:21:41Z": {
+    "folder": "",
+    "hash": "0ec89d69bdeebab295f8d54b67d93930",
     "hash2": ""
   },
   "theheroGAC/SuperTux-PSVITA@470162407@2026-07-08T10:31:34Z": {

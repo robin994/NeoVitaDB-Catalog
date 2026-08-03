@@ -5,17 +5,14 @@
   "category": "utility",
   "platform": "vita",
   "titleid": "CLEAN0000",
-
   "repo": "theheroGAC/PSV-Cleaner",
   "asset": "PSV_Cleaner.vpk",
   "prerelease": false,
-
   "icon": "1454-psvcleaner.png",
-
   "description": "PSV Cleaner is a powerful and user-friendly temporary files cleaner. This tool helps you free up valuable storage space by safely removing temporary files, cache data, and system dumps that accumulate over time.",
   "requirements": "",
-
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }
