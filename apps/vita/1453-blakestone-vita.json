@@ -1,0 +1,22 @@
+{
+  "id": 1453,
+  "name": "BlakeStone-Vita",
+  "author": "Andiweli & 01y",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BSTONE012",
+
+  "repo": "Andiweli/BlakeStone-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+
+  "icon": "1453-blakestone-vita.png",
+
+  "description": "Port of Blake Stone: Aliens of Gold and Blake Stone: Planet Strike for PSVITA/PSTV.\nThis build has a corrected LZH save system and minor fixes, and allows on-screen keyboard input for save games and high scores.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "data": "https://github.com/01y/bstone-vita/releases/download/0.3-vita/data-sw.zip",
+}
