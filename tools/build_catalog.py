@@ -391,6 +391,7 @@ def build() -> None:
             main_hash, aux_hash, folder = checksums(fetch(download_url), entry["platform"])
             cache[key] = {"hash": main_hash, "hash2": aux_hash, "folder": folder}
 
+        description_note = ""
         if release is not None:
             published = release.get("published_at") or release.get("created_at") or ""
             date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -409,6 +410,14 @@ def build() -> None:
             changelog = ""
             source_url = f"https://github.com/{repo}"
             release_page = ""
+            # This asset isn't served from GitHub's own release infrastructure
+            # (unlike the pinned-release direct_url case above), so warn users
+            # in the one place they'll actually see it before downloading.
+            description_note = (
+                "\n\nNote: this download is hosted on an external server, not "
+                "GitHub, and may stop working if that server goes down or "
+                "changes without the catalog knowing."
+            )
 
         # Ids are only unique within a platform (see validate()), so the cache
         # key needs the platform too or a vita/psp entry sharing a number
@@ -437,7 +446,7 @@ def build() -> None:
             "date": date,
             "titleid": entry.get("titleid", ""),
             "screenshots": ";".join(entry.get("screenshots", [])),
-            "long_description": entry["description"],
+            "long_description": entry["description"] + description_note,
             "downloads": str(lifetime_downloads),
             "source": source_url,
             "release_page": release_page,

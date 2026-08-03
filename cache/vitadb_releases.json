@@ -19,6 +19,10 @@
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
+  "EasyRPG/Player": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
   "EmiyaBestBoy/Touhou-Mohofu-PSP-Mod": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
@@ -48,6 +52,266 @@
     "reason": "no releases"
   },
   "PSP-Archive/Stella": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/AbbayeDesMorts-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/AntiBlacklist": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/AvP-Gold-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/BillyFrontier": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Bugdom2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/CandyCrisis": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/CroMagRally": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/DoomIIRPG-RE": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/DstroyVita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/EDuke32-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/HCL-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/K.E.T.M.-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/MicroCHIP": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/MightyMike": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/MinicraftVita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/NRedneck-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Nanosaur": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Nanosaur2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/NumptyPhysics-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/OpenMRac": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/OpenSyobon-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/OttoMatic": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/PostalVita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/Quakespasm": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/RetroLivearea": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/RigelEngine": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/UnityBubbleGame": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/VitaPad": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/WolfensteinRPG-RE": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/ZeldaOLB": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/abuse-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/beat2x-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/d3es-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/dethrace": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/eldritch-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/flare-engine": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/freespace-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jfblood": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jfduke3d-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jfsw-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/jftekwar": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/layton2-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/lpp-vita": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Rinnegatamante/meritous-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/nKaruga": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/neverball": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/perfect_dark": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/prototype-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/psv-qr-scanner": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/rinCheat": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "Rinnegatamante/smw": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/smw-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/ufoai": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaExhumed": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaHexenII": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaQuake": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaQuakeII": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaQuakeIII": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaRTCW": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaVoyager": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/vitaWolfen": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/wipeout-rewrite": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/wordle_clone": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/zelda3": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Rinnegatamante/zikzak-vita": {
     "ok": false,
     "reason": "no releases"
   },

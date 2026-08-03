@@ -91,6 +91,12 @@ build instead of always tracking latest. Two cases:
   - `date` is whichever day the build last noticed the file, not the true
     publish date; `changelog` is always empty; `downloads` stays 0 (untrackable
     without a release to read a count from).
+  - The build appends a warning to the end of the displayed description,
+    telling users this download is hosted on an external server rather than
+    GitHub's own release infrastructure and may stop working without notice.
+    You don't write this yourself - it's added automatically, only for this
+    sub-case (the pinned-release sub-case above stays on GitHub, so it doesn't
+    get one).
 
 Either way, `hash`/`hash2`/`size` are still computed for real by downloading and
 inspecting `direct_url` itself, so update detection works exactly like any other
