@@ -60,7 +60,23 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git commit -m "Refresh caches and trust flags"
-            git push
+            # This checkout is fetch-depth 1 and can go stale over the several
+            # minutes the build takes (one API call per app): a scheduled run
+            # and a manual workflow_dispatch overlapping, or a push landing on
+            # main mid-run, both make a plain "git push" get rejected as
+            # non-fast-forward. Rebase onto whatever is new on main and retry
+            # a few times instead of failing the whole build over a race.
+            for attempt in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" = 5 ]; then
+                echo "::error::git push kept getting rejected after 5 attempts"
+                exit 1
+              fi
+              git fetch origin main
+              git rebase origin/main
+            done
           fi
 
       - uses: actions/upload-pages-artifact@v3
