@@ -131,7 +131,10 @@ def sanitise_requirements(entry: dict) -> str:
 
 
 def resolve(repo: str) -> dict:
-    """What the build script will find later: a stable release with a VPK."""
+    """What the build script will find later: a stable release with a VPK -
+    or, failing that, a zip whose contents build_catalog.py's checksums()
+    can unwrap a VPK from (a wrapper zip alongside a README/changelog, or a
+    PSP release with EBOOT.PBP under its own top-level folder)."""
     try:
         releases = api_get(f"/repos/{repo}/releases?per_page=20")
     except urllib.error.HTTPError as e:
@@ -145,10 +148,14 @@ def resolve(repo: str) -> dict:
         return {"ok": False, "reason": reason}
 
     release = stable[0]
-    vpks = [a["name"] for a in release.get("assets", []) if a["name"].lower().endswith(".vpk")]
-    if not vpks:
-        return {"ok": False, "reason": "latest release has no .vpk asset"}
-    return {"ok": True, "tag": release.get("tag_name", ""), "vpks": vpks}
+    assets = [a["name"] for a in release.get("assets", [])]
+    vpks = [a for a in assets if a.lower().endswith(".vpk")]
+    if vpks:
+        return {"ok": True, "tag": release.get("tag_name", ""), "vpks": vpks, "ext": ".vpk"}
+    zips = [a for a in assets if a.lower().endswith(".zip")]
+    if zips:
+        return {"ok": True, "tag": release.get("tag_name", ""), "vpks": zips, "ext": ".zip"}
+    return {"ok": False, "reason": "latest release has no .vpk asset"}
 
 
 def load_cache() -> dict:
@@ -157,7 +164,7 @@ def load_cache() -> dict:
     return {}
 
 
-def asset_glob(vpks: list[str], name: str) -> str:
+def asset_glob(vpks: list[str], name: str, ext: str = ".vpk") -> str:
     """A glob for the entry's own VPK, as loose as it can be without ambiguity.
 
     One VPK is the common case and needs no narrowing. Releases that ship
@@ -167,12 +174,16 @@ def asset_glob(vpks: list[str], name: str) -> str:
     Looseness only matters for surviving the next version bump, so it is traded
     away the moment it costs uniqueness — the build script picks the *first*
     matching asset, which is not a coin flip worth taking.
+
+    ext is ".zip" instead of ".vpk" when resolve() only found a wrapper zip
+    (see its docstring) - the glob still needs to match that zip, not a VPK
+    filename that was never published as its own asset.
     """
     if len(vpks) == 1:
-        return "*.vpk"
+        return f"*{ext}"
 
-    target = pick_vpk(vpks, name)
-    stem = target[:-4]
+    target = pick_vpk(vpks, name, ext)
+    stem = target[: -len(ext)]
     candidates = [
         # Every digit group is version noise.
         re.sub(r"[0-9]+(?:[._-][0-9]+)*", "*", stem),
@@ -181,22 +192,22 @@ def asset_glob(vpks: list[str], name: str) -> str:
         stem,
     ]
     for candidate in candidates:
-        glob = re.sub(r"\*{2,}", "*", candidate + "*") + ".vpk"
+        glob = re.sub(r"\*{2,}", "*", candidate + "*") + ext
         if sum(fnmatch.fnmatch(v, glob) for v in vpks) == 1:
             return glob
     return target
 
 
-def pick_vpk(vpks: list[str], name: str) -> str:
+def pick_vpk(vpks: list[str], name: str, ext: str = ".vpk") -> str:
     """The asset whose file name reads most like the homebrew's name."""
     def normalise(text: str) -> str:
         return re.sub(r"[^a-z0-9]", "", text.lower())
 
     wanted = normalise(name)
-    return max(vpks, key=lambda v: difflib.SequenceMatcher(None, wanted, normalise(v[:-4])).ratio())
+    return max(vpks, key=lambda v: difflib.SequenceMatcher(None, wanted, normalise(v[: -len(ext)])).ratio())
 
 
-def build_entry(src: dict, repo: str, vpks: list[str], platform: str) -> dict:
+def build_entry(src: dict, repo: str, vpks: list[str], platform: str, ext: str = ".vpk") -> dict:
     app_id = int(src["id"])
     slug = slugify(src["name"])
     stem = f"{app_id:04d}-{slug}"
@@ -208,7 +219,7 @@ def build_entry(src: dict, repo: str, vpks: list[str], platform: str) -> dict:
         "platform": platform,
         "titleid": TITLEID_FIXES.get(src["titleid"], src["titleid"]),
         "repo": repo,
-        "asset": asset_glob(vpks, src["name"]),
+        "asset": asset_glob(vpks, src["name"], ext),
         "prerelease": False,
         "icon": f"{stem}.png",
         "description": sanitise_description(src),
@@ -293,7 +304,7 @@ def main() -> None:
         if not result["ok"]:
             skip(result["reason"], entry)
             continue
-        app = build_entry(entry, repo, result["vpks"], args.platform)
+        app = build_entry(entry, repo, result["vpks"], args.platform, result.get("ext", ".vpk"))
         if args.report_only:
             written += 1
             continue

@@ -180,6 +180,22 @@ def checksums(vpk_bytes: bytes, platform: str = "vita") -> tuple[str, str, str]:
 
     lookup = {n.lower().lstrip("./"): n for n in zf.namelist()}
 
+    if platform == "vita" and "eboot.bin" not in lookup:
+        # Some releases publish a wrapper zip (README/LICENSE/changelog
+        # alongside the actual .vpk) instead of the vpk directly - resolve()
+        # in import_vitadb.py falls back to matching that wrapper when no
+        # bare .vpk asset exists. The app's own install flow unwraps the
+        # same way (see main.cpp), so the hash must come from what's inside
+        # the nested vpk, not the wrapper, or a fresh install would never
+        # compare equal to what the catalog expects.
+        nested_name = next((real for path_lower, real in lookup.items() if path_lower.endswith(".vpk")), None)
+        if nested_name:
+            try:
+                zf = zipfile.ZipFile(io.BytesIO(zf.read(nested_name)))
+                lookup = {n.lower().lstrip("./"): n for n in zf.namelist()}
+            except zipfile.BadZipFile:
+                log(f"  ! {nested_name} inside the asset is not a valid vpk")
+
     if platform == "psp":
         executable = next(
             (real for path_lower, real in lookup.items() if path_lower.rsplit("/", 1)[-1] == "eboot.pbp"),
