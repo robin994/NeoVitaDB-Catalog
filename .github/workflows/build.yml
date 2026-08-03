@@ -37,7 +37,12 @@ jobs:
         run: python tools/build_catalog.py
 
       - name: Stage icons alongside the catalog
-        run: cp -r icons dist/icons
+        # icons_vita/ publishes to dist/icons/ (unchanged path, kept exactly
+        # where already-published clients expect vita icons); icons_psp/ gets
+        # its own new served path since nothing depends on it yet.
+        run: |
+          cp -r icons_vita dist/icons
+          cp -r icons_psp dist/icons_psp
 
       # On pull requests we stop here: the build having succeeded is the check.
       # Besides the checksum cache, the build also rewrites each entry's

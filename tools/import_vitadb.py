@@ -42,7 +42,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 APPS_DIR = ROOT / "apps"
-ICONS_DIR = ROOT / "icons"
+# icons_vita/ publishes to dist/icons/ (the path already-published clients
+# expect); icons_psp/ gets its own served path - see .github/workflows/build.yml.
+ICONS_DIR = {"vita": ROOT / "icons_vita", "psp": ROOT / "icons_psp"}
 CACHE_FILE = ROOT / "cache" / "vitadb_releases.json"
 
 API = "https://api.github.com"
@@ -240,8 +242,11 @@ def main() -> None:
     else:
         log("! no GitHub token: 60 requests an hour, this will not get far")
 
+    # Ids are only unique within their own platform (see build_catalog.py's
+    # validate()), so a psp import must only avoid ids already taken under
+    # apps/psp/, not apps/vita/ too.
     taken_ids = set()
-    for path in APPS_DIR.glob("**/*.json"):  # apps/vita/ and apps/psp/
+    for path in (APPS_DIR / args.platform).glob("*.json"):
         if not path.name.startswith("_"):
             taken_ids.add(json.loads(path.read_text())["id"])
 
@@ -297,8 +302,9 @@ def main() -> None:
         if not icon_src.exists():
             skip("icon missing from the dump", entry)
             continue
-        ICONS_DIR.mkdir(parents=True, exist_ok=True)
-        shutil.copyfile(icon_src, ICONS_DIR / app["icon"])
+        icons_dir = ICONS_DIR[args.platform]
+        icons_dir.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(icon_src, icons_dir / app["icon"])
         # apps/vita/ and apps/psp/ - kept separate for tidiness.
         target_dir = APPS_DIR / args.platform
         target_dir.mkdir(parents=True, exist_ok=True)

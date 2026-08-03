@@ -9,7 +9,7 @@
 
   "properties": {
     "id": {
-      "description": "Stable numeric id, never reused. It is the catalog primary key: the app stores it in the favourites file and uses it to recognise itself. Max 4 digits.",
+      "description": "Stable numeric id, never reused. It is the catalog primary key: the app stores it in the favourites file and uses it to recognise itself. Max 4 digits. Unique only within its own platform - apps/vita/ and apps/psp/ each have their own id space, so a vita entry and a psp entry may share the same id.",
       "type": "integer",
       "minimum": 1,
       "maximum": 9999
@@ -59,13 +59,26 @@
     },
 
     "prerelease": {
-      "description": "Set true to track pre-releases too. Nightly builds should stay false, or every build looks like an update.",
+      "description": "Set true to track pre-releases too. Nightly builds should stay false, or every build looks like an update. Ignored when direct_url is set - there's no 'latest release' selection to honour it.",
       "type": "boolean",
       "default": false
     },
 
+    "direct_url": {
+      "description": "Pins the entry to one specific download URL instead of resolving repo's latest release + asset glob. If it's a https://github.com/{repo}/releases/download/{tag}/{file} URL for this entry's own repo, the build still fetches that tag's release for version/date/changelog/downloads (just pinned instead of latest) - everything works as normal. Otherwise (a raw.githubusercontent.com link, another repo's asset, ...) there's no release to introspect, so 'version' becomes a required, contributor-maintained field instead of build-derived, and date/changelog/downloads fall back to best-effort values. See README.",
+      "type": "string",
+      "format": "uri",
+      "maxLength": 300
+    },
+
+    "version": {
+      "description": "Only meaningful (and required) alongside a direct_url that isn't one of the entry's own repo's release assets - there's no release to read a version from, so the contributor bumps this by hand whenever direct_url is updated. Ignored otherwise (the build always derives version from the resolved release).",
+      "type": "string",
+      "maxLength": 32
+    },
+
     "icon": {
-      "description": "File name under icons/. The app shards storage by the first two characters, so names must be unique and start with two safe characters.",
+      "description": "File name under icons_vita/ or icons_psp/ (matching platform). The app shards storage by the first two characters, so names must be unique within their platform's icon folder and start with two safe characters.",
       "type": "string",
       "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{2,60}\\.png$"
     },

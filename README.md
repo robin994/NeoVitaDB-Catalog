@@ -14,8 +14,11 @@ Published at `https://robin994.github.io/NeoVitaDB-Catalog/`.
 Entries live under `apps/vita/` or `apps/psp/`, kept separate for tidiness.
 
 1. Copy `apps/vita/_template.json` (or `apps/psp/_template.json` for a PSP
-   homebrew) to `apps/<platform>/NNNN-your-slug.json`, using the next free id.
-2. Add a 128×128 PNG icon under `icons/`, named `NNNN-your-slug.png`.
+   homebrew) to `apps/<platform>/NNNN-your-slug.json`, using the next free id
+   *within that platform's own folder* - vita and psp each have their own id
+   space, so you only need to check the folder you're adding to.
+2. Add a 128×128 PNG icon under `icons_vita/` or `icons_psp/` (matching
+   platform), named `NNNN-your-slug.png`.
 3. Open a pull request. CI validates your entry and fails the check if something
    is off, so you get the answer without waiting for a human.
 
@@ -52,8 +55,12 @@ count.
 
 ### Rules worth knowing before you write the file
 
-**`id` is permanent.** It is the catalog's primary key: the app writes it into the
-user's favourites file. Never reuse an id, never renumber an existing entry.
+**`id` is permanent, and only unique within its own platform.** It is the
+catalog's primary key: the app writes it into the user's favourites file.
+Never reuse an id, never renumber an existing entry. `apps/vita/` and
+`apps/psp/` each have their own id space, so a vita entry and a psp entry may
+legitimately share the same number - CI only rejects a collision within the
+same platform.
 
 **`titleid` is exactly 9 uppercase alphanumerics** and must match what your VPK
 actually installs. Two homebrew sharing a title id can only have one installed at
@@ -62,6 +69,33 @@ a time, and the app warns users about it.
 **Nightly builds should not be listed as releases.** The app decides "update
 available" by comparing checksums, so a project that publishes a build every night
 will nag users daily. Keep `prerelease` false and tag real releases.
+
+**`direct_url` pins an entry to one download instead of "latest release +
+`asset` glob".** Useful when a repo publishes several unrelated projects in one
+release (the glob would risk matching a sibling's asset), tags releases in a way
+the normal resolution mishandles, or you deliberately want to freeze on a known-good
+build instead of always tracking latest. Two cases:
+
+- **A `https://github.com/{repo}/releases/download/{tag}/{file}` URL, for this
+  entry's own `repo`.** The build still fetches that exact tagged release to read
+  version/date/changelog/download count - identical fidelity to the normal path,
+  just pinned to `{tag}` instead of "latest". `asset`/`prerelease` are ignored.
+- **Any other URL** (a `raw.githubusercontent.com` link, another repo's asset,
+  a third-party host). There's no release for the build to introspect, so:
+  - `version` becomes a **required, contributor-maintained field** - bump it by
+    hand whenever you update `direct_url`. This is the one field that flips from
+    build-derived to contributor-owned, and only for this case. (It's cosmetic
+    only: the app's actual "outdated" detection compares checksums, not this
+    string, so a stale `version` never causes a functional bug - just a
+    misleading label until you update it.)
+  - `date` is whichever day the build last noticed the file, not the true
+    publish date; `changelog` is always empty; `downloads` stays 0 (untrackable
+    without a release to read a count from).
+
+Either way, `hash`/`hash2`/`size` are still computed for real by downloading and
+inspecting `direct_url` itself, so update detection works exactly like any other
+entry. The app shows a "Direct Download" badge on any entry using `direct_url`,
+in either sub-case.
 
 **Some characters are reserved.** The parser on the console is not a JSON parser:
 it scans for `"key": "` and cuts at the next quote. So `requirements` cannot
@@ -96,8 +130,9 @@ only picks up projects that have since published a usable release.
 
 `tools/build_catalog.py`, on a schedule and on every push:
 
-1. Validates `apps/*.json` against `schema/app.schema.json`, and rejects duplicate
-   ids or icon names.
+1. Validates every `apps/vita/*.json` and `apps/psp/*.json` against
+   `schema/app.schema.json`, and rejects duplicate ids within the same
+   platform or duplicate icon names.
 2. Asks the GitHub API for each project's latest release and picks the asset
    matching `asset`.
 3. Downloads that asset, opens it as a zip, and computes the MD5 of `eboot.bin`.

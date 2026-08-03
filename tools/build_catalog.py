@@ -50,6 +50,7 @@ FIELD_ORDER = [
     "screenshots", "long_description", "downloads", "source", "release_page",
     "trailer", "size", "data_size", "hash", "hash2", "requirements",
     "trophies", "ai", "data", "url", "changelog", "trusted", "folder",
+    "direct",
 ]
 
 # A repo needs more stars than this to be flagged trusted.
@@ -124,6 +125,30 @@ def pick_release(repo: str, allow_prerelease: bool) -> dict | None:
             continue
         return rel
     return None
+
+
+def parse_github_release_asset_url(url: str) -> tuple[str, str, str] | None:
+    """(owner/repo, tag, filename) from a github.com release-asset download
+    URL, or None if it isn't shaped like one (a raw.githubusercontent.com
+    link, a third-party host, ...). A pure string check - no network call -
+    so entry.py's validate() can use it too without hitting the API."""
+    m = re.match(
+        r"^https://github\.com/([A-Za-z0-9._-]+/[A-Za-z0-9._-]+)/releases/download/([^/]+)/([^/]+)$",
+        url,
+    )
+    return (m.group(1), m.group(2), m.group(3)) if m else None
+
+
+def fetch_release_by_tag(repo: str, tag: str) -> dict | None:
+    """The one release an entry's direct_url is pinned to, instead of
+    pick_release()'s "latest". Same shape as a pick_release() result, so
+    everything downstream (asset lookup, date, changelog, download counts)
+    reads it identically."""
+    try:
+        return api_get(f"/repos/{repo}/releases/tags/{tag}")
+    except urllib.error.HTTPError as e:
+        log(f"  ! {repo}: release {tag} unavailable ({e.code})")
+        return None
 
 
 def pick_asset(release: dict, pattern: str) -> dict | None:
@@ -212,7 +237,7 @@ def save_downloads_cache(cache: dict) -> None:
     DOWNLOADS_CACHE_FILE.write_text(json.dumps(cache, indent=2, sort_keys=True) + "\n")
 
 
-def accumulate_downloads(cache: dict, app_id: str, tag: str, release_downloads: int) -> int:
+def accumulate_downloads(cache: dict, cache_key: str, tag: str, release_downloads: int) -> int:
     """Running lifetime total, built up across builds instead of re-summing
     every release's assets every time (which would need one API call per
     release instead of one per app - see the "conteggio dei download" thread).
@@ -230,14 +255,14 @@ def accumulate_downloads(cache: dict, app_id: str, tag: str, release_downloads: 
     before the change, not the exact moment it happened - both acceptable
     given the alternative is paginating every release of every app.
     """
-    prev = cache.get(app_id)
+    prev = cache.get(cache_key)
     if prev is None:
         base_total = 0
     elif prev["tag"] != tag:
         base_total = prev["base_total"] + prev["release_downloads"]
     else:
         base_total = prev["base_total"]
-    cache[app_id] = {"tag": tag, "release_downloads": release_downloads, "base_total": base_total}
+    cache[cache_key] = {"tag": tag, "release_downloads": release_downloads, "base_total": base_total}
     return base_total + release_downloads
 
 
@@ -248,23 +273,37 @@ def validate(entries: list[dict]) -> None:
         log("! jsonschema not installed, skipping validation")
         return
     schema = json.loads(SCHEMA_FILE.read_text())
-    seen_ids, seen_icons = {}, {}
+    # Ids are only unique within their own platform: apps/vita/ and apps/psp/
+    # each have their own id space, so a contributor only ever has to check
+    # their own platform's folder for the next free id, not both.
+    seen_ids = {"vita": {}, "psp": {}}
+    seen_icons = {}
     for path, entry in entries:
         payload = {k: v for k, v in entry.items() if not k.startswith("$")}
         try:
             jsonschema.validate(payload, schema)
         except jsonschema.ValidationError as e:
             raise SystemExit(f"{path.name}: {e.message}")
-        if entry["id"] in seen_ids:
+        platform_ids = seen_ids[entry["platform"]]
+        if entry["id"] in platform_ids:
             raise SystemExit(
-                f"{path.name}: id {entry['id']} already used by {seen_ids[entry['id']]}"
+                f"{path.name}: id {entry['id']} already used by {platform_ids[entry['id']]} (platform {entry['platform']})"
             )
-        seen_ids[entry["id"]] = path.name
+        platform_ids[entry["id"]] = path.name
         if entry["icon"] in seen_icons:
             raise SystemExit(
                 f"{path.name}: icon {entry['icon']} already used by {seen_icons[entry['icon']]}"
             )
         seen_icons[entry["icon"]] = path.name
+        direct_url = entry.get("direct_url")
+        if direct_url:
+            pinned = parse_github_release_asset_url(direct_url)
+            is_pinned_release = bool(pinned) and pinned[0] == entry.get("repo")
+            if not is_pinned_release and not entry.get("version"):
+                raise SystemExit(
+                    f"{path.name}: direct_url doesn't point at one of {entry.get('repo')}'s "
+                    'release assets, so "version" must be set by hand'
+                )
 
 
 def emit_entry(fields: dict, is_psp: bool) -> str:
@@ -304,31 +343,78 @@ def build() -> None:
         repo = entry["repo"]
         log(f"- {entry['id']:04d} {entry['name']} ({repo})")
 
-        release = pick_release(repo, entry.get("prerelease", False))
-        if not release:
-            log("  ! skipped: no usable release")
-            continue
+        direct_url = entry.get("direct_url")
+        pinned = parse_github_release_asset_url(direct_url) if direct_url else None
+        if direct_url and pinned and pinned[0] == repo:
+            # Pinned to one specific tag+asset instead of "latest" - same
+            # fidelity as the normal path below, just a different release
+            # lookup (see validate()'s "is_pinned_release" check).
+            _, tag, filename = pinned
+            release = fetch_release_by_tag(repo, tag)
+            if not release:
+                log("  ! skipped: pinned release/tag not found")
+                continue
+            asset = next((a for a in release.get("assets", []) if a["name"] == filename), None)
+            if not asset:
+                log(f"  ! skipped: pinned asset {filename} not found in release {tag}")
+                continue
+        elif direct_url:
+            # Generic direct_url: some other host, or a github.com release
+            # asset from a repo other than this entry's own - no release
+            # object to introspect at all.
+            release = asset = None
+        else:
+            release = pick_release(repo, entry.get("prerelease", False))
+            if not release:
+                log("  ! skipped: no usable release")
+                continue
 
-        asset = pick_asset(release, entry.get("asset", "*.vpk"))
-        if not asset:
-            log(f"  ! skipped: no asset matching {entry.get('asset', '*.vpk')}")
-            continue
+            asset = pick_asset(release, entry.get("asset", "*.vpk"))
+            if not asset:
+                log(f"  ! skipped: no asset matching {entry.get('asset', '*.vpk')}")
+                continue
 
-        key = f"{repo}@{asset['id']}@{asset['updated_at']}"
+        if asset is not None:
+            key = f"{repo}@{asset['id']}@{asset['updated_at']}"
+            download_url = asset["browser_download_url"]
+            size_bytes = asset["size"]
+        else:
+            key = f"direct:{direct_url}"
+            download_url = direct_url
+            size_bytes = head_size(direct_url)
+
         if key in cache:
             main_hash, aux_hash, folder = cache[key]["hash"], cache[key]["hash2"], cache[key].get("folder", "")
             log("  cached")
         else:
-            log(f"  downloading {asset['name']} ({asset['size']} bytes)")
-            main_hash, aux_hash, folder = checksums(fetch(asset["browser_download_url"]), entry["platform"])
+            log(f"  downloading {download_url} ({size_bytes} bytes)")
+            main_hash, aux_hash, folder = checksums(fetch(download_url), entry["platform"])
             cache[key] = {"hash": main_hash, "hash2": aux_hash, "folder": folder}
 
-        published = release.get("published_at") or release.get("created_at") or ""
-        date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        if release is not None:
+            published = release.get("published_at") or release.get("created_at") or ""
+            date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            release_downloads = sum(a.get("download_count", 0) for a in release.get("assets", []))
+            version = release.get("tag_name", "")
+            changelog = sanitise_changelog(release.get("body") or "")
+            source_url = release.get("html_url", "").rsplit("/releases/", 1)[0]
+            release_page = release.get("html_url", "")
+        else:
+            # Generic direct_url: nothing to introspect, so version is
+            # contributor-maintained (see validate()) and the rest falls
+            # back to best-effort values - documented limitations in README.
+            date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            release_downloads = 0
+            version = entry.get("version", "")
+            changelog = ""
+            source_url = f"https://github.com/{repo}"
+            release_page = ""
 
-        release_downloads = sum(a.get("download_count", 0) for a in release.get("assets", []))
+        # Ids are only unique within a platform (see validate()), so the cache
+        # key needs the platform too or a vita/psp entry sharing a number
+        # would clobber each other's running total.
         lifetime_downloads = accumulate_downloads(
-            downloads_cache, str(entry["id"]), release.get("tag_name", ""), release_downloads
+            downloads_cache, f"{entry['platform']}:{entry['id']}", version, release_downloads
         )
 
         is_psp = entry["platform"] == "psp"
@@ -344,7 +430,7 @@ def build() -> None:
         fields = {
             "name": entry["name"],
             "icon": entry["icon"],
-            "version": release.get("tag_name", ""),
+            "version": version,
             "author": entry["author"],
             "type": str(type_num),
             "id": str(entry["id"]),
@@ -353,10 +439,10 @@ def build() -> None:
             "screenshots": ";".join(entry.get("screenshots", [])),
             "long_description": entry["description"],
             "downloads": str(lifetime_downloads),
-            "source": release.get("html_url", "").rsplit("/releases/", 1)[0],
-            "release_page": release.get("html_url", ""),
+            "source": source_url,
+            "release_page": release_page,
             "trailer": entry.get("trailer", ""),
-            "size": str(asset["size"]),
+            "size": str(size_bytes),
             "data_size": str(head_size(data_url) if data_url else 0),
             "hash": main_hash,
             "hash2": aux_hash,
@@ -364,10 +450,11 @@ def build() -> None:
             "trophies": "1" if entry.get("trophies") else "0",
             "ai": "1" if entry.get("ai") else "0",
             "data": data_url,
-            "url": asset["browser_download_url"],
-            "changelog": sanitise_changelog(release.get("body") or ""),
+            "url": download_url,
+            "changelog": changelog,
             "trusted": "1" if trusted else "0",
             "folder": folder,
+            "direct": "1" if direct_url else "0",
         }
 
         out["psp" if is_psp else "vita"].append(emit_entry(fields, is_psp))

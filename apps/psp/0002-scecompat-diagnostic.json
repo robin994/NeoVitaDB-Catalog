@@ -1,5 +1,5 @@
 {
-  "id": 1453,
+  "id": 2,
   "name": "SceCompat Diagnostic",
   "author": "Sony",
   "category": "utility",
@@ -7,7 +7,7 @@
   "repo": "LiEnby/SceCompat-Diagnostic",
   "asset": "SceCompat-Diagnostic.zip",
   "prerelease": false,
-  "icon": "1453-scecompat-diagnostic.png",
+  "icon": "0002-scecompat-diagnostic.png",
   "description": "PspEmu Dolphin Test Program",
   "requirements": "",
   "screenshots": [],
