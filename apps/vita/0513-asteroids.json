@@ -1,0 +1,18 @@
+{
+  "id": 513,
+  "name": "Asteroids",
+  "author": "KimsoftStudio",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GMSV00001",
+  "repo": "KimsoftStudio/asteroidsvh",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "0513-asteroids.png",
+  "description": "A clone of Asteroids for PSVITA/PSTV made with Game Maker: Studio.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,59 +1,218 @@
 {
-  "BenMcLean/Wolf3D-PSP": {
+  "4brm01/Picture-Poker": {
     "ok": false,
     "reason": "no releases"
   },
-  "CrossCraft/CrossCraft-Classic": {
+  "Aztorius/vita-webradios": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "CallmeBK/VitaBatteryAlarm": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "CrossCraft/CrossCraft-SurvivalTest": {
+  "CaptainDreamcast/DolmexicaInfinite": {
     "ok": false,
-    "reason": "latest release has no .vpk asset"
+    "reason": "no releases"
   },
-  "Crow-bar/xash3d-fwgs": {
+  "Ccoolguy/BitClickerVita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Ccoolguy/SnakeVita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Comet-Games/Worlds-Hardest-Game-Vita": {
     "ok": false,
     "reason": "only prereleases"
   },
-  "DaedalusX64/daedalus": {
+  "Cpasjuste/SDLPoP": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Creckeryop/CookieClicker-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "CrossCraft/CrossCraft-Classic": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "v1.3",
+    "vpks": [
+      "CrossCraft-3DS.zip",
+      "CrossCraft-Linux.zip",
+      "CrossCraft-PSP.zip",
+      "CrossCraft-Vita.zip",
+      "CrossCraft-Windows.zip"
+    ]
+  },
+  "CrossCraft/CrossCraft-SurvivalTest": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "ST4",
+    "vpks": [
+      "CrossCraft-3DS.zip",
+      "CrossCraft-Linux.zip",
+      "CrossCraft-PSP.zip",
+      "CrossCraft-Vita.zip",
+      "CrossCraft-Windows.zip"
+    ]
+  },
+  "D3fau4/Helltaker-switch": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
+  },
+  "D5C85B13876B8/hbb": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Daexxxx/Balatro-Vita": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "v0.13.1",
+    "vpks": [
+      "balatro.patch.zip"
+    ]
+  },
+  "DraxTube/chexquest-vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
   },
   "EasyRPG/Player": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "EmiyaBestBoy/Touhou-Mohofu-PSP-Mod": {
+  "FWGS/xash3d-fwgs": {
     "ok": false,
-    "reason": "latest release has no .vpk asset"
+    "reason": "only prereleases"
   },
-  "Fighter19/Quake3PSP-mirror": {
+  "Fimo4ka/Linne-PSVita-port": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Freakler/vita-Fingerprint": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "GUIDOBOT/milieTetris": {
     "ok": false,
     "reason": "no releases"
   },
-  "IridescentRose/Slender-PSP": {
+  "HarommelRabbid/LifeLua": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "Jormii/BackAway": {
+  "Hydr8gon/NooDS": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "release",
+    "vpks": [
+      "noods-android.zip",
+      "noods-ios.zip",
+      "noods-linux.zip",
+      "noods-mac.zip",
+      "noods-switch.zip",
+      "noods-vita.zip",
+      "noods-wiiu.zip",
+      "noods-windows.zip"
+    ]
+  },
+  "Imroy/VitaBrot": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "JJH47E/snake": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "1.0",
+    "vpks": [
+      "snakeGame_x86.zip"
+    ]
+  },
+  "JoseTomasTocino/freegemas": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "22.02",
+    "vpks": [
+      "freegemas-linux.zip",
+      "freegemas-vita.zip",
+      "freegemas-windows.zip"
+    ]
+  },
+  "KimsoftStudio/asteroidsvh": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "0.1",
+    "vpks": [
+      "Asteroids0.1.zip"
+    ]
+  },
+  "LaGaipaG/vitaAirHockey": {
     "ok": false,
     "reason": "no releases"
   },
-  "KorigamiK/UntitledPSP": {
+  "Lapy055/Save_the_Scene": {
     "ok": false,
-    "reason": "latest release has no .vpk asset"
+    "reason": "no releases"
+  },
+  "LnlyPie/Evie-Vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port": {
+    "ok": false,
+    "reason": "no releases"
   },
   "Mips96/Trogdor-Reburninated": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "v2.4",
+    "vpks": [
+      "Trogdor-Reburninated-v2.4-3ds-cia.zip",
+      "Trogdor-Reburninated-v2.4-3ds.zip",
+      "Trogdor-Reburninated-v2.4-gamecube.zip",
+      "Trogdor-Reburninated-v2.4-linux.zip",
+      "Trogdor-Reburninated-v2.4-psp.zip",
+      "Trogdor-Reburninated-v2.4-switch.zip",
+      "Trogdor-Reburninated-v2.4-vita.zip",
+      "Trogdor-Reburninated-v2.4-wii.zip",
+      "Trogdor-Reburninated-v2.4-wiiu.zip",
+      "Trogdor-Reburninated-v2.4-x64.zip",
+      "Trogdor-Reburninated-v2.4-x86.zip"
+    ]
+  },
+  "MyLegGuy/Higurashi-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "MyLegGuy/MangaDownloader-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "NamelessGhoul0/VitaScreenFlasher": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "NamelessGhoul0/VitaTester": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "NandXor96/gravity_hunters_vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "OsirizX/REDRIVER2": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "Princess-of-Sleeping/Crash-Dump-Delete": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "RetroGamer74/Kill-em-All": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
-  },
-  "MrJPGames/PSP-2048-Lua-Port": {
-    "ok": false,
-    "reason": "no releases"
-  },
-  "PSP-Archive/Stella": {
-    "ok": false,
-    "reason": "no releases"
   },
   "Rinnegatamante/AbbayeDesMorts-Vita": {
     "ok": false,
@@ -315,83 +474,354 @@
     "ok": false,
     "reason": "no releases"
   },
-  "SJRNoodles/AgarioPSP": {
+  "SKGleba/IMCUnlockLite": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "TheMrIron2/DeSmuME-PSP": {
+  "SKGleba/VitaTools": {
     "ok": false,
     "reason": "no releases"
   },
-  "WagicProject/wagic": {
+  "SemvdH/cybershot-PSVita": {
     "ok": false,
-    "reason": "latest release has no .vpk asset"
+    "reason": "only prereleases"
   },
-  "aggressivepixels/ccleste": {
+  "Serph/PlumbersDontWearTies-SDL-vita": {
     "ok": false,
-    "reason": "latest release has no .vpk asset"
+    "reason": "no releases"
   },
-  "bomblik/BlockOut_II_PSP": {
+  "ShadowPrince/advremap": {
     "ok": false,
-    "reason": "latest release has no .vpk asset"
+    "reason": "only prereleases"
   },
-  "bomblik/GNU_Robbo_PSVITA_PSP": {
+  "SpanishFreddy/Cut-The-Rope-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "SpanishFreddy/SanicBall-PSVita-Port": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "SpanishFreddy/Slither.io-Vita": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "SpanishFreddy/Sunshine-Cat-PSVita-Port": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Tearff/shiromino": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "TheXTech/TheXTech": {
+    "ext": ".zip",
     "ok": true,
-    "tag": "GNU_Robbo_0.68_PSVITA",
+    "tag": "v1.3.7.3-1",
     "vpks": [
-      "gnurobbo_0.68.vpk"
+      "moondust-devkit-config-pack-thextech-sdk-v1.3.7.3.zip",
+      "thextech-3ds-assets-aod-v1.3.7.3.zip",
+      "thextech-3ds-assets-smbx13-v1.3.7.3.zip",
+      "thextech-3ds-v1.3.7.3.zip",
+      "thextech-convert-kit-v1.3.7.3.zip",
+      "thextech-full-src-v1.3.7.3.zip",
+      "thextech-game-template-v1.3.7.3-macOS.zip",
+      "thextech-sdl2-src-for-wii-v1.3.7.3.zip",
+      "thextech-sdl2-wiiu-v1.3.7.3.zip",
+      "thextech-switch-v1.3.7.3.zip",
+      "thextech-vita-v1.3.7.3.zip",
+      "thextech-wii-assets-aod-v1.3.7.3.zip",
+      "thextech-wii-assets-smbx13-v1.3.7.3.zip",
+      "thextech-wii-v1.3.7.3.zip",
+      "thextech-wiiu-v1.3.7.3.zip",
+      "thextech-wiki-docs-v1.3.7.3.zip"
     ]
   },
-  "bucanero/apollo-psp": {
+  "VMHoss/Innyume-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "VitaHEX-Games/Consolepedia-3D": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "darkduke606/Insomnia-ProQuake-Engine": {
+  "Voxel9/Stem-Loader": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "Voxel9/VitaDL": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "ammeir/hurrican": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "v0.9",
+    "vpks": [
+      "hurrican_v09.zip"
+    ]
+  },
+  "ammeir/worminator": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "v1.0",
+    "vpks": [
+      "worminator_v10.zip"
+    ]
+  },
+  "c0nduitra1n/QuantimmumChess": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "cnsldv/MediaImporter": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "cpasjuste/pfba": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "domis4/lua-gameoflife": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "eleriaqueen/luaVitaSeccy": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "elliencode/actionsquad-psv-internal": {
     "ok": false,
     "reason": "no releases"
   },
-  "gamblore/gambleftp": {
+  "erfg12/SharkShark": {
     "ok": false,
     "reason": "no releases"
   },
-  "gtzampanakis/bookr": {
+  "fgsfdsfgs/UE1": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "ci-dev-build",
+    "vpks": [
+      "unreal-arm-psvita-gcc.zip",
+      "unreal-i686-windows-gcc.zip",
+      "unreal-i686-windows-msvc.zip"
+    ]
+  },
+  "fgsfdsfgs/chocolate-doom": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "fgsfdsfgs/prboom-plus": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "fgsfdsfgs/vitaXash3D": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "mpfix",
+    "vpks": [
+      "vitaXash3D-mpfix.zip"
+    ]
+  },
+  "frangarcj/geometrizer": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "gl00mm/Blasphemous_PSVITA": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "Blasphemous_PSVITA-beta.1",
+    "vpks": [
+      "BlasphemousVitaSTEAM.zip"
+    ]
+  },
+  "gm666q/lswtcs-vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "gokuhs/devilutionX": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "goodgamesipromise/HappyLand": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "huckleberrypie/IsabelleDanceStudio": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "joel16/CMFileManager-PSP": {
+  "ihhub/fheroes2": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "1.1.17",
+    "vpks": [
+      "fheroes2_android.zip",
+      "fheroes2_macos_x86-64_SDL2.zip",
+      "fheroes2_psv.zip",
+      "fheroes2_switch.zip",
+      "fheroes2_ubuntu_arm64_SDL2.zip",
+      "fheroes2_ubuntu_x86-64_SDL2.zip",
+      "fheroes2_windows_x64_SDL2.zip",
+      "fheroes2_windows_x86_SDL2.zip"
+    ]
+  },
+  "joel16/VITAforecast": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "kevinbchen/cspsp": {
-    "ok": false,
-    "reason": "latest release has no .vpk asset"
-  },
-  "libcg/neverball-svn-psp": {
+  "joshaxey/textquest": {
     "ok": false,
     "reason": "no releases"
   },
-  "libretro/RetroArch": {
+  "jtothebell/fake-08": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "libretro/retroarch": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "mafu9/PSPMania": {
+  "lp1dev/vita_virtualkeyboard": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "m-bartlett/vita-tetris": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "masterfeizz/DeSmuME-Vita": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "mcallbosco/pacman-cedx-vita": {
     "ok": false,
     "reason": "no releases"
+  },
+  "mcallbosco/super-hexagon-vita": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "mgba-emu/mgba": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
   },
   "nzp-team/nzportable": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "nightly",
+    "vpks": [
+      "nzportable-3ds.zip",
+      "nzportable-linux32.zip",
+      "nzportable-linux64.zip",
+      "nzportable-linuxarm64.zip",
+      "nzportable-linuxarmhf.zip",
+      "nzportable-nspire.zip",
+      "nzportable-psp.zip",
+      "nzportable-switch.zip",
+      "nzportable-vita.zip",
+      "nzportable-win32.zip",
+      "nzportable-win64.zip"
+    ]
+  },
+  "scummvm/scummvm": {
     "ok": false,
     "reason": "latest release has no .vpk asset"
   },
-  "psjuan97/Stardust-Celeste": {
+  "sharkwouter/oceanpop": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "2.0",
+    "vpks": [
+      "oceanpop-linux.zip",
+      "oceanpop-psp.zip",
+      "oceanpop-vita.zip",
+      "oceanpop-wii.zip",
+      "oceanpop-windows.zip"
+    ]
+  },
+  "softwaregremlin/Attack-of-the-Lettuce-Munching-Caterpillars": {
     "ok": false,
     "reason": "no releases"
   },
-  "stacksta/cannonball-psp": {
+  "svennd/vita-chain": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "svennd/vita-tetromino": {
+    "ok": false,
+    "reason": "only prereleases"
+  },
+  "theorywrong/ps4relink": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "thesuicidalrobot/Galactic-Federation": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "tomtomdu80/VitaRW": {
     "ok": false,
     "reason": "no releases"
   },
-  "weetabix-su/ikezawa": {
+  "usineur/Zelda3T": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "usineur/ZeldaNSQ": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "usineur/ZeldaROTH": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "usineur/bermuda": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "usineur/f2bgl": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "usineur/hota": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "usineur/sdlpal": {
+    "ok": false,
+    "reason": "latest release has no .vpk asset"
+  },
+  "withLogic/fire-and-fondness-2": {
     "ok": false,
     "reason": "no releases"
+  },
+  "withLogic/fire-and-fondness-ee": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "withLogic/starcatcher": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "xCorra/SwitchtoPSTV": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
+  },
+  "xamthor/Tema": {
+    "ok": false,
+    "reason": "no releases"
+  },
+  "yoyz/picoloop": {
+    "ext": ".zip",
+    "ok": true,
+    "tag": "picoloop-0.77b",
+    "vpks": [
+      "picoloop-20170421-0.77b-pc.zip"
+    ]
+  },
+  "yukkurisinai/vita-flappybird": {
+    "ok": false,
+    "reason": "repo unreachable (HTTP 404)"
   }
 }

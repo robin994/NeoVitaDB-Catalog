@@ -1,0 +1,18 @@
+{
+  "id": 850,
+  "name": "CrossCraft SurvivalTest",
+  "author": "Iridescence & MotoLegacy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CCST00100",
+  "repo": "CrossCraft/CrossCraft-SurvivalTest",
+  "asset": "CrossCraft-Vita*.zip",
+  "prerelease": false,
+  "icon": "0850-crosscraft-survivaltest.png",
+  "description": "CrossCraft-SurvivalTest is a project that aims to implement Minecraft Java Edition: Classic Survival Test. It is not a clone. CrossCraft does not use any of the source code of the original game, nor do the developers have any knowledge of the source code. CrossCraft does not use the original copyrighted assets. All knowledge is figured out with documentation and observation of in-game mechanics.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

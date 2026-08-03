@@ -148,6 +148,16 @@
     "hash": "c50990a1841d06dcf42b09af6b17bbbf",
     "hash2": "c17c9edbd087abb08287dcc762ed762e"
   },
+  "CrossCraft/CrossCraft-Classic@86643744@2022-12-01T15:42:06Z": {
+    "folder": "",
+    "hash": "",
+    "hash2": ""
+  },
+  "CrossCraft/CrossCraft-SurvivalTest@86689895@2022-12-02T00:27:24Z": {
+    "folder": "",
+    "hash": "856eb2b28277f876cd4dc9d51994b81a",
+    "hash2": ""
+  },
   "DRok17/Log-Reset-for-YYL@65134885@2022-05-11T05:13:58Z": {
     "hash": "49e0f7f07ba8b19da4449d1d73052362",
     "hash2": "7d35179f79362f27985515db8f8f3209"
@@ -155,6 +165,11 @@
   "DRok17/QuickLaunch-Installer@46722064@2021-10-11T17:19:24Z": {
     "hash": "6cea84b6e906e5a228c3ebc563f88be4",
     "hash2": "ff1bb5ccbe99439b144493c2477302cb"
+  },
+  "Daexxxx/Balatro-Vita@336212774@2026-01-04T17:05:58Z": {
+    "folder": "",
+    "hash": "",
+    "hash2": ""
   },
   "Dane64/ConnectFour@20375530@2020-05-03T14:16:47Z": {
     "hash": "4e7b8070b315582840dcab14a2c9ca01",
@@ -296,6 +311,11 @@
     "hash": "34b00dba3c916476167f86fba8b87462",
     "hash2": "93f13cf99646aafccb6f7a37ebf6034a"
   },
+  "Hydr8gon/NooDS@500487395@2026-08-03T20:09:27Z": {
+    "folder": "",
+    "hash": "",
+    "hash2": ""
+  },
   "Ibrahim778/BetterHomebrewBrowser@240020713@2025-03-23T12:05:35Z": {
     "hash": "7a7f816d7d2da02131e50b359fdf39c3",
     "hash2": ""
@@ -312,8 +332,18 @@
     "hash": "1df70ddaff3f267f2bb7460993c42de8",
     "hash2": ""
   },
+  "JJH47E/snake@24158734@2020-08-21T13:34:20Z": {
+    "folder": "",
+    "hash": "",
+    "hash2": ""
+  },
   "JeffRuLz/OpenHCL@125221044@2023-09-09T01:45:34Z": {
     "hash": "e5d4f9e52e89db5953a9f097bef14f97",
+    "hash2": ""
+  },
+  "JoseTomasTocino/freegemas@56949536@2022-02-15T21:58:33Z": {
+    "folder": "",
+    "hash": "8ff5b439038d2c63814b59c77fa066b7",
     "hash2": ""
   },
   "Jyotiraditya-Samal/Vitawave@383947567@2026-03-29T08:46:09Z": {
@@ -323,6 +353,11 @@
   "Keriew/augustus@142766261@2023-12-28T13:27:19Z": {
     "hash": "e198f2d49f61a5a291a751da8043deef",
     "hash2": ""
+  },
+  "KimsoftStudio/asteroidsvh@15771363@2019-10-28T03:10:42Z": {
+    "folder": "",
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "db75909cf1589812a474b2200e8c0e0b"
   },
   "Kirezar/EasySwitchVita@8359161@2018-08-23T03:00:39Z": {
     "hash": "a5eae15dac8e5a8da0e279b813294986",
@@ -400,6 +435,11 @@
   },
   "McCallum99/PSVitaRebootShutdown@12714634@2019-05-17T22:40:37Z": {
     "hash": "b3eda8c54f16625e14122d2de762101c",
+    "hash2": ""
+  },
+  "Mips96/Trogdor-Reburninated@422561493@2026-05-17T15:13:37Z": {
+    "folder": "",
+    "hash": "",
     "hash2": ""
   },
   "Mode8fx/SuDokuL@416374470@2026-05-10T02:40:26Z": {
@@ -1083,6 +1123,11 @@
     "hash": "63f155429d521515046e1127ad158423",
     "hash2": ""
   },
+  "TheXTech/TheXTech@454940119@2026-06-22T20:43:34Z": {
+    "folder": "",
+    "hash": "",
+    "hash2": ""
+  },
   "VegettoSan/Halo2D_PsVita@182186106@2024-07-27T11:25:45Z": {
     "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
     "hash2": "6d44e1d107fd8704d5b29f9bb67841bc"
@@ -1159,8 +1204,18 @@
     "hash": "3333846b67ff62c18a9bb1349884e929",
     "hash2": "770ce799ccc462f304170df24a3454bf"
   },
+  "ammeir/hurrican@32086009@2021-02-15T07:20:08Z": {
+    "folder": "",
+    "hash": "6d7b70362119702c032b7abadc868982",
+    "hash2": ""
+  },
   "ammeir/vicevita@29776079@2020-12-19T09:26:42Z": {
     "hash": "1cab1ea9d5679ff0e87fe03d28c7cfd2",
+    "hash2": ""
+  },
+  "ammeir/worminator@36656713@2021-05-08T18:37:45Z": {
+    "folder": "",
+    "hash": "590bd9f6057844cf854b62d17840e11a",
     "hash2": ""
   },
   "anas-halid/HYPERFIGHT-VITA@106037319@2023-04-30T11:07:54Z": {
@@ -1320,8 +1375,18 @@
     "hash": "d29d817df1dbc6eea1b22e5e74ae5e8f",
     "hash2": ""
   },
+  "fgsfdsfgs/UE1@495650319@2026-07-30T17:23:03Z": {
+    "folder": "",
+    "hash": "ad2e3fe323765d399c33124b16cb6402",
+    "hash2": ""
+  },
   "fgsfdsfgs/max_vita@32220728@2021-02-17T20:40:02Z": {
     "hash": "05aaabc9e03134ffb668276df9da110c",
+    "hash2": ""
+  },
+  "fgsfdsfgs/vitaXash3D@8094932@2018-08-01T19:41:07Z": {
+    "folder": "",
+    "hash": "f148a3d42d36576125333378c35cfab6",
     "hash2": ""
   },
   "frangarcj/Genesis-Plus-GX@2064618@2016-07-29T07:29:01Z": {
@@ -1350,6 +1415,11 @@
   },
   "frangarcj/ff5_vita@46535331@2021-10-08T16:58:29Z": {
     "hash": "6ba59d264965bf32651826511e41081b",
+    "hash2": ""
+  },
+  "gl00mm/Blasphemous_PSVITA@173217216@2024-06-11T20:46:22Z": {
+    "folder": "",
+    "hash": "",
     "hash2": ""
   },
   "gl00mm/Inscryption_PSVITA@294756277@2025-09-18T19:12:17Z": {
@@ -1426,6 +1496,11 @@
   },
   "ibrahim-dogan/vita-screen-test@339176349@2026-01-11T21:06:09Z": {
     "hash": "1e99cff8d494d53ab67bf784769a6a25",
+    "hash2": ""
+  },
+  "ihhub/fheroes2@462232748@2026-06-30T14:33:05Z": {
+    "folder": "",
+    "hash": "ea3255336e703b6e4b9f5eacea0f3cc7",
     "hash2": ""
   },
   "island-games/A-Super-Small-Shmup@50807228@2021-12-02T07:40:37Z": {
@@ -1657,6 +1732,11 @@
     "hash": "3f37c4ac3b3194282ede90d50f9b6641",
     "hash2": ""
   },
+  "nzp-team/nzportable@499943378@2026-08-03T10:50:56Z": {
+    "folder": "",
+    "hash": "",
+    "hash2": ""
+  },
   "oestriot/GcToolKit@462947512@2026-07-01T07:21:09Z": {
     "hash": "59d1ca63addc6800e0fdf0f463dcb7fd",
     "hash2": ""
@@ -1760,6 +1840,11 @@
   },
   "sergiou87/open-supaplex@385108695@2026-03-30T23:07:07Z": {
     "hash": "4a876813d75594bee73efab2f2ef151e",
+    "hash2": ""
+  },
+  "sharkwouter/oceanpop@214698744@2024-12-20T12:00:43Z": {
+    "folder": "",
+    "hash": "",
     "hash2": ""
   },
   "sharkwouter/panel-pop@29482300@2020-12-12T21:47:35Z": {
@@ -1977,6 +2062,11 @@
   },
   "xyzz/vita-moonlight@316958250@2025-11-16T03:17:33Z": {
     "hash": "0afb9537c114dc3f60d35b5a8faec58f",
+    "hash2": ""
+  },
+  "yoyz/picoloop@3706464@2017-04-21T08:31:45Z": {
+    "folder": "",
+    "hash": "",
     "hash2": ""
   },
   "ywnico/bugdom-vita@233401353@2025-02-28T15:50:56Z": {

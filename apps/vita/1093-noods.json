@@ -1,0 +1,18 @@
+{
+  "id": 1093,
+  "name": "NooDS",
+  "author": "Hydr8gon",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "NOODSVITA",
+  "repo": "Hydr8gon/NooDS",
+  "asset": "noods-ios*.zip",
+  "prerelease": false,
+  "icon": "1093-noods.png",
+  "description": "NooDS aims to be a fast and portable Nintendo DS emulator. It's not quite there speed-wise, but it offers most other features that you might expect from a DS emulator. It even supports GBA backwards compatibility!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 664,
+  "name": "Worminator 3",
+  "author": "ammeir",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MEIR00004",
+  "repo": "ammeir/worminator",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "0664-worminator-3.png",
+  "description": "Worminator 3 is a sidescrolling action platformer game where you play as The Worminator and fight your way through many levels of madness and mayhem. It features huge levels, two episodes, nine unique weapons, Matrix-style \"bullet time',  hidden locations, multiple difficulties, several other optional characters and many cheats that influence gameplay.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

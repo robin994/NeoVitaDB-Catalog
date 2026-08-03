@@ -1,0 +1,18 @@
+{
+  "id": 1242,
+  "name": "Unreal Vita",
+  "author": "fgsfds",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "UNRL00001",
+  "repo": "fgsfdsfgs/UE1",
+  "asset": "unreal-arm-psvita-gcc*.zip",
+  "prerelease": false,
+  "icon": "1242-unreal-vita.png",
+  "description": "Port of Unreal for PSVita based on the reconstructed sourcecode of the Unreal Engine 1 v200.\nUnreal is a first-person shooter video game developed by Epic MegaGames and Digital Extremes and published by GT Interactive for Microsoft Windows in May 1998.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

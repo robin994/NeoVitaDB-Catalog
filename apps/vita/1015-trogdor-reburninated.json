@@ -1,0 +1,18 @@
+{
+  "id": 1015,
+  "name": "Trogdor: Reburninated",
+  "author": "Mode8fx",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TROG73287",
+  "repo": "Mips96/Trogdor-Reburninated",
+  "asset": "Trogdor-Reburninated-v2.4-3ds.zip",
+  "prerelease": false,
+  "icon": "1015-trogdor-reburninated.png",
+  "description": "An enhanced recreation of the Homestar Runner Flash game Trogdor, expanded with new features.\n- New Options menu to customize your game\n- Level select\n- New cheats\n- Optional soundtrack from Stinkoman 20X6, another Homestar Runner game\n- Multiple screen scaling options\n- Bugs from the original game have been fixed",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

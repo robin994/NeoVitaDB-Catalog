@@ -1,0 +1,18 @@
+{
+  "id": 1209,
+  "name": "Blasphemous Vita",
+  "author": "gl00mm",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BLPM12345",
+  "repo": "gl00mm/Blasphemous_PSVITA",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "1209-blasphemous-vita.png",
+  "description": "Port of Blasphemous for PSVITA.\nBlasphemous is a punishing action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core, delivered through exploration of a huge universe comprised of non-linear levels.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

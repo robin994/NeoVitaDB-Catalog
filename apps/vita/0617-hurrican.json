@@ -1,0 +1,18 @@
+{
+  "id": 617,
+  "name": "Hurrican",
+  "author": "ammeir",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MEIR00003",
+  "repo": "ammeir/hurrican",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "0617-hurrican.png",
+  "description": "Hurrican is a freeware jump and shoot game created by Poke53280 that is based on the Turrican game series. Blast your way through nine action-packed levels filled with different enemies and powerups.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
