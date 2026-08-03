@@ -1,0 +1,18 @@
+{
+  "id": 1452,
+  "name": "LEGO Island",
+  "author": "isledecomp",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LEGO00001",
+  "repo": "isledecomp/isle-portable",
+  "asset": "isle.vpk",
+  "prerelease": false,
+  "icon": "1452-isle.png",
+  "description": "Port of LEGO Island to PlayStation Vita",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
