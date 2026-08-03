@@ -327,6 +327,11 @@
     "hash": "6f43f1da486da60bf2548f41cc0868ec",
     "hash2": "1f3069bcbba63704fecb07ad7774117d"
   },
+  "LiEnby/SceCompat-Diagnostic@206355230@2024-11-14T01:43:25Z": {
+    "folder": "PSP/GAME/SIMP01042",
+    "hash": "5c41abdf50bad7b311f91891df654bad",
+    "hash2": ""
+  },
   "LiEnby/WheelOfTheYearGM@23209511@2020-07-24T14:22:45Z": {
     "folder": "",
     "hash": "0c91c430c618744af1f84c6e84f68c93",
@@ -1426,6 +1431,11 @@
   },
   "island-games/slime-vball@76844760@2022-09-04T16:11:58Z": {
     "hash": "41618d76e598268018ee9a6363e0a2d0",
+    "hash2": ""
+  },
+  "isledecomp/isle-portable@497130114@2026-07-31T20:15:53Z": {
+    "folder": "",
+    "hash": "152913447a610b0699190a44f00530fa",
     "hash2": ""
   },
   "jakubito/DoomRPG-RE-vita@155581871@2024-03-08T08:25:44Z": {

@@ -4,17 +4,14 @@
   "author": "Sony",
   "category": "utility",
   "platform": "psp",
-
   "repo": "LiEnby/SceCompat-Diagnostic",
   "asset": "SceCompat-Diagnostic.zip",
   "prerelease": false,
-
   "icon": "1453-scecompat-diagnostic.png",
-
   "description": "PspEmu Dolphin Test Program",
   "requirements": "",
-
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }
