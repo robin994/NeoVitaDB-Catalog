@@ -5,7 +5,7 @@
   "description": "One homebrew entry. Contributors write this file; the build workflow resolves the rest (version, date, size, download count, checksums, download URL) from the GitHub release.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "name", "author", "category", "platform", "repo", "icon", "description"],
+  "required": ["id", "name", "author", "category", "platform", "icon", "description"],
 
   "properties": {
     "id": {
@@ -46,7 +46,7 @@
     },
 
     "repo": {
-      "description": "GitHub repository holding the releases, as owner/name.",
+      "description": "GitHub repository holding the releases, as owner/name. Required unless direct_url is set - an entry hosted entirely outside GitHub (its own server, a non-GitHub git forge, ...) has no repo to name, and skipping it also skips the GitHub-specific trust/version-resolution logic that assumes one.",
       "type": "string",
       "pattern": "^[A-Za-z0-9._-]+/[A-Za-z0-9._-]+$"
     },
@@ -65,7 +65,7 @@
     },
 
     "direct_url": {
-      "description": "Pins the entry to one specific download URL instead of resolving repo's latest release + asset glob. If it's a https://github.com/{repo}/releases/download/{tag}/{file} URL for this entry's own repo, the build still fetches that tag's release for version/date/changelog/downloads (just pinned instead of latest) - everything works as normal. Otherwise (a raw.githubusercontent.com link, another repo's asset, ...) there's no release to introspect, so 'version' becomes a required, contributor-maintained field instead of build-derived, and date/changelog/downloads fall back to best-effort values. See README.",
+      "description": "Pins the entry to one specific download URL instead of resolving repo's latest release + asset glob. If it's a https://github.com/{repo}/releases/download/{tag}/{file} URL for this entry's own repo, the build still fetches that tag's release for version/date/changelog/downloads (just pinned instead of latest) - everything works as normal. Otherwise (a raw.githubusercontent.com link, another repo's asset, a non-GitHub host entirely, ...) there's no release to introspect, so 'version' becomes a required, contributor-maintained field instead of build-derived, and date/changelog/downloads fall back to best-effort values. A homebrew with no GitHub repo at all can also just omit 'repo' - 'source' then links to this URL's own host instead of a GitHub page. See README.",
       "type": "string",
       "format": "uri",
       "maxLength": 300
@@ -136,6 +136,10 @@
     {
       "if": { "properties": { "platform": { "const": "vita" } }, "required": ["platform"] },
       "then": { "required": ["titleid"] }
+    },
+    {
+      "if": { "not": { "required": ["direct_url"] } },
+      "then": { "required": ["repo"] }
     }
   ]
 }

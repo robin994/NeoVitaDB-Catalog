@@ -22,7 +22,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Full history, not the default shallow clone: build_catalog.py derives
+      # each entry's "added" date from git log (first commit touching its
+      # apps/*.json), which needs the actual commit history to walk.
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:

@@ -21,8 +21,10 @@ import io
 import json
 import os
 import re
+import subprocess
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 import zipfile
 from datetime import datetime, timezone
@@ -50,7 +52,7 @@ FIELD_ORDER = [
     "screenshots", "long_description", "downloads", "source", "release_page",
     "trailer", "size", "data_size", "hash", "hash2", "requirements",
     "trophies", "ai", "data", "url", "changelog", "trusted", "folder",
-    "direct",
+    "direct", "added",
 ]
 
 # A repo needs more stars than this to be flagged trusted.
@@ -231,6 +233,25 @@ def checksums(vpk_bytes: bytes, platform: str = "vita") -> tuple[str, str, str]:
     return main_hash, aux_hash, ""
 
 
+def added_date(path: Path) -> str:
+    """When this entry's source file was first added to the catalog - not
+    the underlying homebrew's own release date, which is what "date" already
+    tracks. Used for the "Recently Added" sort, so users can find what's new
+    in the catalog itself independent of how old the software is."""
+    try:
+        out = subprocess.run(
+            ["git", "log", "--follow", "--diff-filter=A", "--format=%aI", "--", str(path)],
+            cwd=ROOT, capture_output=True, text=True, check=True,
+        ).stdout.strip()
+    except (OSError, subprocess.CalledProcessError):
+        out = ""
+    # Oldest commit touching this path is the last line; a shallow clone or a
+    # file not yet committed (local testing) leaves this empty - fall back to
+    # today rather than sorting it as if it were the oldest thing around.
+    first_commit = out.splitlines()[-1] if out else ""
+    return first_commit[:10] if first_commit else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
 def load_cache() -> dict:
     if CACHE_FILE.exists():
         return json.loads(CACHE_FILE.read_text())
@@ -316,8 +337,9 @@ def validate(entries: list[dict]) -> None:
             pinned = parse_github_release_asset_url(direct_url)
             is_pinned_release = bool(pinned) and pinned[0] == entry.get("repo")
             if not is_pinned_release and not entry.get("version"):
+                repo_desc = f"{entry['repo']}'s" if entry.get("repo") else "this entry's"
                 raise SystemExit(
-                    f"{path.name}: direct_url doesn't point at one of {entry.get('repo')}'s "
+                    f"{path.name}: direct_url doesn't point at one of {repo_desc} "
                     'release assets, so "version" must be set by hand'
                 )
 
@@ -356,8 +378,8 @@ def build() -> None:
     icons = []
 
     for path, entry in entries:
-        repo = entry["repo"]
-        log(f"- {entry['id']:04d} {entry['name']} ({repo})")
+        repo = entry.get("repo", "")
+        log(f"- {entry['id']:04d} {entry['name']} ({repo or 'no repo, external host'})")
 
         direct_url = entry.get("direct_url")
         pinned = parse_github_release_asset_url(direct_url) if direct_url else None
@@ -424,7 +446,15 @@ def build() -> None:
             release_downloads = 0
             version = entry.get("version", "")
             changelog = ""
-            source_url = f"https://github.com/{repo}"
+            # repo is only a real GitHub "owner/name" when the entry actually
+            # has one - an external host (no repo at all) has no github.com
+            # page to link, so fall back to the direct_url's own origin
+            # rather than publishing a source link that goes nowhere real.
+            if repo:
+                source_url = f"https://github.com/{repo}"
+            else:
+                parsed = urllib.parse.urlparse(direct_url)
+                source_url = f"{parsed.scheme}://{parsed.netloc}"
             release_page = ""
             # This asset isn't served from GitHub's own release infrastructure
             # (unlike the pinned-release direct_url case above), so warn users
@@ -446,7 +476,10 @@ def build() -> None:
         type_num = categories[entry["category"]] + (10 if is_psp else 0)
 
         data_url = entry.get("data", "")
-        trusted = repo_stars(repo) > TRUSTED_STARS
+        # No GitHub repo means no stars to check - an external host has no
+        # equivalent signal, so it just starts untrusted rather than paying
+        # for an API call that would 404 anyway.
+        trusted = repo_stars(repo) > TRUSTED_STARS if repo else False
         if "trusted" not in entry or entry["trusted"] != trusted:
             entry["trusted"] = trusted
             path.write_text(json.dumps(entry, indent=2, ensure_ascii=False) + "\n")
@@ -480,6 +513,7 @@ def build() -> None:
             "trusted": "1" if trusted else "0",
             "folder": folder,
             "direct": "1" if direct_url else "0",
+            "added": added_date(path),
         }
 
         out["psp" if is_psp else "vita"].append(emit_entry(fields, is_psp))
