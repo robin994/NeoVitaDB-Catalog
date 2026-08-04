@@ -36,6 +36,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python tools/build_catalog.py
 
+      - name: Stage website
+        run: |
+          cp site/index.html dist/index.html
+          cp site/developers.html dist/developers.html
+          cp site/style.css dist/style.css
+          cp site/script.js dist/script.js
+
       - name: Stage icons alongside the catalog
         # icons_vita/ publishes to dist/icons/ (unchanged path, kept exactly
         # where already-published clients expect vita icons); icons_psp/ gets

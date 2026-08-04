@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NeoVitaDB — Developers</title>
+  <meta name="description" content="Learn how to add a PS Vita or PSP homebrew project to the NeoVitaDB catalog." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wavefield" aria-hidden="true">
+    <div class="wave wave-a"></div>
+    <div class="wave wave-b"></div>
+    <div class="wave wave-c"></div>
+  </div>
+
+  <header class="xmb-bar" data-testid="developers-header">
+    <a class="xmb-brand brand-link" href="index.html" aria-label="Back to NeoVitaDB catalog">
+      <svg viewBox="0 0 64 64" class="brand-glyph" aria-hidden="true">
+        <path class="g-triangle" d="M32 10 L50 42 L14 42 Z" />
+        <circle class="g-circle" cx="46" cy="46" r="9" />
+        <path class="g-cross" d="M12 38 L28 54 M28 38 L12 54" stroke-width="4" stroke-linecap="round" />
+        <rect class="g-square" x="4" y="6" width="16" height="16" rx="2" />
+      </svg>
+      <div class="brand-text">
+        <h1>NeoVita<span>DB</span></h1>
+        <p class="tagline">developer guide</p>
+      </div>
+    </a>
+    <a class="developer-link" href="index.html" data-testid="catalog-link">&lt; Back to catalog</a>
+  </header>
+
+  <main class="developer-page" aria-labelledby="developer-guide-title">
+    <section class="developer-hero">
+      <div class="guide-mark" aria-hidden="true">&lt;/&gt;</div>
+      <div>
+        <p class="eyebrow">For developers</p>
+        <h2 id="developer-guide-title">Add your homebrew to NeoVitaDB</h2>
+        <p>Share your PS Vita or PSP project with the community. The catalog stores your project details and CI resolves release information automatically.</p>
+      </div>
+    </section>
+
+    <section class="developer-content">
+      <div class="developer-column">
+        <div class="developer-step">
+          <span class="step-number">01</span>
+          <div><h3>Create an entry</h3><p>Copy the platform template and save it under <code>apps/vita/</code> or <code>apps/psp/</code> using the next available id.</p></div>
+        </div>
+        <div class="developer-step">
+          <span class="step-number">02</span>
+          <div><h3>Add your icon</h3><p>Place a matching 128x128 PNG in <code>icons_vita/</code> or <code>icons_psp/</code>. Use the same filename as the entry slug.</p></div>
+        </div>
+        <div class="developer-step">
+          <span class="step-number">03</span>
+          <div><h3>Open a pull request</h3><p>Describe the project, link its GitHub repository, and let CI validate the metadata before it is published.</p></div>
+        </div>
+        <a class="guide-cta" href="https://github.com/robin994/NeoVitaDB-Catalog#adding-your-homebrew" target="_blank" rel="noopener">Read the full contribution guide <span aria-hidden="true">-&gt;</span></a>
+      </div>
+
+      <div class="developer-column">
+        <div class="developer-panel">
+          <p class="eyebrow">Entry example</p>
+          <pre class="guide-code" aria-label="Example homebrew entry"><code>{
+  <span>"id"</span>: <strong>42</strong>,
+  <span>"name"</span>: <em>"My Homebrew"</em>,
+  <span>"author"</span>: <em>"Your Name"</em>,
+  <span>"category"</span>: <em>"game"</em>,
+  <span>"platform"</span>: <em>"vita"</em>,
+  <span>"titleid"</span>: <em>"MYHB00001"</em>,
+  <span>"repo"</span>: <em>"youruser/your-repo"</em>,
+  <span>"asset"</span>: <em>"*.vpk"</em>,
+  <span>"icon"</span>: <em>"0042-my-homebrew.png"</em>,
+  <span>"description"</span>: <em>"What it does."</em>
+}</code></pre>
+        </div>
+        <div class="developer-note"><strong>Keep in mind</strong><p>Version, release date, size, download count, checksums, and download URL are filled from your latest GitHub release. The <code>trusted</code> flag is recalculated from repository stars.</p></div>
+      </div>
+    </section>
+
+    <section class="developer-reference" aria-labelledby="catalog-reference-title">
+      <div class="reference-heading">
+        <p class="eyebrow">For catalog users</p>
+        <h2 id="catalog-reference-title">How this repository works</h2>
+        <p>This is a static catalog. Consume the generated feeds and hosted assets from GitHub Pages; use the repository files when you need contributor metadata or want to build your own catalog.</p>
+      </div>
+
+      <div class="reference-grid">
+        <article class="reference-item">
+          <h3>Generated catalog feeds</h3>
+          <p>These are the recommended endpoints for an app or website. Each item contains its resolved version, release data, download URL, checksums, and metadata.</p>
+          <code class="url-example">https://robin994.github.io/NeoVitaDB-Catalog/vita.json</code>
+          <code class="url-example">https://robin994.github.io/NeoVitaDB-Catalog/psp.json</code>
+        </article>
+
+        <article class="reference-item">
+          <h3>Hosted icons</h3>
+          <p>Use the <code>icon</code> filename from a feed item. Vita icons are published at <code>/icons/</code>; PSP icons are published at <code>/icons_psp/</code>.</p>
+          <code class="url-example">https://robin994.github.io/NeoVitaDB-Catalog/icons/0001-neovitadb-downloader.png</code>
+          <code class="url-example">https://robin994.github.io/NeoVitaDB-Catalog/icons_psp/0001-example.png</code>
+        </article>
+
+        <article class="reference-item">
+          <h3>Repository source files</h3>
+          <p>Contributor entries and original icons are kept in the repository. These paths are useful for inspection, but generated feeds are more stable for catalog clients.</p>
+          <code class="url-example">https://raw.githubusercontent.com/robin994/NeoVitaDB-Catalog/main/apps/vita/0001-neovitadb-downloader.json</code>
+          <code class="url-example">https://raw.githubusercontent.com/robin994/NeoVitaDB-Catalog/main/icons_vita/0001-neovitadb-downloader.png</code>
+        </article>
+
+        <article class="reference-item">
+          <h3>Using a fork</h3>
+          <p>Replace the owner and repository name in every hosted URL after enabling GitHub Pages with the GitHub Actions source on your fork.</p>
+          <code class="url-example">https://your-user.github.io/your-catalog/vita.json</code>
+          <code class="url-example">https://your-user.github.io/your-catalog/icons/your-icon.png</code>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>NeoVitaDB Catalog · <a href="index.html">Browse homebrew</a></p>
+  </footer>
+</body>
+</html>

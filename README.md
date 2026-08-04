@@ -194,3 +194,14 @@ GITHUB_TOKEN=$(gh auth token) python tools/build_catalog.py
 
 Without a token you share the anonymous API budget of 60 calls an hour, which runs
 out quickly once the catalog grows.
+
+### Website deployment
+
+The browser catalog source lives under `site/`. The `Build catalog` workflow copies
+those HTML, CSS and JavaScript files into `dist/`, stages the repository icons, and
+deploys the complete result to GitHub Pages. The website continues to read the
+public Vita and PSP JSON feeds at runtime; those feeds are not copied into `site/`.
+
+For a fork, enable GitHub Pages with **Source: GitHub Actions** under Settings →
+Pages. Pushes to `main`, scheduled builds, and manual workflow runs publish the
+site automatically.
