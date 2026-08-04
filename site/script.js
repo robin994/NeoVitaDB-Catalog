@@ -23,7 +23,7 @@ const savedFilters = (() => {
   } catch (_) { return {}; }
 })();
 const state = {
-  all: [], platform: "all", category: "all", sort: "downloads", query: "",
+  all: [], platform: "all", category: "all", sort: "date", query: "",
   trustedOnly: savedFilters.trustedOnly === true,
   includeAi: savedFilters.includeAi !== false,
 };
@@ -39,7 +39,7 @@ const includeAiInput = $("include-ai");
 
 function isEnabled(value) { return value === true || value === 1 || value === "1" || value === "true"; }
 function saveFilterPreferences() {
-  try { localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify({ trustedOnly: state.trustedOnly, includeAi: state.includeAi })); } catch (_) {}
+  try { localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify({ trustedOnly: state.trustedOnly, includeAi: state.includeAi })); } catch (_) { }
 }
 function syncFilterInputs() {
   trustedOnlyInput.checked = state.trustedOnly;
@@ -112,8 +112,9 @@ function escapeHtml(value) {
   return String(value || "").replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[character]));
 }
 function richText(value) {
-  const escaped = escapeHtml(value);
-  return escaped.replace(/https?:\/\/[^\s<)"']+/g, (match) => `<a href="${match}" target="_blank" rel="noopener">${match}</a>`);
+  if (!value) return "";
+  const html = marked.parse(value, { breaks: true, gfm: true });
+  return DOMPurify.sanitize(html);
 }
 
 /* ---------------- data ---------------- */
@@ -182,7 +183,7 @@ function cardHtml(item, index) {
     <div class="badges">${platformBadge}<span class="badge badge-cat">${glyphSvg(item.category)}${escapeHtml(item.category)}</span>${trusted}${ai}${direct}</div>
     <p class="card-description">${description}</p>
     <div class="card-meta">
-      <span class="dl"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>${fmtNum(item.downloads)}</span>
+      <span class="dl"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>${fmtNum(item.downloads)} <span class="info-tooltip" title="Downloads are fetched directly from GitHub releases and may differ from legacy historical data." style="cursor:help;opacity:0.7;margin-left:4px;font-size:10px;">ⓘ</span></span>
       <span class="ver">${escapeHtml(item.version) || "—"}</span>
     </div>
   </article>`;
@@ -222,7 +223,7 @@ function openModal(item) {
   const direct = item.direct && item.direct !== "0" ? '<span class="badge badge-direct">Direct Download</span>' : "";
   const specs = [
     spec("Version", escapeHtml(item.version) || "—"),
-    spec("Downloads", fmtNum(item.downloads)),
+    spec("Downloads", `${fmtNum(item.downloads)} <span class="info-tooltip" title="Downloads are fetched directly from GitHub releases and may differ from legacy historical data." style="cursor:help;opacity:0.7;margin-left:4px;font-size:10px;">ⓘ</span>`),
     spec("Released", fmtDate(item.date)),
     spec("Size", fmtSize(item.size)),
     item.titleid ? spec("Title ID", escapeHtml(item.titleid), true) : "",

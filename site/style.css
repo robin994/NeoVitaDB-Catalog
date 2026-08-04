@@ -98,12 +98,10 @@ button { font-family: inherit; }
    page, the one signature motion of the design.
    ============================================================ */
 .wavefield { position: fixed; inset: 0; z-index: 0; overflow: hidden; pointer-events: none; }
-.wave { position: absolute; left: -25%; width: 150%; height: 640px; border-radius: 48%; filter: blur(2px); opacity: 0.55; }
-.wave-a { top: -280px; background: radial-gradient(ellipse at 50% 50%, var(--wave-3), transparent 70%); animation: drift-a 26s ease-in-out infinite; }
-.wave-b { top: -180px; background: radial-gradient(ellipse at 50% 50%, var(--wave-2), transparent 72%); opacity: 0.45; animation: drift-b 34s ease-in-out infinite; }
-.wave-c { top: -60px; background: radial-gradient(ellipse at 50% 50%, var(--wave-1), transparent 74%); opacity: 0.7; animation: drift-a 40s ease-in-out infinite reverse; }
-@keyframes drift-a { 0%,100% { transform: translateX(-3%) scaleY(1); } 50% { transform: translateX(3%) scaleY(1.08); } }
-@keyframes drift-b { 0%,100% { transform: translateX(4%) scaleY(1.05); } 50% { transform: translateX(-4%) scaleY(0.96); } }
+.wave { position: absolute; left: -25%; width: 150%; height: 640px; border-radius: 48%; opacity: 0.45; }
+.wave-a { top: -280px; background: radial-gradient(ellipse at 50% 50%, var(--wave-3), transparent 70%); }
+.wave-b { top: -180px; background: radial-gradient(ellipse at 50% 50%, var(--wave-2), transparent 72%); opacity: 0.35; }
+.wave-c { top: -60px; background: radial-gradient(ellipse at 50% 50%, var(--wave-1), transparent 74%); opacity: 0.5; }
 
 /* ============================================================
    Face-button glyphs — reused across category tags, header
@@ -156,11 +154,9 @@ button { font-family: inherit; }
 .stat-label { font-size: 10px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); }
 .developer-link { display: inline-flex; position: relative; isolation: isolate; overflow: hidden; align-items: center; gap: 8px; color: var(--vita); border: 1px solid rgba(63,200,242,0.32); border-radius: 10px; padding: 9px 12px; font-family: var(--font-display); font-size: 12px; font-weight: 600; text-decoration: none; transition: background .2s, border-color .2s, transform .2s; }
 .xmb-info .developer-link { box-shadow: 0 0 0 0 rgba(63,200,242,0.35); animation: developer-pulse 3.6s ease-in-out 1.2s infinite; }
-.developer-link::before { position: absolute; z-index: -1; top: -40%; left: -45%; width: 32%; height: 180%; content: ""; background: rgba(255,255,255,0.52); transform: skewX(-20deg); animation: developer-shine 4.8s ease-in-out 2s infinite; }
+.developer-link::before { position: absolute; z-index: -1; top: -40%; left: -45%; width: 32%; height: 180%; content: ""; background: rgba(255,255,255,0.52); transform: skewX(-20deg); }
 .developer-link span { font-family: var(--font-mono); font-size: 11px; }
 .developer-link:hover { background: rgba(63,200,242,0.1); border-color: var(--vita); transform: translateY(-1px); }
-@keyframes developer-pulse { 0%, 70%, 100% { box-shadow: 0 0 0 0 rgba(63,200,242,0); } 78% { box-shadow: 0 0 0 5px rgba(63,200,242,0.12), 0 0 22px rgba(63,200,242,0.22); } 86% { box-shadow: 0 0 0 0 rgba(63,200,242,0); } }
-@keyframes developer-shine { 0%, 45% { left: -45%; opacity: 0; } 52% { opacity: 1; } 62%, 100% { left: 140%; opacity: 0; } }
 
 /* ============================================================
    Controls
@@ -239,18 +235,20 @@ button { font-family: inherit; }
 
 .card {
   position: relative; text-align: left; cursor: pointer;
-  background: linear-gradient(180deg, var(--surface), #0a1220);
-  border: 1px solid var(--line); border-radius: var(--radius-lg);
+  background: rgba(13, 23, 40, 0.85);
+  border: 1px solid var(--line); border-radius: 24px;
   padding: 16px; display: flex; flex-direction: column; gap: 12px;
   transition: transform .25s cubic-bezier(.2,.7,.3,1), border-color .25s, box-shadow .25s;
   animation: rise .45s both;
+  content-visibility: auto;
+  contain-intrinsic-size: 180px;
 }
 @keyframes rise { from { opacity: 0; transform: translateY(12px) scale(0.98); } to { opacity: 1; transform: none; } }
 .card:hover, .card:focus-visible { transform: translateY(-6px) scale(1.015); border-color: var(--vita-deep); box-shadow: var(--shadow), 0 0 0 1px rgba(63,200,242,0.25); }
 .card[data-plat="psp"]:hover, .card[data-plat="psp"]:focus-visible { border-color: var(--psp-deep); box-shadow: var(--shadow), 0 0 0 1px rgba(240,168,60,0.28); }
 
 .card-top { display: flex; gap: 13px; align-items: center; }
-.card-icon { width: 56px; height: 56px; border-radius: 15px; object-fit: cover; flex-shrink: 0; background: #08101f; border: 1px solid var(--line); transition: border-color .25s, transform .25s; }
+.card-icon { width: 68px; height: 68px; border-radius: 50%; object-fit: cover; flex-shrink: 0; background: #08101f; border: 1px solid var(--line); transition: border-color .25s, transform .25s; }
 .card:hover .card-icon { transform: scale(1.04); }
 .card-icon.fallback { display: grid; place-items: center; color: var(--muted); font-family: var(--font-display); font-size: 22px; font-weight: 700; }
 .card-head { min-width: 0; flex: 1; }
@@ -303,7 +301,7 @@ button { font-family: inherit; }
 .modal-close:hover { color: var(--text); border-color: var(--vita); }
 .modal-body { padding: 26px 26px 6px; }
 .m-head { display: flex; gap: 16px; align-items: center; margin-bottom: 18px; padding-right: 40px; }
-.m-icon { width: 76px; height: 76px; border-radius: 18px; object-fit: cover; background: #08101f; border: 1px solid var(--line); flex-shrink: 0; }
+.m-icon { width: 92px; height: 92px; border-radius: 50%; object-fit: cover; background: #08101f; border: 1px solid var(--line); flex-shrink: 0; }
 .m-title { font-family: var(--font-display); font-size: 22px; margin: 0 0 4px; line-height: 1.2; font-weight: 700; }
 .m-author { color: var(--muted); font-size: 14px; }
 .m-badges { margin: 14px 0 20px; display: flex; flex-wrap: wrap; gap: 7px; }
@@ -313,8 +311,12 @@ button { font-family: inherit; }
 .spec-v { font-size: 14px; color: var(--text); font-weight: 600; word-break: break-word; }
 .spec-v.mono { font-family: var(--font-mono); font-size: 12px; font-weight: 500; }
 .m-section-title { font-family: var(--font-display); font-size: 13px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--vita); margin: 20px 0 8px; font-weight: 700; }
-.m-text { color: #c7d3e8; font-size: 14px; line-height: 1.6; white-space: pre-wrap; word-break: break-word; }
-.m-text a { color: var(--vita); }
+.m-text { color: #c7d3e8; font-size: 14px; line-height: 1.6; word-break: break-word; }
+.m-text p { margin-top: 0; margin-bottom: 12px; }
+.m-text p:last-child { margin-bottom: 0; }
+.m-text ul, .m-text ol { margin-top: 0; margin-bottom: 12px; padding-left: 20px; }
+.m-text a { color: var(--vita); text-decoration: none; }
+.m-text a:hover { text-decoration: underline; }
 .m-changelog { max-height: 220px; overflow-y: auto; background: rgba(8,16,31,0.5); border: 1px solid var(--line-soft); border-radius: 11px; padding: 14px; }
 
 /* Button-prompt bar, echoing the on-screen glyph prompts of PS UIs */
