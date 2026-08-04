@@ -1326,6 +1326,36 @@
     "hash": "b3bafbe649f1243313841acf233f0692",
     "hash2": ""
   },
+  "direct:https://git.silica.codes/Li/Server_Room_Simulator/releases/download/latest/server_room_simulator.vpk": {
+    "folder": "",
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "b2847b22443e01d0ef931cded9ea05c5"
+  },
+  "direct:https://git.silica.codes/Li/creeperdiver/releases/download/latest/creeperdiver-vita.vpk": {
+    "folder": "",
+    "hash": "0c91c430c618744af1f84c6e84f68c93",
+    "hash2": "81de362d2aea049151e1b238ff6df3e4"
+  },
+  "direct:https://git.silica.codes/Li/parentalcontrolbypass/releases/download/latest/Parental_Control_Bypass.vpk": {
+    "folder": "",
+    "hash": "db52227669d2bfa245c7d4011f3184a8",
+    "hash2": ""
+  },
+  "direct:https://git.silica.codes/Li/simpleaccountswitcher/releases/download/latest/SimpleAccountSwitcher.vpk": {
+    "folder": "",
+    "hash": "396738005ebae16a88a2367d51831c51",
+    "hash2": ""
+  },
+  "direct:https://git.silica.codes/Li/trophaxse/releases/download/latest/TrophaxSE.vpk": {
+    "folder": "",
+    "hash": "02c18d977c3b72b3d83c044ac66e1a15",
+    "hash2": ""
+  },
+  "direct:https://git.silica.codes/TheCrystalOrg/ImMultiple/releases/download/latest/ImMultiple_VITA.vpk": {
+    "folder": "",
+    "hash": "2de12a54d5da956001919e23254e40e0",
+    "hash2": ""
+  },
   "dragonflylee/switchfin@490946542@2026-07-27T03:08:57Z": {
     "hash": "1f5642c2da5574fc718df62781c5de6e",
     "hash2": ""
@@ -1797,6 +1827,11 @@
   "robin994/NeoVitaDB-Downloader@499935878@2026-08-03T10:42:17Z": {
     "folder": "",
     "hash": "8e8d6cc9240bfaf2df272c3833bffb63",
+    "hash2": ""
+  },
+  "robin994/NeoVitaDB-Downloader@501603913@2026-08-04T17:11:15Z": {
+    "folder": "",
+    "hash": "2d5f3538c8b89ec53319bda262167551",
     "hash2": ""
   },
   "rodentcat/deadknight-vita-port@54846350@2022-01-24T20:46:16Z": {
