@@ -6,6 +6,7 @@
   "platform": "vita",
   "titleid": "SVRS00000",
   "direct_url":"https://git.silica.codes/Li/Server_Room_Simulator/releases/download/latest/server_room_simulator.vpk",
+  "version": "latest",
   "prerelease": false,
   "icon": "1460-server-room-simulator.png",
   "description": "A game putting out fires while trying to keep the server online!",

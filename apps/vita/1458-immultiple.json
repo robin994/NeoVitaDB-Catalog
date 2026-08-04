@@ -6,6 +6,7 @@
   "platform": "vita",
   "titleid": "IMMULT000",
   "direct_url":"https://git.silica.codes/TheCrystalOrg/ImMultiple/releases/download/latest/ImMultiple_VITA.vpk",
+  "version": "latest",
   "prerelease": false,
   "icon": "1458-immultiple.png",
   "description": "A program for tracking front time for DID/Plural Systems\nCreated using the ImGui GUI framework.",

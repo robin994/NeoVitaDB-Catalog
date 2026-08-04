@@ -6,6 +6,7 @@
   "platform": "vita",
   "titleid": "CREEPER00",
   "direct_url":"https://git.silica.codes/Li/creeperdiver/releases/download/latest/creeperdiver-vita.vpk",
+  "version": "latest",
   "prerelease": false,
   "icon": "1459-creeperdiver.png",
   "description": "A game about navigating a creeper through a cave",
