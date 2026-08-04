@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NeoVitaDB — PS Vita &amp; PSP Homebrew Catalog</title>
+  <meta name="description" content="Browse the NeoVitaDB homebrew catalog for PlayStation Vita and PSP. Search games, ports, utilities and emulators." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Power-on sequence, styled after the PSP/Vita boot flash. Skips itself if the
+       visitor prefers reduced motion, and can be dismissed with any key or click. -->
+  <div class="boot" id="boot" data-testid="boot-sequence" aria-hidden="true">
+    <div class="boot-sweep"></div>
+    <div class="boot-mark">
+      <svg viewBox="0 0 64 64" class="boot-glyph" aria-hidden="true">
+        <path class="g-triangle" d="M32 10 L50 42 L14 42 Z" />
+        <circle class="g-circle" cx="46" cy="46" r="9" />
+        <path class="g-cross" d="M12 38 L28 54 M28 38 L12 54" stroke-width="4" stroke-linecap="round" />
+        <rect class="g-square" x="4" y="6" width="16" height="16" rx="2" />
+      </svg>
+      <p class="boot-label">NEOVITADB</p>
+    </div>
+    <p class="boot-skip">press any key</p>
+  </div>
+
+  <!-- Ambient XMB-style wave field, sits behind everything -->
+  <div class="wavefield" aria-hidden="true">
+    <div class="wave wave-a"></div>
+    <div class="wave wave-b"></div>
+    <div class="wave wave-c"></div>
+  </div>
+
+  <header class="xmb-bar" data-testid="site-header">
+    <div class="xmb-brand">
+      <svg viewBox="0 0 64 64" class="brand-glyph" aria-hidden="true">
+        <path class="g-triangle" d="M32 10 L50 42 L14 42 Z" />
+        <circle class="g-circle" cx="46" cy="46" r="9" />
+        <path class="g-cross" d="M12 38 L28 54 M28 38 L12 54" stroke-width="4" stroke-linecap="round" />
+        <rect class="g-square" x="4" y="6" width="16" height="16" rx="2" />
+      </svg>
+      <div class="brand-text">
+        <h1 data-testid="site-title">NeoVita<span>DB</span></h1>
+        <p class="tagline">homebrew &amp; ports · vita / psp</p>
+      </div>
+    </div>
+
+    <nav class="xmb-tabs" role="tablist" aria-label="Platform" data-testid="platform-tabs">
+      <button class="xmb-tab active" data-platform="all" data-testid="platform-all" role="tab" aria-selected="true">
+        <span class="tab-icon tab-icon-all" aria-hidden="true"></span>
+        <span class="tab-label">All</span>
+      </button>
+      <button class="xmb-tab" data-platform="vita" data-testid="platform-vita" role="tab" aria-selected="false">
+        <span class="tab-icon tab-icon-vita" aria-hidden="true"></span>
+        <span class="tab-label">Vita</span>
+      </button>
+      <button class="xmb-tab" data-platform="psp" data-testid="platform-psp" role="tab" aria-selected="false">
+        <span class="tab-icon tab-icon-psp" aria-hidden="true"></span>
+        <span class="tab-label">PSP</span>
+      </button>
+    </nav>
+
+    <div class="xmb-info" data-testid="header-stats">
+      <div class="info-clock" id="clock" data-testid="clock"></div>
+      <div class="info-stats">
+        <div class="stat"><span class="stat-num" id="stat-total" data-testid="stat-total">—</span><span class="stat-label">entries</span></div>
+        <div class="stat"><span class="stat-num" id="stat-vita" data-testid="stat-vita">—</span><span class="stat-label">vita</span></div>
+        <div class="stat"><span class="stat-num" id="stat-psp" data-testid="stat-psp">—</span><span class="stat-label">psp</span></div>
+      </div>
+      <a class="developer-link" href="developers.html" data-testid="developers-link"><span aria-hidden="true">&lt;/&gt;</span> Developers</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls" data-testid="controls">
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="search" type="text" placeholder="Search by name or author…" data-testid="search-input" autocomplete="off" />
+      </div>
+
+      <select id="category" class="native-select" data-testid="category-select" aria-label="Category">
+        <option value="all">All categories</option>
+        <option value="Original Game">▲ Original Game</option>
+        <option value="Game Port">■ Game Port</option>
+        <option value="Utility">✕ Utility</option>
+        <option value="Emulator">● Emulator</option>
+      </select>
+
+      <select id="sort" class="native-select" data-testid="sort-select" aria-label="Sort">
+        <option value="downloads">Most downloaded</option>
+        <option value="date">Newest</option>
+        <option value="name">Name (A–Z)</option>
+      </select>
+
+      <div class="filter-options" aria-label="Catalog options">
+        <label class="filter-option">
+          <input id="trusted-only" type="checkbox" data-testid="trusted-filter" />
+          <span>Trusted only</span>
+        </label>
+        <label class="filter-option">
+          <input id="include-ai" type="checkbox" data-testid="ai-filter" checked />
+          <span>Include AI-assisted</span>
+        </label>
+      </div>
+    </section>
+
+    <div class="result-bar">
+      <span id="result-count" class="result-count" data-testid="result-count"></span>
+      <button id="reset" class="reset-btn" data-testid="reset-btn" hidden>Clear filters</button>
+    </div>
+
+    <section id="grid" class="grid" data-testid="grid" aria-live="polite"></section>
+
+    <div id="loading" class="state" data-testid="loading-state">
+      <div class="disc-spinner" aria-hidden="true"><span></span></div>
+      <p>Reading disc…</p>
+    </div>
+
+    <div id="error" class="state" data-testid="error-state" hidden>
+      <p class="state-title">Couldn't load the catalog</p>
+      <p id="error-msg" class="state-sub"></p>
+      <button id="retry" class="reset-btn" data-testid="retry-btn">Try again</button>
+    </div>
+
+    <div id="empty" class="state" data-testid="empty-state" hidden>
+      <p class="state-title">No results</p>
+      <p class="state-sub">Try a different search or clear the filters.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Data from <a href="https://robin994.github.io/NeoVitaDB-Catalog/" target="_blank" rel="noopener">NeoVitaDB Catalog</a> · unofficial browser for the public JSON feed</p>
+  </footer>
+
+  <div id="modal" class="modal" data-testid="detail-modal" hidden>
+    <div class="modal-backdrop" data-testid="modal-backdrop"></div>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" data-testid="modal-close" aria-label="Close">&times;</button>
+      <div id="modal-body" class="modal-body"></div>
+      <div class="modal-prompts" id="modal-prompts"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
