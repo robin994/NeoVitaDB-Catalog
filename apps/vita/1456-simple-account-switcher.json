@@ -1,0 +1,17 @@
+{
+  "id": 1456,
+  "name": "Simple Account Switcher",
+  "author": "Li",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ACCSWIT01",
+  "direct_url":"https://git.silica.codes/Li/simpleaccountswitcher/releases/download/latest/SimpleAccountSwitcher.vpk",
+  "prerelease": false,
+  "icon": "1456-simple-account-switcher.png",
+  "description": "Simple program to clear linked PSN account so you can login to a new one.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

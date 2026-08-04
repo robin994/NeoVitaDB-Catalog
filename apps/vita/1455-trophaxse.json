@@ -1,0 +1,17 @@
+{
+  "id": 1455,
+  "name": "TropHAXSE",
+  "author": "Li",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "TROPHAXSE",
+  "direct_url":"https://git.silica.codes/Li/trophaxse/releases/download/latest/TrophaxSE.vpk",
+  "prerelease": false,
+  "icon": "1455-trophaxse.png",
+  "description": "Universal Trophy Unlocker, this tool allows to unlock trophies for any game",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

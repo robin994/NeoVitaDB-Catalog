@@ -1,0 +1,17 @@
+{
+  "id": 1457,
+  "name": "Parental Control Bypass",
+  "author": "Li",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PARENTAL0",
+  "direct_url":"https://git.silica.codes/Li/parentalcontrolbypass/releases/download/latest/Parental_Control_Bypass.vpk",
+  "prerelease": false,
+  "icon": "1457-parental-control-bypass.png",
+  "description": "A program to delete the parental controls passcode incase you forgot it,",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
