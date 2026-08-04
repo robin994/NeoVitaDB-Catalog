@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>NeoVitaDB — PS Vita &amp; PSP Homebrew Catalog</title>
-  <meta name="description" content="Browse the NeoVitaDB homebrew catalog for PlayStation Vita and PSP. Search games, ports, utilities and emulators." />
+  <meta name="description"
+    content="Browse the NeoVitaDB homebrew catalog for PlayStation Vita and PSP. Search games, ports, utilities and emulators." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
 
   <!-- Power-on sequence, styled after the PSP/Vita boot flash. Skips itself if the
@@ -67,19 +72,27 @@
     <div class="xmb-info" data-testid="header-stats">
       <div class="info-clock" id="clock" data-testid="clock"></div>
       <div class="info-stats">
-        <div class="stat"><span class="stat-num" id="stat-total" data-testid="stat-total">—</span><span class="stat-label">entries</span></div>
-        <div class="stat"><span class="stat-num" id="stat-vita" data-testid="stat-vita">—</span><span class="stat-label">vita</span></div>
-        <div class="stat"><span class="stat-num" id="stat-psp" data-testid="stat-psp">—</span><span class="stat-label">psp</span></div>
+        <div class="stat"><span class="stat-num" id="stat-total" data-testid="stat-total">—</span><span
+            class="stat-label">entries</span></div>
+        <div class="stat"><span class="stat-num" id="stat-vita" data-testid="stat-vita">—</span><span
+            class="stat-label">vita</span></div>
+        <div class="stat"><span class="stat-num" id="stat-psp" data-testid="stat-psp">—</span><span
+            class="stat-label">psp</span></div>
       </div>
-      <a class="developer-link" href="developers.html" data-testid="developers-link"><span aria-hidden="true">&lt;/&gt;</span> Developers</a>
+      <a class="developer-link" href="developers.html" data-testid="developers-link"><span
+          aria-hidden="true">&lt;/&gt;</span> Developers</a>
     </div>
   </header>
 
   <main class="container">
     <section class="controls" data-testid="controls">
       <div class="search-wrap">
-        <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-        <input id="search" type="text" placeholder="Search by name or author…" data-testid="search-input" autocomplete="off" />
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
+          <path d="M20 20L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+        </svg>
+        <input id="search" type="text" placeholder="Search by name or author…" data-testid="search-input"
+          autocomplete="off" />
       </div>
 
       <select id="category" class="native-select" data-testid="category-select" aria-label="Category">
@@ -91,8 +104,8 @@
       </select>
 
       <select id="sort" class="native-select" data-testid="sort-select" aria-label="Sort">
+        <option value="date" selected>Newest</option>
         <option value="downloads">Most downloaded</option>
-        <option value="date">Newest</option>
         <option value="name">Name (A–Z)</option>
       </select>
 
@@ -133,7 +146,8 @@
   </main>
 
   <footer class="site-footer">
-    <p>Data from <a href="https://robin994.github.io/NeoVitaDB-Catalog/" target="_blank" rel="noopener">NeoVitaDB Catalog</a> · unofficial browser for the public JSON feed</p>
+    <p>Data from <a href="https://robin994.github.io/NeoVitaDB-Catalog/" target="_blank" rel="noopener">NeoVitaDB
+        Catalog</a> · Browser for the public JSON feed</p>
   </footer>
 
   <div id="modal" class="modal" data-testid="detail-modal" hidden>
@@ -145,6 +159,9 @@
     </div>
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
   <script src="script.js"></script>
 </body>
+
 </html>
