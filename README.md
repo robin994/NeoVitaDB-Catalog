@@ -11,6 +11,16 @@ Published at `https://robin994.github.io/NeoVitaDB-Catalog/`.
 
 ## Adding your homebrew
 
+**New entries are proposed on the [test catalog](https://github.com/robin994/NeoVitaDB-Catalog-Test)
+first, not here.** Pull requests adding a new entry directly against this
+repository are rejected unmerged - open them against NeoVitaDB-Catalog-Test
+instead. This repository only receives entries that have already been staged
+there for a while without any report of trouble, promoted over by the
+maintainer (see that repo's README, or `tools/promote.py` if you're the one
+doing the promoting). Everything else below still applies once you're
+writing the actual entry - same file format, same schema, same rules, just
+in the other repo.
+
 Entries live under `apps/vita/` or `apps/psp/`, kept separate for tidiness.
 
 1. Copy `apps/vita/_template.json` (or `apps/psp/_template.json` for a PSP
@@ -19,8 +29,9 @@ Entries live under `apps/vita/` or `apps/psp/`, kept separate for tidiness.
    space, so you only need to check the folder you're adding to.
 2. Add a 128×128 PNG icon under `icons_vita/` or `icons_psp/` (matching
    platform), named `NNNN-your-slug.png`.
-3. Open a pull request. CI validates your entry and fails the check if something
-   is off, so you get the answer without waiting for a human.
+3. Open a pull request against NeoVitaDB-Catalog-Test (not this repo - see
+   above). CI validates your entry and fails the check if something is off,
+   so you get the answer without waiting for a human.
 
 You only describe the project. Version, release date, download size, download
 count, checksums and the download URL all come from your latest GitHub release —
