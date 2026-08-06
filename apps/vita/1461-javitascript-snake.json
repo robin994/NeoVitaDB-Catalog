@@ -1,0 +1,17 @@
+{
+  "id": 1461,
+  "name": "JaVitaScript Snake",
+  "author": "largepelotas",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SNEK00001",
+  "repo": "largepelotas/JaVitaScript-Snake",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1461-javitascript-snake.png",
+  "description": "A port of patorjk's JavaScript Snake, the browser game by Patrick Gillespie, rebuilt in C for the PS Vita.\nThree difficulties: Easy wraps at the walls, Medium and Hard kill on contact. Four themes, cycled with Triangle at any time, three of them taken from the original site and credited to the people who contributed them there. Your highscore, difficulty and theme persist between sessions.\nThe game logic was implemented from a written specification of the original, with every constant cited back to a pinned upstream commit, so the timings and rules match the browser game rather than approximating it. The handful of deliberate differences are documented in the repository.",
+  "requirements": "A PS Vita or PS TV with homebrew enabled (Enso, HENkaku or h-encore). Install the VPK with VitaShell. Saves live in ux0:data/VitaSnake/ and are preserved across upgrades.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}
