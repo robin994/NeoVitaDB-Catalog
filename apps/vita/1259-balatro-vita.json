@@ -6,7 +6,7 @@
   "platform": "vita",
   "titleid": "BALA00001",
   "repo": "Daexxxx/Balatro-Vita",
-  "asset": "*.zip",
+  "asset": "Balatro.vpk",
   "prerelease": false,
   "icon": "1259-balatro-vita.png",
   "description": "Port of Balatro for PSVITA. Balatro is a poker-inspired roguelike deck builder all about creating powerful synergies and winning big.",

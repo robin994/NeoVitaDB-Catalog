@@ -113,20 +113,29 @@ def head_size(url: str) -> int:
         return 0
 
 
-def pick_release(repo: str, allow_prerelease: bool) -> dict | None:
-    """Latest published release, honouring the prerelease preference."""
+def pick_release_with_asset(repo: str, allow_prerelease: bool, pattern: str) -> tuple[dict, dict] | tuple[None, None]:
+    """Newest eligible release whose assets actually contain a match for
+    `pattern`, falling back through older releases instead of stopping at
+    the single newest one. A maintainer's newest release sometimes just
+    doesn't have the expected file yet (forgot to attach it, renamed it,
+    still mid-upload) - that shouldn't make the catalog serve nothing, or
+    silently keep re-downloading whatever stale asset an old cache entry
+    happened to match, when a perfectly good older release has the right
+    file."""
     try:
         releases = api_get(f"/repos/{repo}/releases?per_page=20")
     except urllib.error.HTTPError as e:
         log(f"  ! {repo}: releases unavailable ({e.code})")
-        return None
+        return None, None
     for rel in releases:
         if rel.get("draft"):
             continue
         if rel.get("prerelease") and not allow_prerelease:
             continue
-        return rel
-    return None
+        asset = pick_asset(rel, pattern)
+        if asset:
+            return rel, asset
+    return None, None
 
 
 def parse_github_release_asset_url(url: str) -> tuple[str, str, str] | None:
@@ -143,9 +152,9 @@ def parse_github_release_asset_url(url: str) -> tuple[str, str, str] | None:
 
 def fetch_release_by_tag(repo: str, tag: str) -> dict | None:
     """The one release an entry's direct_url is pinned to, instead of
-    pick_release()'s "latest". Same shape as a pick_release() result, so
-    everything downstream (asset lookup, date, changelog, download counts)
-    reads it identically."""
+    pick_release_with_asset()'s "latest with a matching asset". Same shape
+    as a release from that function, so everything downstream (asset
+    lookup, date, changelog, download counts) reads it identically."""
     try:
         return api_get(f"/repos/{repo}/releases/tags/{tag}")
     except urllib.error.HTTPError as e:
@@ -402,14 +411,9 @@ def build() -> None:
             # object to introspect at all.
             release = asset = None
         else:
-            release = pick_release(repo, entry.get("prerelease", False))
-            if not release:
-                log("  ! skipped: no usable release")
-                continue
-
-            asset = pick_asset(release, entry.get("asset", "*.vpk"))
-            if not asset:
-                log(f"  ! skipped: no asset matching {entry.get('asset', '*.vpk')}")
+            release, asset = pick_release_with_asset(repo, entry.get("prerelease", False), entry.get("asset", "*.vpk"))
+            if not release or not asset:
+                log(f"  ! skipped: no release with an asset matching {entry.get('asset', '*.vpk')}")
                 continue
 
         if asset is not None:
