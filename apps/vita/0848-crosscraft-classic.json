@@ -6,7 +6,7 @@
   "platform": "vita",
   "titleid": "CCC000110",
   "repo": "CrossCraft/CrossCraft-Classic",
-  "asset": "CrossCraft-Linux*.zip",
+  "asset": "CrossCraft-Vita*.zip",
   "prerelease": false,
   "icon": "0848-crosscraft-classic.png",
   "description": "CrossCraft-Classic is a project that aims to recreate Minecraft Java Edition: Classic without looking at any of the source code of the original application and without using the original copyrighted assets. All knowledge is figured out with an understanding of in-game mechanics and is approximated to be as close as possible to the original.",
