@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": false,
   "data": "https://github.com/Rinnegatamante/afterburner-vita/releases/download/v.1.1/afterburner.zip",
-  "trusted": false
+  "trusted": true
 }

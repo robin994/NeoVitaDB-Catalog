@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": false,
   "data": "https://github.com/Rinnegatamante/seven-vita/releases/download/v.1.1/datafiles.zip",
-  "trusted": false
+  "trusted": true
 }

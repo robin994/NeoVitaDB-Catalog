@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": false,
   "data": "https://github.com/Rinnegatamante/Aerofoil-Vita/releases/download/v.1.0/aerofoil.zip",
-  "trusted": false
+  "trusted": true
 }

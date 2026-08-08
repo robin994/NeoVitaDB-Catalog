@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": false,
   "data": "https://github.com/Northfear/dunelegacy-vita/releases/download/0.97.02-vita.1/dunelegacy_data.zip",
-  "trusted": false
+  "trusted": true
 }

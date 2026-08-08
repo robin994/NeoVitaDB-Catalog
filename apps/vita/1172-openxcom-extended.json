@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": false,
   "data": "https://github.com/Northfear/OpenXcom-vita/releases/download/v.7.10.0-vita.1/oxce-data.zip",
-  "trusted": false
+  "trusted": true
 }

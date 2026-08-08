@@ -15,5 +15,5 @@
   "trophies": true,
   "ai": false,
   "data": "https://github.com/Rinnegatamante/OpenFMV/releases/download/v.1.0-ls/tools.zip",
-  "trusted": false
+  "trusted": true
 }
