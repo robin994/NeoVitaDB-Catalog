@@ -1,0 +1,17 @@
+{
+  "id": 1464,
+  "name": "Trophy Dumper",
+  "author": "Li",
+  "category": "utiility",
+  "platform": "vita",
+  "titleid": "TROPTOOLS",
+  "direct_url":"https://git.silica.codes/Li/trophydumper/releases/download/latest/TrophyDumper.vpk",
+  "prerelease": false,
+  "icon": "1464-trophy-dumper.png",
+  "description": "Decrypt and Encrypt Trophy Data Files.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}

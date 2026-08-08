@@ -1,0 +1,17 @@
+{
+  "id": 1463,
+  "name": "CEX 2 REX 2.0",
+  "author": "Li",
+  "category": "utiility",
+  "platform": "vita",
+  "titleid": "CEX2REX20",
+  "direct_url":"https://git.silica.codes/Li/cex-2-rex/releases/download/latest/CEX2REX.vpk",
+  "prerelease": false,
+  "icon": "1463-CEX2REX.png",
+  "description": "Spoof & Install Testing Kit Firmware onto a retial PSVita,",
+  "requirements": "Henkaku Enso, reF00D and a Testing Kit firmware PUP",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}

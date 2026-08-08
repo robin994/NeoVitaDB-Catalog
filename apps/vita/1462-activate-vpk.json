@@ -1,0 +1,17 @@
+{
+  "id": 1462,
+  "name": "activate.vpk",
+  "author": "Li",
+  "category": "utiility",
+  "platform": "vita",
+  "titleid": "ACTIVATE0",
+  "direct_url":"https://git.silica.codes/Li/activate.vpk/releases/download/latest/activate.vpk",
+  "prerelease": false,
+  "icon": "1462-activate-vpk.png",
+  "description": "A utility to backup testkit/devkit activation tokens, and reset activation period",
+  "requirements": "Real testing kit (PTEL) or devlopment kit (PDEL) hardware, running 3.60 henkaku",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}

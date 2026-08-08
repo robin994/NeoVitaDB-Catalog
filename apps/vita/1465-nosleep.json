@@ -1,0 +1,17 @@
+{
+  "id": 1465,
+  "name": "NoSleep",
+  "author": "Li",
+  "category": "utiility",
+  "platform": "vita",
+  "titleid": "NOSLEEP00",
+  "direct_url":"https://git.silica.codes/Li/nosleep/releases/download/latest/NoSleep.vpk",
+  "prerelease": false,
+  "icon": "1465-nosleep.png",
+  "description": "Simply utility to disable automatic standby",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}
