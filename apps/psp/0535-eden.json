@@ -1,0 +1,16 @@
+{
+  "id": 535,
+  "name": "Eden [楽園]",
+  "author": "Project EDEN 制作委員会",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0535-eden.png",
+  "description": "Visual novel for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eden.-7z/EDEN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

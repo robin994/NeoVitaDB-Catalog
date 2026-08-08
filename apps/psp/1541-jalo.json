@@ -1,0 +1,16 @@
+{
+  "id": 1541,
+  "name": "Jalo",
+  "author": "Jomart2000",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1541-jalo.png",
+  "description": "Homebrew game for PSP, this is a Halo fan game also known as RocketJ.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rocketJ.7z/rocketJ.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

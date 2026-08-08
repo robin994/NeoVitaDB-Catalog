@@ -1,0 +1,16 @@
+{
+  "id": 1599,
+  "name": "Serve n' Go",
+  "author": "Sousanator, Electro, (X), Sousa Inc",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1599-serve-n-go.png",
+  "description": "A fast food resturant simulator in which you must retrieve the food the customer (in top right) is asking for.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/serve-ngo-v-3.7z_202102/ServeNGo_v3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

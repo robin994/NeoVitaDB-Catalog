@@ -1,0 +1,18 @@
+{
+  "id": 1625,
+  "name": "FALLEN KNIGHTS",
+  "author": "VitaHEX Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SOUL45638",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/448-Fallen-Knights.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1625-fallen-knights.png",
+  "description": "Fallen Knights is an action/adventure game set in a dark universe of demons and castles.\nThe game has similar elements to the Souls games. There is a large map to explore filled with deadly enemies.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

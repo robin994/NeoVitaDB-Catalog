@@ -1,0 +1,18 @@
+{
+  "id": 1511,
+  "name": "Bernard Chronicles",
+  "author": "Flappy Jesus",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VITATETRI",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/133-Bernard-Chronicles-Tetris-Attack.vpk",
+  "version": "v.0.01",
+  "prerelease": false,
+  "icon": "1511-bernard-chronicles.png",
+  "description": "TetrisAttack/Pokemon Puzzle League like game with fully working AI.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

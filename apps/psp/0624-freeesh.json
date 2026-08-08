@@ -1,0 +1,16 @@
+{
+  "id": 624,
+  "name": "Freeesh",
+  "author": "Realtech VR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0624-freeesh.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/freeesh_11.7z/freeesh_11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

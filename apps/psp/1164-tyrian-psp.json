@@ -1,0 +1,16 @@
+{
+  "id": 1164,
+  "name": "Tyrian PSP+",
+  "author": "PrinniesDood",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1164-tyrian-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/open-tyrian-pspplus-b-4.7z/OpenTyrianPSPplusB4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

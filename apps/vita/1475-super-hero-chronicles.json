@@ -1,0 +1,18 @@
+{
+  "id": 1475,
+  "name": "Super Hero Chronicles",
+  "author": "Island_Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SHC100001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/32-Super_Hero_Chronicles.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1475-super-hero-chronicles.png",
+  "description": "Horizontal scrolling shoot'em up game for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

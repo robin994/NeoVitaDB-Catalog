@@ -1,0 +1,16 @@
+{
+  "id": 909,
+  "name": "Loonies 8192",
+  "author": "thp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0909-loonies-8192.png",
+  "description": "Homebrew puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/loonies8192-r62.7z/Old%20Versions/loonies8192-r62.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

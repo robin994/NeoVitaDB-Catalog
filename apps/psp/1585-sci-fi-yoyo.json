@@ -1,0 +1,16 @@
+{
+  "id": 1585,
+  "name": "Sci-Fi Yoyo",
+  "author": "snowymydog",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1585-sci-fi-yoyo.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/scifiyoyo-henc.-7z/SCIFIYOYO_HENC.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1276,
+  "name": "Pong",
+  "author": "Albandu51",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1276-pong.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong.7z/pong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

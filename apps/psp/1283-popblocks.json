@@ -1,0 +1,16 @@
+{
+  "id": 1283,
+  "name": "PopBlocks",
+  "author": "Germano Fabio (Gefa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1283-popblocks.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pop-blocksv-1.0.1.7z/PopBlocksv1.0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

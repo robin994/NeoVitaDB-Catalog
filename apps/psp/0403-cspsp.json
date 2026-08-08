@@ -1,0 +1,16 @@
+{
+  "id": 403,
+  "name": "CSPSP",
+  "author": "Kevin Chen (nataku92)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0403-cspsp.png",
+  "description": "2D tactical shooter with multiplayer options. This is the build from the original developer of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cspsp-1.92b/cspsp-1.92b.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

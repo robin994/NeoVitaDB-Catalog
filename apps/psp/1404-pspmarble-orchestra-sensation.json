@@ -1,0 +1,16 @@
+{
+  "id": 1404,
+  "name": "PSPMarble: Orchestra Sensation",
+  "author": "BricKdEv",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1404-pspmarble-orchestra-sensation.png",
+  "description": "3D puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspmarble.-7z/PSPMarble.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

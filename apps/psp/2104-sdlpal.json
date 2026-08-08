@@ -1,0 +1,16 @@
+{
+  "id": 2104,
+  "name": "SDLPal",
+  "author": "156692474",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2104-sdlpal.png",
+  "description": "XianJian QiXia Zhuan (also known as The Legend of Sword and Fairy and \"PAL\") is an action RPG created by Taiwan's Softstar Entertainment Inc. The game is considered by many as simply one of the best Chinese RPG ever created. Since its first release in 1995 (DOS Version), many new versions and sequels (including a prequel) were created. However, none could replace the breath-taking and tragic tale it was born from. Here, we meet our protagonist Li Xiaoyao; an aspiring martial artist and the lovely Zhao Ling'er, a charismatic Nuwa descendant.?",
+  "requirements": "- Game Data Files: PC",
+  "direct_url": "https://archive.org/download/SDLPAL/SDLAPL.zip",
+  "version": "v.1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

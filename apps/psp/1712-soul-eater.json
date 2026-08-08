@@ -1,0 +1,16 @@
+{
+  "id": 1712,
+  "name": "Soul Eater",
+  "author": "Fullarms Production",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1712-soul-eater.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/soul-eater-signed-beta-8-en.-7z/soul%20eater%20signed%20beta%208%20en.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

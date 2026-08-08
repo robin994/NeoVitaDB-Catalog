@@ -1,0 +1,16 @@
+{
+  "id": 2089,
+  "name": "PicoDrive",
+  "author": "Notaz & Robson Alcantara",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2089-picodrive.png",
+  "description": "Fork of PicoDrive by Notaz, the Sega Megadrive / Genesis emulator for PSP. This version adds Sega 32X support.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/picodrive-1.92.3.7z/Picodrive1.92.3.zip",
+  "version": "v.1.92.3",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

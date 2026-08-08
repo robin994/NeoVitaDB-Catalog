@@ -1,0 +1,18 @@
+{
+  "id": 1744,
+  "name": "jfsw-vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SHDWWRR32",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/705-jfsw.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1744-jfsw-vita.png",
+  "description": "jfsw-vita is a port of jfsw (JonoF's Shadow Warrior), a popular multiplatform source port of Shadow Warrior.\nIt supports both shareware and full game data files and since Shadow Warrior Classic became freeware starting from 2013 with the release of Shadow Warrior Classic Redux, this release will feature the full game for free.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

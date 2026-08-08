@@ -1,0 +1,16 @@
+{
+  "id": 1694,
+  "name": "Solapy",
+  "author": "Blaster's Death",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1694-solapy.png",
+  "description": "Homebrew game in six parts.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/solapy.-7z/Desolate%20Souls.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

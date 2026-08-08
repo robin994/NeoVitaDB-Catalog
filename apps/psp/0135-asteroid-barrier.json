@@ -1,0 +1,16 @@
+{
+  "id": 135,
+  "name": "Asteroid Barrier",
+  "author": "Pipagerardo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0135-asteroid-barrier.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/asteroid-barrier.-7z/Asteroid-Barrier.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

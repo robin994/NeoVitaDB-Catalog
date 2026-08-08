@@ -1,0 +1,16 @@
+{
+  "id": 669,
+  "name": "GNU Robbo",
+  "author": "Marcin Klimczewski",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0669-gnu-robbo.png",
+  "description": "GNU Robbo for Playstation Portable.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gnu-robbo-0.68.7z/GNU_Robbo_0.68.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

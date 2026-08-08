@@ -1,0 +1,16 @@
+{
+  "id": 543,
+  "name": "Blocks Fusion",
+  "author": "Yan2Yan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0543-blocks-fusion.png",
+  "description": "Puzzle game for PSP. Early builds are known as Elemental.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/elemental371.7z/BlocksFusion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

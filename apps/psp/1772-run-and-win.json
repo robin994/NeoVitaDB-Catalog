@@ -1,0 +1,16 @@
+{
+  "id": 1772,
+  "name": "Run and Win",
+  "author": "Player Studio27",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1772-run-and-win.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/stop_20210818/stop.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

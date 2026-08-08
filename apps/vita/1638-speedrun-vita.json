@@ -1,0 +1,18 @@
+{
+  "id": 1638,
+  "name": "Speedrun Vita",
+  "author": "FantaHourglass",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SPED85632",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/464-Speedrun_Vita.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1638-speedrun-vita.png",
+  "description": "Speedrun Vita is a fast-paced 3D platformer for the PS Vita! Race against the clock in Time Attack mode or keep an eye on the timer as you compete for a high score in Marathon mode. There are currently ten levels that can be played in either mode, and there is more content to come!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

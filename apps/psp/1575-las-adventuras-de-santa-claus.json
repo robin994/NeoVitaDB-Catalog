@@ -1,0 +1,16 @@
+{
+  "id": 1575,
+  "name": "Las Adventuras de Santa Claus",
+  "author": "Sting18",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1575-las-adventuras-de-santa-claus.png",
+  "description": "Christmas-themed homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/santa-psp.-7z/SantaPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

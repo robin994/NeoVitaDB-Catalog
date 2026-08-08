@@ -1,0 +1,16 @@
+{
+  "id": 213,
+  "name": "Bleach Adventure",
+  "author": "pspflashsystem",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0213-bleach-adventure.png",
+  "description": "RPG adventure game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bleach-adventure.-7z/BleachAdventure.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

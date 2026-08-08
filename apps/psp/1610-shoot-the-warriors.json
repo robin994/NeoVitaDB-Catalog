@@ -1,0 +1,16 @@
+{
+  "id": 1610,
+  "name": "Shoot the Warriors",
+  "author": "Team Vortex",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1610-shoot-the-warriors.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shoot-the-warriors.-7z/Shoot_the_warriors.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

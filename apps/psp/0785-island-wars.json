@@ -1,0 +1,16 @@
+{
+  "id": 785,
+  "name": "Island Wars",
+  "author": "James Cutter, Eminki23",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0785-island-wars.png",
+  "description": "Defend the island from balloons.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/island-wars.-7z/Extra/island%20wars%20-%20signed.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

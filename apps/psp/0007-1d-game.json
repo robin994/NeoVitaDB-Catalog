@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "name": "1D Game",
+  "author": "SGI",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0007-1d-game.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/1-d-game.-7z/1D%20Game.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

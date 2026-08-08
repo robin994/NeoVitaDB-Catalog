@@ -1,0 +1,16 @@
+{
+  "id": 914,
+  "name": "LPairs",
+  "author": "FreePlay",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0914-lpairs.png",
+  "description": "Memory game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lpairs-0.2.7z/LPairs%200.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

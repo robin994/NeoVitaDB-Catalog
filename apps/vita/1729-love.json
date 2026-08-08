@@ -1,0 +1,18 @@
+{
+  "id": 1729,
+  "name": "LOVE",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LOVEVITA0",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/683-LOVE.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1729-love.png",
+  "description": "LOVE is a short and addictively challenging platformer with a minimalist design. It has a custom respawn system, 16 levels, 12 track original soundtrack, competitive scoring, and multiple ways to play.\nThis port uses the Android version to play.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

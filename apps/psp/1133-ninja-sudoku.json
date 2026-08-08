@@ -1,0 +1,16 @@
+{
+  "id": 1133,
+  "name": "Ninja Sudoku",
+  "author": "Ryp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1133-ninja-sudoku.png",
+  "description": "Sudoku for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ninja-sudoku-signed.-7z/NinjaSudoku-signed.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1734,
+  "name": "Speed & Pass",
+  "author": "Sousanator",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1734-speed-pass.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/speed-pass.-7z/Speed%20%26%20Pass.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

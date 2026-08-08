@@ -1,0 +1,18 @@
+{
+  "id": 1840,
+  "name": "Sonic SMS 3 Timelines",
+  "author": "MDashK",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SOSR00003",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1102-SOSR00003.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1840-sonic-sms-3-timelines.png",
+  "description": "A port of the fan-game Sonic SMS 3 Timelines v3.2 beta2 to the PSVita.\nExperience Turquoise Hill like never seen before, full of springs, air balloons and secret walls! And depending on your performance on the act, take it to the special stage in the rocket shoes or get transported into another dimension to try to get a Time Stone! Also: can you find where the Pairs mini-game is in the Tiny Animal garden?",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

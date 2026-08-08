@@ -1,0 +1,18 @@
+{
+  "id": 1467,
+  "name": "SystemCheckEnabled",
+  "author": "Draqen",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ACTPSVITA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/17-systemshock.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1467-systemcheckenabled.png",
+  "description": "Simple homebrew that checks if your system is enabled.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

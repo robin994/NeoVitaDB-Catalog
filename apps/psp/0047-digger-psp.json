@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "name": "Digger PSP",
+  "author": "Sektor",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0047-digger-psp.png",
+  "description": "PSP version of the arcade game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/6785-digger-psp-neoflash-edition.-7z/Old%20Versions/6785-diggerPSP%20Neoflash%20Edition.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

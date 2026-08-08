@@ -1,0 +1,16 @@
+{
+  "id": 22,
+  "name": "Ktrix",
+  "author": "Skarab, K-Storm",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0022-ktrix.png",
+  "description": "3D version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/2005-12-22-ktrix.-7z/2005-12-22_ktrix.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

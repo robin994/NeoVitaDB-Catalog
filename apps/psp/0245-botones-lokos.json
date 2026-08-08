@@ -1,0 +1,16 @@
+{
+  "id": 245,
+  "name": "BoToNeS LoKoS",
+  "author": "toños, krlos",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0245-botones-lokos.png",
+  "description": "Button-mashing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/botoneslokos.7z/botoneslokos.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

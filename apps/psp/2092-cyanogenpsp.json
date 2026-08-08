@@ -1,0 +1,16 @@
+{
+  "id": 2092,
+  "name": "CyanogenPSP",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2092-cyanogenpsp.png",
+  "description": "A multifunctional shell for PSP with a Cyanogen OS inspired GUI.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/898-CyanogenPSP.zip",
+  "version": "v.6.1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

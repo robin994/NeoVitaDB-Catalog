@@ -1,0 +1,16 @@
+{
+  "id": 1872,
+  "name": "The Ball",
+  "author": "KL",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1872-the-ball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/the-ball.-7z/the%20ball.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

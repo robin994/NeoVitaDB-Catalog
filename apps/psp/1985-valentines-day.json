@@ -1,0 +1,16 @@
+{
+  "id": 1985,
+  "name": "Valentines Day",
+  "author": "CG8516 (Clark)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1985-valentines-day.png",
+  "description": "Homebrew game for PSP, created for the PSP Monthly Game jam.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/valentines-day_202311/ValentinesDay.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

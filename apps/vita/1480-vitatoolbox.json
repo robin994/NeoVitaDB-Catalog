@@ -1,0 +1,18 @@
+{
+  "id": 1480,
+  "name": "VitaToolbox",
+  "author": "Orion",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITATLBOX",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/52-VitaToolbox.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1480-vitatoolbox.png",
+  "description": "VitaToolbox is like a Swiss army knife for your PS Vita, which combines the functionality of several other applications that have been released for the PS Vita lately. Among other things, VitaToolbox lets you update registry settings (e.g. to swap the O/X buttons), delete your PS Vitaâ€™s history (to avoid sending unwanted logs to Sonyâ€™s servers), swap your memory stick to another account, dump your IDPS, or switch to IDU mode.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

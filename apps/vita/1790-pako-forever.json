@@ -1,0 +1,18 @@
+{
+  "id": 1790,
+  "name": "Pako Forever",
+  "author": "PatnosD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GEOR20066",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/844-pako.vpk",
+  "version": "v.1.0.8",
+  "prerelease": false,
+  "icon": "1790-pako-forever.png",
+  "description": "Port of Pako Forever for PSVITA.\nEscape as long as possible in endless levels! Secrets, power-ups, unlockable epic cars and plenty of other surprises wait for you in a re-imagined version of the classic original car chase game, PAKO - Car Chase Simulator!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

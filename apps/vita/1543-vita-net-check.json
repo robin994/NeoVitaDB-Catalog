@@ -1,0 +1,18 @@
+{
+  "id": 1543,
+  "name": "VITA Net Check",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VID000163",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/208-VITA-Net-Check.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1543-vita-net-check.png",
+  "description": "A PS VITA application that allows you to check for your net profiles (that you have already been connected to) and display their passwords. The app uses the same GUI as VITAident's GUI version, and also includes the same icon0, and startup assets. You can basically think of this as a VITAident subordinate since technically it is displaying information stored on your device.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

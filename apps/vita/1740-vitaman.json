@@ -1,0 +1,18 @@
+{
+  "id": 1740,
+  "name": "Vitaman",
+  "author": "L0Wigh",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VTMN00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/696-vitaman.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1740-vitaman.png",
+  "description": "Vitaman is just a simple (ugly) pacman clone but filled with vita scene memes. Nothing too fancy here, if you know pacman and the vita scene, you know this game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

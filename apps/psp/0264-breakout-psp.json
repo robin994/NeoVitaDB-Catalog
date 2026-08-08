@@ -1,0 +1,16 @@
+{
+  "id": 264,
+  "name": "Breakout PSP",
+  "author": "Andorien",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0264-breakout-psp.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breakout-pspv-0.1.7z/BreakoutPSPv0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

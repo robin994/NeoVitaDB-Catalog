@@ -1,0 +1,16 @@
+{
+  "id": 1517,
+  "name": "Republic of Zombies",
+  "author": "Oby1Chick",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1517-republic-of-zombies.png",
+  "description": "3D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/republicof-zombies-vinicial-cfplus-en.-7z/ROZ.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

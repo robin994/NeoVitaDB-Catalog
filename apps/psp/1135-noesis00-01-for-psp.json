@@ -1,0 +1,16 @@
+{
+  "id": 1135,
+  "name": "NOeSIS00～01 for PSP",
+  "author": "佃煮 (Judah0209)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1135-noesis00-01-for-psp.png",
+  "description": "PSP port of the freeware visual novel 'NOeSIS～嘘を吐いた記憶の物語～'.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/noe-sis-00-01-for-psp-20131119/NOeSIS00%20for%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

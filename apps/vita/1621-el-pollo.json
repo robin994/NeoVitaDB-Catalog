@@ -1,0 +1,18 @@
+{
+  "id": 1621,
+  "name": "El Pollo",
+  "author": "Lapy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ABCD12347",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/443-El_20Pollo.vpk",
+  "version": "v.2.0",
+  "prerelease": false,
+  "icon": "1621-el-pollo.png",
+  "description": "A clone of Helicopter made with Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1750,
+  "name": "Squarez",
+  "author": "Globware",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1750-squarez.png",
+  "description": "Homebrew puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/squarez-v-0.8.1.7z/Old%20Versions/Squarez-v0.8.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

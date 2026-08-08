@@ -1,0 +1,16 @@
+{
+  "id": 359,
+  "name": "Color Puzzle",
+  "author": "AbE",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0359-color-puzzle.png",
+  "description": "Fill the scren with your color, without getting stuck.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/colo-01193-00000/Old%20Versions/Colorpuzzle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

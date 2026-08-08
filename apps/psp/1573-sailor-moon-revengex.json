@@ -1,0 +1,16 @@
+{
+  "id": 1573,
+  "name": "Sailor Moon RevengeX",
+  "author": "Nova32 Animation Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1573-sailor-moon-revengex.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/SAILORM/SAILORM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

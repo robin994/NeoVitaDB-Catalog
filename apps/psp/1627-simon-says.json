@@ -1,0 +1,16 @@
+{
+  "id": 1627,
+  "name": "Simon Says",
+  "author": "Wouter Wijsman (sharkwouter)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1627-simon-says.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/simonsaysv11.7z/Old%20Versions/simonsaysv11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

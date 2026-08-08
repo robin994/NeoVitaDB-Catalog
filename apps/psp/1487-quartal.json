@@ -1,0 +1,16 @@
+{
+  "id": 1487,
+  "name": "Quartal",
+  "author": "Team Unsilenced",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1487-quartal.png",
+  "description": "3D game based on Portal, and built with the Quake engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quartal-beta-2.5.-7z/Old%20Versions/Quartal_FIRST_SLICE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

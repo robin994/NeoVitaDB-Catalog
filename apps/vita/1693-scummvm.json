@@ -1,0 +1,18 @@
+{
+  "id": 1693,
+  "name": "ScummVM",
+  "author": "cpasjuste & rsn8887 & ScummVM Team",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "SCUMMVM00",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/585-scummvm_release.vpk",
+  "version": "2026.3.0",
+  "prerelease": false,
+  "icon": "1693-scummvm.png",
+  "description": "This download is the latest stable release. ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files.\nScummVM supports many adventure games, including LucasArts SCUMM games (such as Monkey Island 1-3, Day of the Tentacle, Sam & Max, ...), many of Sierra's AGI and SCI games (such as King's Quest 1-6, Space Quest 1-5, ...), Discworld 1 and 2, Simon the Sorcerer 1 and 2, Beneath A Steel Sky, Lure of the Temptress, Broken Sword 1 and 2, Flight of the Amazon Queen, Gobliiins 1-3, The Legend of Kyrandia 1-3, many of Humongous Entertainment's children's SCUMM games (including Freddi Fish and Putt Putt games) and many more.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

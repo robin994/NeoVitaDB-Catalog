@@ -1,0 +1,16 @@
+{
+  "id": 1538,
+  "name": "Rockbot I - The Machine Wars",
+  "author": "Boberatu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1538-rockbot-i-the-machine-wars.png",
+  "description": "2D platformer homebrew for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rockbot-1.7z/Old%20Versions/rockbot100.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

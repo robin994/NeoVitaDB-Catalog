@@ -1,0 +1,16 @@
+{
+  "id": 35,
+  "name": "3D Tic Tac Toe",
+  "author": "LMelior",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0035-3d-tic-tac-toe.png",
+  "description": "Version of Noughts and Crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/3-d-tic-tac-toe.-7z/3D%20Tic%20Tac%20Toe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

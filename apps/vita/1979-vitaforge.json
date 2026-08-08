@@ -1,0 +1,18 @@
+{
+  "id": 1979,
+  "name": "VitaForge",
+  "author": "josephinoo",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITAFORGE",
+  "direct_url": "https://github.com/josephinoo/vitaForge/releases/download/v0.1.0/vitaforge.vpk",
+  "version": "v.0.1.0",
+  "prerelease": false,
+  "icon": "1979-vitaforge.png",
+  "description": "Client for browsing and installing PSVITA homebrew, written in Rust with SDL2. Reads its catalogue from VitaDBtoo-db.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

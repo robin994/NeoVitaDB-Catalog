@@ -1,0 +1,16 @@
+{
+  "id": 363,
+  "name": "Comando Suicida 2",
+  "author": "Eskema",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0363-comando-suicida-2.png",
+  "description": "Shoot the enemies to keep them from reaching the base.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/comando-suicida-2-en.-7z/ComandoSuicida2EN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

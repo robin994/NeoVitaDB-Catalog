@@ -1,0 +1,18 @@
+{
+  "id": 1911,
+  "name": "Dethrace Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DETHRACE1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1244-dethrace.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1911-dethrace-vita.png",
+  "description": "Port of Deathrace for PSVITA.\nDethrace is an attempt to learn how the 1997 driving/mayhem game Carmageddon works behind the scenes and rebuild it to run natively on modern systems.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

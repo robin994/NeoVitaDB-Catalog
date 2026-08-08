@@ -1,0 +1,16 @@
+{
+  "id": 2039,
+  "name": "X-Tris",
+  "author": "Samy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2039-x-tris.png",
+  "description": "Tetris on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/xtris-v-1-01.7z/Xtris_v1_01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

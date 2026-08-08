@@ -1,0 +1,18 @@
+{
+  "id": 1710,
+  "name": "King of Machines",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KOFM00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/628-King-of-Machines.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1710-king-of-machines.png",
+  "description": "Mecha-themed side-scrolling beat 'em up, in a world where powered exo-suits are commonplace, and also the weapon of choice in a violent uprising.\nOriginal game by hwilson.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

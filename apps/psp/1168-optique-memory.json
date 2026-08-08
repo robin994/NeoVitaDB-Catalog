@@ -1,0 +1,16 @@
+{
+  "id": 1168,
+  "name": "Optique Memory",
+  "author": "Pilout",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1168-optique-memory.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/optique-memory.-7z/Optique%20Memory.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

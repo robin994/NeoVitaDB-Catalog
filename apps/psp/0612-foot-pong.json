@@ -1,0 +1,16 @@
+{
+  "id": 612,
+  "name": "Foot Pong",
+  "author": "Team Salex",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0612-foot-pong.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/foot-pong-v-0.3.7z/Foot%20Pong%20v0.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

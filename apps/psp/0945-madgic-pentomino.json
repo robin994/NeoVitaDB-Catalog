@@ -1,0 +1,16 @@
+{
+  "id": 945,
+  "name": "MaDGic Pentomino",
+  "author": "Moaku",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0945-madgic-pentomino.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ma-dgi-c-pentomino-v-010a.-7z/MaDGiC_Pentomino_v010a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

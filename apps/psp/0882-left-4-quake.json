@@ -1,0 +1,16 @@
+{
+  "id": 882,
+  "name": "Left 4 Quake",
+  "author": "Ribcaged Entertainment",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0882-left-4-quake.png",
+  "description": "3D survival shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/left-4-quake.-7z/Left%204%20Quake.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

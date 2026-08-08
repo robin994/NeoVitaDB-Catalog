@@ -1,0 +1,16 @@
+{
+  "id": 1476,
+  "name": "QQ Manto",
+  "author": "Kevin Chen",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1476-qq-manto.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/qqmanto.7z/Old%20Versions/qqmanto.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

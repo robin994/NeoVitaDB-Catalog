@@ -1,0 +1,16 @@
+{
+  "id": 1193,
+  "name": "Paper Battle",
+  "author": "MitchellJM",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1193-paper-battle.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/paper-battle.-7z/PaperBattle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

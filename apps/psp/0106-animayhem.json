@@ -1,0 +1,16 @@
+{
+  "id": 106,
+  "name": "AniMayhem",
+  "author": "Chris Howard (Sp3ct0r)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0106-animayhem.png",
+  "description": "Homebrew fighting game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ani-mayhem-2.7z/AniMayhem_2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

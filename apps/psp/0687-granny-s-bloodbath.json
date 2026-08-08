@@ -1,0 +1,16 @@
+{
+  "id": 687,
+  "name": "Granny's Bloodbath",
+  "author": "David Saltares",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0687-granny-s-bloodbath.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/grannysbloodbath-0.1beta-psp.7z/grannysbloodbath-0.1beta-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

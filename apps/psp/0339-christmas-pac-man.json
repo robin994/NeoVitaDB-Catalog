@@ -1,0 +1,16 @@
+{
+  "id": 339,
+  "name": "Christmas Pac-Man",
+  "author": "Luke Spalding",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0339-christmas-pac-man.png",
+  "description": "Simple Christmas-themed Pac-Man clone.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/christmas-pacman.-7z/ChristmasPACMAN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

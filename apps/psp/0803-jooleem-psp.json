@@ -1,0 +1,16 @@
+{
+  "id": 803,
+  "name": "Jooleem PSP",
+  "author": "ZordaK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0803-jooleem-psp.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/joolem-psp-fw-1.5.7z/Joolem_psp_fw1.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

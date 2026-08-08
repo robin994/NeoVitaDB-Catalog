@@ -1,0 +1,16 @@
+{
+  "id": 1095,
+  "name": "Naruto Contra Edition",
+  "author": "Tiago Araujo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1095-naruto-contra-edition.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/naruto-contra-editionv-3.7z/NarutoContraEditionv3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

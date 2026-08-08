@@ -1,0 +1,16 @@
+{
+  "id": 1064,
+  "name": "MorpionZ",
+  "author": "Valer, Oxbow151",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1064-morpionz.png",
+  "description": "Noughts and crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/morpion-z-v-0.0.7z/MorpionZ_v0.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

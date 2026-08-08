@@ -1,0 +1,16 @@
+{
+  "id": 317,
+  "name": "Cowboy Coder John",
+  "author": "Bastiaan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0317-cowboy-coder-john.png",
+  "description": "Jump into the live of cowboy coder John, who's the new hire fixing pesky bugs!",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/CCJohn/CCJohn.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

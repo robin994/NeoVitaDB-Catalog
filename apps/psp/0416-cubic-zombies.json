@@ -1,0 +1,16 @@
+{
+  "id": 416,
+  "name": "Cubic Zombies",
+  "author": "A_Noob",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0416-cubic-zombies.png",
+  "description": "3D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cubicZombies.7z/cubicZombies.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

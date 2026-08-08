@@ -1,0 +1,16 @@
+{
+  "id": 1821,
+  "name": "Take the Ball",
+  "author": "fede94boss",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1821-take-the-ball.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/take_the_ballv304.7z/take_the_ballv304.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

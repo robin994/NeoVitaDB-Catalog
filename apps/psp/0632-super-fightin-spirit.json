@@ -1,0 +1,16 @@
+{
+  "id": 632,
+  "name": "Super Fightin' Spirit",
+  "author": "bWWd",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0632-super-fightin-spirit.png",
+  "description": "OpenBOR pack for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fspirit-psp.-7z/FSPIRIT-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

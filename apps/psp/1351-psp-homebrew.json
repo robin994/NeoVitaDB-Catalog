@@ -1,0 +1,16 @@
+{
+  "id": 1351,
+  "name": "Утиная охота",
+  "author": "Ilsor",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1351-psp-homebrew.png",
+  "description": "Doom/Duck Hunt fan game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp_duckhunt.7z/psp_duckhunt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

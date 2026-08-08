@@ -1,0 +1,16 @@
+{
+  "id": 698,
+  "name": "GuessthenumbeR",
+  "author": "Jeremy1026",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0698-guessthenumber.png",
+  "description": "Number-guessing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/guess.7z/guess.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

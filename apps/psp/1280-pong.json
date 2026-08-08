@@ -1,0 +1,16 @@
+{
+  "id": 1280,
+  "name": "Pong",
+  "author": "sony_psp_player",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1280-pong.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong_20211021/pong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

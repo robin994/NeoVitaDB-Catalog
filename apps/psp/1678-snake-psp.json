@@ -1,0 +1,16 @@
+{
+  "id": 1678,
+  "name": "Snake PSP",
+  "author": "PSPprecizo, TeamMex",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1678-snake-psp.png",
+  "description": "Multiplayer version of Snake.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/snake-psp-v-1.0.7z/Snake%20PSP%20v%201.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1010,
+  "name": "Megaman - Net Navi.exe",
+  "author": "double-B",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1010-megaman-net-navi-exe.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/megaman-net-navi.exe.-7z/Megaman%20-%20NetNavi.exe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

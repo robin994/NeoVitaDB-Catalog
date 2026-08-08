@@ -1,0 +1,18 @@
+{
+  "id": 1732,
+  "name": "Where The F*ck Did I Get These Sunglasses",
+  "author": "Catarina Lopes & Isaque Sanches & Mariana Domingos & Tiago Quendera",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SUNG14553",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/686-WTFDIGTS.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1732-where-the-f-ck-did-i-get-these-sunglasses.png",
+  "description": "This is a visual puzzle game about trying to piece together the events of the previous night during a morning hangover\nOriginal Creators: Catarina Lopes, Isaque Sanches, Mariana Domingos, Tiago Quendera.\nMade with Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

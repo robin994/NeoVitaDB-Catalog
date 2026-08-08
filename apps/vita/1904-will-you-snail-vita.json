@@ -1,0 +1,18 @@
+{
+  "id": 1904,
+  "name": "Will You Snail Vita",
+  "author": "avonder",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WSNL00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1216-WSNL00001.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1904-will-you-snail-vita.png",
+  "description": "A unique precision/reaction speed platformer where an evil AI predicts your movement. Dodge AI-spawned traps, solve optional puzzles, and uncover the dark secrets of the simulation.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

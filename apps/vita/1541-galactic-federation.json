@@ -1,0 +1,18 @@
+{
+  "id": 1541,
+  "name": "Galactic Federation",
+  "author": "Island_Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "RPG100001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/206-Galactic_20Federation.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1541-galactic-federation.png",
+  "description": "Galactic Federation is a top down Action Science Fiction RPG. This is an early sample of 1 dungeon, but the full game is planned to be much bigger. The game currently features 4 classes, but I recommend the Human/Marine since he is the most fleshed out character. The goal of the demo is just to explore the dungeon, and kill all of enemies. The demo also features a boss fight. Controls can be viewed and changed in the options screen on the main menu.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

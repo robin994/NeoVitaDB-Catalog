@@ -1,0 +1,16 @@
+{
+  "id": 1783,
+  "name": "Sudoku",
+  "author": "QLFECV",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1783-sudoku.png",
+  "description": "Homebrew version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sudokuv0.03.7z/sudokuv0.03.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

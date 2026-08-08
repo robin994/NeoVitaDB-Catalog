@@ -1,0 +1,16 @@
+{
+  "id": 2128,
+  "name": "Neko Project II",
+  "author": "Sakahi",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2128-neko-project-ii.png",
+  "description": "A PC-98 emulator for PSP.\nThe PC-9801E belongs to the non IBM compatible NEC PC-98xx family. This console was available in Japan in 1983 for the low price of 215,000 yen.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1193-NP2_for_PSP_v0.33.zip",
+  "version": "v.0.33",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

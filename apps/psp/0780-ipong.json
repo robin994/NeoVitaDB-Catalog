@@ -1,0 +1,16 @@
+{
+  "id": 780,
+  "name": "iPong",
+  "author": "Tanos",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0780-ipong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ipong.7z/ipong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

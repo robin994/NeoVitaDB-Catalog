@@ -1,0 +1,16 @@
+{
+  "id": 1544,
+  "name": "RollingBlockMazes",
+  "author": "xerpi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1544-rollingblockmazes.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rolling-blocks-mazes.-7z/RollingBlocksMazes.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

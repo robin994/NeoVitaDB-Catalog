@@ -1,0 +1,18 @@
+{
+  "id": 1518,
+  "name": "SpiderVita",
+  "author": "LeeStorm",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SPIDERCAR",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/142-SpiderVita.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1518-spidervita.png",
+  "description": "A spider solitaire clone for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

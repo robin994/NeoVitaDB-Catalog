@@ -1,0 +1,16 @@
+{
+  "id": 156,
+  "name": "Ball Collision",
+  "author": "Barney77",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0156-ball-collision.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ball-collision-v-2.7z/Ball%20Collision%20V2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

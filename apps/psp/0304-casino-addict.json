@@ -1,0 +1,16 @@
+{
+  "id": 304,
+  "name": "Casino Addict",
+  "author": "Globware",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0304-casino-addict.png",
+  "description": "Collection of gambling games.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/casino-addict-v-0.6.7z/CasinoAddict-v0.6.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

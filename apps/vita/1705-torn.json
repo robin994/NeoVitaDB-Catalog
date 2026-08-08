@@ -1,0 +1,18 @@
+{
+  "id": 1705,
+  "name": "Torn",
+  "author": "Joao Eiras Antunes",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TORN12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/622-Torn.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1705-torn.png",
+  "description": "TORN is a single-screen platformer with portals, layer shifting and dimension hopping.\nSimply get to the goal in each level.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

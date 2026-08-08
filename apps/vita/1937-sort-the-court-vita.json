@@ -1,0 +1,18 @@
+{
+  "id": 1937,
+  "name": "Sort the Court Vita",
+  "author": "LordChickenBlaster",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SORT12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1321-STC.vpk",
+  "version": "v.1.1.0",
+  "prerelease": false,
+  "icon": "1937-sort-the-court-vita.png",
+  "description": "A port of Graeme Borland's Sort the Court to PSVITA.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

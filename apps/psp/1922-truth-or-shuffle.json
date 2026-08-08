@@ -1,0 +1,16 @@
+{
+  "id": 1922,
+  "name": "Truth or Shuffle",
+  "author": "Xandu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1922-truth-or-shuffle.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/to-s.-7z/ToS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

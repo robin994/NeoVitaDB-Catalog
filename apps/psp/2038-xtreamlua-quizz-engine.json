@@ -1,0 +1,16 @@
+{
+  "id": 2038,
+  "name": "XtreamLua Quizz Engine",
+  "author": "Leo Michel",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2038-xtreamlua-quizz-engine.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/xqe.-7z/XQE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

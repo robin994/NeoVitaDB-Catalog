@@ -1,0 +1,18 @@
+{
+  "id": 1824,
+  "name": "Jailbreaker Vita",
+  "author": "VSM GAMMER",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JAIBRE001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1075-Jailbreaker.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1824-jailbreaker-vita.png",
+  "description": "Port of the demo of Jailbreaker for PSVITA.\nJailbreaker is a short game about an unorthodox, sci-fi world of pixels and parkour. Find your way out of your confinement and venture through eerie worlds while evading dangerous traps that halt your ascent. Reach the paramount. Reach.\nOriginal game by Awfy.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

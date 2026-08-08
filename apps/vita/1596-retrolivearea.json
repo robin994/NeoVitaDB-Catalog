@@ -1,0 +1,18 @@
+{
+  "id": 1596,
+  "name": "RetroLivearea",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RTRLVAREA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/380-RetroLivearea.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1596-retrolivearea.png",
+  "description": "Little tool that automatically improves PSX/PSP Livearea bubbles assets and also redirects them to ux0 to make customization a lot easier.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

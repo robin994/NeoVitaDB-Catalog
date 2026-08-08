@@ -1,0 +1,16 @@
+{
+  "id": 2000,
+  "name": "Wall Breaker",
+  "author": "Diggen (BennyS)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2000-wall-breaker.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wall-breaker.-7z/WallBreaker.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

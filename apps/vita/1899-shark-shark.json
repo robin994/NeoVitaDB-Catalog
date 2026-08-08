@@ -1,0 +1,18 @@
+{
+  "id": 1899,
+  "name": "Shark! Shark!",
+  "author": "Jacob Fliss",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VSDK00017",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1210-SharkShark.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1899-shark-shark.png",
+  "description": "Shark! Shark! is an Intellivision game originally designed by Don Daglow, and with additional design and programming by Ji-Wen Tsao, one of the first female game programmers in the history of video games. The player is a fish who must eat smaller fishes in order to gain points and extra lives while avoiding enemies such as larger fishes, sharks, jellyfish, lobsters and crabs. After eating a certain number of fish, the player's fish grows in size and is thus able to eat a larger selection of fish. However, while the larger fish becomes a bit faster, he is less agile than the small fish and has a harder time avoiding enemies.\nThis is a re-creation of the game for Windows, Linux, MacOS, Nintendo 3DS, Switch and PSVita systems.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

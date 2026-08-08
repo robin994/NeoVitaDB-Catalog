@@ -1,0 +1,16 @@
+{
+  "id": 2103,
+  "name": "PSPKVM",
+  "author": "Slepper & M@x & Anweifeng & Aj Milne",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2103-pspkvm.png",
+  "description": "PSP port of SUN's phoneMEFeature project. It allows to run MIDP/Java ME games and applications.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspkvm.7z/pspkvm-bin-0.5.5.zip",
+  "version": "v.0.5.5",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

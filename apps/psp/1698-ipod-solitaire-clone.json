@@ -1,0 +1,16 @@
+{
+  "id": 1698,
+  "name": "iPod Solitaire Clone",
+  "author": "Techni",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1698-ipod-solitaire-clone.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/solitaire.-7z_202103/Old%20Versions/Solitaire.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

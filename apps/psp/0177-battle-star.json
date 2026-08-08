@@ -1,0 +1,16 @@
+{
+  "id": 177,
+  "name": "Battle Star",
+  "author": "Kingromain, Kingraider",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0177-battle-star.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/battle_star.7z/battle_star.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

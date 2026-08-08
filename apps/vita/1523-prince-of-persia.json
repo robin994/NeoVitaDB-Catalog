@@ -1,0 +1,18 @@
+{
+  "id": 1523,
+  "name": "Prince Of Persia",
+  "author": "cpasjuste",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PRINCEPER",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/166-prince.zip",
+  "version": "v.1.12",
+  "prerelease": false,
+  "icon": "1523-prince-of-persia.png",
+  "description": "An open-source port of Prince of Persia for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

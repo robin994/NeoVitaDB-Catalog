@@ -1,0 +1,18 @@
+{
+  "id": 1866,
+  "name": "Roulette Strategy Simulator VITA",
+  "author": "Gremlin Software",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RSIMVITA1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1137-RSimVita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1866-roulette-strategy-simulator-vita.png",
+  "description": "In Roulette:\n- In the long term loss is guaranteed\n- In the short term, gains are possible\nThis simulation confirms the reality of point (1) and explores the possibilities of point (2).\nTesting roulette strategies one spin at a time is a time-consuming exercise. This program runs a series of spins in rapid concession using a given strategy, until the strategy succeeds or fails.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1470,
+  "name": "Puzzle Slider",
+  "author": "bomeier",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1470-puzzle-slider.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/puzzleslider_0.1alpha.7z/puzzleslider_0.1alpha.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 777,
+  "name": "Invas0res",
+  "author": "Leo M. Cabrera",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0777-invas0res.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/invas-0resbeta-4psp.-7z/Invas0resbeta4psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

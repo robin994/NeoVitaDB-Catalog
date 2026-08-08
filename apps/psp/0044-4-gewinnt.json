@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "name": "4 Gewinnt",
+  "author": "PSP-Tools",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0044-4-gewinnt.png",
+  "description": "Version of Connect 4 for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/4-gewinnt.-7z/4%20gewinnt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

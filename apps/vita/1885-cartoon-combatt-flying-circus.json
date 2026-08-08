@@ -1,0 +1,18 @@
+{
+  "id": 1885,
+  "name": "Cartoon Combatt: Flying Circus",
+  "author": "MRKane",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CCFC12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1159-CCFCVitaBuild.vpk",
+  "version": "v.0.45.5 Beta",
+  "prerelease": false,
+  "icon": "1885-cartoon-combatt-flying-circus.png",
+  "description": "Cartoon Combatt: Flying Circus (CCFC) is a strategy flight combat game with a flair for the arcade. You play a pilot tasked to complete missions in order to expand the area controlled by your side of the conflict. This game is under active development.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

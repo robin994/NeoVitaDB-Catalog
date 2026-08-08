@@ -1,0 +1,16 @@
+{
+  "id": 475,
+  "name": "Dodge",
+  "author": "Team Pandemonium",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0475-dodge.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dodge.7z/dodge.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

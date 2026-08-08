@@ -1,0 +1,16 @@
+{
+  "id": 730,
+  "name": "Super Special Awesome Helicopter Game",
+  "author": "nielkie",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0730-super-special-awesome-helicopter-game.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/heli-game-2.7z/HeliGame2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

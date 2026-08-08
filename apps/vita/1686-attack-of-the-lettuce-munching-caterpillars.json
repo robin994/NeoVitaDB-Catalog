@@ -1,0 +1,18 @@
+{
+  "id": 1686,
+  "name": "Attack of the Lettuce Munching Caterpillars",
+  "author": "Gremlin Software",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "AOTLMC001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/564-Caterpillars.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1686-attack-of-the-lettuce-munching-caterpillars.png",
+  "description": "Attack of the Lettuce Munching Caterpillars - Shoot 'em up / Beat 'em up style game where you must squash all the insects within a given time limit. All the characters are modelled in plasticine \"clay-mation  whilst the music and sound effects are in retro 8-bit style.  Several waves of enemies must be defeated, then a Boss Man is faced at the end of each level.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

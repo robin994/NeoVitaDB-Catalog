@@ -1,0 +1,16 @@
+{
+  "id": 1611,
+  "name": "Shoot4Fun",
+  "author": "Gambiting",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1611-shoot4fun.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shoot4fun.7z/shoot4fun.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

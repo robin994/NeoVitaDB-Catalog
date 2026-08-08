@@ -1,0 +1,16 @@
+{
+  "id": 1716,
+  "name": "SP - Spelunker Like",
+  "author": "N.I.",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1716-sp-spelunker-like.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sp_20221109/SP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

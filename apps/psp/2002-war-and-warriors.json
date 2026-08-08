@@ -1,0 +1,16 @@
+{
+  "id": 2002,
+  "name": "War and Warriors",
+  "author": "Eskema",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2002-war-and-warriors.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/war-and-warriors.-7z/War_and_Warriors.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

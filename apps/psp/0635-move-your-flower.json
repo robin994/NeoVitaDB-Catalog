@@ -1,0 +1,16 @@
+{
+  "id": 635,
+  "name": "Move your flower",
+  "author": "Zouzzz",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0635-move-your-flower.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ftmove-flower.-7z/FTMoveFlower.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

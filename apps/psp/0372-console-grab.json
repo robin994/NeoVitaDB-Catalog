@@ -1,0 +1,16 @@
+{
+  "id": 372,
+  "name": "Console Grab",
+  "author": "Anonymous D",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0372-console-grab.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/consolegrabv-1.0.7z/Old%20Versions/Consolegrabv1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

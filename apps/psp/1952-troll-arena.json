@@ -1,0 +1,16 @@
+{
+  "id": 1952,
+  "name": "Troll Arena",
+  "author": "Hideous, Fantomek",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1952-troll-arena.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/trollarena.-7z/TROLLARENA.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

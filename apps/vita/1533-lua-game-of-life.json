@@ -1,0 +1,18 @@
+{
+  "id": 1533,
+  "name": "Lua Game Of Life",
+  "author": "domis4",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "432100001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/182-lua-gameoflife.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1533-lua-game-of-life.png",
+  "description": "Game of Life is a simple implementation of Conwayâ€™s Game of Life for the PS Vita written in Lua using Lua Player Plus.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2079,
+  "name": "SpaceCobra",
+  "author": "MisterX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2079-spacecobra.png",
+  "description": "2D pixelart platformer action game about Space pirate Cobra (manga/anime - Buichi Terasawa/Osamu Dezaki, 1982).",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/955-pspac.rar",
+  "version": "v.3.2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

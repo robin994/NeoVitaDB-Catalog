@@ -1,0 +1,16 @@
+{
+  "id": 97,
+  "name": "Alpha Team Six",
+  "author": "F.A.N.G.S",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0097-alpha-team-six.png",
+  "description": "3D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alpha-team-six.-7z/Alpha%20Team%20Six.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

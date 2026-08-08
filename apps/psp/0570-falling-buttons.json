@@ -1,0 +1,16 @@
+{
+  "id": 570,
+  "name": "Falling Buttons",
+  "author": "toños, kinze",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0570-falling-buttons.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/falling-buttons-v-2.0.7z/Falling%20Buttons%20v2.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

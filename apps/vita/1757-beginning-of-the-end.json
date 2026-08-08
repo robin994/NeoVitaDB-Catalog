@@ -1,0 +1,18 @@
+{
+  "id": 1757,
+  "name": "Beginning of the end",
+  "author": "Markus95",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BOTE00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/755-Beginning_of_the_end.vpk",
+  "version": "Demo",
+  "prerelease": false,
+  "icon": "1757-beginning-of-the-end.png",
+  "description": "Action/Adventure game for PSVITA inspired by The Last of Us and Resurgent.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

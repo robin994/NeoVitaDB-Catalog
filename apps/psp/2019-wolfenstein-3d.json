@@ -1,0 +1,16 @@
+{
+  "id": 2019,
+  "name": "Wolfenstein 3D",
+  "author": "Zack, Chilly Willy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2019-wolfenstein-3d.png",
+  "description": "PSP port of the game. Includes shareware version.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wolf-3-d-v-6.0.7z/Wolf3D_V6.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

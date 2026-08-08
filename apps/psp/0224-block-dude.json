@@ -1,0 +1,16 @@
+{
+  "id": 224,
+  "name": "Block Dude",
+  "author": "cmbeke",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0224-block-dude.png",
+  "description": "Puzzle game with blocky graphics; PSP homebrew.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/block-dude.-7z/Block%20Dude.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

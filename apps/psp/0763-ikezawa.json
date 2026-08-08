@@ -1,0 +1,16 @@
+{
+  "id": 763,
+  "name": "Ikezawa",
+  "author": "Weetabix",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0763-ikezawa.png",
+  "description": "PSP demake of the PC visual novel, Katawa Shoujo.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ikezawa.7z/ikezawa.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

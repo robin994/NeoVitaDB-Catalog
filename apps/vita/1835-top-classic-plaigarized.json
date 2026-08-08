@@ -1,0 +1,18 @@
+{
+  "id": 1835,
+  "name": "Top Classic Plaigarized",
+  "author": "aionmagan & elpichonart & GGuihurt",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "WTJ002301",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1096-TopClassic.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1835-top-classic-plaigarized.png",
+  "description": "Avoid obstacles and shrink when you need to (some obstacles can only be avoided by shrinking).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

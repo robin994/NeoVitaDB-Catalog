@@ -1,0 +1,16 @@
+{
+  "id": 817,
+  "name": "Block Jumps",
+  "author": "Zasisem",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0817-block-jumps.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jumps.-7z/Jumps.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

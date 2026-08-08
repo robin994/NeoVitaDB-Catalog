@@ -1,0 +1,16 @@
+{
+  "id": 787,
+  "name": "In The Air",
+  "author": "lylatitude",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0787-in-the-air.png",
+  "description": "Homebrew shoot 'em up game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ita-psp-build-20060115.7z/ITA_PSP_build20060115.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

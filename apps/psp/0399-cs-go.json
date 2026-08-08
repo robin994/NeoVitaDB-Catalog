@@ -1,0 +1,16 @@
+{
+  "id": 399,
+  "name": "CS: GO",
+  "author": "St1x51",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0399-cs-go.png",
+  "description": "3D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/csgo.-7z_202101/CSGO%20v7.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 648,
+  "name": "GameAndWatch Attack",
+  "author": "pspsalv2",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0648-gameandwatch-attack.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gameandwatchattack-ver.-1.7z/gameandwatchattack%20ver.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 464,
+  "name": "Destroy the Teletubies",
+  "author": "Nono4012, Casa62",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0464-destroy-the-teletubies.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/destroy-teletubies.-7z/destroy%20teletubies.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

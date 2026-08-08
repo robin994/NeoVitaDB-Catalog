@@ -1,0 +1,16 @@
+{
+  "id": 1462,
+  "name": "Puck Man",
+  "author": "Samy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1462-puck-man.png",
+  "description": "PacMan in Lua.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/puck-man.-7z/Puck_Man.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

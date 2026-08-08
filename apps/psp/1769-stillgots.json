@@ -1,0 +1,16 @@
+{
+  "id": 1769,
+  "name": "StillGots",
+  "author": "Dinacy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1769-stillgots.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/still-gots.-7z/StillGots.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

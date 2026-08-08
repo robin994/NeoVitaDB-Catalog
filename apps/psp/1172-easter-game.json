@@ -1,0 +1,16 @@
+{
+  "id": 1172,
+  "name": "Easter Game",
+  "author": "Dyspros",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1172-easter-game.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/oster-game.-7z/Oster_Game.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

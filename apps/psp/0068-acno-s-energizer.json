@@ -1,0 +1,16 @@
+{
+  "id": 68,
+  "name": "Acno's Energizer",
+  "author": "alatnet",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0068-acno-s-energizer.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/acnos-energizer.-7z/acno%27s%20energizer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

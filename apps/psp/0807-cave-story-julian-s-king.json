@@ -1,0 +1,16 @@
+{
+  "id": 807,
+  "name": "Cave Story - Julian's King",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0807-cave-story-julian-s-king.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/julians_r2.7z/julians_r2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

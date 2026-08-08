@@ -1,0 +1,16 @@
+{
+  "id": 1504,
+  "name": "2D Side Scroller",
+  "author": "Raptor85",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1504-2d-side-scroller.png",
+  "description": "Stick figure platformer.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/raptor.-7z/Raptor.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

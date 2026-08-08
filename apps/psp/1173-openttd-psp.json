@@ -1,0 +1,16 @@
+{
+  "id": 1173,
+  "name": "OpenTTD PSP",
+  "author": "Jaime Peñalba (jpenalbae)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1173-openttd-psp.png",
+  "description": "PSP port of the open-source recreation of Transport Tycoon Deluxe. The demo version of the original game is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ottd.7z/ottd.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

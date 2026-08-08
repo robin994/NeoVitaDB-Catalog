@@ -1,0 +1,16 @@
+{
+  "id": 469,
+  "name": "Diluvium",
+  "author": "Léo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0469-diluvium.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/diluvium.-7z/Diluvium.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

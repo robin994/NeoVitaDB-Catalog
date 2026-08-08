@@ -1,0 +1,16 @@
+{
+  "id": 1341,
+  "name": "PSP Sideshow Alley",
+  "author": "Rowanmcau, Johnny McKinney",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1341-psp-sideshow-alley.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-sideshow-alley.-7z/PSP%20Sideshow%20Alley.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

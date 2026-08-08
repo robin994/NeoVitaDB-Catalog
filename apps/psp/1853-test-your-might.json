@@ -1,0 +1,16 @@
+{
+  "id": 1853,
+  "name": "Test Your Might",
+  "author": "Dragula96",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1853-test-your-might.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/testyourmight.7z/testyourmight.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

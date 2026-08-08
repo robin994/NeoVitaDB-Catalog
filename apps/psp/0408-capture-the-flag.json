@@ -1,0 +1,16 @@
+{
+  "id": 408,
+  "name": "Capture the Flag",
+  "author": "Freshmilk",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0408-capture-the-flag.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ctfv-0.1.7z/CTFv0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

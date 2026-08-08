@@ -1,0 +1,16 @@
+{
+  "id": 307,
+  "name": "Catch Phrase",
+  "author": "Evhoria, BowenJ",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0307-catch-phrase.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/catch-phrase.-7z/Catch%20Phrase.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1651,
+  "name": "Hermes",
+  "author": "Retroguru Team",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HERMES001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/481-HERMES001.vpk",
+  "version": "v.1.10",
+  "prerelease": false,
+  "icon": "1651-hermes.png",
+  "description": "Hermes is an extraordinary Jump'n'Run game with plenty of bad taste humour. If you feel offended by crude and dirty humour you may run away now. The game also features pixel violence and promotes the consumption of meat. If you are a hardcore vegetarian, you might very much dislike the game or just have a good laugh.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

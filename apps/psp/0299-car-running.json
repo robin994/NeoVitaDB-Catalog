@@ -1,0 +1,16 @@
+{
+  "id": 299,
+  "name": "Car Running",
+  "author": "NautiluS1",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0299-car-running.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/car-running.-7z/Car%20Running.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

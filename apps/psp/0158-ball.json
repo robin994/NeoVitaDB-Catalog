@@ -1,0 +1,16 @@
+{
+  "id": 158,
+  "name": "Ball",
+  "author": "Flav'95",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0158-ball.png",
+  "description": "Reach the ball within a few seconds.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ball-v-1.1.7z/Ball%20V1.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 869,
+  "name": "Laserix 2",
+  "author": "fafenstein, retrobits",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0869-laserix-2.png",
+  "description": "Puzzle game for PSP. This version of the game was reworked to run on the Phoenix Game Engine, for compatibility with modern firmware.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/laserix-2-pge.-7z/Laserix2_PGE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

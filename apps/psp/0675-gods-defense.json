@@ -1,0 +1,16 @@
+{
+  "id": 675,
+  "name": "Gods Defense",
+  "author": "Diogo Autilio, Hideaki Morohashi, Luca Watanabe, Julio Sena",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0675-gods-defense.png",
+  "description": "Tower defense homebrew game for PSP. The last release appears to be broken, but the second-to-last (0.4) works.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gods-defense-0.4.1.7z/Gods-Defense%20Map%20Generator%200.1%20rev%20205.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

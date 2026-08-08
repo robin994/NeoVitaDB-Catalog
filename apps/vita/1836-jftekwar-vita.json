@@ -1,0 +1,18 @@
+{
+  "id": 1836,
+  "name": "jftekwar-vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JFTEKWAR1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1098-jftekwar.vpk",
+  "version": "v.0.8",
+  "prerelease": false,
+  "icon": "1836-jftekwar-vita.png",
+  "description": "jftekwar-vita is a port of jftekwar (JonoF's Tekwar), an unpolished multiplatform source port of Tekwar.\nThe software is served as-is, expect some bugs since the original source port never got polished to match jfsw/jfduke3d quality.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

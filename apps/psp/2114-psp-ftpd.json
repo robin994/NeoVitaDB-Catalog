@@ -1,0 +1,16 @@
+{
+  "id": 2114,
+  "name": "PSP-FTPD",
+  "author": "PSPKrazy & Raf & ZX-81",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2114-psp-ftpd.png",
+  "description": "A simple app allowing to open an FTP server for PSP.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/961-pspftpd.7z",
+  "version": "v.0.5.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

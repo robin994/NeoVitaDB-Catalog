@@ -1,0 +1,16 @@
+{
+  "id": 677,
+  "name": "The Game of Life - The Sound of Life",
+  "author": "Maxence Ardouin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0677-the-game-of-life-the-sound-of-life.png",
+  "description": "Game of Life implementation for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gol-02013-00000/GoL_17022009.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

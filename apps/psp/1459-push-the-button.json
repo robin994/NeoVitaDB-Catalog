@@ -1,0 +1,16 @@
+{
+  "id": 1459,
+  "name": "Push The Button",
+  "author": "Basfreak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1459-push-the-button.png",
+  "description": "Simple button-pressing homebrew game for the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ptb.-7z/PTB.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

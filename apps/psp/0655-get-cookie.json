@@ -1,0 +1,16 @@
+{
+  "id": 655,
+  "name": "Get Cookie",
+  "author": "Leviadragon, Peoplechamp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0655-get-cookie.png",
+  "description": "Guide the cat to the cookies.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/get-cookie.-7z/GetCookie.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

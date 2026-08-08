@@ -1,0 +1,16 @@
+{
+  "id": 380,
+  "name": "Crash Bandicoot",
+  "author": "KrPsp, supermagicien",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0380-crash-bandicoot.png",
+  "description": "2D platformer.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/crash-bandicoot-v-2.7z/Crash%20Bandicoot%20V2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

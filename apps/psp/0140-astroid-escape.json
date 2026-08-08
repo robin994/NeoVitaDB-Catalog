@@ -1,0 +1,16 @@
+{
+  "id": 140,
+  "name": "Astroid Escape",
+  "author": "Klinkdawg",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0140-astroid-escape.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/astroid-escape.-7z/Astroid%20Escape.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

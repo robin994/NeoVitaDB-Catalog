@@ -1,0 +1,16 @@
+{
+  "id": 1856,
+  "name": "Tetris",
+  "author": "Anthony Tran",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1856-tetris.png",
+  "description": "Version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetris.-7z/TETRIS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

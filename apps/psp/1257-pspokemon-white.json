@@ -1,0 +1,16 @@
+{
+  "id": 1257,
+  "name": "PSPokemon White",
+  "author": "Bixu, Davmon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1257-pspokemon-white.png",
+  "description": "Pokemon fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pokemon-white-psp-by-bixu-ydavmon/PokemonWhitePSP%20by%20bixu%20ydavmon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

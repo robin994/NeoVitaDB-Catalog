@@ -1,0 +1,16 @@
+{
+  "id": 146,
+  "name": "Ausbruch",
+  "author": "Durka Durka Mahn",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0146-ausbruch.png",
+  "description": "Breakout for PSP; homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ausbruch.-7z/Ausbruch.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

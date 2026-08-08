@@ -1,0 +1,16 @@
+{
+  "id": 602,
+  "name": "Flying Aces",
+  "author": "WayWardSon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0602-flying-aces.png",
+  "description": "2D plane shooter; homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flying-aces-v-1.0.7z/Flying%20Aces%20V1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

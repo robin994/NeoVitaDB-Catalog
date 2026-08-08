@@ -1,0 +1,17 @@
+{
+  "id": 2072,
+  "name": "Apollo Save Tool",
+  "author": "bucanero",
+  "category": "utility",
+  "platform": "psp",
+  "repo": "bucanero/apollo-psp",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2072-apollo-save-tool.png",
+  "description": "Apollo Save Tool is an application to manage save-game files on the PlayStation Portable.\nThis homebrew app allows to download, unlock, patch and resign save-game files directly on your PSP.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

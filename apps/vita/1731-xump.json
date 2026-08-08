@@ -1,0 +1,18 @@
+{
+  "id": 1731,
+  "name": "Xump",
+  "author": "Retroguru Team",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "XUMP00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/685-XUMP00001.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1731-xump.png",
+  "description": "Xump - The Final Run is a simple multi-platform puzzler by Retroguru. Initially released by Psilocybin Development in 2005 the game has been improved in almost every aspect you can imagine. New graphics, new levels, new music, new options, new everything...\nHelp Holger to clean up deserted space fields. As this is a very dangerous task for a human being a headbot named Xump will be the one who has to suffer.\nYour main task is to clean all dissolving tiles on several single-screen levels by simply stepping on them, one by one. Few fields are secured with mines and need a double tap. Mines can be blown up when passing by or disarmed by Xump when staying on this specific field for a short moment. Certainly the mission sounds easier than it will be.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

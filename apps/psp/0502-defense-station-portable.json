@@ -1,0 +1,16 @@
+{
+  "id": 502,
+  "name": "Defense Station Portable",
+  "author": "Dave Leaver (Danzel)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0502-defense-station-portable.png",
+  "description": "Tower defense game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dsp.7z/DefenseStationPortable2mod.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

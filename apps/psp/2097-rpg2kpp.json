@@ -1,0 +1,16 @@
+{
+  "id": 2097,
+  "name": "rpg2kpp",
+  "author": "seerouxdark",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2097-rpg2kpp.png",
+  "description": "Homebrew that allows to run games made with RPG Maker 2000 on PSP.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/972-RPG2KPP012B04.zip",
+  "version": "v.0.12 Beta Test 04",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

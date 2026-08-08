@@ -1,0 +1,16 @@
+{
+  "id": 1013,
+  "name": "MelodyStar",
+  "author": "rayZor",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1013-melodystar.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/melody-star.-7z/MelodyStar.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

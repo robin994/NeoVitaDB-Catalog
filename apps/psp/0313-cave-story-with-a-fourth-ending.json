@@ -1,0 +1,16 @@
+{
+  "id": 313,
+  "name": "Cave Story with a Fourth Ending",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0313-cave-story-with-a-fourth-ending.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cavestory-4end-psp.7z/cavestory-4end-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

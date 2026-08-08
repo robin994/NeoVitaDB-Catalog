@@ -1,0 +1,16 @@
+{
+  "id": 291,
+  "name": "Connect 4",
+  "author": "adamusadonis",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0291-connect-4.png",
+  "description": "Version of the game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/c4.7z/c4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

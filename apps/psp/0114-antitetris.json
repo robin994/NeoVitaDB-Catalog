@@ -1,0 +1,16 @@
+{
+  "id": 114,
+  "name": "AntiTetris",
+  "author": "Mia",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0114-antitetris.png",
+  "description": "Tetris, tweaked to have more realistic gravity.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/anti-tetris.-7z/AntiTetris.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

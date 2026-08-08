@@ -1,0 +1,18 @@
+{
+  "id": 1872,
+  "name": "Pause",
+  "author": "WZ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PAUSEGAME",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1143-Pause.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1872-pause.png",
+  "description": "There are two modes, move mode and freeze mode. move mode allows you to pickup and place objects, such as stacking a pile of boxes to get to a high place. Freeze mode lets you freeze objects in place, such as freezing a crate over a gap, so you can get across without falling in.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

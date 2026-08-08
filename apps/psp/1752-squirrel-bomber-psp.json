@@ -1,0 +1,16 @@
+{
+  "id": 1752,
+  "name": "Squirrel Bomber PSP",
+  "author": "Skyl3r, frankdrey",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1752-squirrel-bomber-psp.png",
+  "description": "Demo for an unfinished homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/squirrel-bomber-psp.7z/squirrel-bomber-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

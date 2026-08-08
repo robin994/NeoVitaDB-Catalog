@@ -1,0 +1,16 @@
+{
+  "id": 1179,
+  "name": "p0rtal 2d: maker",
+  "author": "SinkeWS",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1179-p0rtal-2d-maker.png",
+  "description": "2D homebrew game for PSP inspired by Portal.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/p-0rtal-1.0.7z/p0rtal%201.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

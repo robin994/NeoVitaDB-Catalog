@@ -1,0 +1,16 @@
+{
+  "id": 218,
+  "name": "Blobby Volley",
+  "author": "Alois",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0218-blobby-volley.png",
+  "description": "Beach volleyball homebrew game starring two blobs.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blobby.7z/blobby.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1125,
+  "name": "Nick Invaders",
+  "author": "Nick Barth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1125-nick-invaders.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nick-invaders.-7z/Nick%20Invaders.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

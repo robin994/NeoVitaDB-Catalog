@@ -1,0 +1,18 @@
+{
+  "id": 1698,
+  "name": "Tropical Zone",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VHTZ94733",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/602-Tropical_Zone.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1698-tropical-zone.png",
+  "description": "Tropical Zone is a first person shooter game set in a tropical island where you can go anywhere and play the way you like.\nTo explore the island you can drive various vehicles including cars, trucks and boats. Enemy outposts are all over the place so make sure you have enough ammo to take them out. There are many weapons to choose from. Most of them are hidden around the island.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

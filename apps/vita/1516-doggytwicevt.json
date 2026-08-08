@@ -1,0 +1,18 @@
+{
+  "id": 1516,
+  "name": "DoggyTwiceVT",
+  "author": "LeeStorm",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DOGGYTEST",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/140-doggytwicevt.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1516-doggytwicevt.png",
+  "description": "Logical game where point is to make all \"coins\" gold by turning them in right order.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

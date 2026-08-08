@@ -1,0 +1,18 @@
+{
+  "id": 1852,
+  "name": "Everlasting Summer Vita",
+  "author": "avonder",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "EVS000010",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1118-everlasting_summer.vpk",
+  "version": "v.1.10",
+  "prerelease": false,
+  "icon": "1852-everlasting-summer-vita.png",
+  "description": "Port of Everlasting Summer for PSVITA.\nEverlasting Summer is a 2013 cult classic full-length Russian visual novel originally made by Soviet Games.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

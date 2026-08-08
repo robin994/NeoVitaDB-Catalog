@@ -1,0 +1,16 @@
+{
+  "id": 1244,
+  "name": "Plants vs Zombies PSP Edition",
+  "author": "AlexDev2",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1244-plants-vs-zombies-psp-edition.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/plants-vs-zombies-0.4.0/plants-vs-zombies-0.4.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

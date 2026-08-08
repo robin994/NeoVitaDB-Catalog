@@ -1,0 +1,16 @@
+{
+  "id": 812,
+  "name": "Jump Duck Link",
+  "author": "Waywardson",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0812-jump-duck-link.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jumpducklink.7z/jumpducklink.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

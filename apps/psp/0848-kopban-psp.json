@@ -1,0 +1,16 @@
+{
+  "id": 848,
+  "name": "Kopban PSP",
+  "author": "Kaltorak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0848-kopban-psp.png",
+  "description": "Homebrew version of Sokoban for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kopbanpsp.-7z/KOPBANPSP%20041.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

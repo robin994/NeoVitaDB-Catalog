@@ -1,0 +1,16 @@
+{
+  "id": 607,
+  "name": "FNaF Sister Location: Custom Night PSP",
+  "author": "technicaljicama",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0607-fnaf-sister-location-custom-night-psp.png",
+  "description": "A remake of the sister location custom night for the Sony PSP written in c++. Currently, not all features are implemented (due to limited time for the game jam) but the game is playable and fun! Expect a few bugs and crashes (please report them here) Notes: A 3ds port will be developed soon! The code will be made open source! It will not work on a psp 1000 Controls: Cross (X) = Interact on the cams, click on bonnet, confirm R trigger (right shoulder button) = Open cam tablet DPAD Left = Move to the next cam on the left, select character in custom night. DPAD Right = Move to the next cam on the right, select character in custom night. DPAD Down = Decrease the character's level in the custom night menu. DPAD UP = Increase the character's level in the custom night menu. Square = Open/close left door Circle = Open/close right door Triangle = Open/close vent",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fnafsl_psp/FNAFSL103.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

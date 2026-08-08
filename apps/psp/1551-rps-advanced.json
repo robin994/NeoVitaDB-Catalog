@@ -1,0 +1,16 @@
+{
+  "id": 1551,
+  "name": "RPS Advanced",
+  "author": "Spiritbeast",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1551-rps-advanced.png",
+  "description": "Rock-paper-scissors for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rpsav-02.7z/RPSAv02.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

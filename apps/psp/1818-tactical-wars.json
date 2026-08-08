@@ -1,0 +1,16 @@
+{
+  "id": 1818,
+  "name": "Tactical Wars",
+  "author": "Oslord",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1818-tactical-wars.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tactical-wars.-7z/TacticalWars.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

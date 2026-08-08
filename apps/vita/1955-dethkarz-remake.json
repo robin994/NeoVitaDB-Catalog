@@ -1,0 +1,18 @@
+{
+  "id": 1955,
+  "name": "DethKarz Remake",
+  "author": "LachsProducktions",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DETH43415",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1372-v0.2.3.1.alpha.vpk",
+  "version": "v.0.2.3.1 alpha",
+  "prerelease": false,
+  "icon": "1955-dethkarz-remake.png",
+  "description": "DethKarz remake. DethKarz is a futuristic racing game developed by Melburne house in 1998 featuring 4 settings with 3 track lengths, 4 different cars with 3 tiers each as well as laser and plasma canons and powerups.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

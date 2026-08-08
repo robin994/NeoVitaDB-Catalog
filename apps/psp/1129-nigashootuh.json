@@ -1,0 +1,16 @@
+{
+  "id": 1129,
+  "name": "NIGaShootuh",
+  "author": "NIGathan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1129-nigashootuh.png",
+  "description": "2D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/niga-shootuh.-7z/NIGaShootuh.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

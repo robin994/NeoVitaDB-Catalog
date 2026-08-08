@@ -1,0 +1,16 @@
+{
+  "id": 281,
+  "name": "Bunny Tetris",
+  "author": "Arnaud (Condense)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0281-bunny-tetris.png",
+  "description": "Version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bunny-tetris.-7z/2007_psp_bunnytetris.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

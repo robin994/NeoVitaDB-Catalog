@@ -1,0 +1,16 @@
+{
+  "id": 1450,
+  "name": "IMG's PSPuzzle",
+  "author": "Soulless",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1450-img-s-pspuzzle.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspuzzle.-7z/PSPUZZLE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

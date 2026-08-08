@@ -1,0 +1,16 @@
+{
+  "id": 1346,
+  "name": "PSP Sumo",
+  "author": "Officially Poor",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1346-psp-sumo.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-sumo.-7z/PSP%20Sumo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

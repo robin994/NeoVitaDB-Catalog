@@ -1,0 +1,16 @@
+{
+  "id": 157,
+  "name": "Ball ReRevamped 4",
+  "author": "Nielkie",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0157-ball-rerevamped-4.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ball-re-revamped-4.7z/Ball%20ReRevamped%204.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

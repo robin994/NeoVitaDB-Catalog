@@ -1,0 +1,16 @@
+{
+  "id": 1324,
+  "name": "PSP Just Monika",
+  "author": "Nathan Bourgeois (IridescentRose)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1324-psp-just-monika.png",
+  "description": "PSP port of Monika-AfterStory mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-just-monika-slim.-7z/PSP-Just-Monika-PHAT.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

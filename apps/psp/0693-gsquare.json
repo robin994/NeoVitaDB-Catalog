@@ -1,0 +1,16 @@
+{
+  "id": 693,
+  "name": "gSquare",
+  "author": "Meastnt, Clément Guérin (Geecko)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0693-gsquare.png",
+  "description": "gSquare is a platform game where you control a cube, you've got to finish each level under the due time.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gSquare.7z/Old%20Versions/gSquare.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

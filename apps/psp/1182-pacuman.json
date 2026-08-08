@@ -1,0 +1,16 @@
+{
+  "id": 1182,
+  "name": "Pacuman",
+  "author": "JoseRC87",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1182-pacuman.png",
+  "description": "Version of Pac-Man for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pacuman.7z/pacuman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

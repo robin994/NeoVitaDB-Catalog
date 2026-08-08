@@ -1,0 +1,16 @@
+{
+  "id": 426,
+  "name": "Diamondsion Assault",
+  "author": "saiyan x",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0426-diamondsion-assault.png",
+  "description": "2D platformer for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/da-beta-v-0.1.7z/DA%20BETA%20v0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1629,
+  "name": "Cup Critters",
+  "author": "FantaHourglass",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CUID18745",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/452-Cup_20Critters.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1629-cup-critters.png",
+  "description": "Clone of Cup Critters for PSVITA/PSTV.\nIn Cup Critters, you must manipulate gravity to keep those crazy balls in the cups. As you advance, your score gets higher and the tricks get more difficult. Great fun for casual players and core gamers alike!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

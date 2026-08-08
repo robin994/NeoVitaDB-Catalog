@@ -1,0 +1,16 @@
+{
+  "id": 1335,
+  "name": "Quake 1 for PSP",
+  "author": "Juraj Styk, Peter Mackay, Chris Swindle",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1335-quake-1-for-psp.png",
+  "description": "PSP port of the game. The shareware version is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-quake-1-v-11.0-slim.-7z/Old%20Versions/PSP_Quake_1_v_11.0_slim.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

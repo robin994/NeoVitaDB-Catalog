@@ -1,0 +1,16 @@
+{
+  "id": 717,
+  "name": "Hamster's Escape",
+  "author": "GameMaster",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0717-hamster-s-escape.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hamsters-escape-psp/Hamster%27s%20Escape%20%28PSP%29.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

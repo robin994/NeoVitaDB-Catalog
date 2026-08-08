@@ -1,0 +1,16 @@
+{
+  "id": 1424,
+  "name": "PSP Quizzer",
+  "author": "Maxy_PSP",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1424-psp-quizzer.png",
+  "description": "Quiz on the PSP, about the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspquizzer-v.-1.11.7z/PSPQuizzerV.1.11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

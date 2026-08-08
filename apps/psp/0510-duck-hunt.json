@@ -1,0 +1,16 @@
+{
+  "id": 510,
+  "name": "Duck Hunt",
+  "author": "Marc6310, jojodu0010",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0510-duck-hunt.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/duck-hunt-v-0.2.7z/duck-hunt%20v0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

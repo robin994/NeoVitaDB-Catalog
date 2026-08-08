@@ -1,0 +1,16 @@
+{
+  "id": 373,
+  "name": "Control The Square",
+  "author": "Nevado0",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0373-control-the-square.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/control-the-square-.-7z/Control%20the%20Square%20%21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

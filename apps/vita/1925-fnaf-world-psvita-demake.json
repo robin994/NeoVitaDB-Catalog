@@ -1,0 +1,18 @@
+{
+  "id": 1925,
+  "name": "FNaF World PSVita Demake",
+  "author": "oldsport099",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GDOT00083",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1274-fnaf-world.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1925-fnaf-world-psvita-demake.png",
+  "description": "FNaF World PSVita Demake is a demake of the original FNaF World consisting of over 80% of the features cut like: character unlocks, Glitch areas, character dialogs, multiple endings ect. This game should be stable but unless there are extremly game breaking glitches the bugs wont be fixed.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

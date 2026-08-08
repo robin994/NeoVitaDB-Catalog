@@ -1,0 +1,16 @@
+{
+  "id": 394,
+  "name": "Crystalline",
+  "author": "Player1041, Wholesome",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0394-crystalline.png",
+  "description": "It's a game where you kill stuff.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/crystalline_202210/build.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

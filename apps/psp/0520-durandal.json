@@ -1,0 +1,16 @@
+{
+  "id": 520,
+  "name": "Durandal",
+  "author": "History_exe",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0520-durandal.png",
+  "description": "Homebrew visual novel for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/durandal-beta-1-0/Extra/Durandal_beta_1_0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

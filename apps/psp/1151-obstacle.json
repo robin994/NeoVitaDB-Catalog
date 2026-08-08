@@ -1,0 +1,16 @@
+{
+  "id": 1151,
+  "name": "Obstacle",
+  "author": "fede94boss",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1151-obstacle.png",
+  "description": "Simple dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/obstacle.-7z/OBSTACLE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

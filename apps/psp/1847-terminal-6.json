@@ -1,0 +1,16 @@
+{
+  "id": 1847,
+  "name": "Terminal 6",
+  "author": "Blaster's Death, Daminor26",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1847-terminal-6.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/terminal-6.7z/Terminal%206.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

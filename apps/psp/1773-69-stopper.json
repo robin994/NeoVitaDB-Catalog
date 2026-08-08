@@ -1,0 +1,16 @@
+{
+  "id": 1773,
+  "name": "69 Stopper",
+  "author": "Jordan Rehn (SG57)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1773-69-stopper.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/stopper_69_with_source.7z/stopper_69_with_source.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

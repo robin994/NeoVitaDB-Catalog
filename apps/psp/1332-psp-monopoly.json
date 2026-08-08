@@ -1,0 +1,16 @@
+{
+  "id": 1332,
+  "name": "PSP Monopoly",
+  "author": "Greg Tourville (XiGency), LiquiFire, cools",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1332-psp-monopoly.png",
+  "description": "Homebrew version of the tabletop game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-monopoly.-7z/Extra/Monopoly_Source.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

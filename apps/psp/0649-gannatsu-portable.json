@@ -1,0 +1,16 @@
+{
+  "id": 649,
+  "name": "Gannatsu Portable [がんなつポータブル]",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0649-gannatsu-portable.png",
+  "description": "PSP version of the indie game 'Ganbare Natsuki-san', created by Alpha Secret Base.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gannatsu-portable-psp.-7z/GannatsuPortablePSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

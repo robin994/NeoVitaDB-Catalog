@@ -1,0 +1,16 @@
+{
+  "id": 883,
+  "name": "Legacy -> xGrid",
+  "author": "Jordan Rehn (SG57)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0883-legacy-xgrid.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/legacy-xgridv-1-cf.-7z/LegacyXGridv1CF.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

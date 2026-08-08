@@ -1,0 +1,16 @@
+{
+  "id": 1636,
+  "name": "Skater Maze",
+  "author": "HardHat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1636-skater-maze.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/skatermaze0_1.7z/skatermaze0_1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

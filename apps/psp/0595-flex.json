@@ -1,0 +1,16 @@
+{
+  "id": 595,
+  "name": "Flex",
+  "author": "DiabloSoftware",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0595-flex.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flex-1.0a.-7z/FLEX_1.0a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

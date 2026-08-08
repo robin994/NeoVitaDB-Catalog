@@ -1,0 +1,18 @@
+{
+  "id": 1573,
+  "name": "VitaBrot",
+  "author": "Imroy",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITABROT1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/325-VitaBrot.vpk",
+  "version": "v.0.1.2",
+  "prerelease": false,
+  "icon": "1573-vitabrot.png",
+  "description": "This is a Mandelbrot and Julia set explorer for the Playstation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

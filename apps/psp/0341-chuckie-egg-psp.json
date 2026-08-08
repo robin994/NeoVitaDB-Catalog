@@ -1,0 +1,16 @@
+{
+  "id": 341,
+  "name": "Chuckie Egg PSP",
+  "author": "Antony Dzeryn (Ant512)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0341-chuckie-egg-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chuckie-egg-psp/ChuckieEggPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 142,
+  "name": "aTaca",
+  "author": "Bastian Pflieger (wbb)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0142-ataca.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ataca.7z/ataca.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

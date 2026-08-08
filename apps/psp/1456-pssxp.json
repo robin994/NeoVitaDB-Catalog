@@ -1,0 +1,16 @@
+{
+  "id": 1456,
+  "name": "Pssxp",
+  "author": "Buddy4point0, DimentionT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1456-pssxp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pssxp.-7z/Old%20Versions/Pssxp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

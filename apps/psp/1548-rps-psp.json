@@ -1,0 +1,16 @@
+{
+  "id": 1548,
+  "name": "RPS PSP",
+  "author": "Dreiundachzig",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1548-rps-psp.png",
+  "description": "Game of Rock, paper, scissors for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rps-psp-v-2.7z/RPS%20PSP%20v2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

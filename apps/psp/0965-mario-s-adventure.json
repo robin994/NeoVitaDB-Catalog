@@ -1,0 +1,16 @@
+{
+  "id": 965,
+  "name": "Mario's Adventure",
+  "author": "D0n, S34mus, Mr_Nick666",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0965-mario-s-adventure.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-adventurev-0.1.7z/MarioAdventurev0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

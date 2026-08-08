@@ -1,0 +1,18 @@
+{
+  "id": 1748,
+  "name": "Quakespasm-Spiked",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "QKSPMSPKD",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/716-quakespasm.vpk",
+  "version": "v.1.6",
+  "prerelease": false,
+  "icon": "1748-quakespasm-spiked.png",
+  "description": "Advanced and modern Quake source port with limits removed and high mods compatibility.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

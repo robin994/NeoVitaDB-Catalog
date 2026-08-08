@@ -1,0 +1,18 @@
+{
+  "id": 1807,
+  "name": "Worlds Hardest Game Vita",
+  "author": "Comet Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "WHGR00000",
+  "direct_url": "https://github.com/Comet-Games/Worlds-Hardest-Game-Vita/releases/download/v01.15/WHGVita.vpk",
+  "version": "v.01.15",
+  "prerelease": false,
+  "icon": "1807-worlds-hardest-game-vita.png",
+  "description": "Clone of World's Hardest Game, a popular flash game, for PSVITA/PSTV made in Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

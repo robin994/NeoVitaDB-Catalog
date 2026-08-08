@@ -1,0 +1,16 @@
+{
+  "id": 1035,
+  "name": "Mind Reader",
+  "author": "Walook",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1035-mind-reader.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mind-reader.-7z/Mind%20reader.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1624,
+  "name": "The Call",
+  "author": "Paulo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PAUL00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/446-The_20Call.vpk",
+  "version": "v.1.0.1",
+  "prerelease": false,
+  "icon": "1624-the-call.png",
+  "description": "Settled in a distopyan America deeply immersed in a noir atmosphere, The Call, developed for the Global Game Jam 2018, follows the daily routine of a cable operator, a now forgotten job. But what seems to be another ordinary day will eventually turn into something else, as our protagonist unfold something bigger…",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

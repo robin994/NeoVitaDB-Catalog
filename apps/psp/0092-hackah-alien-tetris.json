@@ -1,0 +1,16 @@
+{
+  "id": 92,
+  "name": "HaCKaH (Alien Tetris)",
+  "author": "Michaël Schoonbrood",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0092-hackah-alien-tetris.png",
+  "description": "Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alientetris.-7z/HaCKaH_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

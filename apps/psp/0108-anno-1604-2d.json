@@ -1,0 +1,16 @@
+{
+  "id": 108,
+  "name": "Anno 1604 2D",
+  "author": "Fableboss1",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0108-anno-1604-2d.png",
+  "description": "Homebrew strategy game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/anno-2-d-1604.7z/Anno%202D%201604.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

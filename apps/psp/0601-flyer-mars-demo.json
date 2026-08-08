@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "name": "Flyer: Mars Demo",
+  "author": "Гaeae Вeaдeсeaa (vladgalay)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0601-flyer-mars-demo.png",
+  "description": "2D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flyer.-7z/Flyer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

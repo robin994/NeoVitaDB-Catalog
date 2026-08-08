@@ -1,0 +1,16 @@
+{
+  "id": 1444,
+  "name": "Tetris Portable",
+  "author": "Erica N. Rosario, Yuriy Y. Yernilov",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1444-tetris-portable.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psptetris_v.0.7146.7z/psptetris_v.0.7146.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "name": "Comedy Story [お笑い物語]",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0365-comedy-story.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/comedystorypsp.7z/comedystorypsp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

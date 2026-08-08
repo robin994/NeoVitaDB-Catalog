@@ -1,0 +1,16 @@
+{
+  "id": 835,
+  "name": "Kill Bill Volume 1",
+  "author": "Demitri",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0835-kill-bill-volume-1.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kill-bill.-7z/KillBill.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

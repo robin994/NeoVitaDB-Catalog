@@ -1,0 +1,16 @@
+{
+  "id": 1377,
+  "name": "PSPendu",
+  "author": "percyflette",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1377-pspendu.png",
+  "description": "Game of hangman in French.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspendu.-7z/PSPendu.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

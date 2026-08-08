@@ -1,0 +1,18 @@
+{
+  "id": 1690,
+  "name": "Ronister Adventure",
+  "author": "ronikgames",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "RONISTERA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/576-Ronister.vpk",
+  "version": "Demo v.1.1",
+  "prerelease": false,
+  "icon": "1690-ronister-adventure.png",
+  "description": "Ronister Adventure is a 2D platform game. Help Ronister to save the world from a terrible enemy from space, for that he will have to travel the world in search of this threat.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

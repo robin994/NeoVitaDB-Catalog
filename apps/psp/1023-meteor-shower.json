@@ -1,0 +1,16 @@
+{
+  "id": 1023,
+  "name": "Meteor Shower",
+  "author": "Iftode Bogdan Marius",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1023-meteor-shower.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/meteor-shower.-7z/MeteorShower.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

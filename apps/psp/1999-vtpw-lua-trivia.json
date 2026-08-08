@@ -1,0 +1,16 @@
+{
+  "id": 1999,
+  "name": "VTPW Lua Trivia",
+  "author": "VTPW",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1999-vtpw-lua-trivia.png",
+  "description": "Quiz app for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/vtpw.-7z/VTPW.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

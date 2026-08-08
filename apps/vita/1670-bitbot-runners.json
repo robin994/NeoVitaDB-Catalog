@@ -1,0 +1,18 @@
+{
+  "id": 1670,
+  "name": "BitBot Runners",
+  "author": "LuckTheGamers",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BBRM12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/519-BitBot-Runners.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1670-bitbot-runners.png",
+  "description": "Port of BitBot Runners, an indie running game in which your goal is to get points by passing levels and with that being able to buy new characters.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

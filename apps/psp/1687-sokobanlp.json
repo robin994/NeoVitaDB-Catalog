@@ -1,0 +1,16 @@
+{
+  "id": 1687,
+  "name": "SokobanLP",
+  "author": "nzero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1687-sokobanlp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sokoban-lp.-7z/SokobanLP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

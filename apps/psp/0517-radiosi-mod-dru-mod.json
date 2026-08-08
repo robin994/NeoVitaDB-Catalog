@@ -1,0 +1,16 @@
+{
+  "id": 517,
+  "name": "Radiosi Mod (Dru Mod)",
+  "author": "Drew Medina",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0517-radiosi-mod-dru-mod.png",
+  "description": "Homebrew game based on the Dungeons 3D engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dungeons.-7z/Dungeons.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

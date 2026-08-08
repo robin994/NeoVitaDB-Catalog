@@ -1,0 +1,16 @@
+{
+  "id": 1285,
+  "name": "PortableQuiz",
+  "author": "Shefqet",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1285-portablequiz.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/portable-quiz.-7z/PortableQuiz.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1730,
+  "name": "Spacecraft",
+  "author": "NautiluS1",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1730-spacecraft.png",
+  "description": "Dodging game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/spacecraft_20.7z/spacecraft_20.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

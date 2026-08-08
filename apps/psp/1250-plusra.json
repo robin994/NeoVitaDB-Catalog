@@ -1,0 +1,16 @@
+{
+  "id": 1250,
+  "name": "Plusra",
+  "author": "Kcazer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1250-plusra.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/plusra-psp.-7z/PlusraPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

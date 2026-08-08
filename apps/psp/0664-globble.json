@@ -1,0 +1,16 @@
+{
+  "id": 664,
+  "name": "Globble",
+  "author": "cg8516",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0664-globble.png",
+  "description": "You're a blob. Eat smaller blobs to collect points and grow. Don't get eaten by the big blobs. Contains two  three-minute game modes. Share your best scores in the comments. Let me know if you beat 1239 in classic, or 227 in survival. Runs well in ppsspp and on real hardware. All game-specific code and assets were made from scratch for the jam. Built with an engine/toolset I've been making for the PSP. Maybe look forward to that in the future?",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/globble/globble.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

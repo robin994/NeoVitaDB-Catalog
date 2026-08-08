@@ -1,0 +1,16 @@
+{
+  "id": 962,
+  "name": "Mankalah",
+  "author": "thepixelatedpoo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0962-mankalah.png",
+  "description": "PSP version of the African game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mankalah.7z/mankalah.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

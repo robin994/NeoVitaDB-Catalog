@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "name": "Dark Dungeons",
+  "author": "Be3f",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0432-dark-dungeons.png",
+  "description": "3D shooter homebrew running on the Dungeons engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dark-dungeons_202210/DUNGEONS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

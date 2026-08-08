@@ -1,0 +1,18 @@
+{
+  "id": 1839,
+  "name": "Beat2x Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BEAT00002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1101-Beat2x.vpk",
+  "version": "v.1.0.1",
+  "prerelease": false,
+  "icon": "1839-beat2x-vita.png",
+  "description": "Port of Beat2x for PSVITA.\nBeat2x is a Dance Dance Revolution like game originally made for the GP2X open console.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

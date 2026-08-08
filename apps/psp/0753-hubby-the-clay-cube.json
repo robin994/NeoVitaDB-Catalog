@@ -1,0 +1,16 @@
+{
+  "id": 753,
+  "name": "Hubby the Clay Cube",
+  "author": "ZiaxGames",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0753-hubby-the-clay-cube.png",
+  "description": "PSP homebrew game",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hubby_the_clay_cube/hubby_the_clay_cube.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

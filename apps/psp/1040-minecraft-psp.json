@@ -1,0 +1,16 @@
+{
+  "id": 1040,
+  "name": "Minecraft PSP",
+  "author": "Wandemberg Armijos (Regen Studio)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1040-minecraft-psp.png",
+  "description": "PSP recreation of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/minecraft-psp-2.4.2.7z/Minecraft%20PSP%203.4.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

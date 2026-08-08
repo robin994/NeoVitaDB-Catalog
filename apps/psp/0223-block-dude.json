@@ -1,0 +1,16 @@
+{
+  "id": 223,
+  "name": "Block Dude",
+  "author": "cools",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0223-block-dude.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/block-dude-v.-1.7z/Block_Dude_v.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

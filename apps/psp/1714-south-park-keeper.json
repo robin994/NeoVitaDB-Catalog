@@ -1,0 +1,16 @@
+{
+  "id": 1714,
+  "name": "South Park Keeper",
+  "author": "N64Francois",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1714-south-park-keeper.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/south-park-keeper/SouthPark%20Keeper.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

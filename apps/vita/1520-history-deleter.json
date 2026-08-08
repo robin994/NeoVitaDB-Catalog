@@ -1,0 +1,18 @@
+{
+  "id": 1520,
+  "name": "History Deleter",
+  "author": "KanadeEngel",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "KANA00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/162-History_Deleter.vpk",
+  "version": "v.2.0",
+  "prerelease": false,
+  "icon": "1520-history-deleter.png",
+  "description": "Little application that purges game logs and coredumps.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

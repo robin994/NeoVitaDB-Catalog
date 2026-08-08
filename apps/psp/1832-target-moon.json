@@ -1,0 +1,16 @@
+{
+  "id": 1832,
+  "name": "Target Moon",
+  "author": "Blaster's Death",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1832-target-moon.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/target_moon.7z/target_moon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

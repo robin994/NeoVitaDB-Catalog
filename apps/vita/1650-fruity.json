@@ -1,0 +1,18 @@
+{
+  "id": 1650,
+  "name": "FruitY",
+  "author": "Retroguru Team",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FRUITY001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/480-FRUITY001.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1650-fruity.png",
+  "description": "Fruit'Y - Playing with edibles is heavily inspired by the Kaiko classic Gem'X, which has been seen on computers such as the Commodore Amiga 500, Commodore 64 and Atari ST.\nAlthough tiger mum forbids little Sheran to play with edibles, there is simply no way to stop him from playing with fruits found inside the deep jungle. Being shiny, smelling wonderful and tasting even better Sheran can't be kept away. So let's do the best we could do: Support him!\nThe game consists of two boards of fruits. The left field belongs to Sheran who needs to reproduce the right field 1:1 being able to proceed to the next level. Sounds easy?!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

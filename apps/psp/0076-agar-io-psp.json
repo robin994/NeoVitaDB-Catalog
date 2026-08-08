@@ -1,0 +1,16 @@
+{
+  "id": 76,
+  "name": "Agar.io PSP",
+  "author": "SJRNoodles",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0076-agar-io-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/agar_20211226/agar.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

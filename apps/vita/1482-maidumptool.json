@@ -1,0 +1,18 @@
+{
+  "id": 1482,
+  "name": "MaiDumpTool",
+  "author": "BeniYukiMai",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MAIDUMPTO",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/54-MaiDumpTool.vpk",
+  "version": "v.233.2zEx",
+  "prerelease": false,
+  "icon": "1482-maidumptool.png",
+  "description": "Improved games dumper, alternative to Vitamin.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

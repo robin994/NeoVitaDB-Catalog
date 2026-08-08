@@ -1,0 +1,16 @@
+{
+  "id": 1159,
+  "name": "OpenBricks",
+  "author": "Ryp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1159-openbricks.png",
+  "description": "Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/open-bricks.-7z/OpenBricks1.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

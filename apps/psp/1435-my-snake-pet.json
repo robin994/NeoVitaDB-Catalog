@@ -1,0 +1,16 @@
+{
+  "id": 1435,
+  "name": "My Snake Pet",
+  "author": "Leviadragon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1435-my-snake-pet.png",
+  "description": "Solid Snake pet simulator.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspsnake-pet.-7z/PSPSnakePET.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

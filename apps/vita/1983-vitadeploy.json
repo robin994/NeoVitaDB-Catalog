@@ -1,0 +1,18 @@
+{
+  "id": 1983,
+  "name": "VitaDeploy",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGD3PL0Y",
+  "repo": "SKGleba/VitaDeploy",
+  "asset": "VitaDeploy.vpk",
+  "prerelease": false,
+  "icon": "1983-vitadeploy.png",
+  "description": "Installs and updates the software a modded PSVITA needs, including firmware components and common homebrew, from the device itself. A mshell build is in the same release.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

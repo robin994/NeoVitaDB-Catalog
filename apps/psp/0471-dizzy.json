@@ -1,0 +1,16 @@
+{
+  "id": 471,
+  "name": "Dizzy",
+  "author": "Дмитрий Трунов (Da-nie)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0471-dizzy.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dizzy-psp-game/Dizzy-PSP-Game.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

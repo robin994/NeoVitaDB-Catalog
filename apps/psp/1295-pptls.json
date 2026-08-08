@@ -1,0 +1,16 @@
+{
+  "id": 1295,
+  "name": "PPTLS",
+  "author": "DCelso",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1295-pptls.png",
+  "description": "PSP version of a game for the BennuGD engine ('piedra, papel, tijeras, lagarto, spock').",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pptls.7z/pptls.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

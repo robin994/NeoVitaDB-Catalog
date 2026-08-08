@@ -1,0 +1,18 @@
+{
+  "id": 1828,
+  "name": "ANIMANCER",
+  "author": "VSM GAMMER",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ANICER001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1081-ANIMANCER.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1828-animancer.png",
+  "description": "Port of Animancer for PSVITA.\nSomehow, you have lost your soul. It would be good idea to find it.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

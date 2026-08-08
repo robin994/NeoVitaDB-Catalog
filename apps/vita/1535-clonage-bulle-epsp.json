@@ -1,0 +1,18 @@
+{
+  "id": 1535,
+  "name": "Clonage Bulle ePSP",
+  "author": "Markus95",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CLON00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/187-Clonage_Bulle_ePSP.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1535-clonage-bulle-epsp.png",
+  "description": "A little homebrew for multiple ePSP bubble (x5)\nYou must install the first ePSP Bubble with ePSP Bubble Installer, after use Clonage Bulle ePSP for multiple your ePSP Bubble.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

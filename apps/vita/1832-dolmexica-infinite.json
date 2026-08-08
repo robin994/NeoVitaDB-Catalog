@@ -1,0 +1,18 @@
+{
+  "id": 1832,
+  "name": "Dolmexica Infinite",
+  "author": "Captain Dreamcast",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "DOLM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1091-dolmexica_infinite.vpk",
+  "version": "v.1.6",
+  "prerelease": false,
+  "icon": "1832-dolmexica-infinite.png",
+  "description": "Dolmexica Infinite is an in-development Mugen interpreter for Dreamcast, Web, Vita and Windows.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

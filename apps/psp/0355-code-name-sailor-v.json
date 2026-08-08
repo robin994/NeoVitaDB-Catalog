@@ -1,0 +1,16 @@
+{
+  "id": 355,
+  "name": "Code Name: Sailor V",
+  "author": "Tommy Watson (Kungpow)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0355-code-name-sailor-v.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/code-name-sailor-v-psp.-7z/CodeNameSailorV_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

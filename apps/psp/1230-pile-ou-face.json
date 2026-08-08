@@ -1,0 +1,16 @@
+{
+  "id": 1230,
+  "name": "Pile ou Face",
+  "author": "TeamPCT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1230-pile-ou-face.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pile-ou-face.-7z/Pile%20ou%20Face.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

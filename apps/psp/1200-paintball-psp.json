@@ -1,0 +1,16 @@
+{
+  "id": 1200,
+  "name": "Paintball PSP",
+  "author": "Immortal-",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1200-paintball-psp.png",
+  "description": "Paintball mod for CSPSP 1.61.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pbpsp-v-6.2b.-7z/PBPSP-v6.2b.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

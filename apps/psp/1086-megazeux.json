@@ -1,0 +1,16 @@
+{
+  "id": 1086,
+  "name": "MegaZeux",
+  "author": "Alexis Janson, Gilead Kutnick (Exophase), Alistair Strachan (ajs), Alice Rowan (Lachesis), Lancer-X",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1086-megazeux.png",
+  "description": "PSP version of the multiplatform game creation system, packaged with a copy of the game Caverns of Zeux by Gregory Janson.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mzx292f-psp.7z/mzx292f-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

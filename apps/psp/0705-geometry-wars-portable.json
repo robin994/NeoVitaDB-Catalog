@@ -1,0 +1,16 @@
+{
+  "id": 705,
+  "name": "Geometry Wars Portable",
+  "author": "Victor Xie",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0705-geometry-wars-portable.png",
+  "description": "Homebrew game for the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gwp.-7z/GWP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

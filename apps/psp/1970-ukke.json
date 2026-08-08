@@ -1,0 +1,16 @@
+{
+  "id": 1970,
+  "name": "Ukke",
+  "author": "Realtech VR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1970-ukke.png",
+  "description": "Homebrew puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ukke_11.7z/ukke_11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

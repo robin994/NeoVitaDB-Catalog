@@ -1,0 +1,16 @@
+{
+  "id": 1085,
+  "name": "Myspace: The Game",
+  "author": "JEMdev",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1085-myspace-the-game.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/myspace-thegame.-7z/Myspace-%20THEGAME%21%21%21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

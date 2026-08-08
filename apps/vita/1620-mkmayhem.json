@@ -1,0 +1,18 @@
+{
+  "id": 1620,
+  "name": "MKMayhem",
+  "author": "FantaHourglass",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BEBE12908",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/442-MKMayhem.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1620-mkmayhem.png",
+  "description": "A Goat Simulator clone set in Mario world with Waluigi as playable character.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

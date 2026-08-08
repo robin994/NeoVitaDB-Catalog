@@ -1,0 +1,16 @@
+{
+  "id": 858,
+  "name": "labKillHomer3D",
+  "author": "pspflashsystem",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0858-labkillhomer3d.png",
+  "description": "Find the yellow character in the maze and shoot him.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/labKillHomer3D.7z/labKillHomer3D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 541,
+  "name": "El Nim",
+  "author": "Francisco Muñoz",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0541-el-nim.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/el-nim-sb.-7z/Old%20Versions/ElNimSB.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1939,
+  "name": "TIE Vita",
+  "author": "LordChickenBlaster",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TIEE00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1325-TIE.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1939-tie-vita.png",
+  "description": "TIE is a game about depression and the daily grind we are all forced too endure. Experience a week of more of the same, every day, through the eyes of our main character as the world and its inhabitants slowly start too become increasingly unfamiliar. Irregularities in the world and from deep within plague your day to day and a strange force seems to tear the very fabric of reality itself, as it becomes apparent that not all is as it seems in this short, atmospheric game about depression and existential dread.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

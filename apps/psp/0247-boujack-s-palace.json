@@ -1,0 +1,16 @@
+{
+  "id": 247,
+  "name": "Boujack's Palace",
+  "author": "Boujack",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0247-boujack-s-palace.png",
+  "description": "Slot machine game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/boujacks-palace.-7z/Boujack%27s%20Palace.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

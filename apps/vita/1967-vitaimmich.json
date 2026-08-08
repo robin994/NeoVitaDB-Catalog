@@ -1,0 +1,18 @@
+{
+  "id": 1967,
+  "name": "vitaImmich",
+  "author": "SadsArches",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VIMM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1417-vitaImmich.vpk",
+  "version": "v.1.0.0",
+  "prerelease": false,
+  "icon": "1967-vitaimmich.png",
+  "description": "A native Immich client for the PlayStation Vita. Browse, search and map your whole photo & video library over Wi-Fi, play videos on the Vita's hardware decoder, and back up the camera roll, all on a 12-year-old handheld.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

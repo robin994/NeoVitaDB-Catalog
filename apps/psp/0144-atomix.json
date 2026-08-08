@@ -1,0 +1,16 @@
+{
+  "id": 144,
+  "name": "Atomix",
+  "author": "Naboo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0144-atomix.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/atomix150v10.7z/Extra/atomix_source_v1_0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

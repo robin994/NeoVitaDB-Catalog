@@ -1,0 +1,16 @@
+{
+  "id": 2118,
+  "name": "Masterboy",
+  "author": "Brunni",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2118-masterboy.png",
+  "description": "A Game Boy, Sega Master System and Game Gear Emulator for the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/masterboy-theelf.7z/masterboy-theelf.zip",
+  "version": "v.2.02",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

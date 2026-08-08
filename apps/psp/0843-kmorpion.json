@@ -1,0 +1,16 @@
+{
+  "id": 843,
+  "name": "KMorpion",
+  "author": "KaoutchouX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0843-kmorpion.png",
+  "description": "Noughts and crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kmorpion.-7z/KMorpion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2081,
+  "name": "RetroArch",
+  "author": "Libretro Team",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2081-retroarch.png",
+  "description": "RetroArch is the official reference frontend for the libretro API.\nRetroArch is most popularly known for being a program with which you can play many emulators and games, which have all been customized and tailor-ported to the libretro API.\n\nIt is designed to be fast, lightweight, and portable. It tries to be on the cutting edge in terms of technology supported as well as trying to be as backwards compatible as possible.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/retro-arch-1.9.0.7z/RetroArch-1.9.14.zip",
+  "version": "v.1.9.14",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

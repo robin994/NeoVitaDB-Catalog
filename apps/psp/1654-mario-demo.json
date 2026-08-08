@@ -1,0 +1,16 @@
+{
+  "id": 1654,
+  "name": "Mario Demo",
+  "author": "Sanik",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1654-mario-demo.png",
+  "description": "Playable demo for a 3D Mario game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smario-demo.-7z/SMarioDemo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

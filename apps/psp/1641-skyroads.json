@@ -1,0 +1,16 @@
+{
+  "id": 1641,
+  "name": "SkyRoads",
+  "author": "Martijn Gerkes (zeroZshadow)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1641-skyroads.png",
+  "description": "3D game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sky-roads.-7z/SkyRoads.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

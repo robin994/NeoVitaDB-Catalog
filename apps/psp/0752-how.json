@@ -1,0 +1,16 @@
+{
+  "id": 752,
+  "name": "How",
+  "author": "Pro X",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0752-how.png",
+  "description": "PSP port of the game created by Mike Inel.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/how.-7z/How.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

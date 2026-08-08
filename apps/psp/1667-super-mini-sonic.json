@@ -1,0 +1,16 @@
+{
+  "id": 1667,
+  "name": "Super Mini Sonic",
+  "author": "Maxime",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1667-super-mini-sonic.png",
+  "description": "Platformer for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smm.-7z/SMM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

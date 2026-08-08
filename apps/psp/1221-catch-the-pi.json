@@ -1,0 +1,16 @@
+{
+  "id": 1221,
+  "name": "Catch the Pi",
+  "author": "Mannymix03, therealnapster84",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1221-catch-the-pi.png",
+  "description": "Simple homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pi_catch.7z/pi_catch.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

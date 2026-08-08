@@ -1,0 +1,16 @@
+{
+  "id": 477,
+  "name": "Space Dodger",
+  "author": "Valer, ZiXeD",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0477-space-dodger.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dodger.-7z/Dodger.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

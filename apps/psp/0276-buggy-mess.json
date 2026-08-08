@@ -1,0 +1,16 @@
+{
+  "id": 276,
+  "name": "Buggy Mess",
+  "author": "MEGAgameBoy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0276-buggy-mess.png",
+  "description": "Your friend want you to go buy the new game that just came out, you will need to get out of your cave (litteraly) to go touch grass uh… i mean go buy the game at the store.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/buggy-mess/BuggyMess1.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

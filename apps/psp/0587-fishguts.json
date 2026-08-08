@@ -1,0 +1,16 @@
+{
+  "id": 587,
+  "name": "Fishguts",
+  "author": "Mega Tokyo Software",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0587-fishguts.png",
+  "description": "Homebrew roguelike game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fishguts.7z/fishguts.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1473,
+  "name": "vitaAirHockey",
+  "author": "LaGaipaG",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VAIH00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/30-vitaAirHockey.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1473-vitaairhockey.png",
+  "description": "Air Hockey/Pong game for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

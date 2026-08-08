@@ -1,0 +1,16 @@
+{
+  "id": 1799,
+  "name": "Super Sudoku",
+  "author": "Jorge_97",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1799-super-sudoku.png",
+  "description": "Sudoku for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/super-sudoku-v-1.7z/Super%20Sudoku%20v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

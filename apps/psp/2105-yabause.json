@@ -1,0 +1,16 @@
+{
+  "id": 2105,
+  "name": "Yabause",
+  "author": "Yabause Team & Andrew Church",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2105-yabause.png",
+  "description": "A Sega Saturn emulator for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/yabause-0.9.10-psp.7z/yabause-svn-2599.zip",
+  "version": "v.0.9.10 SVN 2599",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

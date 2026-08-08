@@ -1,0 +1,16 @@
+{
+  "id": 582,
+  "name": "Final Fight X",
+  "author": "jiam",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0582-final-fight-x.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/final-fight-x.-7z/Final%20Fight%20X.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

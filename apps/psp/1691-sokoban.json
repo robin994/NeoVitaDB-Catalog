@@ -1,0 +1,16 @@
+{
+  "id": 1691,
+  "name": "Sokoban",
+  "author": "SopaXorzTaker",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1691-sokoban.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sokoban_202109/sokoban.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

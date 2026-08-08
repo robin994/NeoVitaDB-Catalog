@@ -1,0 +1,18 @@
+{
+  "id": 1973,
+  "name": "Chinese Social Credit Test",
+  "author": "Ximer",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "XIMA61245",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1445-Chinese_Social_Credit_Test_PSVITA.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1973-chinese-social-credit-test.png",
+  "description": "Parody game of the chinese social credit system for PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

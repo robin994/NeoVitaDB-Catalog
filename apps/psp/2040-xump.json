@@ -1,0 +1,16 @@
+{
+  "id": 2040,
+  "name": "Xump",
+  "author": "Retroguru",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2040-xump.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/xump.-7z/XUMP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

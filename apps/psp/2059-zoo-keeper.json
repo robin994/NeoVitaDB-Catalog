@@ -1,0 +1,16 @@
+{
+  "id": 2059,
+  "name": "Zoo Keeper",
+  "author": "Bian Wei (orbpig)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2059-zoo-keeper.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/zk102.7z/zk102.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

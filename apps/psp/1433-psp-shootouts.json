@@ -1,0 +1,16 @@
+{
+  "id": 1433,
+  "name": "PSP Shootouts",
+  "author": "PSPMEX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1433-psp-shootouts.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspshootouts.-7z/Old%20Versions/PSPSHOOTOUTS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

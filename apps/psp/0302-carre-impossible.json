@@ -1,0 +1,16 @@
+{
+  "id": 302,
+  "name": "Carre Impossible",
+  "author": "Aurxk",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0302-carre-impossible.png",
+  "description": "Homebrew game for PSP. Also known as Carre Diabolique.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/carre-impossible/carre%20impossible.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

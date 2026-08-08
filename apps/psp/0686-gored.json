@@ -1,0 +1,16 @@
+{
+  "id": 686,
+  "name": "Gored",
+  "author": "XteticX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0686-gored.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gored.-7z/Gored.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

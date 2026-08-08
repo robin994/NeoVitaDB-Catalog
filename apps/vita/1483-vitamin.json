@@ -1,0 +1,18 @@
+{
+  "id": 1483,
+  "name": "Vitamin",
+  "author": "TheFloW",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITAMIN00",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/56-Vitamin.vpk",
+  "version": "v.2.0",
+  "prerelease": false,
+  "icon": "1483-vitamin.png",
+  "description": "First game dumper/decrypter for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

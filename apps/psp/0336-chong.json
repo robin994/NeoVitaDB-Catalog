@@ -1,0 +1,16 @@
+{
+  "id": 336,
+  "name": "Chong",
+  "author": "Tromedlov, Qwertycho",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0336-chong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chong.-7z/Chong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

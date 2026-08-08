@@ -1,0 +1,16 @@
+{
+  "id": 821,
+  "name": "Kaiten Patissier [かいてんパティシエ]",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0821-kaiten-patissier.png",
+  "description": "Port of the indie puzzle game by Alpha Secret Base.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kaiten-patissier-psp.-7z/KaitenPatissierPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

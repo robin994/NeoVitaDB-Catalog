@@ -1,0 +1,16 @@
+{
+  "id": 112,
+  "name": "Anti-Entropy",
+  "author": "History_exe",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0112-anti-entropy.png",
+  "description": "Homebrew visual novel for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/anti-entropy-beta-1-0_202112/Extra/Anti_Entropy_beta_1_0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

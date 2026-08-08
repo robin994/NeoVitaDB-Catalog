@@ -1,0 +1,16 @@
+{
+  "id": 496,
+  "name": "Mr Driller PSP",
+  "author": "Wally",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0496-mr-driller-psp.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/drill-psp.-7z/DrillPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

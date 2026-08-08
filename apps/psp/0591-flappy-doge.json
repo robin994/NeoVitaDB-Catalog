@@ -1,0 +1,16 @@
+{
+  "id": 591,
+  "name": "Flappy Doge",
+  "author": "Cubenity, SGI",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0591-flappy-doge.png",
+  "description": "Flappy Bird mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flappy-doge-v-1.2.7z/Flappy%20Doge%20v%201.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1519,
+  "name": "Retro Recycle: The Beginning",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1519-retro-recycle-the-beginning.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/retro-recycle-tb.-7z/RetroRecycleTB.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

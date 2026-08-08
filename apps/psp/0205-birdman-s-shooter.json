@@ -1,0 +1,16 @@
+{
+  "id": 205,
+  "name": "Birdman's Shooter",
+  "author": "theb1rdm4n",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0205-birdman-s-shooter.png",
+  "description": "Shoot 'em up for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/birdmans-shooter.-7z/Birdmans%20Shooter.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1317,
+  "name": "PSP Fighter",
+  "author": "Lynn Romich",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1317-psp-fighter.png",
+  "description": "A simple homebrew game for the PSP, written using the PSP port of SDL.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-fighter-master/PSP-Fighter-master.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

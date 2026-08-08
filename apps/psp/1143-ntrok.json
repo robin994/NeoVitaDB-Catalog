@@ -1,0 +1,16 @@
+{
+  "id": 1143,
+  "name": "Ntrok",
+  "author": "Mike Ravenelle",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1143-ntrok.png",
+  "description": "Homebrew game for PSP based on KTron.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ntrok.-7z/Ntrok.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1974,
+  "name": "DJ Escher",
+  "author": "dos",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DOS1ESCHE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1446-djescher-vita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1974-dj-escher.png",
+  "description": "M.C. Escher got tired of being an MC and decided to try being a DJ instead!\nHe throws hexagonal vinyl recordings of his favorite band of singing potatoes, so you have to catch as many as you can with your turntables.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

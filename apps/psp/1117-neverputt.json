@@ -1,0 +1,16 @@
+{
+  "id": 1117,
+  "name": "Neverputt",
+  "author": "Clément Guérin (Geecko)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1117-neverputt.png",
+  "description": "PSP version of the game. Font rendering does not work. Neverputt only works if Neverball is also located in the same root folder.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/neverputt-svn.7z/neverputt-svn.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

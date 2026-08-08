@@ -1,0 +1,18 @@
+{
+  "id": 1466,
+  "name": "AntiBlacklist",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ABLK00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/11-AntiBlacklist.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1466-antiblacklist.png",
+  "description": "AntiBlacklist is an homebrew-tool for PSTV that will remove the blacklist for games and apps inserted by Sony allowing you to play any game you want on your console.\nDifferently to the other tools, AntiBlacklist support both v1 and v2 patches and is also capable to remove v2 patch (if you want to update a game blocked by it and then re-enable it.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

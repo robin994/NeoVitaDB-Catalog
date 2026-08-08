@@ -1,0 +1,18 @@
+{
+  "id": 1560,
+  "name": "vitaQuakeII",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "QUAKE0002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/278-vitaQuakeII.vpk",
+  "version": "v.2.4",
+  "prerelease": false,
+  "icon": "1560-vitaquakeii.png",
+  "description": "Quake II port for PSVITA with network support (both LAN and multiplayer), savestates, soundtrack, sounds and all standard features of Quake II.\nThe port is fully hardware accelerated and supports high res textures pack and official mission packs.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

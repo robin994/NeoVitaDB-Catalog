@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "name": "Aereo Team Mex",
+  "author": "Team Mex",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0074-aereo-team-mex.png",
+  "description": "2D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/aereo-team-mex-beta-1.7z/Aereo_TeamMex_BETA_1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

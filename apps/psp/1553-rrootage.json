@@ -1,0 +1,16 @@
+{
+  "id": 1553,
+  "name": "rRootage",
+  "author": "Marcus R. Brown (mrbrown)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1553-rrootage.png",
+  "description": "Port of Kenta Cho's PC shooter, rRootage.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rRootage.7z/Extra/rRootage_2011_recompile.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

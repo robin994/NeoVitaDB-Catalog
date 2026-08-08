@@ -1,0 +1,16 @@
+{
+  "id": 171,
+  "name": "Basecamp Lua Tennis",
+  "author": "Basecamp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0171-basecamp-lua-tennis.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/basecamp-lua-tennis.-7z/Basecamp%20Lua%20Tennis.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

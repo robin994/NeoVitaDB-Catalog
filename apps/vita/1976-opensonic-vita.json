@@ -1,0 +1,18 @@
+{
+  "id": 1976,
+  "name": "OpenSonic Vita",
+  "author": "KiddRwxSsj",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OSNC00001",
+  "repo": "KiddRwxSsj/opensonic-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1976-opensonic-vita.png",
+  "description": "OpenSonic Vita brings the classic open-source demo engine to the PS Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

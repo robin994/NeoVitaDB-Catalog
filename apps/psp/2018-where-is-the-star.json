@@ -1,0 +1,16 @@
+{
+  "id": 2018,
+  "name": "Where is the star?",
+  "author": "moikop",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2018-where-is-the-star.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wits.-7z/WITS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

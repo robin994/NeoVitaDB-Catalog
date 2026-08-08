@@ -1,0 +1,18 @@
+{
+  "id": 1470,
+  "name": "DeSmuME-Vita",
+  "author": "MasterFeizz",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "DSEMU0000",
+  "direct_url": "https://github.com/masterfeizz/DeSmuME-Vita/releases/download/v0.2/desmume.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1470-desmume-vita.png",
+  "description": "Port of DeSmuME DS Emulator for the PSVita.\nIt's currently a fully interpreted DS emulator, which means the performance is not so great.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

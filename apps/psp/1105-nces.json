@@ -1,0 +1,16 @@
+{
+  "id": 1105,
+  "name": "NCES",
+  "author": "MotoLegacy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1105-nces.png",
+  "description": "Nic Cage Eats Stuff on the PlayStation Portable.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nces.-7z/NCES.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

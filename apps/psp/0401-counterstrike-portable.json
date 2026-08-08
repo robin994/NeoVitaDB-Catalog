@@ -1,0 +1,16 @@
+{
+  "id": 401,
+  "name": "CounterStrike Portable",
+  "author": "Stealth Kill",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0401-counterstrike-portable.png",
+  "description": "3D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/csportable-0.8.7z/CSPortable%200.8B2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

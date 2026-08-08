@@ -1,0 +1,18 @@
+{
+  "id": 1758,
+  "name": "Very Obscure Souls",
+  "author": "asdronin",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VOSM02345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/759-VeryObscureSoulsD.vpk",
+  "version": "Demo",
+  "prerelease": false,
+  "icon": "1758-very-obscure-souls.png",
+  "description": "This is a game where you fight in a dungeon a variety of enemies to survive, also many things that populate this world are deadly for you, so you have to be careful and hone your skills to the most.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

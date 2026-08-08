@@ -1,0 +1,16 @@
+{
+  "id": 1860,
+  "name": "Tetris Game",
+  "author": "Tasos Kleisas (Teacake)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1860-tetris-game.png",
+  "description": "Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetrisclone.7z/tetrisclone.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

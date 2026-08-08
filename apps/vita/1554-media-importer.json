@@ -1,0 +1,18 @@
+{
+  "id": 1554,
+  "name": "Media Importer",
+  "author": "cnsldv",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MIMP00001",
+  "direct_url": "https://github.com/cnsldv/MediaImporter/releases/download/v0.91/MediaImporter.vpk",
+  "version": "v.0.91",
+  "prerelease": false,
+  "icon": "1554-media-importer.png",
+  "description": "A simple homebrew for importing media into the PS Vita Video and Music players. It removes the need to import your media into CMA/QCMA on your computer.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

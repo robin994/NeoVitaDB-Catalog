@@ -1,0 +1,16 @@
+{
+  "id": 1939,
+  "name": "TP03 [作りかけのシューティングゲーム]",
+  "author": "osakana",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1939-tp03.png",
+  "description": "2D shooter Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tp-03.7z/TP03.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1248,
+  "name": "Playboy's Shooter",
+  "author": "Playboy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1248-playboy-s-shooter.png",
+  "description": "2D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/playboy-shooter.-7z/Playboy_Shooter.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

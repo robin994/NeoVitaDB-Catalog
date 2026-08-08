@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "name": "Cave Story - Boss Rush",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0244-cave-story-boss-rush.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bossrush24_r2.7z/bossrush24_r2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

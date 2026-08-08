@@ -1,0 +1,18 @@
+{
+  "id": 1765,
+  "name": "Fractal3D",
+  "author": "sjoerdwouters",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "FRACTAL3D",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/773-Fractal3D.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1765-fractal3d.png",
+  "description": "3D Fractal Renderer based on a PC one for PSVITA.\nIt runs at a consistent 20fps, and with overclocking 30fps.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

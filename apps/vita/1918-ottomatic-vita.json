@@ -1,0 +1,18 @@
+{
+  "id": 1918,
+  "name": "OttoMatic Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OTTOMATIC",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1253-OttoMatic.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1918-ottomatic-vita.png",
+  "description": "Port of Otto Matic for PSVita.\nOtto Matic is a 2001 action-adventure video game developed by Pangea Software.\nOtto Matic parodies the retro science fiction genre in a whimsical style. Its gameplay resembles that of Pangea's previous titles like Bugdom and Nanosaur.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

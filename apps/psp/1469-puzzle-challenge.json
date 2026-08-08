@@ -1,0 +1,16 @@
+{
+  "id": 1469,
+  "name": "Puzzle Challenge",
+  "author": "Thepixelatedpoo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1469-puzzle-challenge.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/puzzlechallenge_v20.7z/puzzlechallenge_v20.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

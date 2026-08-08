@@ -1,0 +1,18 @@
+{
+  "id": 1862,
+  "name": "Vita Reckoning",
+  "author": "Edemfancypants",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "RECK69420",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1133-VitaReckoning.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1862-vita-reckoning.png",
+  "description": "An amateurish little game, inspired by Vampire Survivors I've been working on for the past few weeks.\nExpect bugs and slowdowns.\nOverclocking is not necessary, but heavily recommended to avoid single digit frames in later waves.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

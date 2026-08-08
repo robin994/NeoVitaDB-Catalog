@@ -1,0 +1,16 @@
+{
+  "id": 988,
+  "name": "PSP Air Hockey (Marvin Hockey)",
+  "author": "Carlos Aldana, djslick",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0988-psp-air-hockey-marvin-hockey.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/marvin-hockey.-7z/MarvinHockey.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

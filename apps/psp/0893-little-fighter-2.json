@@ -1,0 +1,16 @@
+{
+  "id": 893,
+  "name": "Little Fighter 2",
+  "author": "PsPmad",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0893-little-fighter-2.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lf-2-beta-v-165.7z/LF2_Beta_v165.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

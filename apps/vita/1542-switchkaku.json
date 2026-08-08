@@ -1,0 +1,18 @@
+{
+  "id": 1542,
+  "name": "SwitchKaKu",
+  "author": "kylon",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SWITCHKAK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/207-SwitchKaKu.vpk",
+  "version": "MOD v.2.0",
+  "prerelease": false,
+  "icon": "1542-switchkaku.png",
+  "description": "This is an extended version of the Henkaku Offline Installer by xyz.\nUpdated version to work with latest HENkaku version.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

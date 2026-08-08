@@ -1,0 +1,16 @@
+{
+  "id": 854,
+  "name": "KrakOut",
+  "author": "Дмитрий Трунов (Da-nie)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0854-krakout.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/krakout.-7z/psp_krakout.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

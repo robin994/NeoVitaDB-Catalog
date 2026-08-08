@@ -1,0 +1,16 @@
+{
+  "id": 900,
+  "name": "Lil' Fighter",
+  "author": "Yongobongo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0900-lil-fighter.png",
+  "description": "Homebrew fighting game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lil-fighter.-7z/Lil%27%20Fighter.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

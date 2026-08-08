@@ -1,0 +1,16 @@
+{
+  "id": 1794,
+  "name": "Super Mario Portable [超级马里奥P]",
+  "author": "Topoc, w_b_b_w",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1794-super-mario-portable-p.png",
+  "description": "Platform game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/super-mario-p-demo-0310.7z/Super_MARIO_P_DEMO_0310.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

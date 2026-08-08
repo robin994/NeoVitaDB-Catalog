@@ -1,0 +1,16 @@
+{
+  "id": 518,
+  "name": "Halo Dungeons",
+  "author": "loljejelol",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0518-halo-dungeons.png",
+  "description": "Halo mod of PSP Dungeons.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dungeons.-7z_202102/Dungeons.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

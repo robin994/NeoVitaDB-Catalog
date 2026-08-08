@@ -1,0 +1,16 @@
+{
+  "id": 2062,
+  "name": "Zock 'n Roll",
+  "author": "Sebastian Sohaef",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2062-zock-n-roll.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/zockn-roll.-7z/zock%27n%20roll.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

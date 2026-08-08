@@ -1,0 +1,16 @@
+{
+  "id": 1052,
+  "name": "MJ Baby Drop",
+  "author": "pspuser15",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1052-mj-baby-drop.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mj-baby-drop.-7z/MJ%20Baby%20Drop.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

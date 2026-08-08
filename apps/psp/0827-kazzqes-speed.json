@@ -1,0 +1,16 @@
+{
+  "id": 827,
+  "name": "Kazzqes Speed",
+  "author": "Kazzqes",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0827-kazzqes-speed.png",
+  "description": "Button-pressing game for two players.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kazzqes_speed12.7z/kazzqes_speed12.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

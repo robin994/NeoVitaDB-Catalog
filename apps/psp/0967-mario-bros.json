@@ -1,0 +1,16 @@
+{
+  "id": 967,
+  "name": "Mario Bros",
+  "author": "dan369",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0967-mario-bros.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-bros.-7z/Mario%20Bros.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1826,
+  "name": "Feather Park Vita",
+  "author": "AnasHalideen",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FTPK07004",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1077-FeatherPark.vpk",
+  "version": "v.0.9",
+  "prerelease": false,
+  "icon": "1826-feather-park-vita.png",
+  "description": "Port of Feather Park for PSVITA.\nExplore an autumn park and play minigames. make friends and enter the barn.\nOriginal game made by jon topielski & mellorine",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

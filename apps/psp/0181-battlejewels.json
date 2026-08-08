@@ -1,0 +1,16 @@
+{
+  "id": 181,
+  "name": "Battlejewels",
+  "author": "Jeff Mitchell",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0181-battlejewels.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/battlejewelspsp016.7z/battlejewelspsp016.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

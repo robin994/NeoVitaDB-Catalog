@@ -1,0 +1,16 @@
+{
+  "id": 1743,
+  "name": "SQRXZ 3",
+  "author": "Retroguru",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1743-sqrxz-3.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sqrxz-3.7z/SQRXZ3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

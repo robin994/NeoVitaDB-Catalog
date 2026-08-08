@@ -1,0 +1,18 @@
+{
+  "id": 1882,
+  "name": "NextBot For PSVita",
+  "author": "SoyKhaler",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "NEXTBOTFO",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1155-Nextbot4Vita.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1882-nextbot-for-psvita.png",
+  "description": "Clone of Garrys Mod's Nextbot for PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

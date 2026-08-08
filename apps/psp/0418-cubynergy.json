@@ -1,0 +1,16 @@
+{
+  "id": 418,
+  "name": "Cubynergy",
+  "author": "Team Zenyth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0418-cubynergy.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cubynergy.-7z/Cubynergy.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

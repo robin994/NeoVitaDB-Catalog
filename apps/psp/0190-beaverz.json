@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "name": "Beaverz",
+  "author": "Kenny",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0190-beaverz.png",
+  "description": "Save the beavers by bouncing them away from the spikes.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/beaverz.-7z/Beaverz.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

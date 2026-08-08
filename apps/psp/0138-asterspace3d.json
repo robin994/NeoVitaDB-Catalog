@@ -1,0 +1,16 @@
+{
+  "id": 138,
+  "name": "AsterSpace3D",
+  "author": "PSPflashsystem",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0138-asterspace3d.png",
+  "description": "3D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/asterSpace3D.7z/asterSpace3D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

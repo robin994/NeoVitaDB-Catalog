@@ -1,0 +1,16 @@
+{
+  "id": 1451,
+  "name": "PSP WoP",
+  "author": "ThePspTester",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1451-psp-wop.png",
+  "description": "Truth or dare for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspwo-p.-7z/PSPWoP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

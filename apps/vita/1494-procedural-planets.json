@@ -1,0 +1,18 @@
+{
+  "id": 1494,
+  "name": "Procedural Planets",
+  "author": "Primer0 & Ruben_Wolfe",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PRIMER001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/91-Procedural_Planets.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1494-procedural-planets.png",
+  "description": "Procedural 2D planets landscapes pixelart generator for PSVITA/PSTV inspired by No Man's Sky art.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

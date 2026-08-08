@@ -1,0 +1,16 @@
+{
+  "id": 2083,
+  "name": "nullDC-PSP",
+  "author": "xiro & nullDC Team",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2083-nulldc-psp.png",
+  "description": "An experimental Sega Dreamcast emulator for PSP based on an old version of nullDC, ancestor of reicast.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nullDC-PSP/nullDC%201.2.1.zip",
+  "version": "v.1.2.1 beta 1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

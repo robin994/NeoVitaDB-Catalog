@@ -1,0 +1,16 @@
+{
+  "id": 452,
+  "name": "Deer Avenger Mini",
+  "author": "Code Red",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0452-deer-avenger-mini.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/deer-avenger-mini-v-2.00.7z/Deer%20Avenger%20Mini%20V2.10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

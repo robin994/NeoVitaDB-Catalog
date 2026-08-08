@@ -1,0 +1,16 @@
+{
+  "id": 1209,
+  "name": "Penguin Command",
+  "author": "Percival",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1209-penguin-command.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/penguin_command.7z/penguin_command.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

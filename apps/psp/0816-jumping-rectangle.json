@@ -1,0 +1,16 @@
+{
+  "id": 816,
+  "name": "Jumping Rectangle",
+  "author": "Total_Noob",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0816-jumping-rectangle.png",
+  "description": "Platformer for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jumpingrectangle.7z/jumpingrectangle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1263,
+  "name": "Polyon Hockey",
+  "author": "Team Zenyth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1263-polyon-hockey.png",
+  "description": "Air Hockey on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/polyon-hockey.-7z/Polyon%20Hockey.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

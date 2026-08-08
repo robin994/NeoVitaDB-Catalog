@@ -1,0 +1,16 @@
+{
+  "id": 1535,
+  "name": "Robot Warrior DC",
+  "author": "Thecobra, Waywardson",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1535-robot-warrior-dc.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/robot-warrior.-7z/RobotWarrior.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 385,
+  "name": "Crazy Eyes",
+  "author": "Killerfeeshy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0385-crazy-eyes.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/crazyeyes-v-1.3.7z/Crazyeyes%20v1.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

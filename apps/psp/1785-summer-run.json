@@ -1,0 +1,16 @@
+{
+  "id": 1785,
+  "name": "Summer Run",
+  "author": "Rubenelportero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1785-summer-run.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/summerunv-0.3-cfplus-esp.-7z/Summerunv0.3CFPlusESP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

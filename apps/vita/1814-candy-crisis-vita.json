@@ -1,0 +1,18 @@
+{
+  "id": 1814,
+  "name": "Candy Crisis Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CANDYCRIS",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1043-candy.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1814-candy-crisis-vita.png",
+  "description": "Port of Candy Crisis for PSVITA.\nCandy Crisis is an exciting combination of pure action and puzzle gaming! The game features twelve unique stages, complete with its own character and individual technique. Also, you can pair off against a friend, and even specify a handicap so that both players are evenly matched. And if you don't want to play against an opponent, Solitaire Crisis mode allows you to practice without having to compete against an opponent. A tutorial is included with the game as well, so even puzzle novices can become Candy Crisis champions in no time.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

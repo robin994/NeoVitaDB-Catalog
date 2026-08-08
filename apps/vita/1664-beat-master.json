@@ -1,0 +1,18 @@
+{
+  "id": 1664,
+  "name": "Beat Master",
+  "author": "LuckTheGamers",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BTMR12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/505-Beat_20Master.vpk",
+  "version": "v.1",
+  "prerelease": false,
+  "icon": "1664-beat-master.png",
+  "description": "Beat Master is a Tetris where you should get the highest score possible while listening to really cool songs.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

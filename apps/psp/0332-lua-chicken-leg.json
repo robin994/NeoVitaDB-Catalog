@@ -1,0 +1,16 @@
+{
+  "id": 332,
+  "name": "Lua Chicken Leg",
+  "author": "DaRkStAr",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0332-lua-chicken-leg.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chickenlegs.7z/chickenlegs.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

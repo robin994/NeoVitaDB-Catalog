@@ -1,0 +1,16 @@
+{
+  "id": 410,
+  "name": "CuadriTank",
+  "author": "Degmi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0410-cuadritank.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cuadri-tank-v-1.0.7z/CuadriTank%20v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

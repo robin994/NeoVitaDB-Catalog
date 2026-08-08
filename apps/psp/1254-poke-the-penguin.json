@@ -1,0 +1,16 @@
+{
+  "id": 1254,
+  "name": "Poke The Penguin",
+  "author": "PSP-Maniac",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1254-poke-the-penguin.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/poke-the-penguin.-7z/Old%20Versions/Poke%20The%20Penguin.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

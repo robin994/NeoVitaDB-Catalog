@@ -1,0 +1,18 @@
+{
+  "id": 1521,
+  "name": "milieTetris",
+  "author": "GUIDOBOT",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GBOT00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/163-milieTetris.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1521-milietetris.png",
+  "description": "Classic Tetris clone for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2124,
+  "name": "NesterJ",
+  "author": "ruka",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2124-nesterj.png",
+  "description": "NES emulator for PSP with Ad-Hoc multiplayer support.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nester-p.-7z/NesterP.zip",
+  "version": "v.1.20 Beta 2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

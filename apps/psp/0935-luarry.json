@@ -1,0 +1,16 @@
+{
+  "id": 935,
+  "name": "Luarry",
+  "author": "Kiketoreador, P22, Dark_Cloud, guillermo_cornielle",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0935-luarry.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luarry.-7z/Luarry.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1725,
+  "name": "Treasure Chasers",
+  "author": "crait",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TREASUREC",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/678-TreasureChasers.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1725-treasure-chasers.png",
+  "description": "Treasure Chasers is a pirate-themed game, where you navigate through procedurally-generated islands, picking up cargo and delivering to other ports to sell. Besides the whirlpools, there are also pirates that are out to get you! Either avoid them or shoot them with your cannons to survive as long as you can.\nThis game was created for the PS Vita KyuHEN homebrew contest. The game design and programming is by crait, the great music was created by Steven Wahl, and the beautiful pixel art was made by @apoonto",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

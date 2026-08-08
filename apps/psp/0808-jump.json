@@ -1,0 +1,16 @@
+{
+  "id": 808,
+  "name": "Jump!",
+  "author": "Flav1994",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0808-jump.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jump-beta.-7z/Jump%21%20Beta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 120,
+  "name": "Aqua",
+  "author": "TokyoDrift",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0120-aqua.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/aqua_0.68b.7z/aqua_0.68b.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

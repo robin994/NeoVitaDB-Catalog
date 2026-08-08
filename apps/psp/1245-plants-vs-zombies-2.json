@@ -1,0 +1,16 @@
+{
+  "id": 1245,
+  "name": "Plants Vs. Zombies 2",
+  "author": "SGI",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1245-plants-vs-zombies-2.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/plants-vs.-zombies-2.7z/Plants%20vs.%20Zombies%202.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

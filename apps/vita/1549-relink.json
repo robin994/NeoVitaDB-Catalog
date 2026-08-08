@@ -1,0 +1,18 @@
+{
+  "id": 1549,
+  "name": "ReLink",
+  "author": "theorywrong",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PS4LINKM1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/229-ReLink.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1549-relink.png",
+  "description": "ReLink is a homebrew for PSVita that can change the online id for re-use ps4 link in 3.60.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

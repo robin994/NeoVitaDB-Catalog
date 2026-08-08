@@ -1,0 +1,16 @@
+{
+  "id": 731,
+  "name": "Helicopter",
+  "author": "Shatterdome",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0731-helicopter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/helicopter-0.8.7z/Helicopter0.8.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1659,
+  "name": "Super Mario Bros. Portable",
+  "author": "Emericaska8r",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1659-super-mario-bros-portable.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smbpv-0.1.7z/Old%20Versions/SMBPV0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

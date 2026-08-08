@@ -1,0 +1,16 @@
+{
+  "id": 2035,
+  "name": "Xonergy",
+  "author": "Team Zenyth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2035-xonergy.png",
+  "description": "Infinite runner for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/xonergy.-7z/Xonergy.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

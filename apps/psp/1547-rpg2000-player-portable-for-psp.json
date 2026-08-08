@@ -1,0 +1,16 @@
+{
+  "id": 1547,
+  "name": "RPG2000 Player Portable for PSP",
+  "author": "汁ダーク (SeerouxDark)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1547-rpg2000-player-portable-for-psp.png",
+  "description": "Engine to run RPG Maker 2000 games on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rpg-2-kpp-012-b-04.7z/Old%20Versions/RPG2KPP002.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1751,
+  "name": "Mobility",
+  "author": "Markus95",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MOBI00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/722-Mobility.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1751-mobility.png",
+  "description": "Explore spaceships, and fix their engine rooms to complete your training and become a master spaceship repairman for the Mobility!\nIt is the year 21XX. As space travel grows more and more mainstream, the fear for technical mishaps in spaceships increases. In response, The People Of Earth set up the Mobility, an on-call emergency spaceship repair service. It doesn't take long for the Mobility to acclaim a superhero-like status, and become highly regarded in every corner of the universe.\nOne does not easily make it into the Mobility. Once you make it through the selection progress, you'll have to fix several spaceships before you are officially recruited. Scour the spaceships to find their server rooms, which contain a variety of platforms. You can fix any engine room by activating all platforms by landing on the top or sides of them.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

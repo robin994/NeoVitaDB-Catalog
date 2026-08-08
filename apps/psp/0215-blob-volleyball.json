@@ -1,0 +1,16 @@
+{
+  "id": 215,
+  "name": "Blob Volleyball",
+  "author": "Slasher",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0215-blob-volleyball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blob-vb-1.7z/BlobVB1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

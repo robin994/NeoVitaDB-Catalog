@@ -1,0 +1,18 @@
+{
+  "id": 1805,
+  "name": "Call of Vita: Hackzone",
+  "author": "VitaDev Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CADD54321",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/992-call_of_vita.vpk",
+  "version": "v.0.1.30a",
+  "prerelease": false,
+  "icon": "1805-call-of-vita-hackzone.png",
+  "description": "An online multiplayer FPS made in Unity inspired to Call of Duty: Warzone.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

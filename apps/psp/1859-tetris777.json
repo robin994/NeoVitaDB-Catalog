@@ -1,0 +1,16 @@
+{
+  "id": 1859,
+  "name": "Tetris777",
+  "author": "DCelso, Joseba",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1859-tetris777.png",
+  "description": "Version of Tetris created by Moogster, running as a demonstration of the BennuGD port for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetrisbgdi.7z/tetrisbgdi.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

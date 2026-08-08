@@ -1,0 +1,16 @@
+{
+  "id": 972,
+  "name": "Mario Machine Fruits",
+  "author": "zombieSkull",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0972-mario-machine-fruits.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-fruits.-7z/MarioFruits.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

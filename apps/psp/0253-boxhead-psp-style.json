@@ -1,0 +1,16 @@
+{
+  "id": 253,
+  "name": "Boxhead: PSP Style",
+  "author": "Jordan Rehn (SG57)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0253-boxhead-psp-style.png",
+  "description": "Zombie survival game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/boxhead.-7z/BOXHEAD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1328,
+  "name": "PSPMania",
+  "author": "mafu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1328-pspmania.png",
+  "description": "PSP port of the rhythm game, StepMania.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-mania-v-4.7z/PspManiaV4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 792,
+  "name": "JAZT - Just Another Zombie Tale",
+  "author": "catadevelop",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0792-jazt-just-another-zombie-tale.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jatz.-7z/JATZ.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

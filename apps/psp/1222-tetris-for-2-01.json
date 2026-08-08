@@ -1,0 +1,16 @@
+{
+  "id": 1222,
+  "name": "Tetris for 2.01",
+  "author": "Fanjita",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1222-tetris-for-2-01.png",
+  "description": "This Tetris port has the peculiarity of running as an exploit of Grand Theft Auto: Liberty City Stories. The files are copied into the SAVEDATA folder, and loaded from GTA as a game save. The hack only works on early, unpatched versions of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pic-1_202101/tetris2.01psp3dfanjita.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

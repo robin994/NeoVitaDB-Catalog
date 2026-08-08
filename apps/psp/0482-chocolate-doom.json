@@ -1,0 +1,16 @@
+{
+  "id": 482,
+  "name": "Chocolate Doom",
+  "author": "mwpenny",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0482-chocolate-doom.png",
+  "description": "Doom port to PSP. This version has no sound.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/doom.-7z/DOOM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

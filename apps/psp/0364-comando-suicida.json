@@ -1,0 +1,16 @@
+{
+  "id": 364,
+  "name": "Comando Suicida",
+  "author": "Eskema",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0364-comando-suicida.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/comandos-1.5.7z/Comandos_1.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

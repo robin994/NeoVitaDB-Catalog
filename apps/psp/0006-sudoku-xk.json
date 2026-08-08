@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "name": "Sudoku XK",
+  "author": "Team XK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0006-sudoku-xk.png",
+  "description": "Sudoku for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/0sudokuxk-0.1.7z/0sudokuxk0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

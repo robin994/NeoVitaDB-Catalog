@@ -1,0 +1,16 @@
+{
+  "id": 1137,
+  "name": "No Gravity Demo",
+  "author": "Realtech VR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1137-no-gravity-demo.png",
+  "description": "Playable demo for No Gravity, created by the homebrew group Realtech VR. The full version was released in 2009 on PlayStation Network.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nogravitypspdemo.7z/Old%20Versions/nogravitypspdemo%20v1.01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

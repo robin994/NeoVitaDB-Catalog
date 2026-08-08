@@ -1,0 +1,16 @@
+{
+  "id": 1595,
+  "name": "Sennin Game [仙人ゲーム]",
+  "author": "MAGiC TOUCH",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1595-sennin-game.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/senninv002.7z/senninv002.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

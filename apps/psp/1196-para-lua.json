@@ -1,0 +1,16 @@
+{
+  "id": 1196,
+  "name": "Para-lua",
+  "author": "yoyomacy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1196-para-lua.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/para-lua.-7z/Para-lua.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 72,
+  "name": "Adivina Advinanza",
+  "author": "Pepingo el hacker",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0072-adivina-advinanza.png",
+  "description": "Riddle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/adivina-adivinanza-v-3.7z/Adivina%20Adivinanza%20v3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

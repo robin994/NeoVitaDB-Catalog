@@ -1,0 +1,18 @@
+{
+  "id": 1867,
+  "name": "Genki Vocab",
+  "author": "BK",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "GENK00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1138-genki.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1867-genki-vocab.png",
+  "description": "Learn the Japanese vocabulary from the Genki I textbook. Study and Test modes for each lesson. Keeps track of statistics in Career page. How well you know each word is designated by that word's level (can go up or down during Test mode). Your overall proficiency is designated by your Profile Level.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

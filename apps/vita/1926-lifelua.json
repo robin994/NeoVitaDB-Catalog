@@ -1,0 +1,18 @@
+{
+  "id": 1926,
+  "name": "LifeLua",
+  "author": "Harommel Rabbid",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LIFELUAJT",
+  "repo": "HarommelRabbid/LifeLua",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1926-lifelua.png",
+  "description": "A Lua interpreter for PSVITA with a builtin sample app which showcases its functionalities.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

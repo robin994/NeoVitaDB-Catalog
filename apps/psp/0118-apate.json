@@ -1,0 +1,16 @@
+{
+  "id": 118,
+  "name": "欺诈女神 Apate",
+  "author": "IACG游戏组",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0118-apate.png",
+  "description": "Visual novel for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/apate_v1/apate_v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

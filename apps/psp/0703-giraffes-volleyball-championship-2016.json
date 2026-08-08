@@ -1,0 +1,16 @@
+{
+  "id": 703,
+  "name": "Giraffes Volleyball Championship 2016",
+  "author": "NazDev32",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0703-giraffes-volleyball-championship-2016.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gvc-2016/GVC2016.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

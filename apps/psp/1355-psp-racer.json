@@ -1,0 +1,16 @@
+{
+  "id": 1355,
+  "name": "PSP Racer",
+  "author": "Benja32, PSP_maniac",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1355-psp-racer.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp_racer_0.01_beta_version.7z/psp_racer_0.01_beta_version.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

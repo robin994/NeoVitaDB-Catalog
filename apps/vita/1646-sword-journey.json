@@ -1,0 +1,18 @@
+{
+  "id": 1646,
+  "name": "Sword Journey",
+  "author": "JacobsPlayground",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SWOR57517",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/473-SJ0018.vpk",
+  "version": "v.0.26",
+  "prerelease": false,
+  "icon": "1646-sword-journey.png",
+  "description": "A 3D hack'n'slash game where you slay cows.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

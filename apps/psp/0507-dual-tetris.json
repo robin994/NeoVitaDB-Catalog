@@ -1,0 +1,16 @@
+{
+  "id": 507,
+  "name": "Dual Tetris",
+  "author": "PSPEPE",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0507-dual-tetris.png",
+  "description": "Tetris on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dualtetris2.0.7z/dualtetris2.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

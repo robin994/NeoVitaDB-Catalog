@@ -1,0 +1,16 @@
+{
+  "id": 489,
+  "name": "PSP DarkQuake",
+  "author": "Sergey Galushko (Crow_bar)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0489-psp-darkquake.png",
+  "description": "PSP version of Quake. The shareware version is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dquake-0.88.7z/DQuake0.88.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

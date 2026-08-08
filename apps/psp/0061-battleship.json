@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "name": "Battleship",
+  "author": "ABCanG",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0061-battleship.png",
+  "description": "Game of Battleship for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/abcangbattleship10.7z/BattleShip1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1352,
+  "name": "Kene",
+  "author": "roxion1377",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1352-kene.png",
+  "description": "Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp_kene/psp_kene.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

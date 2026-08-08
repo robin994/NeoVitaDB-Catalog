@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "name": "Anime Wars",
+  "author": "Sp3ct0r",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0107-anime-wars.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/anime-wars.-7z/Anime%20Wars.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

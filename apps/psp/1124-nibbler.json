@@ -1,0 +1,16 @@
+{
+  "id": 1124,
+  "name": "Nibbler",
+  "author": "Insoft",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1124-nibbler.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nibbler.-7z/NIBBLER.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

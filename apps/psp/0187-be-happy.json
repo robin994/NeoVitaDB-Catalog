@@ -1,0 +1,16 @@
+{
+  "id": 187,
+  "name": "Be Happy",
+  "author": "Dungeon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0187-be-happy.png",
+  "description": "Music game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/be-happy.-7z/Be_Happy.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

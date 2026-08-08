@@ -1,0 +1,16 @@
+{
+  "id": 627,
+  "name": "Frogger",
+  "author": "wilhel1812, sharko",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0627-frogger.png",
+  "description": "Reach the other side of the road.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/frogger.-7z/Frogger.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

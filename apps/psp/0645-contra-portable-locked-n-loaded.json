@@ -1,0 +1,16 @@
+{
+  "id": 645,
+  "name": "Contra Portable: Locked 'n' Loaded",
+  "author": "Eric Ho",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0645-contra-portable-locked-n-loaded.png",
+  "description": "Homebrew Contra game based on the OpenBOR engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/game-01289-00000_202101/ContraPortable.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

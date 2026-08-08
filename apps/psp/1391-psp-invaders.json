@@ -1,0 +1,16 @@
+{
+  "id": 1391,
+  "name": "PSP Invaders",
+  "author": "Percival",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1391-psp-invaders.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspinvaders.-7z/PSPInvaders.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

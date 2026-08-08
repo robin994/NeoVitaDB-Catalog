@@ -1,0 +1,18 @@
+{
+  "id": 1947,
+  "name": "Stellar Shift",
+  "author": "WIDEGCG",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STELLARSH",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1334-StellarShift.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1947-stellar-shift.png",
+  "description": "A 3D puzzle game for PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

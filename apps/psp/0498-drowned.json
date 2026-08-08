@@ -1,0 +1,16 @@
+{
+  "id": 498,
+  "name": "Drowned",
+  "author": "HardHat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0498-drowned.png",
+  "description": "Survive the rising water level by jumping from block to block.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/drowned110.7z/drowned110.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

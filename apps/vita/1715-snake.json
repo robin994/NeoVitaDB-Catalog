@@ -1,0 +1,18 @@
+{
+  "id": 1715,
+  "name": "Snake!",
+  "author": "Ccoolguy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SNAKO0002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/644-Snake.vpk",
+  "version": "v.2.0",
+  "prerelease": false,
+  "icon": "1715-snake.png",
+  "description": "A Snake game made with GameMaker for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

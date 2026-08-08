@@ -1,0 +1,16 @@
+{
+  "id": 980,
+  "name": "Mario Pong",
+  "author": "Shadow-Aleth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0980-mario-pong.png",
+  "description": "Pong with Mario characters.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-po-ng.-7z/Mario__PoNG.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

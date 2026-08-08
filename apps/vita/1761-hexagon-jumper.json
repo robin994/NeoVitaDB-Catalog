@@ -1,0 +1,18 @@
+{
+  "id": 1761,
+  "name": "Hexagon Jumper",
+  "author": "cubic games official",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "JFKD22551",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/766-hexagon.jumper_1.4.1.vpk",
+  "version": "v.1.4.1",
+  "prerelease": false,
+  "icon": "1761-hexagon-jumper.png",
+  "description": "A platformer for PSVITA inspired by Geometry Dash.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

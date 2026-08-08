@@ -1,0 +1,16 @@
+{
+  "id": 438,
+  "name": "DBZ",
+  "author": "Casaproduction",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0438-dbz.png",
+  "description": "Demo for an unfinished fan game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dbz-0.01.7z/DBZ_0.01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

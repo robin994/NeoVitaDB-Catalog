@@ -1,0 +1,18 @@
+{
+  "id": 1917,
+  "name": "La Deuda",
+  "author": "SoyKhaler",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GDOT03051",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1252-LaDeuda.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1917-la-deuda.png",
+  "description": "An interactive Movie about debts, choices and good endings!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

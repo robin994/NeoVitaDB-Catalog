@@ -1,0 +1,16 @@
+{
+  "id": 2077,
+  "name": "UniPCemu",
+  "author": "Superfury1",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2077-unipcemu.png",
+  "description": "UniPCemu is a cycle-accurate x86 emulator (previously called x86EMU before the rename, This isn't based on the other cpu-emulator called x86emu (lower case)). It's a 8086(IBM PC) up to Pentium II (Compaq Deskpro 386, Compaq Deskpro 386 with PS/2 mouse (adds PS/2 mouse to the Compaq Deskpro 386 chipset, optional BIOS ROM replacement (loading it instead, or alternatively a i430fx Pentium or i440fx Pentium Pro/Pentium II chipset with PS/2 mouse) and seperate CMOS settings like the other architectures) emulator(with various, configurable hardware), with up to 80386 timings (80486SX and Pentium using 80386 timings or 1 cycle for newer/unknown timings/instructions, both having no floating point unit)).",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/uni-pcemu-psp.-7z/UniPCemu_PSP_2021-09-26.zip",
+  "version": "2022.10.19",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

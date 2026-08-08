@@ -1,0 +1,16 @@
+{
+  "id": 79,
+  "name": "Agnus Dei",
+  "author": "ZIGZAG",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0079-agnus-dei.png",
+  "description": "A crossover game that ZigZag released for its previous titles for the April Fool's Day 2008.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/agnus-dei.-7z/agnus-dei.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

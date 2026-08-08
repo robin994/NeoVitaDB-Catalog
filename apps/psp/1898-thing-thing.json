@@ -1,0 +1,16 @@
+{
+  "id": 1898,
+  "name": "Thing Thing",
+  "author": "Scorpus",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1898-thing-thing.png",
+  "description": "PSP remake of the Flash game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/thing-thing.-7z/Thing%20Thing.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

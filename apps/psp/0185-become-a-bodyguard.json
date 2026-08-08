@@ -1,0 +1,16 @@
+{
+  "id": 185,
+  "name": "Become a Bodyguard",
+  "author": "Alface",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0185-become-a-bodyguard.png",
+  "description": "Navigate obstacles to reach the goal. PSP homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bbgd-english.-7z/BBGD%20english.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

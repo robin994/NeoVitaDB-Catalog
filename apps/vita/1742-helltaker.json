@@ -1,0 +1,18 @@
+{
+  "id": 1742,
+  "name": "Helltaker",
+  "author": "D3fau4",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HLTK00001",
+  "direct_url": "https://github.com/D3fau4/Helltaker-switch/releases/download/1.1.0/Helltaker.PS.Vita.vpk",
+  "version": "v.1.1.0",
+  "prerelease": false,
+  "icon": "1742-helltaker.png",
+  "description": "Helltaker is a short game about sharply dressed demon girls.\nYou woke up one day with a dream. Harem full of demon girls. You've opened the portal in hopes of fulfilling your wildest desires. Hellfire burns through your lungs, death awaits around every corner and everything looks like from a cutesy mobile game. You are in hell.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

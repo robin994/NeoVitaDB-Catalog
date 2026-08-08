@@ -1,0 +1,18 @@
+{
+  "id": 1617,
+  "name": "The Enchanted Forest",
+  "author": "RetroGamer74",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "THEENCHAN",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/429-elfforest.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1617-the-enchanted-forest.png",
+  "description": "A platform game for PSVITA with fancy graphics originally thought to be released for mobile devices.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

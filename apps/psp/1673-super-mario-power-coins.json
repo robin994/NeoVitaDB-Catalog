@@ -1,0 +1,16 @@
+{
+  "id": 1673,
+  "name": "Super Mario Power Coins",
+  "author": "Xandu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1673-super-mario-power-coins.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smpc-psp.-7z/Old%20Versions/SMPC-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

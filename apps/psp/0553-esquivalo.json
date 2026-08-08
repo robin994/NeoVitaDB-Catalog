@@ -1,0 +1,16 @@
+{
+  "id": 553,
+  "name": "Esquivalo",
+  "author": "Dioni0396, PSPrekiem",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0553-esquivalo.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/esquivalo.-7z/Esquivalo%21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

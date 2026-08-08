@@ -1,0 +1,16 @@
+{
+  "id": 1823,
+  "name": "Tamasky",
+  "author": "LeJournal, CounterSpy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1823-tamasky.png",
+  "description": "Digital pet for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tamasky.-7z/Old%20Versions/Tamasky.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

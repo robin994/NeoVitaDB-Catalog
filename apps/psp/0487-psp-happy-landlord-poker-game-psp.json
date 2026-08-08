@@ -1,0 +1,16 @@
+{
+  "id": 487,
+  "name": "PSP Happy Landlord Poker Game [PSP欢乐斗地主扑克游戏]",
+  "author": "Wang Xinnong",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0487-psp-happy-landlord-poker-game-psp.png",
+  "description": "PSP version of a Chinese card game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/doudi.7z/Lord.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

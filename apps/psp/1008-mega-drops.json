@@ -1,0 +1,16 @@
+{
+  "id": 1008,
+  "name": "Mega Drops",
+  "author": "Kern David (daaa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1008-mega-drops.png",
+  "description": "Homebrew puzzle game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mega-drops.-7z/Mega%20Drops.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

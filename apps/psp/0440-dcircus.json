@@ -1,0 +1,16 @@
+{
+  "id": 440,
+  "name": "DCircus",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0440-dcircus.png",
+  "description": "PSP port of DCircus (Circus Linux).",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dcircus_psp.7z/dcircus_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

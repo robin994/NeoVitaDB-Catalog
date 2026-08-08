@@ -1,0 +1,16 @@
+{
+  "id": 389,
+  "name": "Crisis Evil",
+  "author": "OGHarlemHero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0389-crisis-evil.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/crisis-evil.-7z/Crisis%20Evil.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

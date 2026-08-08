@@ -1,0 +1,16 @@
+{
+  "id": 1429,
+  "name": "PSPRobots",
+  "author": "TacticalPenguin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1429-psprobots.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psprobots.-7z/Old%20Versions/PSPRobots.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

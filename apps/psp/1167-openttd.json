@@ -1,0 +1,16 @@
+{
+  "id": 1167,
+  "name": "OpenTTD",
+  "author": "Koppi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1167-openttd.png",
+  "description": "PSP port of the open-source game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/openttd-1.1.0-psp.7z/Extra/openttd-1.0.5-psp-src.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

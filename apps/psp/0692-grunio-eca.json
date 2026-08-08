@@ -1,0 +1,16 @@
+{
+  "id": 692,
+  "name": "Gruniożeca",
+  "author": "zbieracz2000",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0692-grunio-eca.png",
+  "description": "PSP port of the game 'Gruniożerca'.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gruniozerca-v.1.0-beta/gruniozerca-v.1.0-beta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

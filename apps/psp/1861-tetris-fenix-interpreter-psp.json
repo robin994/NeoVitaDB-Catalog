@@ -1,0 +1,16 @@
+{
+  "id": 1861,
+  "name": "Tetris [Fenix Interpreter PSP]",
+  "author": "DCelso",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1861-tetris-fenix-interpreter-psp.png",
+  "description": "Version of the game by Moogster, running as a demonstration of the PSP port of the Fenix Interpreter.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetrisfxi.7z/tetrisfxi.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

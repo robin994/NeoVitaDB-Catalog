@@ -1,0 +1,16 @@
+{
+  "id": 1630,
+  "name": "The Simpsons Battleship",
+  "author": "k_man316",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1630-the-simpsons-battleship.png",
+  "description": "Game of Battleship for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/simpsons-battleship.-7z/SimpsonsBattleship.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

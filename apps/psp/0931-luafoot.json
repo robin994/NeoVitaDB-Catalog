@@ -1,0 +1,16 @@
+{
+  "id": 931,
+  "name": "LuaFoot",
+  "author": "Nono4012, Valer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0931-luafoot.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luafoot01.7z/luafoot01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

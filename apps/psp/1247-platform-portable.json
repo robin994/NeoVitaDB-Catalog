@@ -1,0 +1,16 @@
+{
+  "id": 1247,
+  "name": "Platform Portable",
+  "author": "Benjamin99",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1247-platform-portable.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/platform-portable.-7z/Platform%20Portable.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

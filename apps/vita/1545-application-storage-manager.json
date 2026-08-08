@@ -1,0 +1,18 @@
+{
+  "id": 1545,
+  "name": "Application Storage Manager",
+  "author": "Lupo511",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "APPSRGMGR",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/217-AppStorageManager.vpk",
+  "version": "v.0.02",
+  "prerelease": false,
+  "icon": "1545-application-storage-manager.png",
+  "description": "A little app that allows you to move applications from your memory card (ux0:app/) to your internal sorage (ur0:app/) (and vice-versa).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

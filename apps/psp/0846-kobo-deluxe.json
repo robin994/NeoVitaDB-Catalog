@@ -1,0 +1,16 @@
+{
+  "id": 846,
+  "name": "Kobo Deluxe",
+  "author": "Riviera71",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0846-kobo-deluxe.png",
+  "description": "PSP port of the enhanced version of Akira Higuchi's game, XKobo. This version has no sound.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kobo-deluxe.-7z/KoboDeluxe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

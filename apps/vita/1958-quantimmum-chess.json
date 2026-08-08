@@ -1,0 +1,18 @@
+{
+  "id": 1958,
+  "name": "Quantimmum Chess",
+  "author": "c0nduitra1n",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "QNTM00001",
+  "direct_url": "https://github.com/c0nduitra1n/QuantimmumChess/releases/download/Beta/quantimmum_chess.vpk",
+  "version": "v.0.9",
+  "prerelease": false,
+  "icon": "1958-quantimmum-chess.png",
+  "description": "Quantimmum Chess is a custom chess game for PlayStation Vita built with VitaSDK and vita2d. It includes local chess, CPU matches, pass-and-play, Lichess online features, custom UI assets, music, sound effects, move history, draw/resign options, and English/Spanish language support.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

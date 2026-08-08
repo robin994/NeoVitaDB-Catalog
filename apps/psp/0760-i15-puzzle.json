@@ -1,0 +1,16 @@
+{
+  "id": 760,
+  "name": "i15 Puzzle",
+  "author": "Artillero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0760-i15-puzzle.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/i15puzzle.7z/i15puzzle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

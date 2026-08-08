@@ -1,0 +1,16 @@
+{
+  "id": 1919,
+  "name": "TJAPlayer",
+  "author": "okiater",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1919-tjaplayer.png",
+  "description": "Fan-made version of Taiko no Tatsujin. To play the game, put .tja files in the tja/ directory.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tjaplayer.-7z_202104/Old%20Versions/TJAPlayer%20Ver%200.31b%20mod%20HEN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

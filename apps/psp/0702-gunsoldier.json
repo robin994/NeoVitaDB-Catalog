@@ -1,0 +1,16 @@
+{
+  "id": 702,
+  "name": "Gunsoldier",
+  "author": "Barney77",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0702-gunsoldier.png",
+  "description": "Target-shooting game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gunsoldier.-7z/Gunsoldier.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

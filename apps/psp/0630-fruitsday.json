@@ -1,0 +1,16 @@
+{
+  "id": 630,
+  "name": "FruitsDay",
+  "author": "Miroslaw Zielinski",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0630-fruitsday.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fruitsday.7z/fruitsday.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1019,
+  "name": "PSP Memory Game",
+  "author": "DSI",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1019-psp-memory-game.png",
+  "description": "Card game of Memory for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/memory.-7z_202101/MEMORY.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

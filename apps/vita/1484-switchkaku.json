@@ -1,0 +1,18 @@
+{
+  "id": 1484,
+  "name": "Switchkaku",
+  "author": "luck",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SWKK00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/63-SwitchKaKu.vpk",
+  "version": "v.1.06",
+  "prerelease": false,
+  "icon": "1484-switchkaku.png",
+  "description": "This is an extended version of the Henkaku Offline Installer by xyz.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

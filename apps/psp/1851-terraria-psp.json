@@ -1,0 +1,16 @@
+{
+  "id": 1851,
+  "name": "Terraria PSP",
+  "author": "Exnonull",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1851-terraria-psp.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/terraria-v-0.1-a.-7z/Terraria%20v0.1A.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

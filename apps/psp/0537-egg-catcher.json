@@ -1,0 +1,16 @@
+{
+  "id": 537,
+  "name": "Egg Catcher",
+  "author": "Syed Raza",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0537-egg-catcher.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eggCatcher/eggCatcher-main.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

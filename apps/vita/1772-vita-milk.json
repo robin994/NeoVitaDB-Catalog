@@ -1,0 +1,18 @@
+{
+  "id": 1772,
+  "name": "Vita Milk",
+  "author": "rlyx",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RLYX00002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/790-Vita_Milk.vpk",
+  "version": "v.1.03",
+  "prerelease": false,
+  "icon": "1772-vita-milk.png",
+  "description": "A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.\nThe game is a small visual novel, showing either funny abstraction and wordplay or painful psychological episodes. The claim that history is based on real events will be too specific, so it is easier to pretend that it is just a set of abstractions and wordplay.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

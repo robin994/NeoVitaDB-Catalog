@@ -1,0 +1,16 @@
+{
+  "id": 2003,
+  "name": "War Pong",
+  "author": "Tdude_gamer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2003-war-pong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/war-pong.-7z/War%20Pong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

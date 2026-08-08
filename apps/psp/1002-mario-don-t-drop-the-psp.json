@@ -1,0 +1,16 @@
+{
+  "id": 1002,
+  "name": "Mario Don't Drop the PSP",
+  "author": "DreaDNoughT, Kid101skater",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1002-mario-don-t-drop-the-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mddp_v3.5.7z/mddp_v3.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

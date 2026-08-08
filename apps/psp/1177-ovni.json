@@ -1,0 +1,16 @@
+{
+  "id": 1177,
+  "name": "Ovni",
+  "author": "Dark_alchemist",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1177-ovni.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ovni.7z/ovni.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

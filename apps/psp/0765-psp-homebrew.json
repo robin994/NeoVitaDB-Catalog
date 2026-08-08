@@ -1,0 +1,16 @@
+{
+  "id": 765,
+  "name": "Ну, Погоди!",
+  "author": "DSN (Дробышев Святослав)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0765-psp-homebrew.png",
+  "description": "Simulator of the handheld digital games once common in the USSR.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/im-02.7z/IM02.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

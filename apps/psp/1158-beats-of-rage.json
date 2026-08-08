@@ -1,0 +1,16 @@
+{
+  "id": 1158,
+  "name": "Beats of Rage",
+  "author": "SamuraiX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1158-beats-of-rage.png",
+  "description": "PSP port of the game, based on the OpenBOR engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/open-bor.-7z_202102/OpenBOR.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

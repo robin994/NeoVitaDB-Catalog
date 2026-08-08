@@ -1,0 +1,16 @@
+{
+  "id": 515,
+  "name": "PSP JFDuke3D",
+  "author": "Sergey Galushko (Crow_bar)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0515-psp-jfduke3d.png",
+  "description": "PSP port of Duke Nukem 3D. The shareware version of the game is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/duke-slim.-7z/DukePhat.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

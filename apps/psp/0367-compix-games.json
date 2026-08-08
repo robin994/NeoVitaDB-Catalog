@@ -1,0 +1,16 @@
+{
+  "id": 367,
+  "name": "Compix Games",
+  "author": "Benja135",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0367-compix-games.png",
+  "description": "Minigame compilation for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/compix-games.-7z/Compix%20Games.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

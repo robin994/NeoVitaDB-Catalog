@@ -1,0 +1,18 @@
+{
+  "id": 1644,
+  "name": "Cubik Adventure",
+  "author": "LuckTheGamers",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "RAED67053",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/471-Cubik_20Adventure.vpk",
+  "version": "Demo v.2",
+  "prerelease": false,
+  "icon": "1644-cubik-adventure.png",
+  "description": "Cubik Adventure is a 2.5D platforming game in which you control a cube and have to face various challenges.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

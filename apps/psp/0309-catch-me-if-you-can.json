@@ -1,0 +1,16 @@
+{
+  "id": 309,
+  "name": "Catch Me If You Can",
+  "author": "EyeApple",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0309-catch-me-if-you-can.png",
+  "description": "Two player homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/catch_me_if_you_can.7z/catch_me_if_you_can.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

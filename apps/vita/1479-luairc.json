@@ -1,0 +1,18 @@
+{
+  "id": 1479,
+  "name": "luaIrc",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LIRC00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/51-luaIrc.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1479-luairc.png",
+  "description": "luaIrc is an IRC client for PS Vita wrote with Lua Player Plus Vita, allowing you to chat with your friends whenever you want.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

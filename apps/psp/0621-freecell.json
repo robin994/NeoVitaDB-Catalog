@@ -1,0 +1,16 @@
+{
+  "id": 621,
+  "name": "Freecell",
+  "author": "lochnesssnowman",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0621-freecell.png",
+  "description": "PSP version of the card game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/freecell.-7z/Freecell.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

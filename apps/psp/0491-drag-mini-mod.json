@@ -1,0 +1,16 @@
+{
+  "id": 491,
+  "name": "Drag Mini Mod",
+  "author": "savagefreak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0491-drag-mini-mod.png",
+  "description": "Mod of the homebrew game Drag Mini.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/drag-mini-mod.-7z/DRAG_MINI_MOD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

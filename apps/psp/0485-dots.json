@@ -1,0 +1,16 @@
+{
+  "id": 485,
+  "name": "Dots",
+  "author": "Nicko01",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0485-dots.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dots-ver-0.4.7z/DOTS%20Ver%200.4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

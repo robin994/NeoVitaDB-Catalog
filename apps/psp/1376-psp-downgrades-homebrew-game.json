@@ -1,0 +1,16 @@
+{
+  "id": 1376,
+  "name": "PSP-Downgrades' Homebrew Game",
+  "author": "Zora_182, Usif",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1376-psp-downgrades-homebrew-game.png",
+  "description": "Collection of homebrew minigames.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspdowngrades.-7z/PSPDOWNGRADES.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

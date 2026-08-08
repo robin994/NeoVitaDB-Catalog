@@ -1,0 +1,16 @@
+{
+  "id": 1485,
+  "name": "Quake II",
+  "author": "Emergency Exit, Titan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1485-quake-ii.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quake2-psp-beta.7z/Old%20Versions/quake2-psp-beta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

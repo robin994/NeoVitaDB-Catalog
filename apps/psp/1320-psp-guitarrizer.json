@@ -1,0 +1,16 @@
+{
+  "id": 1320,
+  "name": "PSP Guitarrizer",
+  "author": "Arkanist",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1320-psp-guitarrizer.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-guitarrizer.-7z/PSP%20Guitarrizer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

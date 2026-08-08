@@ -1,0 +1,18 @@
+{
+  "id": 1476,
+  "name": "Simple Text Editor",
+  "author": "jakibaki",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "TXTE00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/33-SimpleFPSplatformer.vpk",
+  "version": "v.1.1.1",
+  "prerelease": false,
+  "icon": "1476-simple-text-editor.png",
+  "description": "Simple text editor wrote in Lua using Lua Player Plus.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

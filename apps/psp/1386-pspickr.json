@@ -1,0 +1,16 @@
+{
+  "id": 1386,
+  "name": "PSPickr",
+  "author": "Joel16",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1386-pspickr.png",
+  "description": "A simple color picking game originally made by Sean M. Tracey, re-created on PSP with slight changes.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/PSPickr/PSPickr.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

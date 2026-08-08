@@ -1,0 +1,16 @@
+{
+  "id": 422,
+  "name": "Cuthbert in the Abyss",
+  "author": "240-185",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0422-cuthbert-in-the-abyss.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cuthbert-abyss.-7z/Cuthbert_Abyss.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

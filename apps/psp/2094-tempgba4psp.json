@@ -1,0 +1,17 @@
+{
+  "id": 2094,
+  "name": "TempGBA4PSP",
+  "author": "phoe-nix",
+  "category": "emulator",
+  "platform": "psp",
+  "repo": "phoe-nix/TempGBA4PSP-mod",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2094-tempgba4psp.png",
+  "description": "GBA emulator for PSP based on TempGBA, popular fork of gpSP.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

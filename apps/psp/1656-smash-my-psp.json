@@ -1,0 +1,16 @@
+{
+  "id": 1656,
+  "name": "Smash My PSP",
+  "author": "zeroXorXdieXskater",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1656-smash-my-psp.png",
+  "description": "Smash the screen of your PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smash_my_psp_v4.0.7z/smash_my_psp_v4.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1697,
+  "name": "Solitaire",
+  "author": "Synopsis76",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1697-solitaire.png",
+  "description": "PSP version of the game written in Python.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/solitaire.-7z/Solitaire.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

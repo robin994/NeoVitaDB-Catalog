@@ -1,0 +1,16 @@
+{
+  "id": 479,
+  "name": "Doki Doki Literature Club",
+  "author": "MasterMen",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0479-doki-doki-literature-club.png",
+  "description": "Port of the PC game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/doki-doki-alpha-1.0/Doki%20Doki%20Alpha%201.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

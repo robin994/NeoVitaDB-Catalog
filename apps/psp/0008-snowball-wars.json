@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "name": "Snowball Wars",
+  "author": "ro0kie42",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0008-snowball-wars.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/1-snowball-wars.-7z/Old%20Versions/1Snowball%20Wars.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

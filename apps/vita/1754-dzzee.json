@@ -1,0 +1,18 @@
+{
+  "id": 1754,
+  "name": "Dzzee",
+  "author": "thp",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DZZEETHP0",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/741-dzzee.vpk",
+  "version": "v.1.2.0",
+  "prerelease": false,
+  "icon": "1754-dzzee.png",
+  "description": "A multiplaform arcade game. Control the white rectangle with the UP and DOWN buttons. Stay on the lanes, avoid the gaps. Survive longest and retain health points for high score.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 628,
+  "name": "Frontier 1337",
+  "author": "Etienne Bégué (Txori)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0628-frontier-1337.png",
+  "description": "PSP port of Frontier Elite II.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/frontier_1337.7z/frontier_1337.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

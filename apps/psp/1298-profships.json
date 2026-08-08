@@ -1,0 +1,16 @@
+{
+  "id": 1298,
+  "name": "ProfShips",
+  "author": "Prof",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1298-profships.png",
+  "description": "Game of Battleship for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/profship.7z/profship.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

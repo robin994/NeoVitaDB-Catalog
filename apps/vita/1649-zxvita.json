@@ -1,0 +1,18 @@
+{
+  "id": 1649,
+  "name": "ZXVita",
+  "author": "ammeir",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "MEIR00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/478-zxvita.vpk",
+  "version": "v.1.2.0",
+  "prerelease": false,
+  "icon": "1649-zxvita.png",
+  "description": "ZXVita is a Sinclair ZX Spectrum 48k emulator for the PSVita.\nIt features accurate z80 instruction handling, cycle-accurate screen rendering, contended memory/IO emulation, floating bus emulation, tape player UI with instant/real-time tape loading, touch keyboard, savestates and key mappings.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

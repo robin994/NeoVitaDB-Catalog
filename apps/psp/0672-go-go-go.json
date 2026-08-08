@@ -1,0 +1,16 @@
+{
+  "id": 672,
+  "name": "Go Go Go!!!!!",
+  "author": "Altunozara",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0672-go-go-go.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/go-go-go.-7z/GO%20GO%20GO%21%21%21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1287,
+  "name": "Portal",
+  "author": "Valera Kirpich (VG Quake)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1287-portal.png",
+  "description": "Homebrew recreation of Portal, the Valve game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/portal-0.5/Old%20Versions/Portal%200.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1482,
+  "name": "Quake 4 PSP",
+  "author": "michalt441",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1482-quake-4-psp.png",
+  "description": "Mod for DoomPSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quake-4-psphomebrewgamewaddoom.-7z/QUAKE4PSPhomebrewgamewaddoom.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

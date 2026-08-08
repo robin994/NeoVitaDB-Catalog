@@ -1,0 +1,16 @@
+{
+  "id": 708,
+  "name": "Hackers VS Sony",
+  "author": "VIrons, Dreadnaught",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0708-hackers-vs-sony.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hackers_vs_sony.7z/hackers_vs_sony.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

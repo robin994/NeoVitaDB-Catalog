@@ -1,0 +1,16 @@
+{
+  "id": 554,
+  "name": "Eternity",
+  "author": "Blaster's Death",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0554-eternity.png",
+  "description": "Homebrew adventure game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eternity.-7z/Eternity.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

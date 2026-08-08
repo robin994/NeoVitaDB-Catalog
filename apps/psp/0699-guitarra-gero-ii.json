@@ -1,0 +1,16 @@
+{
+  "id": 699,
+  "name": "Guitarra Gero II",
+  "author": "P22 Creations",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0699-guitarra-gero-ii.png",
+  "description": "Homebrew game for PSP. Won first place at the Scenery Beta 2009 coding competition.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/guitarra-gero-ii.-7z/Guitarra%20Gero%20II.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

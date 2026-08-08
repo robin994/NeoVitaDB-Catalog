@@ -1,0 +1,18 @@
+{
+  "id": 1613,
+  "name": "Zombiebound Reloaded",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ZMBR94732",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/421-Zombiebound-Reloaded.vpk",
+  "version": "v.0.21",
+  "prerelease": false,
+  "icon": "1613-zombiebound-reloaded.png",
+  "description": "Zombiebound is an original homebrew zombie-shooting game for the PSVita/PSTV. The game is a 3D first-person zombie shooter that recalls Nazi Zombies game mode from Call of Duty franchise.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

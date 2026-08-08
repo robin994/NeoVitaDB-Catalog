@@ -1,0 +1,16 @@
+{
+  "id": 1650,
+  "name": "Slyder",
+  "author": "Soulless",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1650-slyder.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/slyder-0.01a.-7z/Slyder_0.01a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

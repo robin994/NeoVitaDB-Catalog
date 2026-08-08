@@ -1,0 +1,16 @@
+{
+  "id": 1702,
+  "name": "Something is going wrong!",
+  "author": "idstudio",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1702-something-is-going-wrong.png",
+  "description": "Start an incredible adventure figuring who's the nasty creature behind all the bugs!",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/something-is-going-wrong/psp1000.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

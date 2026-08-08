@@ -1,0 +1,18 @@
+{
+  "id": 1530,
+  "name": "Homebrew Downloader",
+  "author": "D5C85B13876B8",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RTST00010",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/179-hbb.vpk",
+  "version": "v.0.3",
+  "prerelease": false,
+  "icon": "1530-homebrew-downloader.png",
+  "description": "Download and install VPK files on your Vita without using a computer or a web browser.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

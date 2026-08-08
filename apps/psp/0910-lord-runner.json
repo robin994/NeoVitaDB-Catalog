@@ -1,0 +1,16 @@
+{
+  "id": 910,
+  "name": "Lord Runner",
+  "author": "Samy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0910-lord-runner.png",
+  "description": "Arcade-style game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lord-runner-v-102.7z/LordRunnerV102.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

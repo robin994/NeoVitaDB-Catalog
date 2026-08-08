@@ -1,0 +1,16 @@
+{
+  "id": 1758,
+  "name": "StarSlalom",
+  "author": "Nielkie",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1758-starslalom.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/star-slalom-.-7z/StarSlalom-.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

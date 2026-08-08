@@ -1,0 +1,18 @@
+{
+  "id": 1618,
+  "name": "Red Runner",
+  "author": "RetroGamer74",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RTFD12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/433-redrunner.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1618-red-runner.png",
+  "description": "Red Runner is an open source endless game similar to Super Meat Boy in its mechanics.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

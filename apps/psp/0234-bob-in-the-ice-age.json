@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "name": "Bob in: The Ice Age",
+  "author": "Alex Gilbert",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0234-bob-in-the-ice-age.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bob.7z/bob.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1929,
+  "name": "Dropsy Vita",
+  "author": "LordChickenBlaster",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DROP54000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1287-DropsyVITA.vpk",
+  "version": "v.1.02",
+  "prerelease": false,
+  "icon": "1929-dropsy-vita.png",
+  "description": "Dropsy is a non-traditional take on the classic point and click adventure formula starring the gameÃ¢â‚¬â„¢s perpetually carefree namesake clown as he explores a richly detailed world full of colorful characters and sinister secrets, doling out hugs along the way.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

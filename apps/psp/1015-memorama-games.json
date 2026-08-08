@@ -1,0 +1,16 @@
+{
+  "id": 1015,
+  "name": "Memorama Games",
+  "author": "Chus",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1015-memorama-games.png",
+  "description": "Memory game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/memorama-games.-7z/Memorama%20Games.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

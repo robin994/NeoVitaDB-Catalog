@@ -1,0 +1,16 @@
+{
+  "id": 1874,
+  "name": "The Binding of Isaac: Rebirth",
+  "author": "Yerson Games",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1874-the-binding-of-isaac-rebirth.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/the-binding-of-isaac-rebirth/the-binding-of-isaac-rebirth-002.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

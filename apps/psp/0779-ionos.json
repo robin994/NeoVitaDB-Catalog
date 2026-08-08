@@ -1,0 +1,16 @@
+{
+  "id": 779,
+  "name": "Ionos",
+  "author": "DeViaNTe",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0779-ionos.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ionos.-7z/Ionos.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

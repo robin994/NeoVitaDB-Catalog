@@ -1,0 +1,16 @@
+{
+  "id": 525,
+  "name": "Defend your PSP",
+  "author": "TacticalPenguin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0525-defend-your-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dyp.-7z/DYP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1989,
+  "name": "McDonalds eCDP KeyGen",
+  "author": "Li",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ECDP00001",
+  "repo": "LiEnby/eCDP-Serial-Code",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1989-ecdp-keygen.png",
+  "description": "Generate \"Serial Code\" for the Nintendo DS Game, Mcdonalds eCrew Development Program",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1501,
+  "name": "Rana PX",
+  "author": "Sting18",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1501-rana-px.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ranapx.7z/ranapx.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

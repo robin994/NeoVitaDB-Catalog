@@ -1,0 +1,16 @@
+{
+  "id": 1577,
+  "name": "Sanvian Warrior",
+  "author": "Predricted",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1577-sanvian-warrior.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sanvian-warrior.-7z/SanvianWarrior.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

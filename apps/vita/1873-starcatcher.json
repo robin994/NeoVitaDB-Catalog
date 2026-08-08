@@ -1,0 +1,18 @@
+{
+  "id": 1873,
+  "name": "Starcatcher",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "STARCATCH",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1144-Starcatcher.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1873-starcatcher.png",
+  "description": "Created by Escada Games for One Button Jam 2022, Starcatcher is a star-collecting space platformer!\nComplete 25 levels of increasing difficulty. Remember, though, the game only uses one button!\nMore information about Starcatcher and Escada Games, https://escada-games.itch.io/starcatcher",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

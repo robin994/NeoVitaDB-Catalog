@@ -1,0 +1,16 @@
+{
+  "id": 1296,
+  "name": "Prime",
+  "author": "Mexicouger",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1296-prime.png",
+  "description": "3D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/prime.-7z/Prime.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

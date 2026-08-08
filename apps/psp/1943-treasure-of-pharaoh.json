@@ -1,0 +1,16 @@
+{
+  "id": 1943,
+  "name": "Treasure of Pharaoh",
+  "author": "snowymydog",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1943-treasure-of-pharaoh.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/treasureof-pharaoh-150v-10-final.-7z/TreasureofPharaoh150v10Final.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

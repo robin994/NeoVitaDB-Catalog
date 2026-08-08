@@ -1,0 +1,18 @@
+{
+  "id": 1501,
+  "name": "StarKiller 2D",
+  "author": "Freakler",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STARKILL0",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/101-StarKiller2D.vpk",
+  "version": "v.1.00",
+  "prerelease": false,
+  "icon": "1501-starkiller-2d.png",
+  "description": "This is a basic & minimalistic 2D puzzle game. The game isn't meant to look pretty with a lot of fancy graphics but further stay in a somewhat \"text-based-adventure-way\".\nThis release has 54 Levels currently and there also is a level editor for even more fun.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

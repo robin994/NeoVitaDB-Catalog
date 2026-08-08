@@ -1,0 +1,16 @@
+{
+  "id": 1203,
+  "name": "Pencil Puzzles",
+  "author": "ARza, Cools",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1203-pencil-puzzles.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pencil-puzzles.-7z/Pencil%20Puzzles.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

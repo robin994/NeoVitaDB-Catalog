@@ -1,0 +1,18 @@
+{
+  "id": 1564,
+  "name": "Crazy Traffic Jam 3D",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CTJ300001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/292-CRAZYTAXI.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1564-crazy-traffic-jam-3d.png",
+  "description": "Crazy Traffic Jam 3D is an endless arcade driving game with stylized 3D graphics. Drive your car through highway traffic, earn coins, collect lightning boosts to speed up and maximize your score.\nThe game features local hi-score. The faster you drive the more score you get.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

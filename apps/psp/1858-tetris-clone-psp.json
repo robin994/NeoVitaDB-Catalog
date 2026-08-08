@@ -1,0 +1,16 @@
+{
+  "id": 1858,
+  "name": "Tetris Clone PSP",
+  "author": "Monthouël Alexandre (An0n1mity)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1858-tetris-clone-psp.png",
+  "description": "NES tetris clone adapted for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetris_202311/TETRIS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

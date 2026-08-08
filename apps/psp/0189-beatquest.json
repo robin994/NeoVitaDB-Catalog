@@ -1,0 +1,16 @@
+{
+  "id": 189,
+  "name": "BeatQuest",
+  "author": "PSPdemon, Zion",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0189-beatquest.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/beat-quest.-7z/BeatQuest.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

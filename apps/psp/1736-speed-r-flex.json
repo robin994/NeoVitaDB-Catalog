@@ -1,0 +1,16 @@
+{
+  "id": 1736,
+  "name": "Speed Réflex",
+  "author": "Stewart06, Skity",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1736-speed-r-flex.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/speed-reflexv-2.5.7z/SpeedReflexv2.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 560,
+  "name": "Evil Teddy",
+  "author": "Alchemy Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0560-evil-teddy.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/evil-teddy.-7z/EvilTeddy.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

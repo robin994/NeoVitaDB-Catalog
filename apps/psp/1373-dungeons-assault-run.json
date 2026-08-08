@@ -1,0 +1,16 @@
+{
+  "id": 1373,
+  "name": "Dungeons: Assault Run",
+  "author": "Christoph Arnold (charnold)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1373-dungeons-assault-run.png",
+  "description": "3D shooter homebrew for PSP. Includes a Windows level editor.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspdar.-7z/Old%20Versions/PSPDAR.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

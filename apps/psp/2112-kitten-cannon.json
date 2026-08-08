@@ -1,0 +1,16 @@
+{
+  "id": 2112,
+  "name": "Kitten Cannon",
+  "author": "SG57",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2112-kitten-cannon.png",
+  "description": "Kitten Cannon is a super fun distance game! Don't you just love kittens? No? Then this game is the perfect fit for you! Shoot those tiny little critters out of a cannon and watch them fly across the screen. See how far you can fire them and watch them bounce on trampolines. If that doesn't hit that itch, there are also piles of dynamite they can hit to propel them further. Or even missiles suspended in air, just waiting for an unsuspecting kitten to hit them.\nGiggle as they bounce from one explosion to the next, spanning hundreds of metres. That is until they end up impaled on rusty spikes or swallowed whole by a carnivorous plant. That's right, they will bounce and meow as they are hurled across the screen. Much fun!",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/914-kittencannon.zip",
+  "version": "Cash Tournament Edition",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

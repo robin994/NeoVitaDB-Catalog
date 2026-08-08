@@ -1,0 +1,16 @@
+{
+  "id": 1982,
+  "name": "Urinal Test",
+  "author": "Playboy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1982-urinal-test.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/urinal-test.-7z/Urinal_Test.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

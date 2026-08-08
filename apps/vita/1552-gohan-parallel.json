@@ -1,0 +1,18 @@
+{
+  "id": 1552,
+  "name": "GoHAN Parallel",
+  "author": "OneRice07",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ZXGQ00004",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/251-GoHAN_Parallel.vpk",
+  "version": "v.2.1.0",
+  "prerelease": false,
+  "icon": "1552-gohan-parallel.png",
+  "description": "Homebrew that allows the user to modify games data.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

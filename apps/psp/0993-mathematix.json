@@ -1,0 +1,16 @@
+{
+  "id": 993,
+  "name": "MathematiX",
+  "author": "nicovideo, cloos",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0993-mathematix.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mathemati-x.-7z/MathematiX.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 745,
+  "name": "Hokuto No Doom",
+  "author": "iceman57",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0745-hokuto-no-doom.png",
+  "description": "Doom mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hnd_psp3xx.7z/hnd_psp3xx.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

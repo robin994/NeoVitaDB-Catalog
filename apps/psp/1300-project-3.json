@@ -1,0 +1,16 @@
+{
+  "id": 1300,
+  "name": "Project 3",
+  "author": "Sonicadvance1",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1300-project-3.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/project-3v-2.7z/Project3v2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

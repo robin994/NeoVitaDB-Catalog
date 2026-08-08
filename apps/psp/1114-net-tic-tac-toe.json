@@ -1,0 +1,16 @@
+{
+  "id": 1114,
+  "name": "Net Tic Tac Toe",
+  "author": "Flagon (Wagon Butterworth)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1114-net-tic-tac-toe.png",
+  "description": "Homebrew game for PSP. It can play against the Nintendo DS version of the same homebrew (NDS Tic Tac Toe).",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nettictactoe.7z/nettictactoe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

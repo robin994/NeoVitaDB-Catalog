@@ -1,0 +1,18 @@
+{
+  "id": 1870,
+  "name": "The Legend of Edgar",
+  "author": "Riviera71",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "EDGAR0134",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1141-edgar.vpk",
+  "version": "v.1.34",
+  "prerelease": false,
+  "icon": "1870-the-legend-of-edgar.png",
+  "description": "The Legend of Edgar is a platform game, not unlike those found on the Amiga and SNES. Edgar must battle his way across the world, solving puzzles and defeating powerful enemies to achieve his quest.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

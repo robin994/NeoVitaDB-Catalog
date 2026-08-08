@@ -1,0 +1,18 @@
+{
+  "id": 1704,
+  "name": "Five Nights at Freddy's",
+  "author": "Kolbie5874 & WeegeeDEVELOPER",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ABCD52341",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/620-FNaFVita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1704-five-nights-at-freddy-s.png",
+  "description": "Port of the 3DS clone of Five Nights at Freddy's to PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

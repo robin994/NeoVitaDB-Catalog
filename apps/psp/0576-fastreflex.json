@@ -1,0 +1,16 @@
+{
+  "id": 576,
+  "name": "FastReflex",
+  "author": "Supermagicien",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0576-fastreflex.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fast-reflex.-7z/FastReflex.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

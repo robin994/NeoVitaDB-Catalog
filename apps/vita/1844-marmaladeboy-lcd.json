@@ -1,0 +1,18 @@
+{
+  "id": 1844,
+  "name": "MarmaladeBoy_LCD",
+  "author": "Bunkai",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BUNKAI007",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1109-marmalade_bunkai.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1844-marmaladeboy-lcd.png",
+  "description": "The main game is a port of the LCD game where you have to go from one point to another without dying to increase your score. The idea is based on the MarmaladeBoy LCD game made by Bandai Namco.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

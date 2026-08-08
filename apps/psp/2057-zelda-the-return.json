@@ -1,0 +1,16 @@
+{
+  "id": 2057,
+  "name": "Zelda - The Return",
+  "author": "Dark Sidious",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2057-zelda-the-return.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/zelda.-7z/ZELDA.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

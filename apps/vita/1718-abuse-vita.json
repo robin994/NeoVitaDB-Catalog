@@ -1,0 +1,18 @@
+{
+  "id": 1718,
+  "name": "Abuse Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABUSEVITA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/651-Abuse.vpk",
+  "version": "v.0.8",
+  "prerelease": false,
+  "icon": "1718-abuse-vita.png",
+  "description": "Port of Abuse for PSVITA/PSTV based on Abuse-SDL.\nAbuse is a run and gun video game developed by Crack dot Com and published by Electronic Arts in North America and Origin Systems in Europe.\nThe protagonist of the game, Nick Vrenna, has been unjustly incarcerated in a prison where the staff are performing unethical medical experiments upon the inmates. A prison riot occurs and an experiment goes horribly wrong. The people inside the prison - except for Nick, who seems to be immune - are infected with a substance called Abuse that transforms them into monsters. With the water supply in danger of being infected, Nick arms himself and fights through the horde to prevent this, and then escapes from the prison complex.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

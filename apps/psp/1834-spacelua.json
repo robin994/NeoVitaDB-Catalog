@@ -1,0 +1,16 @@
+{
+  "id": 1834,
+  "name": "Spacelua",
+  "author": "Taz666",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1834-spacelua.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/taz666sspaceluav10.7z/taz666sspaceluav10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

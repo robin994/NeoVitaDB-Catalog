@@ -1,0 +1,18 @@
+{
+  "id": 1886,
+  "name": "Epicki Twój Stary",
+  "author": "Domino",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "EPTS80085",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1160-ets.vpk",
+  "version": "v.1.0.0",
+  "prerelease": false,
+  "icon": "1886-epicki-twoj-stary.png",
+  "description": "You play as Your Epic Dad (This is the title of the game btw) and you must avoid things.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

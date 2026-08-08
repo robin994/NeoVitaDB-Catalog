@@ -1,0 +1,18 @@
+{
+  "id": 1898,
+  "name": "StratagemHeroVita",
+  "author": "MEGAgameBoy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HDSH00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1205-StratagemHeroVita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1898-stratagemherovita.png",
+  "description": "Prove to yourself that you have the strength and the courage to be free, join the Helldivers and be the best at doing stratagems to conquer the Terminids and Automatons. Stratagem Hero Vita is a fanmade version of a mini game that you can find within Helldivers 2 with infinite stratagems to train yourself and make the best score ! Some files have been reused from Stratagem Hero Online.\nInspired game by Arrowhead Game Studio.\nMusic composed by Wilbert Roget II.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

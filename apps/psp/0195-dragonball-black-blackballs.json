@@ -1,0 +1,16 @@
+{
+  "id": 195,
+  "name": "Dragonball Black (Blackballs)",
+  "author": "SIM sk",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0195-dragonball-black-blackballs.png",
+  "description": "Fighting homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/beta-0.262.7z/BETA%200.29.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

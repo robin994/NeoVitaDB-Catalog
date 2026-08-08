@@ -1,0 +1,16 @@
+{
+  "id": 42,
+  "name": "1945 The War Is Now",
+  "author": "Germano Fabio (Gefa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0042-1945-the-war-is-now.png",
+  "description": "Vertical Retro Scroller for the PSP where you play as a fighting plane",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/31945-the-war-is-now-v-1.1.0.7z/1945%20The%20War%20Is%20Now.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

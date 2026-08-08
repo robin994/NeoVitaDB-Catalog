@@ -1,0 +1,18 @@
+{
+  "id": 1966,
+  "name": "Wrecking Wave",
+  "author": "brunu",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "AGKB22101",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1412-Wrecking_Wave.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1966-wrecking-wave.png",
+  "description": "Wrecking Wave is an explosive action game with physics-based destruction focused on Challenge and Speedrun modes. Unleash a wave of chaos, smash cities, chase high scores, and stop a mad scientist from polluting your ocean with toxic waste.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

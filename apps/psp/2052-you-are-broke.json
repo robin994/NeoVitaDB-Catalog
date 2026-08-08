@@ -1,0 +1,16 @@
+{
+  "id": 2052,
+  "name": "You Are Broke!",
+  "author": "mrneo240",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2052-you-are-broke.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/yourebroke.7z/yourebroke.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

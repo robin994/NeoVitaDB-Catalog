@@ -1,0 +1,16 @@
+{
+  "id": 400,
+  "name": "Cool Stuff Mod",
+  "author": "Mexicouger",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0400-cool-stuff-mod.png",
+  "description": "Mod of Lamecraft, the Minecraft fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/csm-0.8/CSM_0.8.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

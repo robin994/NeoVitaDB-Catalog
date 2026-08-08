@@ -1,0 +1,18 @@
+{
+  "id": 1845,
+  "name": "Freespace Collection",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FREESPACE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1110-freespace.vpk",
+  "version": "v.1.0.1",
+  "prerelease": false,
+  "icon": "1845-freespace-collection.png",
+  "description": "Port of Descent: FreeSpace Ã¢â‚¬â€œ The Great War and Freespace 2 for PSVITA.\nBoth games are popular space combat simulation games derived from Descent franchise with a very florish modding community that created 20 years worth of extra campaigns playable with this port.\n\nNOTE: Check this link for the controls mapping scheme: https://gist.github.com/CatoTheYounger97/612ec59aa5dab4aefe1e09e34b5b1ddf",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

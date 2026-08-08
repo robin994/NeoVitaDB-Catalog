@@ -1,0 +1,18 @@
+{
+  "id": 1532,
+  "name": "ReversMe",
+  "author": "TheFloW",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BREW00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/181-ReversMe.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1532-reversme.png",
+  "description": "If you haven't played Reversi/Othello before, you have definitely missed something in your childhood.\nBut it's never too late, launch this homebrew immediately!\nYou will quickly understand the game, and soon you will develop your own tactics to defeat the AI or your friend.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

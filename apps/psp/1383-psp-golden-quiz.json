@@ -1,0 +1,16 @@
+{
+  "id": 1383,
+  "name": "PSP Golden Quiz",
+  "author": "Ulid, Churristian8",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1383-psp-golden-quiz.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspgq.-7z/PSPGQ.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1637,
+  "name": "My Bakku Pakku",
+  "author": "LazyOx199",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BAKU88888",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/463-bakkupakku.vpk",
+  "version": "v.2.5",
+  "prerelease": false,
+  "icon": "1637-my-bakku-pakku.png",
+  "description": "My Bakku Pakku is a Platform/Puzzle-action game which has two type of control mechanics.\nOnko is the main character, while his backpack is empty he controls like Super Mario 3D and when its full he rolls like Katamari.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

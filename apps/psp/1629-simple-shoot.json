@@ -1,0 +1,16 @@
+{
+  "id": 1629,
+  "name": "Simple Shoot",
+  "author": "Nubek, Barus5, Pixelman",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1629-simple-shoot.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/simple-shoot-v-4.7.1.7z/Simple%20Shoot%20v4.7.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

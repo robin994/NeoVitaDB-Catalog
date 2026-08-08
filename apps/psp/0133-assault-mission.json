@@ -1,0 +1,16 @@
+{
+  "id": 133,
+  "name": "Assault Mission",
+  "author": "DimensionT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0133-assault-mission.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/assault-mission.-7z_202103/Assault%20Mission.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

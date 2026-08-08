@@ -1,0 +1,18 @@
+{
+  "id": 1727,
+  "name": "Ars Poetica",
+  "author": "Joao Eiras Antunes",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ARSP03714",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/681-ArsPoetica.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1727-ars-poetica.png",
+  "description": "Ars Poetica is a poetry-themed narrative-focused escape-room puzzle game.\nThink \"Zorg meets Dear Esther\" - story-focused, vanguardist in its puzzle design, but rooted in the genre of the text adventure, merging old-school and contemporary game design.\nA World War II soldier gets injured in battle. In his journey back home he's killed by a bombshell - and in this split second, between life and death, he must now find peace, and remember who he is.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

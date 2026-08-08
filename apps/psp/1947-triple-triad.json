@@ -1,0 +1,16 @@
+{
+  "id": 1947,
+  "name": "Triple Triad",
+  "author": "TT-Team",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1947-triple-triad.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/triple-triad-psp.-7z/TTPSP_0_04_21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

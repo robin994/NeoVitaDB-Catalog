@@ -1,0 +1,16 @@
+{
+  "id": 2095,
+  "name": "Pokemini",
+  "author": "JustBurn",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2095-pokemini.png",
+  "description": "A portable emulator for Pokémon-Mini.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/poke-mini.-7z/pokemini_060_psp.zip",
+  "version": "v.0.60",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

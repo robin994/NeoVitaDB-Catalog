@@ -1,0 +1,16 @@
+{
+  "id": 242,
+  "name": "Bop'N Rumble PSP",
+  "author": "olszemi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0242-bop-n-rumble-psp.png",
+  "description": "Unfinished PSP port of the Commodore 64 game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bop-nrumble-psp.-7z/BopNRumblePSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

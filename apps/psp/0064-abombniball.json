@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "name": "Abombniball",
+  "author": "freakdave",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0064-abombniball.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/abombniballpspv2.7z/abombniballpspv2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

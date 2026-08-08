@@ -1,0 +1,18 @@
+{
+  "id": 1714,
+  "name": "PanComOS",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PCOS21047",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/637-PanComOS.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1714-pancomos.png",
+  "description": "Welcome to PanCom OS, the world's first spam filtering operating system. Your job is to inspect E-Mails and judge if they're allowed to be sent out. Earn money to customize your desktop with themes, cursors, and backgrounds! Invade people's privacy in the name of safety! Have fun and good luck! Huge thanks and credits for m1s3ry and Grossley for helping, Hyohnoo and Viktor Kraus for making this game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

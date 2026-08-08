@@ -1,0 +1,16 @@
+{
+  "id": 990,
+  "name": "MasterPiece",
+  "author": "Jared",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0990-masterpiece.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/master-piece.-7z/MASTER%20PIECE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

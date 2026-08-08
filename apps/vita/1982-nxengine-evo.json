@@ -1,0 +1,18 @@
+{
+  "id": 1982,
+  "name": "NXENGINE-EVO",
+  "author": "nxengine",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NXEV00001",
+  "repo": "nxengine/nxengine-evo",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1982-nxengine-evo.png",
+  "description": "NXEngine-evo, a refactored engine for Cave Story. The original game files are required and are not included.",
+  "requirements": "- Game Data Files: Cave Story",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

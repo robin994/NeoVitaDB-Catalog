@@ -1,0 +1,18 @@
+{
+  "id": 1922,
+  "name": "QR Scanner",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "QRSCANNER",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1267-qr_scanner.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1922-qr-scanner.png",
+  "description": "A minimalistic QR scanner that allows to either download the targeted file or open it on the PSVita webbrowser.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

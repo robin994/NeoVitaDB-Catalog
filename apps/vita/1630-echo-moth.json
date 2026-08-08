@@ -1,0 +1,18 @@
+{
+  "id": 1630,
+  "name": "Echo Moth",
+  "author": "Paulo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PAUL00004",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/453-Echo_20Moth.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1630-echo-moth.png",
+  "description": "Port of Echo Moth for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2099,
+  "name": "JFShadowWarrior",
+  "author": "Crow_bar",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2099-jfshadowwarrior.png",
+  "description": "JFShadowWarrior is a port of jfsw (JonoF's Shadow Warrior), a popular multiplatform source port of Shadow Warrior.\nIt supports both shareware and full game data files and since Shadow Warrior Classic became freeware starting from 2013 with the release of Shadow Warrior Classic Redux, this release will feature the full game for free.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/918-shadowwarriorpsp.7z",
+  "version": "v.0.2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

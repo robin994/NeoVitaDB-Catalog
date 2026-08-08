@@ -1,0 +1,18 @@
+{
+  "id": 1766,
+  "name": "Protect the Earth",
+  "author": "GlitcherOG",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "EART00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/781-EarthProtect.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1766-protect-the-earth.png",
+  "description": "The aliens have attacked!! We don't have long, take control of a ship and come defend the planet. Intel suggests there technology allows them to pass right through our ships but it doesn't stop our lasers but be careful not to hit the planet with your lasers. Quickly now defend the planet for as long as you can!!!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

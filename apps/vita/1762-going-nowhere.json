@@ -1,0 +1,18 @@
+{
+  "id": 1762,
+  "name": "Going Nowhere",
+  "author": "koleq",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GHOS70000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/767-GoingNowhere.vpk",
+  "version": "b27",
+  "prerelease": false,
+  "icon": "1762-going-nowhere.png",
+  "description": "Going Nowhere is a 3D platforming adventure game made in 3 months by a team of 4. Players use a variety of parkour style maneuvers to navigate a dream-like urban environment and discover the mystery behind the town they find themselves in.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

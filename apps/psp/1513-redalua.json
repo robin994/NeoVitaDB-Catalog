@@ -1,0 +1,16 @@
+{
+  "id": 1513,
+  "name": "REDaLUA",
+  "author": "Noldus Reijnders",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1513-redalua.png",
+  "description": "Command & Conquer fan game made in Lua.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/reda-lua-1.0-r-1.7z/Old%20Versions/REDaLUA1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1026,
+  "name": "Metroid Life",
+  "author": "Dragula96",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1026-metroid-life.png",
+  "description": "Version of Game of Life for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/metroid_life003.7z/metroid_life003.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

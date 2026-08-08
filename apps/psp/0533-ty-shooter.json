@@ -1,0 +1,16 @@
+{
+  "id": 533,
+  "name": "Ty Shooter",
+  "author": "Tychom",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0533-ty-shooter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eboo-00649-00000_202102/TYSHOOTER.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

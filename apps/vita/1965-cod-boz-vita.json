@@ -1,0 +1,18 @@
+{
+  "id": 1965,
+  "name": "COD: BOZ Vita",
+  "author": "devnoname120",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BOZ000001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/boz_vita.vpk",
+  "version": "v.1.06",
+  "prerelease": false,
+  "icon": "1965-cod-boz-vita.png",
+  "description": "Port of Call of Duty: Black Ops Zombies for PSVita.\nCall of Duty: Black Ops Zombies is a mobile game that proposes the popular Zombies mode from Call of Duty: Black Ops.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

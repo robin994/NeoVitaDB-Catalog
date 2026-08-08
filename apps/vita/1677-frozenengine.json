@@ -1,0 +1,18 @@
+{
+  "id": 1677,
+  "name": "FrozenEngine",
+  "author": "FrozenNoober",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FROV00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/540-FrozenEngine_20Vita.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1677-frozenengine.png",
+  "description": "A sandbox platform game where you create your own levels and then play them made with GameMaker.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

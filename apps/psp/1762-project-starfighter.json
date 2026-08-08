@@ -1,0 +1,16 @@
+{
+  "id": 1762,
+  "name": "Project Starfighter",
+  "author": "Denis Televnyy (Deniska)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1762-project-starfighter.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/starfighter-v-1.1.7z/Starfighter_v1.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

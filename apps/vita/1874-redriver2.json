@@ -1,0 +1,18 @@
+{
+  "id": 1874,
+  "name": "REDRIVER2",
+  "author": "OsirizX",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "REDRIVER2",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1145-REDRIVER2.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1874-redriver2.png",
+  "description": "Before GTA3 there was Driver 2. Driver 2 is a open-world driving game originally developed for the PS1. This is a port of Reverse Engineered Driver 2 (REDRIVER2) for Vita. Reverse engineering efforts of the game were originally done by SoapyMan of OpenDriver2.",
+  "requirements": "- Game Data Files: PSX",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

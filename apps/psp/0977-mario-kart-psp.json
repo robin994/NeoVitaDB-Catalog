@@ -1,0 +1,16 @@
+{
+  "id": 977,
+  "name": "Mario Kart PSP",
+  "author": "AkaruiTenshi, Dark_Momo, Zix, NtaClassic, PsyGuy, FouadtjuhMaster",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0977-mario-kart-psp.png",
+  "description": "Simple dodging kart game for PSP. Includes a multiplayer mode.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-kart-psp.-7z/Mario%20Kart%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

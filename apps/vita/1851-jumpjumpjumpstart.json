@@ -1,0 +1,18 @@
+{
+  "id": 1851,
+  "name": "JUMPJUMPJUMPSTART!!!",
+  "author": "bayashi",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "JJJS1222A",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1117-jjjs.vpk",
+  "version": "v.1.4",
+  "prerelease": false,
+  "icon": "1851-jumpjumpjumpstart.png",
+  "description": "A brutal game from Japan, the country where Vita was born! I think it's pretty frustrating because the hit detection is well made. Let's aim for the goal while distinguishing between blocks with hit detection and blocks without!\n(It has been confirmed that it can be cleared.)",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

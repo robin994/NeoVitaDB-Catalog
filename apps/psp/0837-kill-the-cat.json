@@ -1,0 +1,16 @@
+{
+  "id": 837,
+  "name": "Kill the Cat",
+  "author": "Team PCT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0837-kill-the-cat.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kill-the-cat.-7z/Kill%20the%20cat.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

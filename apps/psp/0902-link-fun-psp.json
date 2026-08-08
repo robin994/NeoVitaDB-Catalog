@@ -1,0 +1,16 @@
+{
+  "id": 902,
+  "name": "Link Fun [宠物 连连 看 PSP]",
+  "author": "Bian Wei (orbpig)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0902-link-fun-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/link_fun_1222.7z/link_fun_1222.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

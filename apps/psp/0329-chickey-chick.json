@@ -1,0 +1,16 @@
+{
+  "id": 329,
+  "name": "Chickey Chick",
+  "author": "Tim Vangenechten (DrWho198)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0329-chickey-chick.png",
+  "description": "Homebrew platformer for PSP. Early builds of this game are known as Lua Chipke.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chic-00704-00000/Chickey.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

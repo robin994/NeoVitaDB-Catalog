@@ -1,0 +1,17 @@
+{
+  "id": 2096,
+  "name": "Bookr",
+  "author": "Nguyen Chi Tam & gtzampanakis",
+  "category": "utility",
+  "platform": "psp",
+  "repo": "gtzampanakis/bookr",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2096-bookr.png",
+  "description": "Document reader for PSP",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

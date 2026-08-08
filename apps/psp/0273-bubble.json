@@ -1,0 +1,16 @@
+{
+  "id": 273,
+  "name": "Bubble",
+  "author": "Sauron le noir",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0273-bubble.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bubble.7z/bubble.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

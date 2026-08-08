@@ -1,0 +1,16 @@
+{
+  "id": 953,
+  "name": "Magic Bowl",
+  "author": "André Borrmann (AnMaBaGiMa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0953-magic-bowl.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/magic-bowl-v-1-0/MagicBowl_v1_0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

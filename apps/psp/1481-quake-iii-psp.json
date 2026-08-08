@@ -1,0 +1,16 @@
+{
+  "id": 1481,
+  "name": "Quake III PSP",
+  "author": "Sergey Galushko (Crow_bar)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1481-quake-iii-psp.png",
+  "description": "PSP port of Quake III. Data files from the demo version (and the 1.32 patch) are included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quake-3-psp.-7z/Quake3PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 182,
+  "name": "BattleShip Zero",
+  "author": "Jorge_97",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0182-battleship-zero.png",
+  "description": "PSP homebrew game by Jorge_97.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/battleshipzero/BattleShip%20Zero%20v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

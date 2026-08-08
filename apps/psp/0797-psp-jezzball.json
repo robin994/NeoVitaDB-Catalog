@@ -1,0 +1,16 @@
+{
+  "id": 797,
+  "name": "PSP Jezzball",
+  "author": "JEK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0797-psp-jezzball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jezzball.7z/jezzball.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

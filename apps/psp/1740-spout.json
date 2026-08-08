@@ -1,0 +1,16 @@
+{
+  "id": 1740,
+  "name": "Spout",
+  "author": "Jeremy Chin (ReKleSS)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1740-spout.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/spout.7z/spout.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

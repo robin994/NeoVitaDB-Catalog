@@ -1,0 +1,16 @@
+{
+  "id": 283,
+  "name": "Burntico",
+  "author": "Alexandre Rimbot",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0283-burntico.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/burntico.-7z/Burntico.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 369,
+  "name": "Connect",
+  "author": "JEK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0369-connect.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/connect.-7z/Connect.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

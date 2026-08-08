@@ -1,0 +1,16 @@
+{
+  "id": 1111,
+  "name": "NetHack PSP",
+  "author": "VirtuaMUnstaz, Pawa",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1111-nethack-psp.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/net-hack-psp.-7z/NetHackPSP-1.0d.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1791,
+  "name": "Super Mario Hunt",
+  "author": "Sp3ct0r",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1791-super-mario-hunt.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/super-mario-hunt.-7z/Super%20Mario%20Hunt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

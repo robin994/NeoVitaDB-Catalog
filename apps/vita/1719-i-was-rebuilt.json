@@ -1,0 +1,18 @@
+{
+  "id": 1719,
+  "name": "I Was Rebuilt",
+  "author": "Gurila Ware Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "IWRV00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/662-rebuilt.vpk",
+  "version": "v.2.0.0.1",
+  "prerelease": false,
+  "icon": "1719-i-was-rebuilt.png",
+  "description": "Play as R3B, an advance and agile robot created by Dr. Zhang in this hardcore platformer game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

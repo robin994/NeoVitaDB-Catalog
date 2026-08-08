@@ -1,0 +1,16 @@
+{
+  "id": 1123,
+  "name": "Next Element",
+  "author": "Miroslaw Zielinski",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1123-next-element.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nextelement.7z/nextelement.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1553,
+  "name": "DeathRun To Vita",
+  "author": "Vektast",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DRSS00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/253-DeathRun.vpk",
+  "version": "Build 531",
+  "prerelease": false,
+  "icon": "1553-deathrun-to-vita.png",
+  "description": "A simple 2D Platformer for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

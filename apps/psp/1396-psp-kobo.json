@@ -1,0 +1,16 @@
+{
+  "id": 1396,
+  "name": "PSP Kobo",
+  "author": "Jeremy Chin (ReKleSS), Randall Spychalla",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1396-psp-kobo.png",
+  "description": "Space shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspkobo-v-1-21.7z/Old%20Versions/pspkobov11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

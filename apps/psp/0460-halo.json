@@ -1,0 +1,16 @@
+{
+  "id": 460,
+  "name": "Halo",
+  "author": "Xero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0460-halo.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/demo-halo.-7z/D%C3%A9mo%20Halo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

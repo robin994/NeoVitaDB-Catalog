@@ -1,0 +1,18 @@
+{
+  "id": 1601,
+  "name": "EDuke32 Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "EDUKE0032",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/397-EDuke32.vpk",
+  "version": "v.1.6",
+  "prerelease": false,
+  "icon": "1601-eduke32-vita.png",
+  "description": "Port of EDuke32, a Duke Nukem 3D source port, for PSVITA. It supports also add-on packs, mods and all other EDuke32 regular features.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

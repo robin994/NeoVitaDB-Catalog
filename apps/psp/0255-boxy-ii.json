@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "name": "Boxy II",
+  "author": "Reinier den Hollander (Ghoti)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0255-boxy-ii.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/boxy-2.7z_202101/BOXY2-0.7.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

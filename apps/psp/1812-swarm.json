@@ -1,0 +1,16 @@
+{
+  "id": 1812,
+  "name": "Swarm",
+  "author": "Stinkee2",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1812-swarm.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/swarm-v-2.7z/SwarmV2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

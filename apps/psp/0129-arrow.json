@@ -1,0 +1,16 @@
+{
+  "id": 129,
+  "name": "Arrow",
+  "author": "Alexandre Rimbot (Kinow)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0129-arrow.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/arrow.-7z/Arrow.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

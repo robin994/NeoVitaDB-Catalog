@@ -1,0 +1,16 @@
+{
+  "id": 262,
+  "name": "Breaker+",
+  "author": "Durka Durka Mahn",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0262-breaker.png",
+  "description": "Breakout clone for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breaker.-7z/Breaker%2B.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

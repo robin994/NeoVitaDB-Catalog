@@ -1,0 +1,16 @@
+{
+  "id": 1136,
+  "name": "NOeSIS02 for PSP",
+  "author": "佃煮 (Judah0209)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1136-noesis02-for-psp.png",
+  "description": "PSP port of the freeware visual novel 'NOeSIS 02 -羽化-'.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/noe-sis-02-for-psp/NOeSIS02%20for%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1009,
+  "name": "Mega Man Armada",
+  "author": "NickyP",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1009-mega-man-armada.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mega-man-armada.-7z/Mega%20Man%20Armada.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

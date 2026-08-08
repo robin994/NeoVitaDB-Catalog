@@ -1,0 +1,16 @@
+{
+  "id": 163,
+  "name": "Balloon Pop Challenge",
+  "author": "Luke Ryan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0163-balloon-pop-challenge.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/balloon-pop-challenge.-7z/BalloonPopChallenge.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

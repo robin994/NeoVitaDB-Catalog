@@ -1,0 +1,16 @@
+{
+  "id": 1614,
+  "name": "Shooter",
+  "author": "TedZero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1614-shooter.png",
+  "description": "3D target shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shooter.7z/shooter.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

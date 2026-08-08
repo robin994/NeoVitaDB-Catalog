@@ -1,0 +1,16 @@
+{
+  "id": 1113,
+  "name": "Net Yaroze Collection",
+  "author": "Michele Di Somma",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1113-net-yaroze-collection.png",
+  "description": "Collection of PlayStation homebrews, created through the Net Yaroze program.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/net-yaroze.-7z/Net%20yaroze.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

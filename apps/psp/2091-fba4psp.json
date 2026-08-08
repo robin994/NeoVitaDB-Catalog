@@ -1,0 +1,16 @@
+{
+  "id": 2091,
+  "name": "FBA4PSP",
+  "author": "OopsWare & Lbicelyne & Reprep",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2091-fba4psp.png",
+  "description": "Port of FinalBurn Alpha, an arcades emulator, for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fba-4-psp.-7z/FBA4PSPv12.5.4.zip",
+  "version": "v.12.5.4",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

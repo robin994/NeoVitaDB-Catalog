@@ -1,0 +1,16 @@
+{
+  "id": 1586,
+  "name": "Scion Copter",
+  "author": "jpn0",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1586-scion-copter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/scion-copter.-7z/Scion%20Copter.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

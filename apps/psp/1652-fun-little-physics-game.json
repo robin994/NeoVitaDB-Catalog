@@ -1,0 +1,16 @@
+{
+  "id": 1652,
+  "name": "Fun Little Physics Game",
+  "author": "Jordan Rehn (SG57)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1652-fun-little-physics-game.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/small-game.-7z/SmallGame.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

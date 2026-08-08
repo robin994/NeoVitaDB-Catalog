@@ -1,0 +1,16 @@
+{
+  "id": 1088,
+  "name": "长门有希的暴走",
+  "author": "掌机开发者之家",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1088-psp-homebrew.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nagato_202108/nagato.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 954,
+  "name": "Magic Cube",
+  "author": "gorglucks",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0954-magic-cube.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/magic-cube.-7z/MagicCube.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

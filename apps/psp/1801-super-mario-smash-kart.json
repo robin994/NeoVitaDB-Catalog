@@ -1,0 +1,16 @@
+{
+  "id": 1801,
+  "name": "Super Mario Smash Kart",
+  "author": "Zion",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1801-super-mario-smash-kart.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/super_mario_smash_kart.7z/super_mario_smash_kart.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

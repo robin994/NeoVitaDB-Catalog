@@ -1,0 +1,16 @@
+{
+  "id": 32,
+  "name": "TetriAbetes",
+  "author": "Dragula96",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0032-tetriabetes.png",
+  "description": "Tetris homebrew for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/28tetrabetes-141-fw-3xx.-7z/Extra/Skin%20sets%20by%20takotako24.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1266,
+  "name": "PSPdePON",
+  "author": "gozy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1266-pspdepon.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pon.7z/pon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

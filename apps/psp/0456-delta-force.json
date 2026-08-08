@@ -1,0 +1,16 @@
+{
+  "id": 456,
+  "name": "Delta Force",
+  "author": "dan369",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0456-delta-force.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/delta-force.-7z/Delta%20Force.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

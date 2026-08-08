@@ -1,0 +1,16 @@
+{
+  "id": 1959,
+  "name": "Text Tug Of War",
+  "author": "Josh Friesen",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1959-text-tug-of-war.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tug-of-war.-7z/Tug%20Of%20War.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1239,
+  "name": "Pixelizer",
+  "author": "Judas",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1239-pixelizer.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pixelizer.-7z/Pixelizer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

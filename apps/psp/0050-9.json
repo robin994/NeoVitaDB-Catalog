@@ -1,0 +1,16 @@
+{
+  "id": 50,
+  "name": "9 Мая",
+  "author": "Erogame Project",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0050-9.png",
+  "description": "Port of the Russian-language visual novel, running on the RenPSP engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/9-.-7z/9%20%D0%9C%D0%B0%D1%8F.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

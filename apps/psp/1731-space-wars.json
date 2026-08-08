@@ -1,0 +1,16 @@
+{
+  "id": 1731,
+  "name": "Space Wars",
+  "author": "mathfacts",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1731-space-wars.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/spacewars.7z/spacewars.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

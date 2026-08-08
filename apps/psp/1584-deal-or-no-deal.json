@@ -1,0 +1,16 @@
+{
+  "id": 1584,
+  "name": "Deal or No Deal",
+  "author": "AdePSP",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1584-deal-or-no-deal.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/scedealnodeal.-7z/SCEdealnodeal.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

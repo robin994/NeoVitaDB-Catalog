@@ -1,0 +1,16 @@
+{
+  "id": 1528,
+  "name": "Ripples",
+  "author": "sakevisual",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1528-ripples.png",
+  "description": "Visual novel ported to PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ripples-v2.7z/ripples-v2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

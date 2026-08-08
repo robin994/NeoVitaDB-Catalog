@@ -1,0 +1,16 @@
+{
+  "id": 296,
+  "name": "Callisto",
+  "author": "Fraglab",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0296-callisto.png",
+  "description": "Classic 2d shmup (shoot 'em up) action on your PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/callisto.7z/callisto.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

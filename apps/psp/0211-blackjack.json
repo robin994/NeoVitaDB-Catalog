@@ -1,0 +1,16 @@
+{
+  "id": 211,
+  "name": "Blackjack",
+  "author": "LuNcHb0x",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0211-blackjack.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blackjack.-7z_202106/Blackjack.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1642,
+  "name": "Kill Em All",
+  "author": "RetroGamer74",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BBFF12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/469-469.vpk",
+  "version": "v.0.92",
+  "prerelease": false,
+  "icon": "1642-kill-em-all.png",
+  "description": "Hi everyone this is the story of a man who is alone .... and ..... well you have to kill them all.\nTo do this you will have to get experience, gold, and so on. Basically win each mission. If you do this you will get money to purchase new weapons and to improve your weapons to get access to new missions. If you don't have enough money to make the improvements then you will have to play the farming levels. Those levels are intended to get money. You can play them as many wants you need, while the History levels can be played just once.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

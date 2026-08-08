@@ -1,0 +1,18 @@
+{
+  "id": 1810,
+  "name": "Sunshine Cat",
+  "author": "SpanishFreddy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SUNSHINEC",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1026-sunshine.vpk",
+  "version": "v.2",
+  "prerelease": false,
+  "icon": "1810-sunshine-cat.png",
+  "description": "Port of Sunshine-Cat-Platformer for PSVITA.\nSunshine-Cat-Platformer is a demo platformer inspired to the secret levels of Super Mario Sunshine made for an university task.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 480,
+  "name": "Doodle Jump PSP",
+  "author": "emink123, James Cutter",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0480-doodle-jump-psp.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/doodle-jump-psp-v-1.4.7z/Doodle%20Jump%20PSP%20v1.4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1616,
+  "name": "The Hallway",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PTVT45668",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/428-TheHallway.vpk",
+  "version": "v.1.0.1",
+  "prerelease": false,
+  "icon": "1616-the-hallway.png",
+  "description": "This game is a recreation of P.T. demo. It's a complete recreation of the original with handmade 3d models and environments created as close as possible to original.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1563,
+  "name": "Lua Player Plus Vita",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LPPV00001",
+  "repo": "Rinnegatamante/lpp-vita",
+  "asset": "*.rar",
+  "prerelease": false,
+  "icon": "1563-lua-player-plus-vita.png",
+  "description": "The first Lua interpreter for PSVITA.\nIt has several features like 3D rendering, 2D rendering, complete audio system with support for different audio file formats, network features, etc...",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

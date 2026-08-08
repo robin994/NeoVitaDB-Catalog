@@ -1,0 +1,16 @@
+{
+  "id": 345,
+  "name": "City Runner",
+  "author": "ninuzzomagno",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0345-city-runner.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/city-runner/CityRunner.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

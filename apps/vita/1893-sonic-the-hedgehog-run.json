@@ -1,0 +1,18 @@
+{
+  "id": 1893,
+  "name": "SONIC THE HEDGEHOG RUN",
+  "author": "bayashi",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SONIC1111",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1195-sonic_run.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1893-sonic-the-hedgehog-run.png",
+  "description": "A simple action game as a fan-made game of Sonic.\nThe controls are simple: just press the buttons!\nLet's go!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

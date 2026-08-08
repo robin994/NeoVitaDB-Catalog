@@ -1,0 +1,18 @@
+{
+  "id": 1544,
+  "name": "Notepad++ (VE)",
+  "author": "Arkanite",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ARKSNPAD0",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/210-Notepad.vpk",
+  "version": "v.0.31",
+  "prerelease": false,
+  "icon": "1544-notepad-ve.png",
+  "description": "Notepad++ (VE) is a portable notepad and source code editor for the Playstation Vita.\nThis project initially started as a simple text editor and has grown to support several features making it quite similar to the popular Notepad++ program available for PCs.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

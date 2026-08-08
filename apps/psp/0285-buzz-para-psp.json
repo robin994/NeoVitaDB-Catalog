@@ -1,0 +1,16 @@
+{
+  "id": 285,
+  "name": "Buzz para PSP",
+  "author": "Jose M Corral Martin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0285-buzz-para-psp.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/buss-para-psp.-7z/BussParaPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

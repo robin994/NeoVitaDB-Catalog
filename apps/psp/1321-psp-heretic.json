@@ -1,0 +1,16 @@
+{
+  "id": 1321,
+  "name": "PSP-Heretic",
+  "author": "Nitr8",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1321-psp-heretic.png",
+  "description": "PSP port of the game. Shareware version included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-heretic.7z/psp-heretic.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

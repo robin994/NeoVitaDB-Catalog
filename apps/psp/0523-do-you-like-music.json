@@ -1,0 +1,16 @@
+{
+  "id": 523,
+  "name": "Do you like music?",
+  "author": "Dioni0396",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0523-do-you-like-music.png",
+  "description": "Music game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dylym.-7z/DYLYM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

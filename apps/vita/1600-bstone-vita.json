@@ -1,0 +1,18 @@
+{
+  "id": 1600,
+  "name": "bstone-vita",
+  "author": "01y",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BSTONEVIT",
+  "repo": "01y/bstone-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1600-bstone-vita.png",
+  "description": "Port of Blake Stone: Aliens of Gold and Blake Stone: Planet Strike for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

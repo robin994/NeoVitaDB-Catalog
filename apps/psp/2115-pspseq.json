@@ -1,0 +1,16 @@
+{
+  "id": 2115,
+  "name": "PSPSeq",
+  "author": "Ethan Bordeaux",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2115-pspseq.png",
+  "description": "A music sequencer for PSP allowing to create music on the go.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/958-pspseq.7z",
+  "version": "v.3.01",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

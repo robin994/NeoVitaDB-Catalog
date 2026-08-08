@@ -1,0 +1,18 @@
+{
+  "id": 1488,
+  "name": "Tema",
+  "author": "Mithrenes & xamthor",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "TEMA00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/73-tema.vpk",
+  "version": "v.2.1",
+  "prerelease": false,
+  "icon": "1488-tema.png",
+  "description": "Tema allows you to download themes directly through your PSVita web browser.\nSimilar to the way VPKMirror Direct Installer works.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

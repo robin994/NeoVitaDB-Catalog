@@ -1,0 +1,16 @@
+{
+  "id": 1674,
+  "name": "Super Mario Soundboard",
+  "author": "Vermillion",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1674-super-mario-soundboard.png",
+  "description": "Sound app for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smsb.-7z/SMSB.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

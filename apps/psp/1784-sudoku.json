@@ -1,0 +1,16 @@
+{
+  "id": 1784,
+  "name": "Sudoku",
+  "author": "AlkaLamu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1784-sudoku.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sudokuv0.4.7z/sudokuv0.4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

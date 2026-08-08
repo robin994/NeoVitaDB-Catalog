@@ -1,0 +1,18 @@
+{
+  "id": 1674,
+  "name": "vitaExhumed",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PCEXHUMED",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/533-vitaExhumed.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1674-vitaexhumed.png",
+  "description": "vitaExhumed is a port of PCExhumed, an EDuke32 fork that supports PowerSlave/Exhumed games. PowerSlave, known as Exhumed in Europe, is a first-person shooter developed by Lobotomy Software and published by Playmates Interactive in 1996.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

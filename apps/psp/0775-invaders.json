@@ -1,0 +1,16 @@
+{
+  "id": 775,
+  "name": "Invaders",
+  "author": "Netaro",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0775-invaders.png",
+  "description": "Space invaders clone for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/inv.-7z/INV.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

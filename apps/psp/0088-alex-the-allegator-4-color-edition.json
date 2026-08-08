@@ -1,0 +1,16 @@
+{
+  "id": 88,
+  "name": "Alex the Allegator 4: Color Edition",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0088-alex-the-allegator-4-color-edition.png",
+  "description": "PSP port of the open source game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alex-4-c.-7z/Alex4C.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

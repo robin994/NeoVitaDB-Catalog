@@ -1,0 +1,16 @@
+{
+  "id": 771,
+  "name": "infXion",
+  "author": "CBarox",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0771-infxion.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/infXion.7z/infXion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

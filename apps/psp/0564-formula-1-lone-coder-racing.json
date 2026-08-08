@@ -1,0 +1,16 @@
+{
+  "id": 564,
+  "name": "Formula 1 Lone Coder Racing",
+  "author": "Brek Martin (Art)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0564-formula-1-lone-coder-racing.png",
+  "description": "PSP port of the Formula 1 Lone Coder Racing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/f-1-lc.-7z/F1LC.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

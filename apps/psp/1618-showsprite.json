@@ -1,0 +1,16 @@
+{
+  "id": 1618,
+  "name": "Showsprite",
+  "author": "HardHat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1618-showsprite.png",
+  "description": "This game was created to abide the following restrictions: make a game in Lua in <4k with no external files or graphics.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/showsprite.7z/showsprite.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

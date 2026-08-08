@@ -1,0 +1,18 @@
+{
+  "id": 1610,
+  "name": "Postal Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "POSTAL001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/415-Postal.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1610-postal-vita.png",
+  "description": "Take control of The Postal Dude in his infamous first outing as he battles to survive in a world gone mad! POSTAL is a classic isometric shooter filled to the brim with fast-paced explosive action. Crazed gunmen out for your blood await you around every corner, and your only choice is to get them before they get you. Fight back with a destructive arsenal as make your way through a violence-stricken town.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1789,
+  "name": "SuperCobra",
+  "author": "Spirax",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1789-supercobra.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/super-cobra-v-07.7z/SuperCobra_v07.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

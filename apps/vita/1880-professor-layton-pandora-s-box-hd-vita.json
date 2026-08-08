@@ -1,0 +1,18 @@
+{
+  "id": 1880,
+  "name": "Professor Layton: Pandora's Box HD Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LAYTON002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1152-layton2.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1880-professor-layton-pandora-s-box-hd-vita.png",
+  "description": "This is a wrapper/port of Professor Layton: Pandora's Box HD for the PS Vita. The port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

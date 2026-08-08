@@ -1,0 +1,16 @@
+{
+  "id": 540,
+  "name": "El Gran Quiz",
+  "author": "Yeah Producciones",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0540-el-gran-quiz.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/el-gran-quiz-v-1.85.7z/ElGranQuiz%20v1.85.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 153,
+  "name": "Baby Foot",
+  "author": "Hydreed, Httony",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0153-baby-foot.png",
+  "description": "Table football simulator for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/baby-foot.-7z/Baby%20Foot.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 674,
+  "name": "3D-Luck",
+  "author": "Technicaljicama",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0674-3d-luck.png",
+  "description": "A simple 3d game made with Godot and exported to the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/godot_202311/Godot.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

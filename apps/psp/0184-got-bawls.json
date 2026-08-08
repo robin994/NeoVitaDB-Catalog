@@ -1,0 +1,16 @@
+{
+  "id": 184,
+  "name": "Got Bawls?",
+  "author": "Bundy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0184-got-bawls.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bawls.-7z/Bawls.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

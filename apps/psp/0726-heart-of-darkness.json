@@ -1,0 +1,16 @@
+{
+  "id": 726,
+  "name": "Heart Of Darkness",
+  "author": "Gregory Montoir, Maxim Lopez",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0726-heart-of-darkness.png",
+  "description": "SDL port of the original game, running on PSP. The demo version is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/heart-of-darkness-sdl-psp.-7z/HeartOfDarkness_SDL-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

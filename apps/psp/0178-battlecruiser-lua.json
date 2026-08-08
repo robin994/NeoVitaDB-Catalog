@@ -1,0 +1,16 @@
+{
+  "id": 178,
+  "name": "Battlecruiser Lua",
+  "author": "Rabierre",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0178-battlecruiser-lua.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/battlecruiser-lua.-7z/Battlecruiser%20Lua.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

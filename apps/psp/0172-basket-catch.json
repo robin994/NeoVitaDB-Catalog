@@ -1,0 +1,16 @@
+{
+  "id": 172,
+  "name": "Basket Catch",
+  "author": "roe-ur-boat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0172-basket-catch.png",
+  "description": "Catch falling eggs. PSP homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/basket-catch.-7z/Basket%20Catch.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1484,
+  "name": "PSP Quake",
+  "author": "kgsws",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1484-psp-quake.png",
+  "description": "PSP port of Quake with ad-hoc support.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quake1_adhoc/quake1_adhoc.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1619,
+  "name": "NRedneck Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NREDNECK1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/436-NRedneck.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1619-nredneck-vita.png",
+  "description": "NRedneck (previously Rednukem) is a fork of EDuke32 that adds support for Redneck Rampage and Rednack Rampage: Rides Again.\nRedneck Rampage is a 1997 first-person shooter game developed by Xatrix Entertainment and published by Interplay. The game is a first person shooter with a variety of weapons and levels, but has a hillbilly theme, primarily taking place in a fictional Arkansas town. Many of the weapons and power-ups border on nonsensical, and in some ways it is a parody of both first shooter games and rural American life.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

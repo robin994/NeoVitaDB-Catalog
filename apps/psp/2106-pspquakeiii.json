@@ -1,0 +1,16 @@
+{
+  "id": 2106,
+  "name": "PSPQuakeIII",
+  "author": "Crow_bar",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2106-pspquakeiii.png",
+  "description": "Port of Quake III: Arena for PSP.\nQuake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software. The third installment of the Quake series, Arena differs from previous games by excluding a story-based single-player mode and focusing primarily on multiplayer gameplay.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/894-Quake3PSP.zip",
+  "version": "v.1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

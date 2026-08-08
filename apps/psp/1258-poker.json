@@ -1,0 +1,16 @@
+{
+  "id": 1258,
+  "name": "Poker",
+  "author": "MOoToO, Dave",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1258-poker.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pokerby-moo-too.-7z/POKERbyMooToo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

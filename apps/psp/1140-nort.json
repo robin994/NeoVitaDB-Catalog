@@ -1,0 +1,16 @@
+{
+  "id": 1140,
+  "name": "NORT",
+  "author": "Dragula96",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1140-nort.png",
+  "description": "Two-player homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nort.-7z/NORT.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

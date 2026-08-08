@@ -1,0 +1,18 @@
+{
+  "id": 1474,
+  "name": "vitaWolfen",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "VITAWOLFE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/31-vitaWolfen.zip",
+  "version": "v.1.7",
+  "prerelease": false,
+  "icon": "1474-vitawolfen.png",
+  "description": "vitaWolfen is a port for PSVITA of the classic old school FPS Wolfenstein 3D (formerly WOLF3D). It's based on Wolf4SDL and supports both full game and its expansion (missionpacks included).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

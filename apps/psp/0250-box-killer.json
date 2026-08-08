@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "name": "Box Killer",
+  "author": "Arkanist",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0250-box-killer.png",
+  "description": "Shoot the boxes. PSP homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/box-killer-v-0.7.7z/Box%20Killer%20v%200.7.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

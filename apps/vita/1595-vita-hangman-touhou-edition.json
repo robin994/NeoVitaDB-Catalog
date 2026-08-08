@@ -1,0 +1,18 @@
+{
+  "id": 1595,
+  "name": "Vita Hangman - Touhou Edition",
+  "author": "Aurora & Jackiepooh & Rinnegatamante",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "THHM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/379-VitaHangman.vpk",
+  "version": "v.1.1A-TH1",
+  "prerelease": false,
+  "icon": "1595-vita-hangman-touhou-edition.png",
+  "description": "Hangman game for PSVITA coded in Lua. Enhanced version of Vita Hangman with sounds, BGMs, backgrounds and enhanced game mechanics.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1558,
+  "name": "Rubik's Cube",
+  "author": "Julien Folly (Alcantor)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1558-rubik-s-cube.png",
+  "description": "Rubik's cube for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rubiks-cube.-7z_20210327/RubiksCube.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

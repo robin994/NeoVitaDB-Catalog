@@ -1,0 +1,16 @@
+{
+  "id": 60,
+  "name": "L'Abbaye des Morts",
+  "author": "HCF",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0060-l-abbaye-des-morts.png",
+  "description": "PSP port of the original game by Locomalito.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/abbaye-psp.-7z/AbbayePSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

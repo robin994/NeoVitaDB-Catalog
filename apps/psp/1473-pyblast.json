@@ -1,0 +1,16 @@
+{
+  "id": 1473,
+  "name": "PyBlast",
+  "author": "trevis",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1473-pyblast.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pyblast.7z/pyblast.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

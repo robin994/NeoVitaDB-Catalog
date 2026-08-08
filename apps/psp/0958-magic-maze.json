@@ -1,0 +1,16 @@
+{
+  "id": 958,
+  "name": "Magic Maze",
+  "author": "Etienne Bégué (Txori)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0958-magic-maze.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/magicmaze.7z/Old%20Versions/magicmaze.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

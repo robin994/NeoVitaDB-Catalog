@@ -1,0 +1,16 @@
+{
+  "id": 1192,
+  "name": "Panic Paradyz",
+  "author": "Realtech VR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1192-panic-paradyz.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/panic_paradyz_11.7z/panic_paradyz_11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

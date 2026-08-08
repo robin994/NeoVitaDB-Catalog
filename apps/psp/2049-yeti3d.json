@@ -1,0 +1,16 @@
+{
+  "id": 2049,
+  "name": "Yeti3D",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2049-yeti3d.png",
+  "description": "PSP port of Yeti3D.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/yeti3d_psp.7z/yeti3d_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

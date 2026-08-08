@@ -1,0 +1,16 @@
+{
+  "id": 511,
+  "name": "Duck Hunt",
+  "author": "Scionsamurai",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0511-duck-hunt.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/duck-hunt.-7z/Duck%20Hunt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

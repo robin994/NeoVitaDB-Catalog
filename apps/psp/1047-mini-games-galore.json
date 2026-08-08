@@ -1,0 +1,16 @@
+{
+  "id": 1047,
+  "name": "Mini Games Galore",
+  "author": "tippyplayer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1047-mini-games-galore.png",
+  "description": "Collection of 3 Lua games.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mini-games-galore.-7z/Mini%20Games%20Galore.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

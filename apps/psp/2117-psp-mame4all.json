@@ -1,0 +1,16 @@
+{
+  "id": 2117,
+  "name": "PSP Mame4All",
+  "author": "TTYman",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2117-psp-mame4all.png",
+  "description": "Arcade emulator for PSP. This is a port of MAME GP2X 5.1 by Franxis. The romset is a mix of MAME 0.34 and 0.36.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-mame-4-all-v-5.1.7z/Old%20Versions/PSP%20MAME4ALL%20v4.9r2%20Hires%20by%20TTYman%20-%2016112007.zip",
+  "version": "v.4.9r2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1478,
+  "name": "Quad",
+  "author": "Yeoj Vandal Basaghari",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1478-quad.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quad.-7z/QUAD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

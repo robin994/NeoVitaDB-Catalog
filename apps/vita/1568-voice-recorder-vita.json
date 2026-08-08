@@ -1,0 +1,18 @@
+{
+  "id": 1568,
+  "name": "Voice Recorder Vita",
+  "author": "VitaHEX games",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VREC00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/304-VoiceRecorder.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1568-voice-recorder-vita.png",
+  "description": "Voice Recorder Vita is a simple sound recording app that was missing from the Vita.\nYou can record for up to 30 seconds and your recordings are saved in ux0:/data/Recordings/ in .wav format.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

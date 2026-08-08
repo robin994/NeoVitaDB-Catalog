@@ -1,0 +1,18 @@
+{
+  "id": 1611,
+  "name": "Freeway Mutant",
+  "author": "Loodanon",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FREEWAYMU",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/416-Freeway_Mutant.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1611-freeway-mutant.png",
+  "description": "Freeway Mutant is an endless monster-blasting runner.\nThe game is all about weaving through a shattered road, dodging other mutants, avoiding explosive curling disks, and collecting parts to make your gun more powerful.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

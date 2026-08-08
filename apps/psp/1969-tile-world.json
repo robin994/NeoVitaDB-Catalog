@@ -1,0 +1,16 @@
+{
+  "id": 1969,
+  "name": "Tile World",
+  "author": "thepixelatedpoo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1969-tile-world.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tworld1.7z/tworld1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

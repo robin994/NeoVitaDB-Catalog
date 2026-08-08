@@ -1,0 +1,16 @@
+{
+  "id": 832,
+  "name": "KETM - Iron Man Edition",
+  "author": "DM Productions",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0832-ketm-iron-man-edition.png",
+  "description": "Mod of the homebrew game KETM.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ketm-iron-man-edition.-7z/KETM%20-%20Iron%20Man%20Edition.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1906,
+  "name": "SONIC VITA",
+  "author": "bayashi",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SNCV00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1229-111.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1906-sonic-vita.png",
+  "description": "Sonic fan game for Vita users.\nUses the Sonic MAX engine.\nThe title page is in the style of Sonic CD, and the data select screen is in the style of Sonic 3.\nCharacters include Sonic, Knuckles, and Tails.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1507,
+  "name": "ePSP Bubble Installer",
+  "author": "CelesteBlue",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "EPSPINSTA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/124-ePSP_Bubble_Installer_v3.1.vpk",
+  "version": "v.3.1",
+  "prerelease": false,
+  "icon": "1507-epsp-bubble-installer.png",
+  "description": "This is a tool that quickly installs a mini ePSP bubble for use with Adrenaline or ARK.\nNo need to be on IDU or to have a PS3. Moreover, the bubble will only cost you 3.5MB !\nSince v2.0, you can even activate your PSVita directly through the app !\nSince v3.0, you can clone ePSP bubbles and delete them if needed.\nOpen the app and follow what is written on screen. Enjoy, finally, ARK and Adrenaline.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

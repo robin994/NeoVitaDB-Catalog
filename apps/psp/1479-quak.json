@@ -1,0 +1,16 @@
+{
+  "id": 1479,
+  "name": "Quak",
+  "author": "Greg Tourville (XiGency)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1479-quak.png",
+  "description": "Defend yourself from the treacherous yellow creatures.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quak.-7z/Quak.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

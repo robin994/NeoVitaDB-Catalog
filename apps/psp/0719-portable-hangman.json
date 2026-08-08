@@ -1,0 +1,16 @@
+{
+  "id": 719,
+  "name": "Portable HangMan",
+  "author": "kennethdm",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0719-portable-hangman.png",
+  "description": "PSP version of the hangman game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hangman.7z/hangman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

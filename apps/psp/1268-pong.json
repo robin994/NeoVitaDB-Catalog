@@ -1,0 +1,16 @@
+{
+  "id": 1268,
+  "name": "Pong+",
+  "author": "Fish",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1268-pong.png",
+  "description": "Two-player Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong-plus.-7z/PongPlus.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

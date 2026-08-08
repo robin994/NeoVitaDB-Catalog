@@ -1,0 +1,18 @@
+{
+  "id": 1519,
+  "name": "VitaRW",
+  "author": "tomtomdu80",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VPRW00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/151-VitaRW.vpk",
+  "version": "#04d791c",
+  "prerelease": false,
+  "icon": "1519-vitarw.png",
+  "description": "Enable RW access to \"read-only\" partitions. This is a PoC, and should be used by devs who like the risk.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

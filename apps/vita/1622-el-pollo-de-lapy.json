@@ -1,0 +1,18 @@
+{
+  "id": 1622,
+  "name": "El Pollo de Lapy",
+  "author": "Lapy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ABCD12346",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/444-El_20Pollo_20de_20Lapy.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1622-el-pollo-de-lapy.png",
+  "description": "A Flappy Bird clone for PSVITA/PSTV made with Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

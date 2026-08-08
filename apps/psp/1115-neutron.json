@@ -1,0 +1,16 @@
+{
+  "id": 1115,
+  "name": "Neutron",
+  "author": "Josep Florit",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1115-neutron.png",
+  "description": "Homebrew game for PSP inspired by Tron and featuring 3D graphics.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/neutron_psp_v1.7z/neutron_psp_v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

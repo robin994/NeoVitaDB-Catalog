@@ -1,0 +1,16 @@
+{
+  "id": 1725,
+  "name": "Space Rocks 2",
+  "author": "Greg Tourville (XiGency)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1725-space-rocks-2.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/space-rocks.-7z/SpaceRocks.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

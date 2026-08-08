@@ -1,0 +1,16 @@
+{
+  "id": 642,
+  "name": "Fantasy War Portable",
+  "author": "CamPSP123",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0642-fantasy-war-portable.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fwp-v-3.7z/FWP%20v3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1619,
+  "name": "Shox",
+  "author": "c5cha7",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1619-shox.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shox.-7z/SHOX.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

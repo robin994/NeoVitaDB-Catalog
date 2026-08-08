@@ -1,0 +1,16 @@
+{
+  "id": 1425,
+  "name": "PSP Revolution",
+  "author": "Bob Delkhoon (DeNitro), Matt Sachse (Devin923)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1425-psp-revolution.png",
+  "description": "PSP Revolution (PSPR) is a homebrew rhythm game for PSP, compatible with StepMania (.SM) and Dance With Intensity (.DWI) song files. Song packs must be downloaded separately. 0.3a is the last known version. Some later packs claiming to be more recent (0.4, 1.0, etc.) have turned out to have executables (data.psp) identical to this one.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspr.-7z/Extra/PSPRskinviewer%20v3.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

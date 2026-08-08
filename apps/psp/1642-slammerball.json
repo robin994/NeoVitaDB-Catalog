@@ -1,0 +1,16 @@
+{
+  "id": 1642,
+  "name": "SlammerBall",
+  "author": "MasterQ",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1642-slammerball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/slammer-ball.-7z/SlammerBall.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

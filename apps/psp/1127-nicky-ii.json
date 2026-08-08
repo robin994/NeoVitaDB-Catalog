@@ -1,0 +1,16 @@
+{
+  "id": 1127,
+  "name": "Nicky II",
+  "author": "Denis Televnyy (Deniska)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1127-nicky-ii.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nicky2.7z/nicky2_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

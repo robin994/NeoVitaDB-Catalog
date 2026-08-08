@@ -1,0 +1,16 @@
+{
+  "id": 66,
+  "name": "Ball",
+  "author": "DSN",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0066-ball.png",
+  "description": "Fan recreation of the original game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ac-01.7z/AC01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

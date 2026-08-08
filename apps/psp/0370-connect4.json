@@ -1,0 +1,16 @@
+{
+  "id": 370,
+  "name": "Connect4",
+  "author": "l33th4x0r",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0370-connect4.png",
+  "description": "Simple game of connect four.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/connect4.7z/connect4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

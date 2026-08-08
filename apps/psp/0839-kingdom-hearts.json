@@ -1,0 +1,16 @@
+{
+  "id": 839,
+  "name": "Kingdom Hearts",
+  "author": "Nick Pizanias",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0839-kingdom-hearts.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kingdomhearts_bor_demo.7z/kingdomhearts_bor_demo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

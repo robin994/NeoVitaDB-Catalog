@@ -1,0 +1,16 @@
+{
+  "id": 622,
+  "name": "GNU FreeDink",
+  "author": "Sylvain Beucler",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0622-gnu-freedink.png",
+  "description": "Port of Dink SmallWood for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/freedink.7z_202101/freedink.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

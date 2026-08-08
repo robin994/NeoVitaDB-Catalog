@@ -1,0 +1,16 @@
+{
+  "id": 377,
+  "name": "Cotch",
+  "author": "Ani-Kiba",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0377-cotch.png",
+  "description": "Catch the falling circles.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cotch.-7z/COTCH.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

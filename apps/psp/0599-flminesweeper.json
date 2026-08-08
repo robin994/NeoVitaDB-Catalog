@@ -1,0 +1,16 @@
+{
+  "id": 599,
+  "name": "flMineSweeper",
+  "author": "Sleepy, Flatmush",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0599-flminesweeper.png",
+  "description": "Minesweeper for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flMineSweeper.7z/flMineSweeper.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

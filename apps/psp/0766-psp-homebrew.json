@@ -1,0 +1,16 @@
+{
+  "id": 766,
+  "name": "Тайны Океана",
+  "author": "DSN",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0766-psp-homebrew.png",
+  "description": "Fan recreation of the original game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/im-03.7z/IM03.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

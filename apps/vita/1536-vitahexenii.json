@@ -1,0 +1,18 @@
+{
+  "id": 1536,
+  "name": "vitaHexenII",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HXEN00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/196-vitaHexenII.vpk",
+  "version": "v.2.3",
+  "prerelease": false,
+  "icon": "1536-vitahexenii.png",
+  "description": "vitaHexenII is a port for PSVITA of Hexen II, a popular dark-fantasy fps created by Raven Software using a modified version of Quake Engine.\nIt's based on vitaQuake core and it shares a lot of features with it.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

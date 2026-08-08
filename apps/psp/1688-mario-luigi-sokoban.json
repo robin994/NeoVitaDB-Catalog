@@ -1,0 +1,16 @@
+{
+  "id": 1688,
+  "name": "Mario & Luigi Sokoban",
+  "author": "Letiseb62",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1688-mario-luigi-sokoban.png",
+  "description": "Puzzle game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sokoban.-7z/SOKOBAN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1817,
+  "name": "Evie",
+  "author": "LonelyPie Studio",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LNLY00001",
+  "repo": "LnlyPie/Evie-Homebrew-Ports",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1817-evie.png",
+  "description": "You're playing as a girl named Evie. Soon you'll discover that the king is locking up Elves in Jail. Although you're just a Citizen you decide to help them out, and break them out of prison.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

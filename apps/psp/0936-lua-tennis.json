@@ -1,0 +1,16 @@
+{
+  "id": 936,
+  "name": "Lua Tennis",
+  "author": "Yahoum",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0936-lua-tennis.png",
+  "description": "Pong-like game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luatennis-v-1.1-fw-1.50.7z/LUATennis_v1.1_fw1.50.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

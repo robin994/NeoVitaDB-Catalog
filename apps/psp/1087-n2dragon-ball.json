@@ -1,0 +1,16 @@
+{
+  "id": 1087,
+  "name": "N2Dragon Ball",
+  "author": "N2, Neo_Ace",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1087-n2dragon-ball.png",
+  "description": "Collection of reskinned Lua games.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/n-2-dragon.-7z/N2Dragon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

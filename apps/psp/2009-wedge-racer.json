@@ -1,0 +1,16 @@
+{
+  "id": 2009,
+  "name": "Wedge Racer",
+  "author": "youresam",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2009-wedge-racer.png",
+  "description": "3D racing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wedgeracer.7z/wedgeracer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

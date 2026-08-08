@@ -1,0 +1,16 @@
+{
+  "id": 1906,
+  "name": "Tick Tac Toe",
+  "author": "stvnkch, Bright_K",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1906-tick-tac-toe.png",
+  "description": "Noughts and crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tic-tac-toelua.-7z/tic%20tac%20toe%28lua%29.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1924,
+  "name": "Perfect Dark Vita",
+  "author": "Rinnegatamante & fgsfds",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PRFCTDARK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1273-pd.armv7.vpk",
+  "version": "v.1.3",
+  "prerelease": false,
+  "icon": "1924-perfect-dark-vita.png",
+  "description": "This is a port of the Prefect Dark sourceport by fgsfds based on the Perfect Dark decompilation efforts.\nPerfect Dark is a 2000 first-person shooter developed and published by Rare for the Nintendo 64. The first game of the Perfect Dark series, it follows Joanna Dark, an agent of the Carrington Institute research centre, as she attempts to stop an extraterrestrial conspiracy by rival corporation dataDyne. The game features a campaign mode where the player must complete a series of levels to progress through the story, as well as a range of multiplayer options, including a co-operative mode and traditional deathmatch settings with computer-controlled bots.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

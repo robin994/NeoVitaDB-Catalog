@@ -1,0 +1,16 @@
+{
+  "id": 1568,
+  "name": "Rythm Engine",
+  "author": "Brick",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1568-rythm-engine.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rythm-engine-rbm.-7z/RythmEngineRBM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

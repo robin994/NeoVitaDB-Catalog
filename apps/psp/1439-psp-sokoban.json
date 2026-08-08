@@ -1,0 +1,16 @@
+{
+  "id": 1439,
+  "name": "PSP Sokoban",
+  "author": "Clément Slempkes (Shadow77340)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1439-psp-sokoban.png",
+  "description": "Version of Sokoban for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspsokoban.-7z/Pspsokoban.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

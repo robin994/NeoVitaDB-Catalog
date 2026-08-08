@@ -1,0 +1,16 @@
+{
+  "id": 1924,
+  "name": "Tohoman",
+  "author": "東方とかとか (TOHO Etcetra)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1924-tohoman.png",
+  "description": "Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tohoman.7z/tohoman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

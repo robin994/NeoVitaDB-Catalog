@@ -1,0 +1,16 @@
+{
+  "id": 747,
+  "name": "Hokuto No Ken",
+  "author": "Roland Yonaba (SeanPaul223)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0747-hokuto-no-ken.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hokuto-no-ken.-7z/Hokuto%20No%20Ken.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 922,
+  "name": "Lua G-Pack",
+  "author": "SuperbatXS",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0922-lua-g-pack.png",
+  "description": "Collection of PSP homebrew games.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lua-g-pack-v.-2/Lua%20G-Pack%20v.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

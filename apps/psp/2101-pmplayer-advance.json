@@ -1,0 +1,16 @@
+{
+  "id": 2101,
+  "name": "PMPlayer Advance",
+  "author": "Cooleyes",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2101-pmplayer-advance.png",
+  "description": "A media player for PSP allowing to play videos in several formats.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pmplayer-advance-3.1.5.7z/Old%20Versions/ppa.all-zh.fw3xx.20071002.zip",
+  "version": "v.3.1.5",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

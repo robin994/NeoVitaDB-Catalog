@@ -1,0 +1,16 @@
+{
+  "id": 63,
+  "name": "Abilities",
+  "author": "Gunner54",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0063-abilities.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/abillities.-7z/Abillities.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

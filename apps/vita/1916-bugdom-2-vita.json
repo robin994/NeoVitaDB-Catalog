@@ -1,0 +1,18 @@
+{
+  "id": 1916,
+  "name": "Bugdom 2 Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BUGDOM002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1251-Bugdom2.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1916-bugdom-2-vita.png",
+  "description": "Port of Bugdom 2 for PSVita.\nBugdom 2 follows the adventure of a grasshopper named Skip as he tries to get his stolen knapsack from Bully Bee throughout the game. His comrade in arms, Sam the Snail and Sally the Chipmunk, assist him.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

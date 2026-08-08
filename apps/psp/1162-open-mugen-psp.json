@@ -1,0 +1,16 @@
+{
+  "id": 1162,
+  "name": "Open Mugen PSP",
+  "author": "Kech",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1162-open-mugen-psp.png",
+  "description": "Version of Mugen for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/open-mugen-psp.-7z/OpenMugenPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

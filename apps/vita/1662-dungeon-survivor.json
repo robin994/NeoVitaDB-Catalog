@@ -1,0 +1,18 @@
+{
+  "id": 1662,
+  "name": "Dungeon Survivor",
+  "author": "LuckTheGamers",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DGSO12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/501-Dungeon_Survivor.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1662-dungeon-survivor.png",
+  "description": "Port of Dungeon Survivor, a basic 2D roguelike game where you have to survive as long as you can.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

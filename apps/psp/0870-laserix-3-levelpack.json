@@ -1,0 +1,16 @@
+{
+  "id": 870,
+  "name": "Laserix 3 Levelpack",
+  "author": "Sunny",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0870-laserix-3-levelpack.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/laserix-3-lp-1.7z/Laserix%20III%20LP%20III%20by%20Sunny.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

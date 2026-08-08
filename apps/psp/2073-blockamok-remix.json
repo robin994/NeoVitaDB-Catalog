@@ -1,0 +1,17 @@
+{
+  "id": 2073,
+  "name": "Blockamok Remix",
+  "author": "Mode8fx",
+  "category": "port",
+  "platform": "psp",
+  "repo": "Mode8fx/blockamok",
+  "asset": "*-psp.zip",
+  "prerelease": false,
+  "icon": "2073-blockamok-remix.png",
+  "description": "Fly through a 3D world of never-ending blocks and survive for as long as you can! Includes customization options for gameplay and visuals, along with five music tracks.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 125,
+  "name": "Are you Fast",
+  "author": "fede94boss",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0125-are-you-fast.png",
+  "description": "Button-mashing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/are-you-fast.-7z/Are%20you%20FAST.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

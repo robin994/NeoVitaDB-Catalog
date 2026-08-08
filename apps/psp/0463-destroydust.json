@@ -1,0 +1,16 @@
+{
+  "id": 463,
+  "name": "DestroyDust",
+  "author": "Clément Slempkes (Shadow77340)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0463-destroydust.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/destroy-dust-v-04-cffr.-7z/DestroyDustV04CFfr.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

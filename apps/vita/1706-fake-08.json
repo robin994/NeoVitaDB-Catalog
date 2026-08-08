@@ -1,0 +1,18 @@
+{
+  "id": 1706,
+  "name": "FAKE-08",
+  "author": "jtothebell",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "FAKE00008",
+  "direct_url": "https://github.com/jtothebell/fake-08/releases/download/v0.0.2.20/fake_08.vpk",
+  "version": "v.0.0.2.20",
+  "prerelease": false,
+  "icon": "1706-fake-08.png",
+  "description": "A Pico 8 player for homebrew consoles. Not related to or supported by Lexaloffle Software.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

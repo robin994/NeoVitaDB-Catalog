@@ -1,0 +1,16 @@
+{
+  "id": 748,
+  "name": "Hold The Button",
+  "author": "zeroXorXdieXskater",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0748-hold-the-button.png",
+  "description": "Hold the button as long as possible.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hold-the-button.-7z/Hold%20The%20Button.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 331,
+  "name": "Chickenhunter",
+  "author": "Spessi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0331-chickenhunter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chickenhunter-3.5.7z/Chickenhunter3.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

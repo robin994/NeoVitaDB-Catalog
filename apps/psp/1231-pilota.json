@@ -1,0 +1,16 @@
+{
+  "id": 1231,
+  "name": "Pilota",
+  "author": "Gadam",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1231-pilota.png",
+  "description": "Homebrew game inspired by Pilotwings.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pilota-1.2.7z/Pilota%201.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

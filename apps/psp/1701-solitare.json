@@ -1,0 +1,16 @@
+{
+  "id": 1701,
+  "name": "Solitare",
+  "author": "Pradeep M Kumar",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1701-solitare.png",
+  "description": "Game of Solitaire for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/solitarelua.-7z/Solitarelua.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

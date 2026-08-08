@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "name": "AgenaWorld",
+  "author": "Po-Han Lin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0078-agenaworld.png",
+  "description": "Asteroids-like homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/agenaworld.-7z/Agenaworld.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

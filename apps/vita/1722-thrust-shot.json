@@ -1,0 +1,18 @@
+{
+  "id": 1722,
+  "name": "Thrust Shot",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TSVT22824",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/672-thrustshot.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1722-thrust-shot.png",
+  "description": "Thrust Shot is an online multiplayer third-person shooter for up to 6 players featuring jetpacks.\nJump into quick deathmatch battles against players from around the world.\nThrust Shot focuses on fast-paced gameplay, use your thrusters to jump over buildings and take down your enemies with a variety of weapons.\nLevel up your online character and unlock new weapons to help you on your battles.\nThe game also features single player mode against enemy bots.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

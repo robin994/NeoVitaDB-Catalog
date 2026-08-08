@@ -1,0 +1,16 @@
+{
+  "id": 836,
+  "name": "Kill den Bill",
+  "author": "Portable-Player",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0836-kill-den-bill.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kill-den-bill-v-2-bloodmode-rev-c.-7z/Kill%20den%20Bill%20v2%20-%20BLOODMODE%20rev-c%27.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

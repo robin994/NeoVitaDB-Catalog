@@ -1,0 +1,16 @@
+{
+  "id": 1152,
+  "name": "OceanPop",
+  "author": "Wouter Wijsman (sharkwouter)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1152-oceanpop.png",
+  "description": "Homebrew puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/oceanpop-psp/oceanpop-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

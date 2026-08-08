@@ -1,0 +1,16 @@
+{
+  "id": 1965,
+  "name": "Tweexter [French]",
+  "author": "reizen.dev",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1965-tweexter-french.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tweexter_v0.1.1_fra.7z/tweexter_v0.1.1_fra.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

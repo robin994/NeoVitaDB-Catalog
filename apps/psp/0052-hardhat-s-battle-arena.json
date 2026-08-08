@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "name": "HardHat's Battle Arena",
+  "author": "Team Sushi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0052-hardhat-s-battle-arena.png",
+  "description": "Homebrew RPG for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/9battlearena-050.7z_202012/Old%20Versions/9battlearena050.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

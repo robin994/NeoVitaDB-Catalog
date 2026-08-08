@@ -1,0 +1,16 @@
+{
+  "id": 1666,
+  "name": "Super Mario Milestone 2",
+  "author": "Alienware",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1666-super-mario-milestone-2.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smm-2.7z/SMM2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1662,
+  "name": "Smell Sttoping",
+  "author": "Barney77",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1662-smell-sttoping.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smell-stopping.-7z/SmellStopping.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

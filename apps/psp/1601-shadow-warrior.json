@@ -1,0 +1,16 @@
+{
+  "id": 1601,
+  "name": "Shadow Warrior",
+  "author": "Sergey Galushko (Crow_bar)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1601-shadow-warrior.png",
+  "description": "PSP port of Shadow Warrior. The shareware version of the game is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shadow-warrior-psp.-7z/Old%20Versions/PSP-JFShadowWarrior-0.1-PHAT.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

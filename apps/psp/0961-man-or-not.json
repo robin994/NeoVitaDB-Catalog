@@ -1,0 +1,16 @@
+{
+  "id": 961,
+  "name": "Man or Not [男不男人？]",
+  "author": "H March",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0961-man-or-not.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/man_or_not/man_or_not.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

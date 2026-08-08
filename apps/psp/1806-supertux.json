@@ -1,0 +1,16 @@
+{
+  "id": 1806,
+  "name": "SuperTux",
+  "author": "Jomar Johansen",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1806-supertux.png",
+  "description": "Platform game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/supertux-0.1.3.psp.7z/Old%20Versions/supertux-0.1.3.psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

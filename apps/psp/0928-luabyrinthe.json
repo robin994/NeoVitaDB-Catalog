@@ -1,0 +1,16 @@
+{
+  "id": 928,
+  "name": "Luabyrinthe",
+  "author": "Benja135",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0928-luabyrinthe.png",
+  "description": "Simple maze game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luabyrinthe_v1.5.7z/luabyrinthe_v1.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

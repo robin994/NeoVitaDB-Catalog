@@ -1,0 +1,16 @@
+{
+  "id": 305,
+  "name": "Casino",
+  "author": "Bombe-H",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0305-casino.png",
+  "description": "Slot machine simulator for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/casino.7z/casino.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

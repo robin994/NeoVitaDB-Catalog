@@ -1,0 +1,16 @@
+{
+  "id": 892,
+  "name": "Leviaman Zero",
+  "author": "Leviadragon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0892-leviaman-zero.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/leviaman-zero-neo.-7z/Leviaman%20Zero%20Neo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

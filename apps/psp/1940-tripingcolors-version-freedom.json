@@ -1,0 +1,16 @@
+{
+  "id": 1940,
+  "name": "TriPingColors Version Freedom",
+  "author": "Mcidclan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1940-tripingcolors-version-freedom.png",
+  "description": "Homebrew game; try to keep the gauge over zero.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tpcf.-7z/TPCF.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

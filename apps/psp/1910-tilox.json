@@ -1,0 +1,16 @@
+{
+  "id": 1910,
+  "name": "Tilox",
+  "author": "xerpi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1910-tilox.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tilox.-7z/Tilox.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

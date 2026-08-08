@@ -1,0 +1,16 @@
+{
+  "id": 231,
+  "name": "BlowUp!",
+  "author": "Gambiting",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0231-blowup.png",
+  "description": "3D tank game with plain graphics.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blow-up.-7z/BlowUp%21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

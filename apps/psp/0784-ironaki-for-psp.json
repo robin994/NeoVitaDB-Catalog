@@ -1,0 +1,16 @@
+{
+  "id": 784,
+  "name": "Ironaki for PSP",
+  "author": "佃煮 (Judah0209)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0784-ironaki-for-psp.png",
+  "description": "PSP port of the visual novel NOeSIS外伝〜色亡き世界〜.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ironaki-for-psp/Ironaki%20for%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

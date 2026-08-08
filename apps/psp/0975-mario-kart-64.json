@@ -1,0 +1,16 @@
+{
+  "id": 975,
+  "name": "Mario Kart 64",
+  "author": "Roland Yonaba (SeanPaul223)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0975-mario-kart-64.png",
+  "description": "2D racing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-kart-64-v-3-fr.-7z/MarioKart64V3_Fr.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

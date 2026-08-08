@@ -1,0 +1,18 @@
+{
+  "id": 1962,
+  "name": "DS8 Drumstream",
+  "author": "Intermynd Instruments",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "DS8L00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1407-psvita-ds8-v0.6.3.zip",
+  "version": "v.0.6.3",
+  "prerelease": false,
+  "icon": "1962-ds8-drumstream.png",
+  "description": "DS8 Drumstream is a drum synthesizer and groovebox for the PlayStation Vita.\nIt turns the Vita into a compact drum machine for sketching ideas, building grooves, and performing anywhere. The app is built around eight drum tracks, a step sequencer with up to sixty-four steps, and direct control through the Vitaâ€™s physical buttons.",
+  "requirements": "- psvita_usb_audio_midi.skprx, included in the archive",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

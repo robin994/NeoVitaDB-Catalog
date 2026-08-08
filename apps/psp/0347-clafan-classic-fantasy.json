@@ -1,0 +1,16 @@
+{
+  "id": 347,
+  "name": "ClaFan - Classic Fantasy",
+  "author": "NickyP",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0347-clafan-classic-fantasy.png",
+  "description": "RPG game made on OpenBOR.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cla-fan-v-1.66.7z/ClaFan_V1.66.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

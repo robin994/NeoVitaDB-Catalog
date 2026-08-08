@@ -1,0 +1,16 @@
+{
+  "id": 1840,
+  "name": "The Cheap Game Show Cave",
+  "author": "ふみふみキック (FumiFumiKICK)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1840-the-cheap-game-show-cave.png",
+  "description": "Race within the maze without hitting the wall.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tcgs_cave_psp_bin_061130.7z/tcgs_cave_psp_bin_061130.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

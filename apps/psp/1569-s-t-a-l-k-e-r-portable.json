@@ -1,0 +1,16 @@
+{
+  "id": 1569,
+  "name": "S.T.A.L.K.E.R. Portable",
+  "author": "QTeam",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1569-s-t-a-l-k-e-r-portable.png",
+  "description": "3D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-portable-0.0.3a.-7z/S.T.A.L.K.E.R._PORTABLE_0.0.3a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

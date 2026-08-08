@@ -1,0 +1,16 @@
+{
+  "id": 997,
+  "name": "MazeEffect",
+  "author": "3.4 lettres",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0997-mazeeffect.png",
+  "description": "Puzzle game for PSP. Credits: Engine programer : HigHRonN/Tichau Tools programer : Tichau Gameplay programer : Uga/Zazou 2D/3D environment artist : Griffin Sound designer : Kazemushi Level designer : Hugo/Anthony/Meedoc/Griffin Thanks to: Jeremy Evain for characters design Bertrand and Olivier for characters modeling and animating Chacha for dialogs screen",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/maze-effects-plus-leveleditor.-7z/MazeEffects_plus_leveleditor.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

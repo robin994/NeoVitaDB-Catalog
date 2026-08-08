@@ -1,0 +1,18 @@
+{
+  "id": 1855,
+  "name": "Gnomopolis",
+  "author": "Sergorov",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GNPL00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1124-gnomopolis.vpk",
+  "version": "v0.8.203",
+  "prerelease": false,
+  "icon": "1855-gnomopolis.png",
+  "description": "This game is intended to be kind of casual. Playing a level should be a challenge if you have 10-15 minutes to waste on your lunch-break. This game is meant to be a modernized version of the arcade classic Pacman with a slight touch of epic fantasy. The game principle is quite simple: collect all the treasures in the labyrinth level and unlock the exit before the time runs out.\nFor the first time you can fight back and hit enemies pressing X.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

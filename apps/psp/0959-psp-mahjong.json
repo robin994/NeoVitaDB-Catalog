@@ -1,0 +1,16 @@
+{
+  "id": 959,
+  "name": "PSP-Mahjong",
+  "author": "Sauron le noir",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0959-psp-mahjong.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mahjong.7z/mahjong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

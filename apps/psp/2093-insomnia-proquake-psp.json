@@ -1,0 +1,16 @@
+{
+  "id": 2093,
+  "name": "Insomnia ProQuake PSP",
+  "author": "Dark_Duke",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2093-insomnia-proquake-psp.png",
+  "description": "Enhanced ProQuake, a popular source port of Quake, for PSP.",
+  "requirements": "- Game Data Files: PC",
+  "direct_url": "https://archive.org/download/insomnia-slim.-7z/Insomnia_SLIM.zip",
+  "version": "v.4.71 Rev.4",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

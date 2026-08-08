@@ -1,0 +1,16 @@
+{
+  "id": 947,
+  "name": "Mac 10",
+  "author": "MrX256",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0947-mac-10.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mac-10.7z/MAC10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

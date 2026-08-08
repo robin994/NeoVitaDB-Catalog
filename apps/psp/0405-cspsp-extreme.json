@@ -1,0 +1,16 @@
+{
+  "id": 405,
+  "name": "CSPSP Extreme",
+  "author": "Fatcat04912",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0405-cspsp-extreme.png",
+  "description": "Mod of CSPSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cspsp-extreme-v-1.2.7z/CSPSP%20Extreme%20V1.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

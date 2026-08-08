@@ -1,0 +1,16 @@
+{
+  "id": 1886,
+  "name": "The Way",
+  "author": "PSPfreak2007",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1886-the-way.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/the-way.-7z/Old%20Versions/THE_WAY.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

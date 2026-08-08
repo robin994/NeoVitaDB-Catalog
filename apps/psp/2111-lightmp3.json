@@ -1,0 +1,16 @@
+{
+  "id": 2111,
+  "name": "LightMP3",
+  "author": "Sakya",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2111-lightmp3.png",
+  "description": "A lightweighted audio player for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/light-mp-3.7z/Extra/LightMP3_v2.0.0RC4_FW6.20-6.35-6.39-6.60-6.61.zip",
+  "version": "v.2.0.0 RC4",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

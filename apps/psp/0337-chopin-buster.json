@@ -1,0 +1,16 @@
+{
+  "id": 337,
+  "name": "Chopin Buster [チョピン バスター]",
+  "author": "Ichicat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0337-chopin-buster.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chopin-buster.-7z/ChopinBuster.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

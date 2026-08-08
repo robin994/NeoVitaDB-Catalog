@@ -1,0 +1,18 @@
+{
+  "id": 1927,
+  "name": "Super Mario All-Stars Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ALLSTARS1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1280-allstars.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1927-super-mario-all-stars-vita.png",
+  "description": "Super Mario All-Stars Vita is a port of smw, a reimplementation of Super Mario World with several enhancements with experimental support for Super Mario All-Stars (Super Mario Bros 1 and Super Mario Bros: Lost Levels).\nThis release acts as an improvement of my previous Super Mario World port, bringing fixes (eg. the tunnels bug is fixed), support for SMB1 and SMB:LL, integer scaling option (IntegerScaling in the ini file), and more.",
+  "requirements": "- Game Data Files: SNES",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

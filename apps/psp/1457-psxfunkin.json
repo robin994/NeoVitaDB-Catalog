@@ -1,0 +1,16 @@
+{
+  "id": 1457,
+  "name": "PSXFunkin",
+  "author": "cuckydev",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1457-psxfunkin.png",
+  "description": "PSP version of the PlayStation 1 fan game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psxfunkin.-7z/Old%20Versions/PSXFunkin.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

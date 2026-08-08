@@ -1,0 +1,18 @@
+{
+  "id": 1853,
+  "name": "Techmaniac THPG",
+  "author": "VSM GAMMER",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TECMAN001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1119-Techmaniac-THPG.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1853-techmaniac-thpg.png",
+  "description": "Port of Techmaniac with enhanced graphics for PSVITA.\nRoy Webb, couch potato extraordinaire, was sitting amidst his pile of useless old tat one day, when suddenly a strange wind swept through the room and catapulted his beloved possessions into a strange land known only to him as \"the outdoors\"!\nFaced with the loss of the only source of joy in his life, Roy must venture forth and retrieve his hoard before someone else finds it and flogs it on eBay!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

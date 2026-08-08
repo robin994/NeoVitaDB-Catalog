@@ -1,0 +1,18 @@
+{
+  "id": 1509,
+  "name": "VitaSudoku",
+  "author": "Rinnegatamante",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SUDO00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/129-VitaSudoku.vpk",
+  "version": "v.1.3",
+  "prerelease": false,
+  "icon": "1509-vitasudoku.png",
+  "description": "VitaSudoku is a sudoku game for PSVITA wrote using Lua Player Plus which has an algorithm to automatically generate a sudoku allowing you to play infinite sudokus.\nIt also supports BGM audio playback during your gaming sessions.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

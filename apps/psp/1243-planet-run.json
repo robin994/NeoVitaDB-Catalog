@@ -1,0 +1,16 @@
+{
+  "id": 1243,
+  "name": "Planet Run",
+  "author": "Bastian Pflieger (Illogical.de)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1243-planet-run.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/planetrun.7z/planetrun.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

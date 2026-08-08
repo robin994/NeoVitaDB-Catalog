@@ -1,0 +1,16 @@
+{
+  "id": 1208,
+  "name": "Penguin Scramble",
+  "author": "Percival",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1208-penguin-scramble.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/penguin.7z/penguin.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

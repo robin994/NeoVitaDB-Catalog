@@ -1,0 +1,18 @@
+{
+  "id": 1747,
+  "name": "Astro Rush",
+  "author": "arar7000",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ASTR01234",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/713-AstroRush.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1747-astro-rush.png",
+  "description": "Race through space and dodge the obstacles at breakneck speed.\nTake control of two meteorites in this fast-paced high score game while you rush through a trippy galaxy. Rotate the meteorites through the obstacles. If you fail once, you will have one meteorite left and switch from rotating to dodging controls.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

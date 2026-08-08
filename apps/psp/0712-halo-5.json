@@ -1,0 +1,16 @@
+{
+  "id": 712,
+  "name": "Halo 5",
+  "author": "Alan Kabal",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0712-halo-5.png",
+  "description": "3D shooter homebrew for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/halo-5/HALO%205.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

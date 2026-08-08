@@ -1,0 +1,16 @@
+{
+  "id": 789,
+  "name": "Jafe's Hike",
+  "author": "HardHat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0789-jafe-s-hike.png",
+  "description": "Catch butterflies in this homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jafehike.7z/jafehike.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

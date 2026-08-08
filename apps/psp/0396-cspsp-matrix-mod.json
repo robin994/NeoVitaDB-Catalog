@@ -1,0 +1,16 @@
+{
+  "id": 396,
+  "name": "CSPSP Matrix Mod",
+  "author": "Nataku92, Briggzy11",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0396-cspsp-matrix-mod.png",
+  "description": "Mod of CSPSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cs-psp.-7z/CS-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

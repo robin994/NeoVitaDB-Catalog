@@ -1,0 +1,16 @@
+{
+  "id": 101,
+  "name": "Amy Zing and the Amazing Mazes",
+  "author": "Antony Dzeryn (Ant512)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0101-amy-zing-and-the-amazing-mazes.png",
+  "description": "Maze game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/amy-zing-psp.-7z/AmyZingPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

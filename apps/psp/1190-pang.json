@@ -1,0 +1,16 @@
+{
+  "id": 1190,
+  "name": "Pang",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1190-pang.png",
+  "description": "PSP version of the arcade game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pangsourcev.1.1.1_psp.7z/pangsourcev.1.1.1_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

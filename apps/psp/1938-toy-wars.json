@@ -1,0 +1,16 @@
+{
+  "id": 1938,
+  "name": "Toy Wars",
+  "author": "David Guillen Fandos, Montse Gallego Compte, Andreu Gallego Ruiz",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1938-toy-wars.png",
+  "description": "3D homebrew game for PSP. The game won first place at the Scenery Beta 2010 coding competition, second place at the NEO Retro coding competition 2010.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/toywars_genesis_v2.7z/Old%20Versions/toywars-2010-01-29.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

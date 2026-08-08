@@ -1,0 +1,18 @@
+{
+  "id": 1487,
+  "name": "Reboot Shortcut",
+  "author": "luck",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RBTR00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/71-Reboot.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1487-reboot-shortcut.png",
+  "description": "A quick way to reboot your system when Henkaku is running.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

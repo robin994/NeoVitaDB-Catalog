@@ -1,0 +1,16 @@
+{
+  "id": 907,
+  "name": "Lonpos",
+  "author": "XArt Software & Design",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0907-lonpos.png",
+  "description": "Homebrew puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lonpos-100256.7z/Lonpos_100256.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

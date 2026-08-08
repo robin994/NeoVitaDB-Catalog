@@ -1,0 +1,16 @@
+{
+  "id": 105,
+  "name": "AniMate",
+  "author": "Dave Perry",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0105-animate.png",
+  "description": "Virtual pet for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ani-mate.-7z/AniMate.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1902,
+  "name": "Clasherball",
+  "author": "Sungrand Studios",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ABDD12344",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1214-clasherball.vpk",
+  "version": "Demo",
+  "prerelease": false,
+  "icon": "1902-clasherball.png",
+  "description": "Navigate unique puzzles in Arcade mode or see how long you can survive in Infinite mode!\nMatch for balls of the same color to CLASH! But watch out! Balls will fly back and damage you after they clash. Get out of the way to stay alive. \nUse tricks like curve shots and ricochets to solve brain bending puzzles!\nThis Demo contains one World with 15 Stages.\nInfinite lets you play and enjoy the game as much as you want!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

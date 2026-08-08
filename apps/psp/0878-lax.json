@@ -1,0 +1,16 @@
+{
+  "id": 878,
+  "name": "LAX",
+  "author": "Gorrister Games",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0878-lax.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lax.7z/lax.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1486,
+  "name": "Shutdown Shortcut",
+  "author": "luck",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SHTD00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/69-Shutdown.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1486-shutdown-shortcut.png",
+  "description": "A quick way to shutdown your system when Henkaku is running.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

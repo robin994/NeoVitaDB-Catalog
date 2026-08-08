@@ -1,0 +1,16 @@
+{
+  "id": 528,
+  "name": "EarthInvasion",
+  "author": "Basfreak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0528-earthinvasion.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/earth-invasion.-7z/EarthInvasion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
