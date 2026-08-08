@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": true,
   "data": "https://github.com/DrDecki/Aleph-One-Marathon-Trilogy-PsVita-/releases/download/AlephOneVita1.4/AlephOne.zip",
-  "trusted": false
+  "trusted": true
 }
