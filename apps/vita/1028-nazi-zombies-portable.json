@@ -6,7 +6,7 @@
   "platform": "vita",
   "titleid": "NZZMBSPTB",
   "repo": "nzp-team/nzportable",
-  "asset": "nzportable-*ds*.zip",
+  "asset": "nzportable-vita*.zip",
   "prerelease": false,
   "icon": "1028-nazi-zombies-portable.png",
   "description": "Call of Duty: Zombies \"de-make\" for PlayStation Portable & VITA, Nintendo Switch & 3DS, Windows, & Linux (ARM & x86). Powered by various Quake sourceports. Includes \"Nacht der Untoten\" and several community-made maps.",
