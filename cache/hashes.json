@@ -5341,6 +5341,11 @@
     "hash": "252b98e77c5420933ad60ca4c42911ee",
     "hash2": ""
   },
+  "direct:https://archive.org/download/im-50.7z/IM50.zip": {
+    "folder": "IM50",
+    "hash": "70635feae5a6fefc9ba5ef877a221f34",
+    "hash2": ""
+  },
   "direct:https://archive.org/download/impact.-7z/IMPACT.zip": {
     "folder": "IMPACT",
     "hash": "31f9b8ff77bf237bed635f6171c70c16",
@@ -9349,6 +9354,11 @@
   "direct:https://archive.org/download/rt-3-d-06anonymoustipster.-7z/RT3D06anonymoustipster.zip": {
     "folder": "RT3D06anonymoustipster/ROBOTORN3D/1.5/robotorn3d%",
     "hash": "91b81e9090944363b49d032f744dcc68",
+    "hash2": ""
+  },
+  "direct:https://archive.org/download/rubik-psp.-7z/RubikPSP.zip": {
+    "folder": "RubikPSP",
+    "hash": "620432245242097bceaa8f49479aeb8c",
     "hash2": ""
   },
   "direct:https://archive.org/download/rubiks-cube-sinasquax.-7z/RubiksCube-sinasquax.zip": {
