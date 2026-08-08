@@ -27,8 +27,18 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import zipfile
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
+
+# Every per-entry step below is a blocking network call (GitHub API, an
+# asset/icon download, a HEAD request) - at this catalog's size, running
+# them one entry at a time made a full build take well over an hour. They're
+# I/O-bound and independent of each other, so a thread pool gets a large
+# speedup despite the GIL. Kept modest rather than "as many as possible" to
+# stay well under GitHub's secondary rate limits when many requests land in
+# the same second.
+BUILD_WORKERS = 16
 
 ROOT = Path(__file__).resolve().parent.parent
 APPS_DIR = ROOT / "apps"
@@ -364,6 +374,187 @@ def emit_entry(fields: dict, is_psp: bool) -> str:
     return "  {\n" + ",\n".join(parts) + "\n  }"
 
 
+class EntryResult:
+    """Everything process_entry() figures out for one entry, minus the bits
+    that depend on shared mutable state (downloads_cache, cache, out, icons)
+    - those are applied by the caller afterward, sequentially, so entries can
+    safely be processed concurrently up to this point."""
+
+    def __init__(self):
+        self.logs: list[str] = []
+        self.skipped = False
+        self.path = None
+        self.entry = None
+        self.fields: dict | None = None
+        self.is_psp = False
+        self.icon = None
+        self.cache_key = None
+        self.cache_entry = None  # None means it was already cached - nothing new to store
+        self.version = None
+        self.release_downloads = 0
+        self.downloads_key = None
+
+
+def process_entry(path: Path, entry: dict, categories: dict, cache: dict) -> EntryResult:
+    """All the network I/O for one entry: release/asset resolution, the hash
+    download, the star-count check. Only reads `cache` (never writes it) so
+    many of these can run concurrently against the same dict safely."""
+    result = EntryResult()
+    result.path = path
+    result.entry = entry
+
+    repo = entry.get("repo", "")
+    result.logs.append(f"- {entry['id']:04d} {entry['name']} ({repo or 'no repo, external host'})")
+
+    direct_url = entry.get("direct_url")
+    pinned = parse_github_release_asset_url(direct_url) if direct_url else None
+    if direct_url and pinned and pinned[0] == repo:
+        # Pinned to one specific tag+asset instead of "latest" - same
+        # fidelity as the normal path below, just a different release
+        # lookup (see validate()'s "is_pinned_release" check).
+        _, tag, filename = pinned
+        release = fetch_release_by_tag(repo, tag)
+        if not release:
+            result.logs.append("  ! skipped: pinned release/tag not found")
+            result.skipped = True
+            return result
+        asset = next((a for a in release.get("assets", []) if a["name"] == filename), None)
+        if not asset:
+            result.logs.append(f"  ! skipped: pinned asset {filename} not found in release {tag}")
+            result.skipped = True
+            return result
+    elif direct_url:
+        # Generic direct_url: some other host, or a github.com release
+        # asset from a repo other than this entry's own - no release
+        # object to introspect at all.
+        release = asset = None
+    else:
+        release, asset = pick_release_with_asset(repo, entry.get("prerelease", False), entry.get("asset", "*.vpk"))
+        if not release or not asset:
+            result.logs.append(f"  ! skipped: no release with an asset matching {entry.get('asset', '*.vpk')}")
+            result.skipped = True
+            return result
+
+    if asset is not None:
+        key = f"{repo}@{asset['id']}@{asset['updated_at']}"
+        download_url = asset["browser_download_url"]
+        size_bytes = asset["size"]
+    else:
+        key = f"direct:{direct_url}"
+        download_url = direct_url
+        size_bytes = head_size(direct_url)
+
+    if key in cache:
+        main_hash, aux_hash, folder = cache[key]["hash"], cache[key]["hash2"], cache[key].get("folder", "")
+        result.logs.append("  cached")
+    else:
+        result.logs.append(f"  downloading {download_url} ({size_bytes} bytes)")
+        try:
+            main_hash, aux_hash, folder = checksums(fetch(download_url), entry["platform"])
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            # A transient host error (a dead/overloaded mirror, a 500, a
+            # reset connection) shouldn't take down the whole build - at
+            # this catalog's size a network hiccup on *some* asset, across
+            # thousands of them, is close to guaranteed on any given run.
+            # Skip just this entry and keep going; it'll be retried next run.
+            result.logs.append(f"  ! skipped: download failed ({e})")
+            result.skipped = True
+            return result
+        result.cache_key = key
+        result.cache_entry = {"hash": main_hash, "hash2": aux_hash, "folder": folder}
+
+    description_note = ""
+    if release is not None:
+        published = release.get("published_at") or release.get("created_at") or ""
+        date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        release_downloads = sum(a.get("download_count", 0) for a in release.get("assets", []))
+        version = release.get("tag_name", "")
+        changelog = sanitise_changelog(release.get("body") or "")
+        source_url = release.get("html_url", "").rsplit("/releases/", 1)[0]
+        release_page = release.get("html_url", "")
+    else:
+        # Generic direct_url: nothing to introspect, so version is
+        # contributor-maintained (see validate()) and the rest falls
+        # back to best-effort values - documented limitations in README.
+        date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        release_downloads = 0
+        version = entry.get("version", "")
+        changelog = ""
+        # repo is only a real GitHub "owner/name" when the entry actually
+        # has one - an external host (no repo at all) has no github.com
+        # page to link, so fall back to the direct_url's own origin
+        # rather than publishing a source link that goes nowhere real.
+        if repo:
+            source_url = f"https://github.com/{repo}"
+        else:
+            parsed = urllib.parse.urlparse(direct_url)
+            source_url = f"{parsed.scheme}://{parsed.netloc}"
+        release_page = ""
+        # This asset isn't served from GitHub's own release infrastructure
+        # (unlike the pinned-release direct_url case above), so warn users
+        # in the one place they'll actually see it before downloading.
+        description_note = (
+            "\n\nNote: this download is hosted on an external server, not "
+            "GitHub, and may stop working if that server goes down or "
+            "changes without the catalog knowing."
+        )
+
+    result.version = version
+    result.release_downloads = release_downloads
+    # Ids are only unique within a platform (see validate()), so the
+    # downloads_cache key needs the platform too or a vita/psp entry sharing
+    # a number would clobber each other's running total.
+    result.downloads_key = f"{entry['platform']}:{entry['id']}"
+
+    is_psp = entry["platform"] == "psp"
+    result.is_psp = is_psp
+    type_num = categories[entry["category"]] + (10 if is_psp else 0)
+
+    data_url = entry.get("data", "")
+    # No GitHub repo means no stars to check - an external host has no
+    # equivalent signal, so it just starts untrusted rather than paying
+    # for an API call that would 404 anyway.
+    trusted = repo_stars(repo) > TRUSTED_STARS if repo else False
+    if "trusted" not in entry or entry["trusted"] != trusted:
+        entry["trusted"] = trusted
+        path.write_text(json.dumps(entry, indent=2, ensure_ascii=False) + "\n")
+        result.logs.append(f"  trusted -> {trusted}")
+
+    result.icon = entry["icon"]
+    result.fields = {
+        "name": entry["name"],
+        "icon": entry["icon"],
+        "version": version,
+        "author": entry["author"],
+        "type": str(type_num),
+        "id": str(entry["id"]),
+        "date": date,
+        "titleid": entry.get("titleid", ""),
+        "screenshots": ";".join(entry.get("screenshots", [])),
+        "long_description": entry["description"] + description_note,
+        # "downloads" is filled in by the caller - it needs the live,
+        # sequentially-updated downloads_cache to compute a running total.
+        "source": source_url,
+        "release_page": release_page,
+        "trailer": entry.get("trailer", ""),
+        "size": str(size_bytes),
+        "data_size": str(head_size(data_url) if data_url else 0),
+        "hash": main_hash,
+        "hash2": aux_hash,
+        "requirements": entry.get("requirements", ""),
+        "trophies": "1" if entry.get("trophies") else "0",
+        "ai": "1" if entry.get("ai") else "0",
+        "data": data_url,
+        "url": download_url,
+        "changelog": changelog,
+        "trusted": "1" if trusted else "0",
+        "folder": folder,
+        "direct": "1" if direct_url else "0",
+        "added": added_date(path),
+    }
+    return result
+
+
 def build() -> None:
     categories = {
         c["slug"]: c["type"]
@@ -386,142 +577,24 @@ def build() -> None:
     out = {"vita": [], "psp": []}
     icons = []
 
-    for path, entry in entries:
-        repo = entry.get("repo", "")
-        log(f"- {entry['id']:04d} {entry['name']} ({repo or 'no repo, external host'})")
-
-        direct_url = entry.get("direct_url")
-        pinned = parse_github_release_asset_url(direct_url) if direct_url else None
-        if direct_url and pinned and pinned[0] == repo:
-            # Pinned to one specific tag+asset instead of "latest" - same
-            # fidelity as the normal path below, just a different release
-            # lookup (see validate()'s "is_pinned_release" check).
-            _, tag, filename = pinned
-            release = fetch_release_by_tag(repo, tag)
-            if not release:
-                log("  ! skipped: pinned release/tag not found")
-                continue
-            asset = next((a for a in release.get("assets", []) if a["name"] == filename), None)
-            if not asset:
-                log(f"  ! skipped: pinned asset {filename} not found in release {tag}")
-                continue
-        elif direct_url:
-            # Generic direct_url: some other host, or a github.com release
-            # asset from a repo other than this entry's own - no release
-            # object to introspect at all.
-            release = asset = None
-        else:
-            release, asset = pick_release_with_asset(repo, entry.get("prerelease", False), entry.get("asset", "*.vpk"))
-            if not release or not asset:
-                log(f"  ! skipped: no release with an asset matching {entry.get('asset', '*.vpk')}")
+    with ThreadPoolExecutor(max_workers=BUILD_WORKERS) as pool:
+        results = pool.map(lambda pe: process_entry(pe[0], pe[1], categories, cache), entries)
+        for result in results:
+            for line in result.logs:
+                log(line)
+            if result.skipped:
                 continue
 
-        if asset is not None:
-            key = f"{repo}@{asset['id']}@{asset['updated_at']}"
-            download_url = asset["browser_download_url"]
-            size_bytes = asset["size"]
-        else:
-            key = f"direct:{direct_url}"
-            download_url = direct_url
-            size_bytes = head_size(direct_url)
+            if result.cache_key is not None:
+                cache[result.cache_key] = result.cache_entry
 
-        if key in cache:
-            main_hash, aux_hash, folder = cache[key]["hash"], cache[key]["hash2"], cache[key].get("folder", "")
-            log("  cached")
-        else:
-            log(f"  downloading {download_url} ({size_bytes} bytes)")
-            main_hash, aux_hash, folder = checksums(fetch(download_url), entry["platform"])
-            cache[key] = {"hash": main_hash, "hash2": aux_hash, "folder": folder}
-
-        description_note = ""
-        if release is not None:
-            published = release.get("published_at") or release.get("created_at") or ""
-            date = published[:10] if published else datetime.now(timezone.utc).strftime("%Y-%m-%d")
-            release_downloads = sum(a.get("download_count", 0) for a in release.get("assets", []))
-            version = release.get("tag_name", "")
-            changelog = sanitise_changelog(release.get("body") or "")
-            source_url = release.get("html_url", "").rsplit("/releases/", 1)[0]
-            release_page = release.get("html_url", "")
-        else:
-            # Generic direct_url: nothing to introspect, so version is
-            # contributor-maintained (see validate()) and the rest falls
-            # back to best-effort values - documented limitations in README.
-            date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-            release_downloads = 0
-            version = entry.get("version", "")
-            changelog = ""
-            # repo is only a real GitHub "owner/name" when the entry actually
-            # has one - an external host (no repo at all) has no github.com
-            # page to link, so fall back to the direct_url's own origin
-            # rather than publishing a source link that goes nowhere real.
-            if repo:
-                source_url = f"https://github.com/{repo}"
-            else:
-                parsed = urllib.parse.urlparse(direct_url)
-                source_url = f"{parsed.scheme}://{parsed.netloc}"
-            release_page = ""
-            # This asset isn't served from GitHub's own release infrastructure
-            # (unlike the pinned-release direct_url case above), so warn users
-            # in the one place they'll actually see it before downloading.
-            description_note = (
-                "\n\nNote: this download is hosted on an external server, not "
-                "GitHub, and may stop working if that server goes down or "
-                "changes without the catalog knowing."
+            lifetime_downloads = accumulate_downloads(
+                downloads_cache, result.downloads_key, result.version, result.release_downloads
             )
+            result.fields["downloads"] = str(lifetime_downloads)
 
-        # Ids are only unique within a platform (see validate()), so the cache
-        # key needs the platform too or a vita/psp entry sharing a number
-        # would clobber each other's running total.
-        lifetime_downloads = accumulate_downloads(
-            downloads_cache, f"{entry['platform']}:{entry['id']}", version, release_downloads
-        )
-
-        is_psp = entry["platform"] == "psp"
-        type_num = categories[entry["category"]] + (10 if is_psp else 0)
-
-        data_url = entry.get("data", "")
-        # No GitHub repo means no stars to check - an external host has no
-        # equivalent signal, so it just starts untrusted rather than paying
-        # for an API call that would 404 anyway.
-        trusted = repo_stars(repo) > TRUSTED_STARS if repo else False
-        if "trusted" not in entry or entry["trusted"] != trusted:
-            entry["trusted"] = trusted
-            path.write_text(json.dumps(entry, indent=2, ensure_ascii=False) + "\n")
-            log(f"  trusted -> {trusted}")
-
-        fields = {
-            "name": entry["name"],
-            "icon": entry["icon"],
-            "version": version,
-            "author": entry["author"],
-            "type": str(type_num),
-            "id": str(entry["id"]),
-            "date": date,
-            "titleid": entry.get("titleid", ""),
-            "screenshots": ";".join(entry.get("screenshots", [])),
-            "long_description": entry["description"] + description_note,
-            "downloads": str(lifetime_downloads),
-            "source": source_url,
-            "release_page": release_page,
-            "trailer": entry.get("trailer", ""),
-            "size": str(size_bytes),
-            "data_size": str(head_size(data_url) if data_url else 0),
-            "hash": main_hash,
-            "hash2": aux_hash,
-            "requirements": entry.get("requirements", ""),
-            "trophies": "1" if entry.get("trophies") else "0",
-            "ai": "1" if entry.get("ai") else "0",
-            "data": data_url,
-            "url": download_url,
-            "changelog": changelog,
-            "trusted": "1" if trusted else "0",
-            "folder": folder,
-            "direct": "1" if direct_url else "0",
-            "added": added_date(path),
-        }
-
-        out["psp" if is_psp else "vita"].append(emit_entry(fields, is_psp))
-        icons.append(entry["icon"])
+            out["psp" if result.is_psp else "vita"].append(emit_entry(result.fields, result.is_psp))
+            icons.append(result.icon)
 
     save_cache(cache)
     save_downloads_cache(downloads_cache)
