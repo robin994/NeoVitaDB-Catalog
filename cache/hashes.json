@@ -5061,6 +5061,11 @@
     "hash": "cb468778138f2b65b4b581bc9aab4b65",
     "hash2": ""
   },
+  "direct:https://archive.org/download/halo-genocide.-7z/Halo_Genocide.zip": {
+    "folder": "Halo_Genocide",
+    "hash": "3399e7b649a943947772fbba045da622",
+    "hash2": ""
+  },
   "direct:https://archive.org/download/halo-ps-p-2-d.-7z/HaloPsP-2D.zip": {
     "folder": "HaloPsP-2D",
     "hash": "d52030ec18b9cb85e5712a05dfb9ae25",
@@ -7979,6 +7984,11 @@
   "direct:https://archive.org/download/portero-vsportero.-7z/PorteroVSPortero.zip": {
     "folder": "PorteroVSPortero",
     "hash": "05d2b1c9f578439a310ad2142fd9f66b",
+    "hash2": ""
+  },
+  "direct:https://archive.org/download/pousse-pousse-vs.-7z/Pousse-PousseVs.zip": {
+    "folder": "Pousse-PousseVs",
+    "hash": "90c683f8de85844f5eced000d30f9729",
     "hash2": ""
   },
   "direct:https://archive.org/download/powd-00941-00000/powder.zip": {
