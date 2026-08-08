@@ -536,6 +536,22 @@ def build() -> None:
     (DIST_DIR / "icons.db").write_text("".join(f"{i}\n" for i in sorted(icons)))
     log(f"wrote dist/icons.db ({len(icons)} icons)")
 
+    bundle_icons(ROOT / "icons_vita", DIST_DIR / "icons_vita.zip")
+    bundle_icons(ROOT / "icons_psp", DIST_DIR / "icons_psp.zip")
+
+
+def bundle_icons(src_dir: Path, dest_zip: Path) -> None:
+    """All of a platform's icons in one zip, flat (filename only, no
+    directory entries), so the app can extract it straight into its icons
+    folder. Lets a fresh install or catalog switch - where most/all icons
+    are "missing" - pull them in one request instead of one HTTP round-trip
+    per icon, which at this catalog's size was slow enough in practice to be
+    the main cost of a first boot."""
+    with zipfile.ZipFile(dest_zip, "w", zipfile.ZIP_DEFLATED) as zf:
+        for png in sorted(src_dir.glob("*.png")):
+            zf.write(png, png.name)
+    log(f"wrote {dest_zip.relative_to(ROOT)} ({sum(1 for _ in src_dir.glob('*.png'))} icons)")
+
 
 def sanitise_changelog(body: str) -> str:
     """Release notes, trimmed to what the device parser can swallow.
