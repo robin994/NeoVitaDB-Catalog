@@ -15,5 +15,5 @@
   "trophies": false,
   "ai": false,
   "data": "https://github.com/Rinnegatamante/Doom64EX/releases/download/v.1.0.1/Doom64EX.zip",
-  "trusted": false
+  "trusted": true
 }
