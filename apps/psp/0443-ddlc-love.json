@@ -1,0 +1,16 @@
+{
+  "id": 443,
+  "name": "DDLC-LOVE",
+  "author": "LukeZGD",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0443-ddlc-love.png",
+  "description": "Unofficial port of Doki Doki Literature Club.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ddlc-love.-7z/DDLC-LOVE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

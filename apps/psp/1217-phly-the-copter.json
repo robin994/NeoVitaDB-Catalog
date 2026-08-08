@@ -1,0 +1,16 @@
+{
+  "id": 1217,
+  "name": "Phly The Copter",
+  "author": "PearLBLacK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1217-phly-the-copter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/phly-the-copter-v-2.0.7z/Phly%20the%20Copter%20v2.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

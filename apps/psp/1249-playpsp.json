@@ -1,0 +1,16 @@
+{
+  "id": 1249,
+  "name": "playPSP",
+  "author": "ArkTRT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1249-playpsp.png",
+  "description": "Pong and a pixel fixer.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/playPSP112.7z/playPSP112.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1548,
+  "name": "HackInformer App",
+  "author": "HackInformer Staff",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "HACKINFOR",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/227-HackInformer.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1548-hackinformer-app.png",
+  "description": "Simple application that automatically opens the webbrowser to HackInformer portal.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

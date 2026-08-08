@@ -1,0 +1,16 @@
+{
+  "id": 1004,
+  "name": "Medieval Tactics",
+  "author": "psjuan97",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1004-medieval-tactics.png",
+  "description": "Isometric turn-based strategy game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/medieval-tactics/MedievalTactics.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

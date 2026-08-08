@@ -1,0 +1,16 @@
+{
+  "id": 2108,
+  "name": "PSP Filer",
+  "author": "Mediumgauge",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2108-psp-filer.png",
+  "description": "Advanced filemanager for PSP.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/942-pspfiler_6.6.zip",
+  "version": "v.6.6",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

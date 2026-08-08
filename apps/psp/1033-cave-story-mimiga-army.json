@@ -1,0 +1,16 @@
+{
+  "id": 1033,
+  "name": "Cave Story - Mimiga Army",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1033-cave-story-mimiga-army.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mimigaarmypsp_r2.7z/mimigaarmypsp_r2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

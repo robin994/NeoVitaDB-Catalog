@@ -1,0 +1,16 @@
+{
+  "id": 530,
+  "name": "Eaten",
+  "author": "PSPOwnage",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0530-eaten.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eaten-v-2.7z/Eaten%20V2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

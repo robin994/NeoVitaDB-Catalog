@@ -1,0 +1,16 @@
+{
+  "id": 356,
+  "name": "COGEEP",
+  "author": "240-185",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0356-cogeep.png",
+  "description": "3D shooting game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cogeep.7z/cogeep.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1864,
+  "name": "ViTetris",
+  "author": "bytelett",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VGLTETRIS",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1135-ViTetris.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1864-vitetris.png",
+  "description": "This is a custom version of tetris with 3D graphics written completely from scratch in C.\nThis was mostly a passion project to learn OpenGL and explore the idea of how feasible it would be to store the tetrominos as a 16-bit integer representation of the 4x4 grid containing its block shapes.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1462,
+  "name": "EasyRPG Player",
+  "author": "EasyRPG Team & Rinnegatamante",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "EASYRPG01",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/5-EasyRPG_Player.vpk",
+  "version": "v.0.8.1.1",
+  "prerelease": false,
+  "icon": "1462-easyrpg-player.png",
+  "description": "EasyRPG Player is a program that allows to play games created with RPG Maker 2000 and 2003.\n\nIt aims to be a free (as in freedom) cross-platform RPG Maker 2000/2003 interpreter. The main goal is to play all games created with them as the original game interpreter (RPG_RT) does.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

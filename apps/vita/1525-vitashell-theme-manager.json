@@ -1,0 +1,18 @@
+{
+  "id": 1525,
+  "name": "VitaShell Theme Manager",
+  "author": "Ruben_Wolfe",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ARIEL0004",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/173-vitashellthememanager.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1525-vitashell-theme-manager.png",
+  "description": "VitaShell Theme Manager is a simple and user-friendly GUI to apply themes for TheFloW's VitaShell (version 0.85 and above).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

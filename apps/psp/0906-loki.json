@@ -1,0 +1,16 @@
+{
+  "id": 906,
+  "name": "Loki",
+  "author": "William Eadmeades",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0906-loki.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/loki.-7z/Loki.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

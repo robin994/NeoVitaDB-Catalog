@@ -1,0 +1,16 @@
+{
+  "id": 462,
+  "name": "Desert Stunts",
+  "author": "gorglucks",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0462-desert-stunts.png",
+  "description": "3D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/desert-stunts.-7z/Desert%20Stunts.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

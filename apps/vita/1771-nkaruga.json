@@ -1,0 +1,18 @@
+{
+  "id": 1771,
+  "name": "nKaruga",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NKARUGA01",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/788-nKaruga.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1771-nkaruga.png",
+  "description": "nKaruga is a demake of the popular bullet hell game Ikaruga, released in 2002 for Dreamcast and 2003 for Gamecube. Ikaruga is a vertical shoot 'em up that features an unique polarity-switching gameplay.\nSwitch the ship's polarity and \"get hit and absorb\" enemy bullets!\nAchieve High Score with the chain bonus!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

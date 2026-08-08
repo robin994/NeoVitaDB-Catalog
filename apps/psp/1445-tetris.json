@@ -1,0 +1,16 @@
+{
+  "id": 1445,
+  "name": "Tetris",
+  "author": "wSlava",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1445-tetris.png",
+  "description": "Homebrew version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psptetris_v2_0/psptetris_v2_0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

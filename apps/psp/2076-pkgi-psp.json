@@ -1,0 +1,17 @@
+{
+  "id": 2076,
+  "name": "PKGi PSP",
+  "author": "bucanero",
+  "category": "utility",
+  "platform": "psp",
+  "repo": "bucanero/pkgi-psp",
+  "asset": "pkgi-psp.zip",
+  "prerelease": false,
+  "icon": "2076-pkgi-psp.png",
+  "description": "PKGi PSP is a PlayStation Portable port of pkgi-ps3.\nThis homebrew app allows to download and install .pkg files directly on your PSP.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

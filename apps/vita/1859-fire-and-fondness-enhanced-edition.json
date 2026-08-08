@@ -1,0 +1,18 @@
+{
+  "id": 1859,
+  "name": "Fire and Fondness - Enhanced Edition",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLFIRE101",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1128-fire_and_fondness.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1859-fire-and-fondness-enhanced-edition.png",
+  "description": "Port of Fire and Fondness: Enhanced Edition for PSVITA.\nWelcome to the world's number one fire-based relationship-testing simulator!\nAs is well-documented, 21st century couples would prove their devotion to each other by locking themselves in burning buildings. The Fire and Fondness Corporation is pleased to offer an authentic enactment of this ages-old ritual.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

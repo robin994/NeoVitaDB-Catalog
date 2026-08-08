@@ -1,0 +1,16 @@
+{
+  "id": 411,
+  "name": "CubeMania",
+  "author": "Sand3r",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0411-cubemania.png",
+  "description": "Puzzle game for PSP",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cube-mania.-7z/CubeMania.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

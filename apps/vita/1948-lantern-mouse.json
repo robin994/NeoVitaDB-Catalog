@@ -1,0 +1,18 @@
+{
+  "id": 1948,
+  "name": "Lantern Mouse",
+  "author": "Stalgix",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PCSB00999",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1335-LMSubmit.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1948-lantern-mouse.png",
+  "description": "Step into the paws of a small mouse with a fading past in Lantern Mouse, a third-person adventure about rediscovering lost memories. This early demo showcases the foundation of the world - an open environment with trees and terrain to explore - along with the controllable mouse.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

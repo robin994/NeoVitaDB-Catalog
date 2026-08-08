@@ -1,0 +1,18 @@
+{
+  "id": 1708,
+  "name": "Circuit Dude",
+  "author": "crait",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CIRCDUDE1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/626-CircuitDude.vpk",
+  "version": "v.2.6.6",
+  "prerelease": false,
+  "icon": "1708-circuit-dude.png",
+  "description": "Help Circuit Dude build his ultimate secret invention by plugging in chips, pushing blocks, stepping on switches, rotating walls and so much more in this game featuring over 15 hours of gameplay and 120 levels. What is he up to? What is Circuit Dude building? Finish the first 100 levels to find out!\n\nIf that's not enough, you can design your own master contraptions using the in-game level editor! (Cross-platform online level sharing coming soon!)",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

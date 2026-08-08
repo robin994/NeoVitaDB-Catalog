@@ -1,0 +1,16 @@
+{
+  "id": 1587,
+  "name": "Scogger",
+  "author": "Scognito, Kenney",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1587-scogger.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/scoggerpsp0.2.7z/scoggerpsp0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

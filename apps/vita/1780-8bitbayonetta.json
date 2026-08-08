@@ -1,0 +1,18 @@
+{
+  "id": 1780,
+  "name": "8BitBayonetta",
+  "author": "DanCooper",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SEGA12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/808-8BB.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1780-8bitbayonetta.png",
+  "description": "Port of 8-Bit Bayonetta for PSVITA.\n8-Bit Bayonetta, formerly known as Angel Land, is an inaccurately-named, 16-bit-style action/shooter game for web browsers, based on the Bayonetta game franchise.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

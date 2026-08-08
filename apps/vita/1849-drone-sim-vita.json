@@ -1,0 +1,18 @@
+{
+  "id": 1849,
+  "name": "Drone Sim Vita",
+  "author": "Haasman0",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DSIM12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1115-Drone-Sim-Vita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1849-drone-sim-vita.png",
+  "description": "Drone Sim Vita is a drone simulation game made with the Unity game engine.\nExpect bugs and slowdowns.\nOverclock for best experience!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

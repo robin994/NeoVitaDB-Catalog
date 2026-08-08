@@ -1,0 +1,16 @@
+{
+  "id": 1342,
+  "name": "PSP-SimpleGame",
+  "author": "Julien Coron",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1342-psp-simplegame.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-simple-game-main/Old%20Versions/PSP-SimpleGame-main.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1665,
+  "name": "The Lost Catacomb",
+  "author": "WIDEGCG",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "THELOSTCA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/506-The_20lost_20catacomb.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1665-the-lost-catacomb.png",
+  "description": "Dungeon Crawler for PSVITA set in a procedurally generated labyrinth inspired from The Catacomb Abyss (1992).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

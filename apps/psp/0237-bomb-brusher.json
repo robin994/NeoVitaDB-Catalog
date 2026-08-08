@@ -1,0 +1,16 @@
+{
+  "id": 237,
+  "name": "Bomb Brusher",
+  "author": "miinaturvat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0237-bomb-brusher.png",
+  "description": "Minesweeper for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bombBrusher.7z/bombBrusher.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

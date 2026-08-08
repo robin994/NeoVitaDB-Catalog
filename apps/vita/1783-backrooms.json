@@ -1,0 +1,18 @@
+{
+  "id": 1783,
+  "name": "Backrooms",
+  "author": "MEGAgameBoy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BKRM80522",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/821-Backrooms.vpk",
+  "version": "v.1.5.2",
+  "prerelease": false,
+  "icon": "1783-backrooms.png",
+  "description": "Based on a creepypasta, the Backrooms brings a nostalgic feeling of being lost in endless piles of empty rooms with fluorescent lights at full hum-buzz.\nYou have to find your way out, but of course, some \"friends'' don't want you to leave. If you don't \"wake up\" in time, your nightmares will drown you.\nThis game is created by Ilia Esmaili Poor (IEP_Esy)",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

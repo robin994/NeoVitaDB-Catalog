@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "name": "Buggin' Out",
+  "author": "thegoodjakeward",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0275-buggin-out.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/buggin-out/PSP%20Game%20Jam%202022.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

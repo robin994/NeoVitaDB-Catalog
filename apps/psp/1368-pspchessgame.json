@@ -1,0 +1,16 @@
+{
+  "id": 1368,
+  "name": "PSPChessGame",
+  "author": "Germano Fabio (Gefa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1368-pspchessgame.png",
+  "description": "Game of chess programmed in Python.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspchess-game-v-1.0.0.7z/PSPChessGame%20v1.0.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

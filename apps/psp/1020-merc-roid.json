@@ -1,0 +1,16 @@
+{
+  "id": 1020,
+  "name": "Merc Roid",
+  "author": "lokiare1",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1020-merc-roid.png",
+  "description": "3D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/merc-roidv-0.25.7z/MercRoidv0.3.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

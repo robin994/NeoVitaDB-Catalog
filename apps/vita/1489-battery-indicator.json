@@ -1,0 +1,18 @@
+{
+  "id": 1489,
+  "name": "Battery Indicator",
+  "author": "Ruben_Wolfe",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ARIEL0005",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/78-BatteryIndicator.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1489-battery-indicator.png",
+  "description": "This homebrew shows the real percentage of your PSVita's battery and it makes a nice waiting screen when charging.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

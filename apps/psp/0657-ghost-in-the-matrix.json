@@ -1,0 +1,16 @@
+{
+  "id": 657,
+  "name": "Ghost In The Matrix",
+  "author": "Jeff Leung",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0657-ghost-in-the-matrix.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ghost-in-the-matrix.-7z/GhostInTheMatrix.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 169,
+  "name": "Bow & Arrow",
+  "author": "Tanos",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0169-bow-arrow.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/barrow.-7z/Barrow.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

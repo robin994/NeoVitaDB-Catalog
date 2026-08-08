@@ -1,0 +1,17 @@
+{
+  "id": 2087,
+  "name": "Slender PSP",
+  "author": "Iridescence & janosharsanyi",
+  "category": "game",
+  "platform": "psp",
+  "repo": "IridescentRose/Slender-PSP",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2087-slender-psp.png",
+  "description": "A Slenderman game for PSP made in LUA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

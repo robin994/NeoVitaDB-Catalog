@@ -1,0 +1,18 @@
+{
+  "id": 1503,
+  "name": "Bermuda Vita",
+  "author": "usineur",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BERM00001",
+  "repo": "usineur/bermuda",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1503-bermuda-vita.png",
+  "description": "This is a Vita port of the game Bermuda Syndrome, using the reverse engine made by Gregory Montoir. To play, you will need the files from the original game. Further instructions can be found at https://github.com/usineur/bermuda/releases/latest",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

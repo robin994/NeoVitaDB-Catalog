@@ -1,0 +1,18 @@
+{
+  "id": 1590,
+  "name": "Vita Media Center",
+  "author": "Arkanite",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ARKSMEDIA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/364-mediacenter.vpk",
+  "version": "v.0.01a",
+  "prerelease": false,
+  "icon": "1590-vita-media-center.png",
+  "description": "A Video Player for PSVITA for MP4 videos.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

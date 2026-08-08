@@ -1,0 +1,16 @@
+{
+  "id": 1751,
+  "name": "SquarO PSP",
+  "author": "Miles",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1751-squaro-psp.png",
+  "description": "Puzzle game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/squaroPSP13.7z/squaroPSP-1.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1387,
+  "name": "PSPicross",
+  "author": "Mike Haggar (mikehaggar99)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1387-pspicross.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspicross-02.7z/PSPicross02.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

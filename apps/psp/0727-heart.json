@@ -1,0 +1,16 @@
+{
+  "id": 727,
+  "name": "Heart",
+  "author": "Yokaai",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0727-heart.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/heart_20231111/heart.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

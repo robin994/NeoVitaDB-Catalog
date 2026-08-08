@@ -1,0 +1,16 @@
+{
+  "id": 1074,
+  "name": "Alex Arcarde",
+  "author": "Tim2001",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1074-alex-arcarde.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ms-de-alex-arcarde.-7z/MS-DE_ALEX-Arcarde.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

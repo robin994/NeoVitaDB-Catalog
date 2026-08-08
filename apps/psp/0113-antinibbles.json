@@ -1,0 +1,16 @@
+{
+  "id": 113,
+  "name": "AntiNibbles",
+  "author": "Elad_THC",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0113-antinibbles.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/anti-nibbles.-7z/AntiNibbles.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

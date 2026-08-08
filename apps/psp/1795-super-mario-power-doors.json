@@ -1,0 +1,16 @@
+{
+  "id": 1795,
+  "name": "Super Mario Power Doors",
+  "author": "Xandu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1795-super-mario-power-doors.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/super-mario-power-doors-world-1/SuperMarioPowerDoors_World%201.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 500,
+  "name": "Drunken Tale",
+  "author": "Eskema",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0500-drunken-tale.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/drunken-psp-v-1.7z/DrunkenPSP_v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

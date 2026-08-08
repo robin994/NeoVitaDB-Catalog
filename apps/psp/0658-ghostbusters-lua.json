@@ -1,0 +1,16 @@
+{
+  "id": 658,
+  "name": "Ghostbusters Lua",
+  "author": "T_Master",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0658-ghostbusters-lua.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ghost.7z/ghost.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

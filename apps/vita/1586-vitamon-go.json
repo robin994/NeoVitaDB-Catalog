@@ -1,0 +1,18 @@
+{
+  "id": 1586,
+  "name": "Vitamon GO",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VTGO00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/353-VitamonGO.vpk",
+  "version": "v.0.1.0",
+  "prerelease": false,
+  "icon": "1586-vitamon-go.png",
+  "description": "Vitamon GO is the first homebrew AR game developed entirely in lpp-vita.\r\nIt's a Pokemon Go kinda game for the PS Vita. Currently in this alpha version there are 3 types of monsters that may appear at random order for every try you play.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

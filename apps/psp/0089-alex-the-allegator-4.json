@@ -1,0 +1,16 @@
+{
+  "id": 89,
+  "name": "Alex the Allegator 4",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0089-alex-the-allegator-4.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alex_the_allegator_4_psp_r2-mk2k.7z/alex_the_allegator_4_psp_r2-mk2k.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 311,
+  "name": "Cave Story [洞窟物語]",
+  "author": "ufo_z",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0311-cave-story.png",
+  "description": "PSP port of the game by Daisuke Amaya (aka Pixel). This version is in English and Japanese.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cave-00992-00000/Old%20Versions/cs-psp-demo-1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

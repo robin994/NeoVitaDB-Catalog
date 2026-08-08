@@ -1,0 +1,16 @@
+{
+  "id": 1397,
+  "name": "PSPLBreakout2",
+  "author": "Michael Speck",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1397-psplbreakout2.png",
+  "description": "Breakout for PSP, based on LBreakout2 2.6beta.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psplbreakout2.7z/psplbreakout2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

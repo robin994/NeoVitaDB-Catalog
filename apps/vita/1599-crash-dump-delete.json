@@ -1,0 +1,18 @@
+{
+  "id": 1599,
+  "name": "Crash Dump Delete",
+  "author": "Princess-Of-Sleeping",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CRASHDUMP",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/384-Crash-Dump-Delete.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1599-crash-dump-delete.png",
+  "description": "Simple application that deletes all crashdump files generated when an application crashes.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

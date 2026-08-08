@@ -1,0 +1,16 @@
+{
+  "id": 1003,
+  "name": "Medieval Escape",
+  "author": "Chicky",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1003-medieval-escape.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/medieval-escape.-7z/Medieval%20Escape.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

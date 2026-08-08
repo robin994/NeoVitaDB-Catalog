@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "name": "4² - Four-Squared",
+  "author": "coolguy5678",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0043-4-four-squared.png",
+  "description": "Simple tennis game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/4-2-h-00196-00000/4%5E2v2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

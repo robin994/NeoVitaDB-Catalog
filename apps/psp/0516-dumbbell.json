@@ -1,0 +1,16 @@
+{
+  "id": 516,
+  "name": "Dumbbell",
+  "author": "Dark Killer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0516-dumbbell.png",
+  "description": "Snake for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dumbbell.7z/dumbbell.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

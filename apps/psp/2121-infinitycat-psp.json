@@ -1,0 +1,16 @@
+{
+  "id": 2121,
+  "name": "InfinityCat PSP",
+  "author": "SofiyaCat",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2121-infinitycat-psp.png",
+  "description": "Port of InfinityCat,  a MUGEN engine clone, for PSP.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/923-infinitycatpsp.7z",
+  "version": "v.20061231",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

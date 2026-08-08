@@ -1,0 +1,16 @@
+{
+  "id": 1385,
+  "name": "PSP Hexen",
+  "author": "kgsws",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1385-psp-hexen.png",
+  "description": "PSP port of the game. Shareware version included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psphexen.7z/hexen.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

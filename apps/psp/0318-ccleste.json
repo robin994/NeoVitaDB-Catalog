@@ -1,0 +1,16 @@
+{
+  "id": 318,
+  "name": "Ccleste",
+  "author": "Francisco Javier Trujillo (fjtrujy)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0318-ccleste.png",
+  "description": "A portable Celeste Classic C source port.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ccleste_psp-v1.0.4/ccleste_psp-v1.0.4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 328,
+  "name": "Chase the Penguin",
+  "author": "TacticalPenguin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0328-chase-the-penguin.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chase-the-penguin.-7z/Chase%20the%20Penguin.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

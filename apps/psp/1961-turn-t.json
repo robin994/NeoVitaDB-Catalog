@@ -1,0 +1,16 @@
+{
+  "id": 1961,
+  "name": "Turn!t",
+  "author": "Preyker",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1961-turn-t.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/turntby-preyker.-7z/TurntbyPreyker.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

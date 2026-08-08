@@ -1,0 +1,16 @@
+{
+  "id": 872,
+  "name": "Laserix 4",
+  "author": "Sunny",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0872-laserix-4.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/laserix-4.7z/Laserix%204.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

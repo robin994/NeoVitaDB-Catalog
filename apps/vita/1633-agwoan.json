@@ -1,0 +1,18 @@
+{
+  "id": 1633,
+  "name": "AGWOAN",
+  "author": "Borad Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "AGWN00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/457-AGWOAN-PSV.vpk",
+  "version": "Demo",
+  "prerelease": false,
+  "icon": "1633-agwoan.png",
+  "description": "A platformer game with integrated level editor.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

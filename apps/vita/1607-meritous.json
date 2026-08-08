@@ -1,0 +1,18 @@
+{
+  "id": 1607,
+  "name": "meritous",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MERITOUS1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/411-meritous.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1607-meritous.png",
+  "description": "meritous is a cross between a top-view dungeon crawler and a bullet-hell shoot-em-up. In it, you control main character Merit, who travels through an enormous 3000-room labyrinth, the Orcus Dome, in order to find three artifacts called the PSI Keys, and restore them to their proper locations.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

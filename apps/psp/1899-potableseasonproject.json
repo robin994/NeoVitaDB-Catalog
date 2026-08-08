@@ -1,0 +1,16 @@
+{
+  "id": 1899,
+  "name": "東方持遊創～PotableSeasonProject～",
+  "author": "A3",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1899-potableseasonproject.png",
+  "description": "Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/thp.7z/thp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 467,
+  "name": "Die Dolphins Die",
+  "author": "JEM",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0467-die-dolphins-die.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/die-dolphins-die.-7z/DieDolphinsDie.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

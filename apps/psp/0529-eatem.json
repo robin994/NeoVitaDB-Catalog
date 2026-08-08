@@ -1,0 +1,16 @@
+{
+  "id": 529,
+  "name": "EatEm",
+  "author": "Slasher",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0529-eatem.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eat-em.-7z/EatEm.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

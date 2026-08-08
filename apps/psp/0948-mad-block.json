@@ -1,0 +1,16 @@
+{
+  "id": 948,
+  "name": "Mad Block",
+  "author": "G33",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0948-mad-block.png",
+  "description": "mad block how to install: simply extract the folder and then place it inside your game folder on your hacked psp. objective: you are the green block, kill all other blocks. controls: shoot: x,square, triangle, circle. move: arrows keys. pause: start. gold coins are points. green coins are multiplier. I know the music isnt that. thats why you can stop it at any time by pressing select. credits: the people that made oslib. the people that made oslib mod. the people that made rythym core alpha for the dsi.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mad-block.7z/mad-block.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

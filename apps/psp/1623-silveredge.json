@@ -1,0 +1,16 @@
+{
+  "id": 1623,
+  "name": "Silveredge",
+  "author": "AndrewYY",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1623-silveredge.png",
+  "description": "2D shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/silveredge.-7z/Silveredge.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

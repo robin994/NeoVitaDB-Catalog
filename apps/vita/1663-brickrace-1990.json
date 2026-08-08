@@ -1,0 +1,18 @@
+{
+  "id": 1663,
+  "name": "BrickRace 1990",
+  "author": "WIDEGCG",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "WIDE87195",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/503-BrickRace.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1663-brickrace-1990.png",
+  "description": "A clone of BRICK RACE, a minimalistic racing game with Tetris-like graphics, for PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

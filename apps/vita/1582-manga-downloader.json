@@ -1,0 +1,18 @@
+{
+  "id": 1582,
+  "name": "Manga Downloader",
+  "author": "MyLegGuy",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LUAMANGAS",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/348-MangaDownloader.vpk",
+  "version": "v.2.5",
+  "prerelease": false,
+  "icon": "1582-manga-downloader.png",
+  "description": "Application that allows you to download your favourite mangas from different websites.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

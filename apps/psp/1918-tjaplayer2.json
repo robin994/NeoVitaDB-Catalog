@@ -1,0 +1,16 @@
+{
+  "id": 1918,
+  "name": "TJAPlayer2",
+  "author": "650氏, kairera0467",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1918-tjaplayer2.png",
+  "description": "Fan-made version of Taiko no Tatsujin. To play the game, put .tja files from the original game in the tja/ directory.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tjaplayer-2/TJAPlayer2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

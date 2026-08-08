@@ -1,0 +1,16 @@
+{
+  "id": 880,
+  "name": "LearnJP",
+  "author": "ponlork",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0880-learnjp.png",
+  "description": "Japanese language learning app for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/learnjp09.7z/Old%20Versions/learnjp09.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

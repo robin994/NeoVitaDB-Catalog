@@ -1,0 +1,16 @@
+{
+  "id": 512,
+  "name": "Ivor Dog's Duck Hunt",
+  "author": "Ivor Dog",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0512-ivor-dog-s-duck-hunt.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/duck-hunt.-7z_202103/DuckHunt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

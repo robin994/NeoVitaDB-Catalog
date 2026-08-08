@@ -1,0 +1,16 @@
+{
+  "id": 439,
+  "name": "DCatch",
+  "author": "Dioni0396",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0439-dcatch.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dcatch.-7z/DCatch.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

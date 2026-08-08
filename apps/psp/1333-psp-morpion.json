@@ -1,0 +1,16 @@
+{
+  "id": 1333,
+  "name": "PSP Morpion",
+  "author": "Intellomanamort, Wellis",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1333-psp-morpion.png",
+  "description": "Noughts and crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-morpion.-7z/Old%20Versions/PSP_Morpion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

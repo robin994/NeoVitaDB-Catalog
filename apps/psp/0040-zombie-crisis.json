@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "name": "Zombie Crisis",
+  "author": "Shotspark Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0040-zombie-crisis.png",
+  "description": "Shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/30321-zcrisis-v-1.7z/30321-ZCrisisV1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

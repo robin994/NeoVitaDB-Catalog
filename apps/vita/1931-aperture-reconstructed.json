@@ -1,0 +1,18 @@
+{
+  "id": 1931,
+  "name": "Aperture Reconstructed",
+  "author": "MRKane",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "APTR10007",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1302-ApertureReconstructed.vpk",
+  "version": "v.0.4.00",
+  "prerelease": false,
+  "icon": "1931-aperture-reconstructed.png",
+  "description": "This is an explicit reconstruction of Valve's classic game Portal for the Playstation Vita.\nThis has been achieved by standing on the shoulders of giants, and I owe a debt of thanks to Cody Andrews and his portal implementation for Unity (https://github.com/codand/Unity3DPortals)  as well as Valve for their life-changing game!\nAfter a lot of really hard work the game is now complete and playable through to Chamber 14.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

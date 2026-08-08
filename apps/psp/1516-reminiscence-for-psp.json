@@ -1,0 +1,16 @@
+{
+  "id": 1516,
+  "name": "REminiscence for PSP",
+  "author": "Sektor, lantus, Marcus R. Brown (mrbrown)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1516-reminiscence-for-psp.png",
+  "description": "Re-implementation of the engine used in the game Flashback: The Quest for Identity made by Delphine Software and released in 1992. The demo version is included. To play the full game, data files from the DOS version of Flashback are required.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/reminiscence.-7z/Old%20Versions/REminiscence-0.1.6-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

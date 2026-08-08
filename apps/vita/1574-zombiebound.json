@@ -1,0 +1,18 @@
+{
+  "id": 1574,
+  "name": "Zombiebound",
+  "author": "VitaHEX games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ZBND00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/328-Zombiebound.vpk",
+  "version": "v.0.1.0",
+  "prerelease": false,
+  "icon": "1574-zombiebound.png",
+  "description": "Zombiebound is a 3D FPS zombie survival game for the PS Vita.\nIt plays very similar to your favourite CoD Zombies games.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

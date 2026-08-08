@@ -1,0 +1,16 @@
+{
+  "id": 1545,
+  "name": "Rorschach",
+  "author": "Jens Andersson, Ida Rödén",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1545-rorschach.png",
+  "description": "Detective-adventure game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rorschach_psp_0_91.7z/rorschach_psp_0_91.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

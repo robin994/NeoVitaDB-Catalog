@@ -1,0 +1,16 @@
+{
+  "id": 614,
+  "name": "Formido",
+  "author": "Percival",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0614-formido.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/formido.7z/formido.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 230,
+  "name": "Bloody Rose",
+  "author": "supermagicien",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0230-bloody-rose.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bloody-rose-1.2.7z/Bloody%20rose%201.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

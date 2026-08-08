@@ -1,0 +1,16 @@
+{
+  "id": 1319,
+  "name": "PSP Guess",
+  "author": "Acid Snake",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1319-psp-guess.png",
+  "description": "Number-guessing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-guess.-7z/PspGuess.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

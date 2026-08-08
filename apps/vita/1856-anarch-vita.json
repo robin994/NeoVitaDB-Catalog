@@ -1,0 +1,18 @@
+{
+  "id": 1856,
+  "name": "Anarch Vita",
+  "author": "Sugardrenaline",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ANARCHPSV",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1125-anarch.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1856-anarch-vita.png",
+  "description": "Port of Anarch for PSVITA.\nAnarch is an extremely small, completely public domain, no-dependency, no-file, portable suckless anarcho-pacifist from-scratch 90s-style Doom clone that runs everywhere, made for the benefit of all living beings.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

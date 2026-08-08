@@ -1,0 +1,18 @@
+{
+  "id": 1691,
+  "name": "Consolepedia 3D",
+  "author": "VitaHEX games",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CPVT45668",
+  "repo": "VitaHEX-Games/Consolepedia-3D",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1691-consolepedia-3d.png",
+  "description": "Consolepedia 3D is a virtual encyclopedia of game systems. From Atari to Nintendo and PlayStation all with with detailed 3D models of each system with information about the history, specifications and their best selling games.\nConsolepedia 3D features detailed 3d models where you can take a close look and also learn about it's history through the years. You can also see the top-5 best selling games for each system with the original box art.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

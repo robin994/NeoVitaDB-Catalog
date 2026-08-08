@@ -1,0 +1,16 @@
+{
+  "id": 1494,
+  "name": "El Quiz de los videojuegos",
+  "author": "Francisco Muñoz",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1494-el-quiz-de-los-videojuegos.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quiz-video-juegos.-7z/QuizVideoJuegos.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

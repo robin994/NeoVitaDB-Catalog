@@ -1,0 +1,16 @@
+{
+  "id": 978,
+  "name": "Mario Masochism",
+  "author": "Liquid Pro Quo, Joshua Speight",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0978-mario-masochism.png",
+  "description": "2D platform game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-masochismv-015.7z/MarioMasochism.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

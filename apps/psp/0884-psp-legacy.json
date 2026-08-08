@@ -1,0 +1,16 @@
+{
+  "id": 884,
+  "name": "PSP Legacy",
+  "author": "kgsws, Duke, Sunray, Six-Shoota",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0884-psp-legacy.png",
+  "description": "PSP port of the original Doom, based on Quake's source code. The shareware version of the game is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/legacy.7z/Old%20Versions/legacy.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

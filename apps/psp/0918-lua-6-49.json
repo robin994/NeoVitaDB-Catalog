@@ -1,0 +1,16 @@
+{
+  "id": 918,
+  "name": "Lua 6/49",
+  "author": "Sousanator",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0918-lua-6-49.png",
+  "description": "Lottery game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lua-6-49.7z/Lua6-49.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

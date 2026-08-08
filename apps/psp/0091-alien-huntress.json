@@ -1,0 +1,16 @@
+{
+  "id": 91,
+  "name": "Alien Huntress",
+  "author": "Adriano",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0091-alien-huntress.png",
+  "description": "3D shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alien-huntress.-7z/ALIEN%20HUNTRESS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

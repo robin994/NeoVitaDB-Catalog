@@ -1,0 +1,16 @@
+{
+  "id": 335,
+  "name": "Chocobo Run",
+  "author": "Lejournal, Tristyl, Cladil",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0335-chocobo-run.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chocobo-run.-7z/Chocobo%20Run.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1030,
+  "name": "Micro Zig Zag Racer",
+  "author": "Boujack",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1030-micro-zig-zag-racer.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/micro-zig-zag-racer-v-beta-0.95.7z/Micro%20Zig-Zag%20Racer%20vBeta%200.95.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

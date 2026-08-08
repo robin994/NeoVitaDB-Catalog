@@ -1,0 +1,16 @@
+{
+  "id": 57,
+  "name": "ASCII Attackers From Hell",
+  "author": "Jabby Jim",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0057-ascii-attackers-from-hell.png",
+  "description": "Space Invaders Clone with Ascii textures made for the PSP. Also known as 'ASCII Invaders From Hell'.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/aafh.7z/AAVHv3x.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

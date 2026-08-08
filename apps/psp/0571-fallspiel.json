@@ -1,0 +1,16 @@
+{
+  "id": 571,
+  "name": "Fallspiel",
+  "author": "Lks92",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0571-fallspiel.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fallspiel.-7z/Fallspiel.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

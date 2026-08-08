@@ -1,0 +1,16 @@
+{
+  "id": 1077,
+  "name": "PSP Mug Hunt",
+  "author": "XccessX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1077-psp-mug-hunt.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mug-hunt.-7z/MUG-HUNT.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

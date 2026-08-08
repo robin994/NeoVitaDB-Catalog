@@ -1,0 +1,16 @@
+{
+  "id": 1787,
+  "name": "Captain Justice",
+  "author": "Leo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1787-captain-justice.png",
+  "description": "Superman game with static sprites.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/supe-00875-00000/superman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

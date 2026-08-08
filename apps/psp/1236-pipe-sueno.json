@@ -1,0 +1,16 @@
+{
+  "id": 1236,
+  "name": "Pipe Sueno",
+  "author": "Paul Webster",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1236-pipe-sueno.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pipe-sueno.-7z/Pipe%20Sueno.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

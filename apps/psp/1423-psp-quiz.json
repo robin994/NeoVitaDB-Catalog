@@ -1,0 +1,16 @@
+{
+  "id": 1423,
+  "name": "PSP-Quiz",
+  "author": "Kwastie",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1423-psp-quiz.png",
+  "description": "Quiz app for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspquiz-0.1-beta.-7z/PSPQuiz_0.1_Beta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

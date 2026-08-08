@@ -1,0 +1,16 @@
+{
+  "id": 818,
+  "name": "Jungle Adventure",
+  "author": "lordvisaris",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0818-jungle-adventure.png",
+  "description": "2D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jungle-aventure-v-0.1.7z/JungleAventure%20V0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

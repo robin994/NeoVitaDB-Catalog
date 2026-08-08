@@ -1,0 +1,16 @@
+{
+  "id": 387,
+  "name": "Crimson Fields PSP",
+  "author": "Michal Skorupka",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0387-crimson-fields-psp.png",
+  "description": "PSP port of the PC tactical game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/crimson-fields.-7z/CrimsonFields.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

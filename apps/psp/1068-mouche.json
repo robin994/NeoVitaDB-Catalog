@@ -1,0 +1,16 @@
+{
+  "id": 1068,
+  "name": "Mouche",
+  "author": "Supermagicien",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1068-mouche.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mouche.-7z/MOUCHE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

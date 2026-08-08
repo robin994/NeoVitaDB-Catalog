@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "name": "CarroPX",
+  "author": "Chus",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0303-carropx.png",
+  "description": "Remake of the car-dodging game found in cheap '999 games in 1' handhelds.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/carro-px-1.2.7z/CarroPX%201.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

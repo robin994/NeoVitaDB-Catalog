@@ -1,0 +1,18 @@
+{
+  "id": 1661,
+  "name": "Jump Jump",
+  "author": "LuckTheGamers",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JUMP55345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/499-Jump_20Jump.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1661-jump-jump.png",
+  "description": "Port of Jump Jump, a minimalistic platform game, for PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2028,
+  "name": "Wagic The Homebrew?!",
+  "author": "Wololo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2028-wagic-the-homebrew.png",
+  "description": "Card game for PSP. The last release from the original developer was version 0.18.6, from 2012. While later PSP builds exist, they are not fully supported, and may fail to launch at all.  For details, see github.com/WagicProject/wagic/issues/1066 .",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wth-0186-psp.-7z/Old%20Versions/WTH_0186_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

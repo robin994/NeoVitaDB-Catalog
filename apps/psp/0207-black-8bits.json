@@ -1,0 +1,16 @@
+{
+  "id": 207,
+  "name": "Black-8bits",
+  "author": "Blaster's Death",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0207-black-8bits.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/black-8bits.-7z/Black-8bits.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

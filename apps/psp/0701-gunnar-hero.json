@@ -1,0 +1,16 @@
+{
+  "id": 701,
+  "name": "Gunnar Hero",
+  "author": "Team Sushi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0701-gunnar-hero.png",
+  "description": "Rhythm game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gunnarhero.7z/gunnarhero.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

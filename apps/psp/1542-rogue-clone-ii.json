@@ -1,0 +1,16 @@
+{
+  "id": 1542,
+  "name": "Rogue Clone II",
+  "author": "mirakichi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1542-rogue-clone-ii.png",
+  "description": "Homebrew roguelike game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rogue-clone-ii.-7z/Old%20Versions/Rogue%20Clone%20II.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

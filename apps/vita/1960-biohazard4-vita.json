@@ -1,0 +1,18 @@
+{
+  "id": 1960,
+  "name": "BIOHAZARD4 Vita",
+  "author": "yizhigai & SpriteLisen & KAAAsS",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BIO4AF000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1402-BIOHAZARD4.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1960-biohazard4-vita.png",
+  "description": "Port of Resident Evil 4 Mobile for PSVita.\nResident Evil 4 Mobile is an heavily downgraded demake of Resident Evil 4 for Android devices.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

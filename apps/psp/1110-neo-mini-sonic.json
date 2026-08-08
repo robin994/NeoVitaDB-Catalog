@@ -1,0 +1,16 @@
+{
+  "id": 1110,
+  "name": "Neo Mini Sonic",
+  "author": "Necro",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1110-neo-mini-sonic.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/neo-mini-sonic-150v-10-espby-necro-0.7z/NeoMiniSonic150v10ESPbyNecro_0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

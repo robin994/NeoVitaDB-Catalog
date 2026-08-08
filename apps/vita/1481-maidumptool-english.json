@@ -1,0 +1,18 @@
+{
+  "id": 1481,
+  "name": "MaiDumpTool (English)",
+  "author": "LioMajor",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MAIM00001",
+  "repo": "LioMajor/MaiDumpToolEN",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1481-maidumptool-english.png",
+  "description": "Improved games dumper, alternative to Vitamin.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

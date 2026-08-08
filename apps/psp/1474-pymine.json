@@ -1,0 +1,16 @@
+{
+  "id": 1474,
+  "name": "pyMine",
+  "author": "webmage",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1474-pymine.png",
+  "description": "Homebrew version of Minesweeper.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pyMine.7z/pyMine.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

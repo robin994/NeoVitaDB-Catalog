@@ -1,0 +1,16 @@
+{
+  "id": 257,
+  "name": "BrainBoxer",
+  "author": "ASKidwai",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0257-brainboxer.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/brain-boxer-v-1.00.7z/BrainBoxer%20v1.00.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

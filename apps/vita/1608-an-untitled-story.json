@@ -1,0 +1,18 @@
+{
+  "id": 1608,
+  "name": "An Untitled Story",
+  "author": "JeffRulz345",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "UNTITLEDS",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/412-AnUntitledStory.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1608-an-untitled-story.png",
+  "description": "Classic freeware game filled with secrets and platforming challenges, and has an endearing art style and music.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

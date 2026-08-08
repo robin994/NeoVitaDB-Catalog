@@ -1,0 +1,16 @@
+{
+  "id": 1340,
+  "name": "Dragon Fighter",
+  "author": "Gary Schilling (Gary13579)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1340-dragon-fighter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-rpg.-7z/Old%20Versions/PSP-RPG.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

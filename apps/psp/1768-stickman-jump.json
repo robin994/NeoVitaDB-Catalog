@@ -1,0 +1,16 @@
+{
+  "id": 1768,
+  "name": "Stickman Jump",
+  "author": "Team Zenyth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1768-stickman-jump.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/stickman-jump.-7z/Stickman%20Jump.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 204,
+  "name": "Bird Life [バードライフPSP]",
+  "author": "ぶーにゃん",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0204-bird-life-psp.png",
+  "description": "Early homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bird.-7z/BIRD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1983,
+  "name": "UseTheForce",
+  "author": "Swordman",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1983-usetheforce.png",
+  "description": "Simple maze game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/use-the-force-beta-0.99.7z/UseTheForce%20Beta%200.99.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

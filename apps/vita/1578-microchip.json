@@ -1,0 +1,18 @@
+{
+  "id": 1578,
+  "name": "MicroCHIP",
+  "author": "Rinnegatamante",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "CHIP00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/337-MicroCHIP.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1578-microchip.png",
+  "description": "MicroCHIP is a CHIP-8/SCHIP-8 (SUPERCHIP-8) emulator for PSVITA/PSTV made completely in Lua using lpp-vita.\nIt supports themes customization, keys rebinding, savestates and has an optional built-in debugger.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

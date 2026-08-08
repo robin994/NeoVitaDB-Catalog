@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "name": "3DnRaya",
+  "author": "xerpi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0036-3dnraya.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/3-dn-raya.-7z/3DnRaya.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

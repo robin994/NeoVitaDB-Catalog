@@ -1,0 +1,18 @@
+{
+  "id": 1743,
+  "name": "Loonies 8192",
+  "author": "thp",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LOON8VITA",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/704-loonies8192.vpk",
+  "version": "r66",
+  "prerelease": false,
+  "icon": "1743-loonies-8192.png",
+  "description": "A multiplatform mini retro puzzle game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

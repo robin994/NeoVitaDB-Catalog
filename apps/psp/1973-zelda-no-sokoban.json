@@ -1,0 +1,16 @@
+{
+  "id": 1973,
+  "name": "Zelda No Sokoban",
+  "author": "rabzaman, tybu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1973-zelda-no-sokoban.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ultra_beta_ZNS.7z/ultra_beta_ZNS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

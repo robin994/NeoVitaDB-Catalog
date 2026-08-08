@@ -1,0 +1,16 @@
+{
+  "id": 121,
+  "name": "Aquabreak;er",
+  "author": "NextMont",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0121-aquabreak-er.png",
+  "description": "Bubble-shooting game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/aquabreaker.-7z/Aquabreak%3Ber.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

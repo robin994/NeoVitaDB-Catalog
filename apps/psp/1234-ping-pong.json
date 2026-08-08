@@ -1,0 +1,16 @@
+{
+  "id": 1234,
+  "name": "Ping Pong",
+  "author": "Chimecho",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1234-ping-pong.png",
+  "description": "Version of Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pingpong.-7z/Pingpong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

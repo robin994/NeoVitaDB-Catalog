@@ -1,0 +1,16 @@
+{
+  "id": 2090,
+  "name": "uo gpSP Kai",
+  "author": "Exophase & Takka & ErikPshat",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2090-uo-gpsp-kai.png",
+  "description": "A GBA emulator for PSP originally made by Exophase and improved bt other developers.",
+  "requirements": "- GBA Bios File.",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/905-uogpspkai.7z",
+  "version": "v.3.4 test 4 b230",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

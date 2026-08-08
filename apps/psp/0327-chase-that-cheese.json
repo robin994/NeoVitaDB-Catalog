@@ -1,0 +1,16 @@
+{
+  "id": 327,
+  "name": "Chase That Cheese",
+  "author": "Eldiablov",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0327-chase-that-cheese.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chase-that-cheese.-7z/Chase%20That%20Cheese.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

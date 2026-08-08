@@ -1,0 +1,16 @@
+{
+  "id": 1357,
+  "name": "PSP Tower Defense",
+  "author": "ValleDalle",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1357-psp-tower-defense.png",
+  "description": "Tower defense game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp_tower_defense1.31.7z/psp_tower_defense1.31.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

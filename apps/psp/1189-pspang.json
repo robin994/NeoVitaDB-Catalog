@@ -1,0 +1,16 @@
+{
+  "id": 1189,
+  "name": "PsPang",
+  "author": "DingoFR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1189-pspang.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pang.7z/pang.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1567,
+  "name": "Rust PSP Tetris",
+  "author": "Paul Sajna (sajattack)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1567-rust-psp-tetris.png",
+  "description": "Version of Tetris for PSP made in the Rust programming language.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rust-psp-tetris.7z/rust-psp-tetris.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

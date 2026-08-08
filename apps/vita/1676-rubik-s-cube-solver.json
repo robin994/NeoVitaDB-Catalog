@@ -1,0 +1,18 @@
+{
+  "id": 1676,
+  "name": "Rubik's Cube Solver",
+  "author": "Anchitpatra",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ABYD12945",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/539-Rubiks_20cube_20solver.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1676-rubik-s-cube-solver.png",
+  "description": "An app that automatically solves any Rubik's cube scheme thanks to Friedrich method.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

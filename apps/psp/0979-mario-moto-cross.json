@@ -1,0 +1,16 @@
+{
+  "id": 979,
+  "name": "Mario Moto Cross",
+  "author": "BigProMaN, Tonyboy10",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0979-mario-moto-cross.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-moto-cross-0.1.7z/Mario%20Moto%20Cross%200.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

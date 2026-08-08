@@ -1,0 +1,18 @@
+{
+  "id": 1612,
+  "name": "IMCUnlockLite",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGIMCULK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/420-IMCUnlockLite.vpk",
+  "version": "v.4",
+  "prerelease": false,
+  "icon": "1612-imcunlocklite.png",
+  "description": "This mod allows you to permanently add a internal ux0 storage (imc) to the PSVita 1000 by modifying boot data regions.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

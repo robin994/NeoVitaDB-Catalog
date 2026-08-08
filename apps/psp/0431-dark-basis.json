@@ -1,0 +1,16 @@
+{
+  "id": 431,
+  "name": "Dark Basis",
+  "author": "Wallaby, Mourioche",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0431-dark-basis.png",
+  "description": "Navigate the square in the tunnel without touching the edges.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dark-basis.-7z/Dark%20Basis.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

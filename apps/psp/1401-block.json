@@ -1,0 +1,16 @@
+{
+  "id": 1401,
+  "name": "Block",
+  "author": "PsPmad",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1401-block.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspmad.7z_202103/pspmad.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

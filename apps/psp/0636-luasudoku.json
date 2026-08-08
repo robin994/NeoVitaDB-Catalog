@@ -1,0 +1,16 @@
+{
+  "id": 636,
+  "name": "LUASudoku",
+  "author": "arobase",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0636-luasudoku.png",
+  "description": "PSP version of Sudoku.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ftsudoku.-7z/Old%20Versions/FTSudoku.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

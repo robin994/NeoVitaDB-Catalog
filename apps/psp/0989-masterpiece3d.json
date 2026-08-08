@@ -1,0 +1,16 @@
+{
+  "id": 989,
+  "name": "MasterPiece3D",
+  "author": "LostSideDead",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0989-masterpiece3d.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/master-piece-3-d.-7z/MasterPiece3D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

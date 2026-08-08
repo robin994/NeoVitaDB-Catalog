@@ -1,0 +1,16 @@
+{
+  "id": 1327,
+  "name": "InfinityCat PSP M.U.G.E.N. [無限猫]",
+  "author": "SofiyaCat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1327-infinitycat-psp-m-u-g-e-n.png",
+  "description": "PSP version of Mugen, the beat 'em up engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-m.-u.-g.-e.-n.-inf-cat.-7z/Old%20Versions/infinitycat_for_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

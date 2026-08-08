@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "name": "A Utopia",
+  "author": "Giuliano",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0056-a-utopia.png",
+  "description": "Demo of a city-building homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/a-utopia.-7z/A%20Utopia.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1707,
+  "name": "Behind Every Great One",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BEGO00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/624-Behind_Every_Great_One.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1707-behind-every-great-one.png",
+  "description": "Behind Every Great One is a game made by Deconstructeam for the Ludum Dare 42. The theme of the gamejam was \"Running out of space\". Gabriel is a really driven succesful artist. Victorine doesn't have any personal passions but supports Gabriel as a housewife. They love each other.\nCredits to GrossleyMoo for helping with the port and developing UndertaleModTool. Without his help, a GMS 2 in a Vita would be a dream.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "name": "PSP Pacman",
+  "author": "James Peerless",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0010-psp-pacman.png",
+  "description": "Version of PacMan.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/1.0-h-00143-00000/Old%20Versions/PSPacman%20by%20PSPeerless%20v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

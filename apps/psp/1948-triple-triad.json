@@ -1,0 +1,16 @@
+{
+  "id": 1948,
+  "name": "Triple Triad",
+  "author": "TT-Team",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1948-triple-triad.png",
+  "description": "Homebrew game for PSP. Based on a 2007 homebrew Python game, it was written in C by another team of coders.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/triple-triad-pspv-031a/TripleTriadPSPv031a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

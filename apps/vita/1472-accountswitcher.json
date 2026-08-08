@@ -1,0 +1,18 @@
+{
+  "id": 1472,
+  "name": "AccountSwitcher",
+  "author": "pendor",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PEND00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/28-AccountSwitcher.vpk",
+  "version": "v.2.4",
+  "prerelease": false,
+  "icon": "1472-accountswitcher.png",
+  "description": "App to swap PSN accounts on a single SD card. It's pretty useful if you have content from multiple accounts on your card, as you can switch seamlessly between those.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

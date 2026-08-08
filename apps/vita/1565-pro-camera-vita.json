@@ -1,0 +1,18 @@
+{
+  "id": 1565,
+  "name": "Pro Camera Vita",
+  "author": "VitaHEX games",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PCM300001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/297-ProCameraVita.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1565-pro-camera-vita.png",
+  "description": "Pro Camera Vita is a powerful camera app that unlocks all the hidden features from the default camera app plus it gives you lots of new options. With Pro Camera Vita you can manually adjust the brightness, the contrast, white balance, you can also add image effects and photo frames to your photos all in real time with smooth framerate.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

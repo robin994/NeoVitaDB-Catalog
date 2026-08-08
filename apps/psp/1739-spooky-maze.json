@@ -1,0 +1,16 @@
+{
+  "id": 1739,
+  "name": "Spooky Maze",
+  "author": "Vandurol",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1739-spooky-maze.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/spooky-maze.-7z/Spooky%20Maze.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

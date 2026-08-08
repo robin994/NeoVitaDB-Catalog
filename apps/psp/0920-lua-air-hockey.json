@@ -1,0 +1,16 @@
+{
+  "id": 920,
+  "name": "Lua Air Hockey",
+  "author": "Xodiac21, Vanden 9",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0920-lua-air-hockey.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lua-air-hockey-0309/Lua_Air_Hockey_0309.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

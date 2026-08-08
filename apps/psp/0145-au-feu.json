@@ -1,0 +1,16 @@
+{
+  "id": 145,
+  "name": "Au Feu",
+  "author": "ROmain",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0145-au-feu.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/au-feu.-7z/Au_feu.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

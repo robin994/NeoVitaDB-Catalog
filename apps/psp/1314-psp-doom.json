@@ -1,0 +1,16 @@
+{
+  "id": 1314,
+  "name": "PSP-Doom",
+  "author": "Nitr8",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1314-psp-doom.png",
+  "description": "PSP port of Doom. Shareware version included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-doom.7z/psp-doom.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

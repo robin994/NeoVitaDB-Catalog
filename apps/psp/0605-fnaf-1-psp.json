@@ -1,0 +1,16 @@
+{
+  "id": 605,
+  "name": "FNaF 1 PSP",
+  "author": "FreDEV",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0605-fnaf-1-psp.png",
+  "description": "PSP version of Five Nights at Freddy's.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fna-f-1-psp.-7z/FNaF%201%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

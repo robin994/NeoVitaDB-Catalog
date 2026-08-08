@@ -1,0 +1,18 @@
+{
+  "id": 1504,
+  "name": "AdvRemap",
+  "author": "ShadowPrince",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SHDW00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/117-advremap.vpk",
+  "version": "Alpha 1",
+  "prerelease": false,
+  "icon": "1504-advremap.png",
+  "description": "PSVita homebrew for remapping controls/assigning macros.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

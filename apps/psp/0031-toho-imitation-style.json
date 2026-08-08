@@ -1,0 +1,16 @@
+{
+  "id": 31,
+  "name": "Toho Imitation Style [東方模倣風]",
+  "author": "emesarke",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0031-toho-imitation-style.png",
+  "description": "Toho Imitation Style [東方模倣風, Touhou Mohofu] is a 2D shooter Touhou Project fan game for PSP. This game was created collectively in a series of discussion threads (PSPで東方やりたい奴) on the 2ch website. Emesarke was the maintainer of the Google Code repository for the project, but the list of contributors was much more extensive, and is reported in full in the readme document.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/231-kene-r-40.7z/Extra/r44_kene_kousin20150101.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

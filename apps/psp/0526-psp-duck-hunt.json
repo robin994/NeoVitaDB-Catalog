@@ -1,0 +1,16 @@
+{
+  "id": 526,
+  "name": "PSP Duck Hunt",
+  "author": "Yashamaru",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0526-psp-duck-hunt.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/e-ws-ps-p-duck-hunt-v-0.0.7z/eWs-PsP%20Duck%20Hunt%20v0.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

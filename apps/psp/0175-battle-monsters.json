@@ -1,0 +1,16 @@
+{
+  "id": 175,
+  "name": "Battle Monsters",
+  "author": "Luke Ryan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0175-battle-monsters.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/battle-monsters.-7z/BattleMonsters.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

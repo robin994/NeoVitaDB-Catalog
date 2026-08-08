@@ -1,0 +1,18 @@
+{
+  "id": 1819,
+  "name": "Isabelle Dance Studio",
+  "author": "huckleberrypie & ParkingLotStudio",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PCSE69420",
+  "repo": "huckleberrypie/IsabelleDanceStudio",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1819-isabelle-dance-studio.png",
+  "description": "Help Isabelle improve her ballet skills by playing Isabelle Dance Studio. Tap the stars so that Isabelle will reach and leap to keep them in the air. Touch stars to earn points. Let stars hit gems to fill up the starburst meter and unlock its special power. Tap megastars for more points and powers, but don’t touch the black pearl! If you do, you’ll have to start over. Remember, practice makes perfect!\nThis is an updated and modernised port of the game for the PS Vita (and later Android releases), built using Unity 2018.2.19f1.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

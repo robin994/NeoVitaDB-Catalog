@@ -1,0 +1,16 @@
+{
+  "id": 2110,
+  "name": "iDaft",
+  "author": "Matias Najle & Miles",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2110-idaft.png",
+  "description": "A sound board that plays phrases from Daft Punk songs.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/idaft.7z/idaft.zip",
+  "version": "v.1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

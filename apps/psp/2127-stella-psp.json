@@ -1,0 +1,16 @@
+{
+  "id": 2127,
+  "name": "Stella PSP",
+  "author": "optixx",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2127-stella-psp.png",
+  "description": "Stella is a multi-platform Atari 2600 VCS emulator which allows you to play all of your favorite Atari 2600 games.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/stella_bin_20060106/stella_bin_20060106.zip",
+  "version": "v.2.0.1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

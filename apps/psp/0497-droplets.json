@@ -1,0 +1,16 @@
+{
+  "id": 497,
+  "name": "Droplets",
+  "author": "Jeffrey Soldan (Drakonite)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0497-droplets.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/droplets.7z/Old%20Versions/droplets.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

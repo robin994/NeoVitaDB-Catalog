@@ -1,0 +1,16 @@
+{
+  "id": 1907,
+  "name": "TicTacToe",
+  "author": "broodjekaas92",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1907-tictactoe.png",
+  "description": "Noughts and crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tictactoe.7z_202108/tictactoe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

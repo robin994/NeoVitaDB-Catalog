@@ -1,0 +1,16 @@
+{
+  "id": 593,
+  "name": "flAstro",
+  "author": "Flatmush, Ryalla",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0593-flastro.png",
+  "description": "Land the spaceship without crashing.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flAstroGBAX.7z/flAstroGBAX.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

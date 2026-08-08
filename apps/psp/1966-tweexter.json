@@ -1,0 +1,16 @@
+{
+  "id": 1966,
+  "name": "Tweexter",
+  "author": "reizen.dev",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1966-tweexter.png",
+  "description": "Homebrew game similar to Scrabble.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tweexter_v0.1.3_eboot.7z/tweexter_v0.1.3_eboot.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

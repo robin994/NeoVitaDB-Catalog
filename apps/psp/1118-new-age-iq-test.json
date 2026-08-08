@@ -1,0 +1,16 @@
+{
+  "id": 1118,
+  "name": "New Age IQ Test",
+  "author": "Access_Denied",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1118-new-age-iq-test.png",
+  "description": "Quiz app for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/new-age-iqtest.-7z/NewAgeIQTest.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1636,
+  "name": "No More Dungeons!",
+  "author": "VitaHEX Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "NMDG54882",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/460-No-More-Dungeons.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1636-no-more-dungeons.png",
+  "description": "No More Dungeons! is a fast paced dungeon crawler game with randomly generated dungeons and lots of dangerous monsters.\nThe game features progressive difficulty that changes dynamically every time you move to the next room but keeps a great balance by rewarding the player with powerful power-ups and score boost items.\nHow far can you go? The game keeps track of your hi-score so you can share it later with the world.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

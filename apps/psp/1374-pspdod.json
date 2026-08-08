@@ -1,0 +1,16 @@
+{
+  "id": 1374,
+  "name": "pspdod",
+  "author": "Trevor Gerbrand",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1374-pspdod.png",
+  "description": "PSP port of Dungeons of Daggorath.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspdod.7z/pspdod.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

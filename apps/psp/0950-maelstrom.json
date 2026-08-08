@@ -1,0 +1,16 @@
+{
+  "id": 950,
+  "name": "Maelstrom",
+  "author": "MadMax11",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0950-maelstrom.png",
+  "description": "Space shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/maelstrom-alpha-4.7z/Maelstrom%20Alpha4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 206,
+  "name": "Blackjack Portable",
+  "author": "Kazzqes",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0206-blackjack-portable.png",
+  "description": "Text-based Blackjack for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bjp11.7z_202101/bjp11.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62,
+  "name": "Abe's Amazing Adventure",
+  "author": "Zack",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0062-abe-s-amazing-adventure.png",
+  "description": "Dungeon Platformer, ported over for the PSP",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/abe.7z/abe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

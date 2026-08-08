@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "name": "Asteroids",
+  "author": "psgarsenal, Applelo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0136-asteroids.png",
+  "description": "Homebrew version of the classic game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/asteroids.-7z/Asteroids.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

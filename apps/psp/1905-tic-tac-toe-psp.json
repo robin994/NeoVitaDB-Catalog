@@ -1,0 +1,16 @@
+{
+  "id": 1905,
+  "name": "Tic-Tac-Toe PSP",
+  "author": "John Blakeman (BlackPhoenix)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1905-tic-tac-toe-psp.png",
+  "description": "Noughts and crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tic-tac-toe.-7z/TicTacToe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

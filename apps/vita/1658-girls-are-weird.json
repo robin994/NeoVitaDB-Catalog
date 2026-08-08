@@ -1,0 +1,18 @@
+{
+  "id": 1658,
+  "name": "Girls Are Weird",
+  "author": "10TR!LL!ON Percent%",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CFFVNPGAW",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/492-GirlsAreWeird.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1658-girls-are-weird.png",
+  "description": "Port of a visual novel called Girls are Weird for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

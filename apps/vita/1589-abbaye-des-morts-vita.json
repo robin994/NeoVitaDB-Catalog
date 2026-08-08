@@ -1,0 +1,18 @@
+{
+  "id": 1589,
+  "name": "Abbaye Des Morts Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABBAYEDMO",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/359-AbbayeDesMorts.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1589-abbaye-des-morts-vita.png",
+  "description": "Faith will be your only weapon in this platformer styled like a ZX Spectrum game. Black backgrounds, 1 color sprites and 1 bit sounds are a proper fit for a raw story. The lack of details turn on the player's imagination, creating a unique experience for each player.\nL'Abbaye des Morts has been inspired by the tragic history of the Cathars and platform games for ZX Spectrum computers like Manic Miner, Jet Set Willy or Dynamite Dan.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

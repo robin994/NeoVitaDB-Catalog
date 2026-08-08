@@ -1,0 +1,16 @@
+{
+  "id": 1591,
+  "name": "Dragon Ball Z Melee",
+  "author": "Zixed, Toinou94",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1591-dragon-ball-z-melee.png",
+  "description": "Homebrew fighting game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sDbzMelee.7z/sDbzMelee.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

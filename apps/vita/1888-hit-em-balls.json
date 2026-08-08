@@ -1,0 +1,18 @@
+{
+  "id": 1888,
+  "name": "Hit'em balls",
+  "author": "cojam",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HITM42069",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1163-hitem.vpk",
+  "version": "v.0.92",
+  "prerelease": false,
+  "icon": "1888-hit-em-balls.png",
+  "description": "Try to get the balls into the holes with minimum hits. Freeze time on some holes to change trajectory of your ball.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

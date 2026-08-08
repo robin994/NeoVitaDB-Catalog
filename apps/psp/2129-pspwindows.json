@@ -1,0 +1,16 @@
+{
+  "id": 2129,
+  "name": "PSPwindows",
+  "author": "slasherzor",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2129-pspwindows.png",
+  "description": "A multifunction shell for PSP with an UI inspired by Windows XP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspwindowsv-2.7z/PSPwindowsv2.zip",
+  "version": "v.2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

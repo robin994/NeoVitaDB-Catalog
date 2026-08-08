@@ -1,0 +1,16 @@
+{
+  "id": 148,
+  "name": "Avalanche",
+  "author": "Mast3r_Shak3, Beverage",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0148-avalanche.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/avalanche-v-5.7z/Avalanche%20V5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

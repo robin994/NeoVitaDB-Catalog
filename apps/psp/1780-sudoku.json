@@ -1,0 +1,16 @@
+{
+  "id": 1780,
+  "name": "Sudoku",
+  "author": "Chau Le",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1780-sudoku.png",
+  "description": "Sudoku for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sudoku-2-chau-le.-7z/Sudoku2_Chau_Le.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

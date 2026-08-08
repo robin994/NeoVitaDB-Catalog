@@ -1,0 +1,16 @@
+{
+  "id": 850,
+  "name": "KopiTetris",
+  "author": "Kaltorak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0850-kopitetris.png",
+  "description": "Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kopitetris.-7z/KOPITETRIS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 277,
+  "name": "Bugz",
+  "author": "David Perry (InsertWittyName)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0277-bugz.png",
+  "description": "Pop the bugs to clear the level. PSP homebrew.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bugz.7z/bugz.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

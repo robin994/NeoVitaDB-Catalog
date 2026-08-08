@@ -1,0 +1,16 @@
+{
+  "id": 1706,
+  "name": "Sonic: Project Mettrix",
+  "author": "Stealth, Xalk 07",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1706-sonic-project-mettrix.png",
+  "description": "PSP port of the Sonic fangame.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sonic-metrix.-7z/sonic%20metrix.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

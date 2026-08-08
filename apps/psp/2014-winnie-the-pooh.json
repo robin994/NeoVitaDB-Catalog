@@ -1,0 +1,16 @@
+{
+  "id": 2014,
+  "name": "Winnie the Pooh",
+  "author": "Team Atlantis, Andres1408",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2014-winnie-the-pooh.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/winnie-the-pooh.-7z/WinnieThePooh.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 430,
+  "name": "Dangerous Asp!",
+  "author": "miinaturvat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0430-dangerous-asp.png",
+  "description": "ASCII snake on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dang-01293-00000/Dangerous%20Asp%21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

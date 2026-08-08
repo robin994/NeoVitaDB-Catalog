@@ -1,0 +1,16 @@
+{
+  "id": 1648,
+  "name": "Slider PSP",
+  "author": "[mEo!]",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1648-slider-psp.png",
+  "description": "Panel sliding style game, where you have to put each square in numerical order.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/slider-psp.-7z/Slider%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

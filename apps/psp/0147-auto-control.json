@@ -1,0 +1,16 @@
+{
+  "id": 147,
+  "name": "Auto Control",
+  "author": "Phanthom",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0147-auto-control.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/auto-control.-7z/Auto%20Control.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

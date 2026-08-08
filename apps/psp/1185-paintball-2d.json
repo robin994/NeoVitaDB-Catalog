@@ -1,0 +1,16 @@
+{
+  "id": 1185,
+  "name": "Paintball 2D",
+  "author": "Mr.Game, bboyjcm",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1185-paintball-2d.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/paintball-2-d.-7z/Paintball%202D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

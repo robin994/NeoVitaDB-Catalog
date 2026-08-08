@@ -1,0 +1,16 @@
+{
+  "id": 450,
+  "name": "Death Story",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0450-death-story.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/deathstory_r2.7z/deathstory_r2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

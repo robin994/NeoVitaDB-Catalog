@@ -1,0 +1,18 @@
+{
+  "id": 1741,
+  "name": "VitaBatteryAlarm",
+  "author": "CallmeBK",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "BALM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/701-BatteryAlarm.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1741-vitabatteryalarm.png",
+  "description": "An app that wakes the PSVita from sleep mode and plays a WAV file when the PS Vita has reached a certain battery percentage specified by the user.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

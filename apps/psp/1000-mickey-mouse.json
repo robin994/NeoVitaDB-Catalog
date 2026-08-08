@@ -1,0 +1,16 @@
+{
+  "id": 1000,
+  "name": "Mickey Mouse",
+  "author": "DSN",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1000-mickey-mouse.png",
+  "description": "Fan recreation of the original game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mc-25.7z/MC25.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

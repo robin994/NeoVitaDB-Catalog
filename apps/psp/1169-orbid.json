@@ -1,0 +1,16 @@
+{
+  "id": 1169,
+  "name": "Orbid",
+  "author": "Slasher, Madsoul",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1169-orbid.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/orbid.-7z/Orbid.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

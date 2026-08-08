@@ -1,0 +1,16 @@
+{
+  "id": 1066,
+  "name": "Fuse Moxa PSP",
+  "author": "gamma",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1066-fuse-moxa-psp.png",
+  "description": "Homebrew game for PSP. Also known as Lua Mosser.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mosser.-7z/Mosser.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

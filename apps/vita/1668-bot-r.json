@@ -1,0 +1,18 @@
+{
+  "id": 1668,
+  "name": "Bot-R",
+  "author": "Anchitpatra",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BOTR00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/514-Bot-R.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1668-bot-r.png",
+  "description": "A generic 2d platformer made with Unity for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

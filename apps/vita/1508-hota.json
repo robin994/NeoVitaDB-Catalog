@@ -1,0 +1,18 @@
+{
+  "id": 1508,
+  "name": "HOTA",
+  "author": "usineur",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HOTA00001",
+  "repo": "usineur/hota",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1508-hota.png",
+  "description": "This is a Vita port of the reverse engine for Heart of the Alien, the sequel of Another World.\nIt's based on the reverse engine made originally by Gil Megidish.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

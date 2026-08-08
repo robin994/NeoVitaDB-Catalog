@@ -1,0 +1,16 @@
+{
+  "id": 1855,
+  "name": "TETRIS.jp",
+  "author": "らいだー (Rider)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1855-tetris-jp.png",
+  "description": "Early Tetris game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetris-jp.-7z/TETRIS_JP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1607,
+  "name": "Shoot * Arcade",
+  "author": "xpierrex, cladil, neuadine",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1607-shoot-arcade.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shoot-arcade-v-0.1.7z/Shoot%20Arcade%20v0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

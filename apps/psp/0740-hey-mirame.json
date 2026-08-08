@@ -1,0 +1,16 @@
+{
+  "id": 740,
+  "name": "Hey!! Mirame!!",
+  "author": "Neo_Ace",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0740-hey-mirame.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/heymirame.7z/heymirame.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 968,
+  "name": "Mario Bros. Classic",
+  "author": "Sp3ct0r",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0968-mario-bros-classic.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-bros.-7z_202104/MarioBros.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 374,
+  "name": "ConveyPSP",
+  "author": "Saulotmalo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0374-conveypsp.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/convey-psp.-7z/ConveyPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

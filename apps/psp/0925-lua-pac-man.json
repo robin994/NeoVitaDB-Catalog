@@ -1,0 +1,16 @@
+{
+  "id": 925,
+  "name": "Lua-Pac-Man",
+  "author": "Yashamaru",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0925-lua-pac-man.png",
+  "description": "PSP version of Pac-Man.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lua-pac-man.-7z/Lua-Pac-Man_v01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

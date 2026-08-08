@@ -1,0 +1,16 @@
+{
+  "id": 1565,
+  "name": "Runner",
+  "author": "dogo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1565-runner.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/runner_202108/Runner.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

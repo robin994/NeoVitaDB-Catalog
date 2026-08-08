@@ -1,0 +1,16 @@
+{
+  "id": 1428,
+  "name": "PSPRIS",
+  "author": "KISUO",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1428-pspris.png",
+  "description": "Homebrew Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/PSPRIS/PSPRIS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

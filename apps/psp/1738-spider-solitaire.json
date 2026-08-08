@@ -1,0 +1,16 @@
+{
+  "id": 1738,
+  "name": "Spider Solitaire",
+  "author": "Synopsis",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1738-spider-solitaire.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/spider.-7z/Old%20Versions/Spider.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 297,
+  "name": "Calypso",
+  "author": "TMNT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0297-calypso.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/calypso.-7z/Calypso.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

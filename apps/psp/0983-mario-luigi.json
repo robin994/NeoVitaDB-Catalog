@@ -1,0 +1,16 @@
+{
+  "id": 983,
+  "name": "Mario & Luigi",
+  "author": "Wiering Software",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0983-mario-luigi.png",
+  "description": "DOSBox repack of the 1994 PC fan game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario.-7z/Mario.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

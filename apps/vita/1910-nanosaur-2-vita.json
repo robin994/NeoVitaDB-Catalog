@@ -1,0 +1,18 @@
+{
+  "id": 1910,
+  "name": "Nanosaur 2 Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NANOSAUR2",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1241-Nanosaur2.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1910-nanosaur-2-vita.png",
+  "description": "Nanosaur 2 Vita is a port of Nanosaur 2.\nNanosaur 2 takes place shortly after the original Nanosaur, assuming that it has been completed successfully, when valuable dinosaur eggs are now in the hands of the Nanosaur race. However, an unnamed rebel group of Nanosaurs steal the eggs to create a fighting force against Earth. One Pteranodon egg is left behind, and it is the eponymous hatchling that becomes the player's avatar for the game. The objectives are to recover the lost eggs from the rebel group.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

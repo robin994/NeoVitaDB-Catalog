@@ -1,0 +1,16 @@
+{
+  "id": 1400,
+  "name": "I've Been Looking for Frieda",
+  "author": "PsPmad",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1400-i-ve-been-looking-for-frieda.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspmad.7z/pspmad.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

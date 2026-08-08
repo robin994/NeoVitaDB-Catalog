@@ -1,0 +1,16 @@
+{
+  "id": 1817,
+  "name": "T-Darlinko",
+  "author": "USpeed",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1817-t-darlinko.png",
+  "description": "Version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/t-darlinko.-7z/T-Darlinko.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

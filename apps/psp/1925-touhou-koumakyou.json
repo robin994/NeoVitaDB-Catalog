@@ -1,0 +1,16 @@
+{
+  "id": 1925,
+  "name": "Touhou Koumakyou [東方紅魔郷]",
+  "author": "Ichicat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1925-touhou-koumakyou.png",
+  "description": "Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tohomodokipsp.7z/tohomodokipsp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

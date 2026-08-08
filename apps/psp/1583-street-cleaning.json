@@ -1,0 +1,16 @@
+{
+  "id": 1583,
+  "name": "Street Cleaning",
+  "author": "ValleDalle",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1583-street-cleaning.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sc.7z/sc.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1505,
+  "name": "Rayman PSP",
+  "author": "Tryolivier, Psplay",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1505-rayman-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rayman_v1.7z/rayman_v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

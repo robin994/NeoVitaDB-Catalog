@@ -1,0 +1,16 @@
+{
+  "id": 2085,
+  "name": "DeSmuME PSP",
+  "author": "xiro & Iridescence & z2442 & Wally",
+  "category": "emulator",
+  "platform": "psp",
+  "icon": "2085-desmume-psp.png",
+  "description": "An experimental Nintendo DS emulator for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/de-smu-me-20070725.7z/DeSmuME20070725.zip",
+  "version": "v.20210610",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

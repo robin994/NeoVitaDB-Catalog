@@ -1,0 +1,16 @@
+{
+  "id": 2080,
+  "name": "Xash3D",
+  "author": "Crow_bar",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2080-xash3d.png",
+  "description": "Xash3D is an open source re-creation of the GoldSrc engine, a modified Quake Engine running Half-Life, Counter Strike and Team Fortress.",
+  "requirements": "",
+  "direct_url": "https://github.com/Crow-bar/xash3d-fwgs/releases/download/2603/xash3d_2603_WIP.zip",
+  "version": "v.0.20 build 2603",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

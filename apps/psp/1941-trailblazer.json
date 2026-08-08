@@ -1,0 +1,16 @@
+{
+  "id": 1941,
+  "name": "Trailblazer",
+  "author": "Steve Hernandez (PacManFan)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1941-trailblazer.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/trailblazer.-7z/TRAILBLAZER.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

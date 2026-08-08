@@ -1,0 +1,16 @@
+{
+  "id": 718,
+  "name": "Hangman for PSP",
+  "author": "pspwner",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0718-hangman-for-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hangman.-7z/Hangman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

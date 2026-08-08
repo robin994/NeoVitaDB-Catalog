@@ -1,0 +1,16 @@
+{
+  "id": 1639,
+  "name": "SkullGrog",
+  "author": "gorglucks",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1639-skullgrog.png",
+  "description": "Homebrew game for PSP. Note: version 1.1 came out *after* the version named 'Final'.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/skullgrog-final.-7z/Old%20Versions/SkullgrogFinal.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1503,
+  "name": "Rapid Roll",
+  "author": "Chimecho",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1503-rapid-roll.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rapid-roll.-7z/Rapid%20Roll.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

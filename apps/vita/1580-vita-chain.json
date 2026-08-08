@@ -1,0 +1,18 @@
+{
+  "id": 1580,
+  "name": "vita-chain",
+  "author": "svennd",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CHAI00001",
+  "direct_url": "https://github.com/svennd/vita-chain/releases/download/0.2/chain.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1580-vita-chain.png",
+  "description": "A chain reaction game for PSVITA/PSTV wrote in Lua.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 261,
+  "name": "Breakdown",
+  "author": "Wouter Wijsman (sharkwouter)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0261-breakdown.png",
+  "description": "Drive a car with no brakes to the end of the level.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breakdown_202201/Breakdown.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

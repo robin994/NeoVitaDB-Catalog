@@ -1,0 +1,16 @@
+{
+  "id": 864,
+  "name": "s4inexCraft",
+  "author": "Marcin Ploska, S4inex",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0864-s4inexcraft.png",
+  "description": "Fan version of Minecraft for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lamecraft.-7z/Old%20Versions/Lamecraft.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

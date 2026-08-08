@@ -1,0 +1,16 @@
+{
+  "id": 794,
+  "name": "JellyCar",
+  "author": "Marcin Ploska (Drakon)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0794-jellycar.png",
+  "description": "PSP port of the indie game by Walaber.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jelly-car-slim.-7z/JellyCar-fat.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

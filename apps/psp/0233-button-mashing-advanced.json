@@ -1,0 +1,16 @@
+{
+  "id": 233,
+  "name": "Button Mashing Advanced",
+  "author": "Spiritbeast",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0233-button-mashing-advanced.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bm-advanced.-7z/BM%20Advanced.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

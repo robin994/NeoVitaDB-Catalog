@@ -1,0 +1,16 @@
+{
+  "id": 2021,
+  "name": "Wordingo",
+  "author": "Lee Fuller",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2021-wordingo.png",
+  "description": "Homebrew game for PSP. Early builds are known as Lua Scrabble.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wordingo.7z/Old%20Versions/scrabble.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

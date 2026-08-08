@@ -1,0 +1,16 @@
+{
+  "id": 1323,
+  "name": "IQS",
+  "author": "kWORk",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1323-iqs.png",
+  "description": "Button-pressing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-iqs-v-012.7z/Psp_IQS_v012.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

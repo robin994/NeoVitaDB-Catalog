@@ -1,0 +1,16 @@
+{
+  "id": 453,
+  "name": "Defendguin",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0453-defendguin.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/defend_psp.7z/defend_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1416,
+  "name": "PSPool",
+  "author": "John Blakeman (BlackPhoenix)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1416-pspool.png",
+  "description": "Game of pool for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspool.-7z/PSPool.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

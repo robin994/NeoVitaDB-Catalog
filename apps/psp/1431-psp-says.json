@@ -1,0 +1,16 @@
+{
+  "id": 1431,
+  "name": "PSP Says",
+  "author": "ikarius",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1431-psp-says.png",
+  "description": "Version of Simon Says.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspsays.-7z/PSPSays.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

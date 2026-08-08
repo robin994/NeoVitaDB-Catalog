@@ -1,0 +1,18 @@
+{
+  "id": 1801,
+  "name": "Fate/Stay Night [Realta Nua] - Ultimate Edition",
+  "author": "Alyinghood",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FATE00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/879-fsnrnue.vpk",
+  "version": "v.1.0.1",
+  "prerelease": false,
+  "icon": "1801-fate-stay-night-realta-nua-ultimate-edition.png",
+  "description": "Port of Fate: Stay Night [Realta Nua], a popular japanese visual novel, for PSVITA.",
+  "requirements": "- fd_fix.skprx OR repatch_ex.skprx.\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

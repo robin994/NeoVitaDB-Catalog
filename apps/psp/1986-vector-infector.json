@@ -1,0 +1,16 @@
+{
+  "id": 1986,
+  "name": "Vector Infector",
+  "author": "smayds",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1986-vector-infector.png",
+  "description": "Homebrew game for PSP, inspired by Geometry Wars.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/vector-infector-beta-1.7z/VectorInfector_Beta1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

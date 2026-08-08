@@ -1,0 +1,16 @@
+{
+  "id": 1219,
+  "name": "PHYN3D",
+  "author": "Walar",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1219-phyn3d.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/phyn-3-d-v-0.4b.-7z/PHYN3D%20v0.4b.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

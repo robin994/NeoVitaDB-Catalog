@@ -1,0 +1,18 @@
+{
+  "id": 1808,
+  "name": "Billy Frontier Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BLLYFRNTR",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1001-Billy.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1808-billy-frontier-vita.png",
+  "description": "Billy Frontier Vita is a port of Billy Frontier based on the recent source release by jorio.\nBilly Frontier is an arcade style action game with a \"cowboys in space\" theme. You get to fight in duels, shootouts, stampedes, etc. It's the kind of game you'll want to pick up and play whenever you get that twitch to just shoot something and blow stuff up!",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "name": "銀河鐵道之夜",
+  "author": "任天之浪",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0026-psp-homebrew.png",
+  "description": "Visual novel for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/20221105_20221105_1816/%E9%8A%80%E6%B2%B3%E9%90%B5%E9%81%93%E4%B9%8B%E5%A4%9C%20-%20%E5%AE%8C%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88%20%5B%E4%BB%BB%E5%A4%A9%E4%B9%8B%E6%B5%AA%E7%A7%BB%E6%A4%8D%E6%BC%A2%E5%8C%96%5D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

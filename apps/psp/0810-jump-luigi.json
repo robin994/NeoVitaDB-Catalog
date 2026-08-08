@@ -1,0 +1,16 @@
+{
+  "id": 810,
+  "name": "Jump Luigi",
+  "author": "Dan369",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0810-jump-luigi.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jump-luigi-v-1.0.7z/Jump%20Luigi%21%20v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

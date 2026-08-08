@@ -1,0 +1,18 @@
+{
+  "id": 1764,
+  "name": "Innyume",
+  "author": "4DSWorks",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "YUME66666",
+  "direct_url": "https://github.com/VMHoss/Innyume-Vita/releases/download/1.8/Innyume_1_8.vpk",
+  "version": "v.1.8",
+  "prerelease": false,
+  "icon": "1764-innyume.png",
+  "description": "Port of Innyume, a japanese horror game where you are chased by smiley faces.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

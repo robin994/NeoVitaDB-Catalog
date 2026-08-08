@@ -1,0 +1,16 @@
+{
+  "id": 800,
+  "name": "Cave Story - Jenka's Nightmare",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0800-cave-story-jenka-s-nightmare.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jncavestorypsp.7z/jncavestorypsp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1829,
+  "name": "Taque",
+  "author": "Tiboric",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1829-taque.png",
+  "description": "Button-pressing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/taque.-7z/TAQUE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

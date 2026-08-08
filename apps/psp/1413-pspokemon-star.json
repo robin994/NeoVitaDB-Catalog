@@ -1,0 +1,16 @@
+{
+  "id": 1413,
+  "name": "PSPokemon Star",
+  "author": "Banon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1413-pspokemon-star.png",
+  "description": "Pokemon fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspokemon-star.-7z/PSPokemon%20Star.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

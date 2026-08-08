@@ -1,0 +1,18 @@
+{
+  "id": 1746,
+  "name": "jfduke3d-vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JONOFDUKE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/711-jfduke3d.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1746-jfduke3d-vita.png",
+  "description": "jfduke3d-vita is a port of JFDuke3D, a popular multi-platform source port of Duke Nukem 3D.\nIt supports both shareware and full game data files as well as full game data files of NAM.\nThis port implements both classic 8 bit renderer and the new 32 bit Polymost renderer with hardware acceleration through vitaGL.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1580,
+  "name": "Save The Sun",
+  "author": "Orezero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1580-save-the-sun.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/save-the-sunsigned.-7z/Save_The_Sun%28signed%29.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

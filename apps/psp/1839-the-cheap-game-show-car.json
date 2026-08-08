@@ -1,0 +1,16 @@
+{
+  "id": 1839,
+  "name": "The Cheap Game Show Car",
+  "author": "ふみふみキック (FumiFumiKICK)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1839-the-cheap-game-show-car.png",
+  "description": "Simple dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tcgs_car_psp_bin_051028.7z/tcgs_car_psp_bin_051028.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

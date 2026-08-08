@@ -1,0 +1,18 @@
+{
+  "id": 1584,
+  "name": "Cookie Clicker",
+  "author": "Creckeryop",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "A3A400001",
+  "direct_url": "https://github.com/Creckeryop/CookieClicker-Vita/releases/download/0.2/Cookie.Clicker.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1584-cookie-clicker.png",
+  "description": "Cookie Clicker game for PSVITA made in Lua.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

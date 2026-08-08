@@ -1,0 +1,16 @@
+{
+  "id": 1043,
+  "name": "Minesweeper PSP",
+  "author": "Pierre Lauprêtre (5pilow)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1043-minesweeper-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/minesweeper-psp-master/minesweeper-psp-master.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

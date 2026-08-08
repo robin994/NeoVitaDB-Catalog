@@ -1,0 +1,16 @@
+{
+  "id": 1653,
+  "name": "Small Programs",
+  "author": "siroimakeinu99",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1653-small-programs.png",
+  "description": "Collection of apps and games for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/small-programs-001-050713.7z/44SmallPrograms002_050722.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

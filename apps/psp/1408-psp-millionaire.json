@@ -1,0 +1,16 @@
+{
+  "id": 1408,
+  "name": "PSP Millionaire",
+  "author": "PSPMillionaire",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1408-psp-millionaire.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspmillionaire.-7z/PSPMillionaire.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

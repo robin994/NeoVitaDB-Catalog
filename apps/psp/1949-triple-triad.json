@@ -1,0 +1,16 @@
+{
+  "id": 1949,
+  "name": "Triple Triad",
+  "author": "Matt Carroll (TheEmulatorGuy)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1949-triple-triad.png",
+  "description": "Homebrew card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/triple-triad.-7z/TripleTriad.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1602,
+  "name": "Shiva & Lisa",
+  "author": "MasterDerico",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1602-shiva-lisa.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shiva-lisa-1.7z/Shiva%20%26%20Lisa%201.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

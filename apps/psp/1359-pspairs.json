@@ -1,0 +1,16 @@
+{
+  "id": 1359,
+  "name": "PSPairs",
+  "author": "Kozine",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1359-pspairs.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspairs.-7z/PSPairs.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

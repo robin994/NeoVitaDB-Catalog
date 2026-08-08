@@ -1,0 +1,18 @@
+{
+  "id": 1517,
+  "name": "Minesweeper",
+  "author": "LeeStorm",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "MINESWEEP",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/141-Minesweeper.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1517-minesweeper.png",
+  "description": "PSVITA/PSTV clone of the classic Minesweeper game for Windows PCs.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1279,
+  "name": "3D Pong",
+  "author": "Slasher (Team Duck)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1279-3d-pong.png",
+  "description": "3D version of Pong.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong0.1.7z/pong0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

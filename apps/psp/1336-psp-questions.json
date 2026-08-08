@@ -1,0 +1,16 @@
+{
+  "id": 1336,
+  "name": "PSP Questions",
+  "author": "jesuRule, Fips",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1336-psp-questions.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-questions.-7z/PSP%20Questions.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 197,
+  "name": "Battlegrounds 2",
+  "author": "Alex Wickes (Xfacter)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0197-battlegrounds-2.png",
+  "description": "3D hovertank deathmatch game. Early builds are known as Battlegrounds 3D.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bg2-v1.0.1.7z/bg2-v1.0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

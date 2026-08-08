@@ -1,0 +1,18 @@
+{
+  "id": 1485,
+  "name": "4Rows",
+  "author": "Rinnegatamante",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ROWS00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/65-4Rows.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1485-4rows.png",
+  "description": "4Rows is the port of the \"Four in a row\"/\"Connect4\" sample homebrew provided with the very first PSP Lua Interpreter.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 567,
+  "name": "Fall Ball",
+  "author": "TokyoDrift, Xan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0567-fall-ball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fall-ball.-7z/Old%20Versions/FallBall.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 59,
+  "name": "A Boy and His Dog",
+  "author": "Andy Eikum",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0059-a-boy-and-his-dog.png",
+  "description": "2D platformer for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/abah-00336-00000/ABAHD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

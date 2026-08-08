@@ -1,0 +1,16 @@
+{
+  "id": 1628,
+  "name": "Simple Turn",
+  "author": "calcium",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1628-simple-turn.png",
+  "description": "Early PSP homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/simp-00787-00003/Old%20Versions/SIMPLETURN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

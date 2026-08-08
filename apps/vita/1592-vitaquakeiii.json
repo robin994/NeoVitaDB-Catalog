@@ -1,0 +1,18 @@
+{
+  "id": 1592,
+  "name": "vitaQuakeIII",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "QUAK00003",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/375-vitaQuakeIII.vpk",
+  "version": "v.1.3",
+  "prerelease": false,
+  "icon": "1592-vitaquakeiii.png",
+  "description": "ioquake3 port for PSVITA.\nioquake3 is an improved source port of idTech 3, the engine running Quake III: Arena.\nvitaQuakeIII actually supports Quake III: Arena, OpenArena and Quake III: Team Arena.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

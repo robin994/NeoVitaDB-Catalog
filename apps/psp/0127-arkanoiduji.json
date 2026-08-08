@@ -1,0 +1,16 @@
+{
+  "id": 127,
+  "name": "ArkanoidUJI",
+  "author": "saulotmalo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0127-arkanoiduji.png",
+  "description": "Version of the game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/arkanoid-uji.-7z/ArkanoidUJI.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

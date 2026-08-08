@@ -1,0 +1,18 @@
+{
+  "id": 1971,
+  "name": "iMango",
+  "author": "CapitanBarbaCoa",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "IMNG00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1441-imango.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1971-imango.png",
+  "description": "Coverflow style media player for PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

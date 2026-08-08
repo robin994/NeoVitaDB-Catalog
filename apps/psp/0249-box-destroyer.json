@@ -1,0 +1,16 @@
+{
+  "id": 249,
+  "name": "Box Destroyer",
+  "author": "walar",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0249-box-destroyer.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/box-destroyer.-7z/Box%20Destroyer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

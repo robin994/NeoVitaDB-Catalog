@@ -1,0 +1,16 @@
+{
+  "id": 680,
+  "name": "Golden Axe Genesis",
+  "author": "Sergio e Enrico Production",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0680-golden-axe-genesis.png",
+  "description": "Homebrew OpenBOR game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/golden-axe.-7z/OpenBOR.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1843,
+  "name": "Tecnoballz",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1843-tecnoballz.png",
+  "description": "PSP port of the original game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tecnoballz-0.91-psp.7z/tecnoballz-0.91-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

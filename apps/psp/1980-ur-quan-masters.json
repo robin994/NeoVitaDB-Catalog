@@ -1,0 +1,16 @@
+{
+  "id": 1980,
+  "name": "Ur-Quan Masters",
+  "author": "Sharkus",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1980-ur-quan-masters.png",
+  "description": "Open source port of Star Control II for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/uqm.-7z/UQM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

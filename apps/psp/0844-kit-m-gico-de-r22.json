@@ -1,0 +1,16 @@
+{
+  "id": 844,
+  "name": "Kit Mágico de R22",
+  "author": "Robione22",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0844-kit-m-gico-de-r22.png",
+  "description": "Collection of minigames for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kmr-22.7z/KMR22.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

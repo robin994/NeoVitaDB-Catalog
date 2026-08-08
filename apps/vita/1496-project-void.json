@@ -1,0 +1,18 @@
+{
+  "id": 1496,
+  "name": "Project Void",
+  "author": "Akabane87",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VOID00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/95-projectvoid.vpk",
+  "version": "v.0.1.0",
+  "prerelease": false,
+  "icon": "1496-project-void.png",
+  "description": "Disclaimer : this project is currently Way In Progress and there is no planned release date for now. \n\nThis project aims to be a space opera focused on dogfights. The way you build your spaceship using different modules such as engines, canons and so on, will impact the momentum and the whole physics that will make your ship move and react.\nAny module will have independant resistance and detroying a module will affect the physics of the ship until you repair it.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

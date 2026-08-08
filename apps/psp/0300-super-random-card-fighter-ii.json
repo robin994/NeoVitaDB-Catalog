@@ -1,0 +1,16 @@
+{
+  "id": 300,
+  "name": "Super Random Card Fighter II",
+  "author": "Dragula96",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0300-super-random-card-fighter-ii.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/card-fighter-2.7z/Old%20Versions/card%20fighter%202.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

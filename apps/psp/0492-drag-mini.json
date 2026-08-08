@@ -1,0 +1,16 @@
+{
+  "id": 492,
+  "name": "Drag Mini",
+  "author": "cools",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0492-drag-mini.png",
+  "description": "Racing homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/drag-mini.-7z/Drag%20Mini%20Standalone.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

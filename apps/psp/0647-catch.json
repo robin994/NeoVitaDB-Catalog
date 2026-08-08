@@ -1,0 +1,16 @@
+{
+  "id": 647,
+  "name": "Catch $$$",
+  "author": "Darkwolf, Shadow12",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0647-catch.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/game.-7z/%24%20game.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

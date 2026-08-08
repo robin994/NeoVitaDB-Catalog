@@ -1,0 +1,18 @@
+{
+  "id": 1769,
+  "name": "The Curse of Issyos",
+  "author": "ivanproff",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ISSY00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/784-Issyos.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1769-the-curse-of-issyos.png",
+  "description": "The Curse of Issyos is a retro styled action platformer with nothing but the usual in an old 8 bit game: a good bunch of enemies and bosses, linear and open scroll levels, secrets to discover and a background story inspired by Greek mythology. It doesn't try to mimic a retro system in particular, but it's coherent with its own limitations in the use of colors, sprites and chip sounds.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

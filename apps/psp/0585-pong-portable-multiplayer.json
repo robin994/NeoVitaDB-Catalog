@@ -1,0 +1,16 @@
+{
+  "id": 585,
+  "name": "Pong Portable Multiplayer",
+  "author": "Kenny Lindahl (HaxxBlaster)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0585-pong-portable-multiplayer.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fire-pong.-7z/Fire_Pong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

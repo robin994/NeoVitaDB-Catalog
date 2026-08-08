@@ -1,0 +1,16 @@
+{
+  "id": 407,
+  "name": "Catch Those Bubbles",
+  "author": "DrynnIX",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0407-catch-those-bubbles.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ctb-0.2.7z/CTB%210.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1894,
+  "name": "OnePartyOneDungeon",
+  "author": "PolyDood",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ONEPARTYO",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1196-OPOD.vpk",
+  "version": "v.1.0.0",
+  "prerelease": false,
+  "icon": "1894-onepartyonedungeon.png",
+  "description": "OnePartyOneDunegeon is a short Beat em up game where the members have to face monster such as slimes and goblins to get the treasure.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

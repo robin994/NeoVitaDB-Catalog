@@ -1,0 +1,16 @@
+{
+  "id": 1067,
+  "name": "Motion Pong",
+  "author": "Bumuckl",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1067-motion-pong.png",
+  "description": "Pong; supports a motion kit add-on.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/motionpong02.7z/mtn02.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

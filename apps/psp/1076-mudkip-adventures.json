@@ -1,0 +1,16 @@
+{
+  "id": 1076,
+  "name": "Mudkip Adventures",
+  "author": "Alexander Berl (Raphael)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1076-mudkip-adventures.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mudkip.-7z/Mudkip.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

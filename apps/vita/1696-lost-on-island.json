@@ -1,0 +1,18 @@
+{
+  "id": 1696,
+  "name": "Lost on Island",
+  "author": "VitaDev Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DACC22232",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/595-LostOnIsland.vpk",
+  "version": "v.1.0.0a",
+  "prerelease": false,
+  "icon": "1696-lost-on-island.png",
+  "description": "A game in where you have to survive on an island.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

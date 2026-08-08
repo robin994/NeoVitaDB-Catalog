@@ -1,0 +1,16 @@
+{
+  "id": 733,
+  "name": "Hellraiser",
+  "author": "michalt441",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0733-hellraiser.png",
+  "description": "Doom mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hellraiserpsp.-7z/HELLRAISERPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

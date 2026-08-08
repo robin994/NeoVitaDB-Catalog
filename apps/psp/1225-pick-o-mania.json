@@ -1,0 +1,16 @@
+{
+  "id": 1225,
+  "name": "Pick-o-Mania",
+  "author": "JustChris",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1225-pick-o-mania.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pick-o-mania.-7z/Pick-O-Mania.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

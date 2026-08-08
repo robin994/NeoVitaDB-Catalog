@@ -1,0 +1,16 @@
+{
+  "id": 1050,
+  "name": "PSP Missile Command",
+  "author": "Yashamaru",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1050-psp-missile-command.png",
+  "description": "Collection of Lua minigames.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/missile-command-luav-02b.-7z/MissileCommandLUAv02b.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

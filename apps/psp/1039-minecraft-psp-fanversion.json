@@ -1,0 +1,16 @@
+{
+  "id": 1039,
+  "name": "Minecraft PSP FanVersion",
+  "author": "joseph730",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1039-minecraft-psp-fanversion.png",
+  "description": "Mod of the Minecraft fan game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/minecraft-psp-2.0.7fan-beta/Minecraft%20PSP%202.0.7fan%20beta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

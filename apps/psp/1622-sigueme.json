@@ -1,0 +1,16 @@
+{
+  "id": 1622,
+  "name": "SIGUEME",
+  "author": "mau-mx",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1622-sigueme.png",
+  "description": "Button-pressing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/siguemev-1.0-a.-7z/SIGUEMEV1.0A.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

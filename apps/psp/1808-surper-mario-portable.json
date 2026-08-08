@@ -1,0 +1,16 @@
+{
+  "id": 1808,
+  "name": "Surper Mario Portable",
+  "author": "Koganesuki",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1808-surper-mario-portable.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/surper-mario-portable.-7z/SurperMarioPortable.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

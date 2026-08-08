@@ -1,0 +1,16 @@
+{
+  "id": 1406,
+  "name": "PSPmarket",
+  "author": "A-SpeC, Rene M. Dirks",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1406-pspmarket.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspmarket.-7z/PSPMarket.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

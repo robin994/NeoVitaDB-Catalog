@@ -1,0 +1,16 @@
+{
+  "id": 1637,
+  "name": "Ski Free-X",
+  "author": "Adam N. (Beefteck)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1637-ski-free-x.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ski-free-xv.-0.6.7z/SkiFree-Xv.0.6.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

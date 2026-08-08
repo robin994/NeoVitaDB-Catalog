@@ -1,0 +1,16 @@
+{
+  "id": 413,
+  "name": "Cube Runner Advanced",
+  "author": "Zix",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0413-cube-runner-advanced.png",
+  "description": "Follow-up to Cube Runner, with extra levels.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cube-runner-advanced.-7z/Cube%20Runner%20Advanced.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

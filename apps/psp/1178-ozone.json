@@ -1,0 +1,16 @@
+{
+  "id": 1178,
+  "name": "Ozone",
+  "author": "Nacho Sánchez, César Sampedro, David García (Geardome)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1178-ozone.png",
+  "description": "Homebrew game for PSP. Won first place at the NEO Summer 2007 coding competition, and second at the GBAX 2007 Coding Competition.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ozone.7z/ozone.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

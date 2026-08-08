@@ -1,0 +1,16 @@
+{
+  "id": 1304,
+  "name": "Planet Source Code",
+  "author": "LostSideDead",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1304-planet-source-code.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psccd.-7z/PSCCD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

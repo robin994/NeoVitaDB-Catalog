@@ -1,0 +1,16 @@
+{
+  "id": 2007,
+  "name": "Portable Wario Ware",
+  "author": "All Team",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2007-portable-wario-ware.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wario-ware.-7z/Wario%20ware.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

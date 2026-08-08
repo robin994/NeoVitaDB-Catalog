@@ -1,0 +1,16 @@
+{
+  "id": 354,
+  "name": "Call of Duty 2 PSP Edition",
+  "author": "Jordan Rehn (SG57)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0354-call-of-duty-2-psp-edition.png",
+  "description": "2D shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/co-d-2-pspedition.-7z/CoD2-PSPEdition.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

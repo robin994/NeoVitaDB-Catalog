@@ -1,0 +1,16 @@
+{
+  "id": 759,
+  "name": "iPlay Tic Tac Toe",
+  "author": "Spimort, J3r3mie, Nono4012",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0759-iplay-tic-tac-toe.png",
+  "description": "Noughts and Crosses for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/i-play-tic-tac-toe-v-3.7z/Old%20Versions/iPlay%20TicTacToe%20V3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

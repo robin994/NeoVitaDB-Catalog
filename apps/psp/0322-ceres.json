@@ -1,0 +1,16 @@
+{
+  "id": 322,
+  "name": "Ceres",
+  "author": "Po-Han Lin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0322-ceres.png",
+  "description": "Space shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ceres12.7z/ceres12.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

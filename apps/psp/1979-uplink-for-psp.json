@@ -1,0 +1,16 @@
+{
+  "id": 1979,
+  "name": "Uplink for PSP",
+  "author": "Roland Yonaba",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1979-uplink-for-psp.png",
+  "description": "Hacking simulation game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/uplink-psp.-7z/UplinkPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

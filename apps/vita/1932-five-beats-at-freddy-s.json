@@ -1,0 +1,18 @@
+{
+  "id": 1932,
+  "name": "Five Beats at Freddy's",
+  "author": "5PORT5Y",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FBAF00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1306-five_beats.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1932-five-beats-at-freddy-s.png",
+  "description": "A simple rhythm game made for a PS Vita homebrew contest, inspired by Friday Night Funkin’.\nAs the name suggests, there are five playable songs, each offering its own difficulty level.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

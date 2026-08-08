@@ -1,0 +1,18 @@
+{
+  "id": 1785,
+  "name": "Girls Are Weird Plus",
+  "author": "BetterWinds",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SKEN12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/834-GirlsAreWeird.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1785-girls-are-weird-plus.png",
+  "description": "Remaster of a visual novel called Girls are Weird for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2116,
+  "name": "GambleFTP",
+  "author": "gamblore",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2116-gambleftp.png",
+  "description": "An app allowing to open an FTP server or connect to other FTP server with your PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gambleftp.-7z/GAMBLEFTP.zip",
+  "version": "v.1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

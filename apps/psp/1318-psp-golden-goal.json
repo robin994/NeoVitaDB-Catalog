@@ -1,0 +1,16 @@
+{
+  "id": 1318,
+  "name": "PSP Golden Goal",
+  "author": "Ulind, Churristian 8",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1318-psp-golden-goal.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-g.-g.-7z/PSP%20G.G.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

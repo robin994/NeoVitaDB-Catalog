@@ -1,0 +1,18 @@
+{
+  "id": 1792,
+  "name": "Nanosaur Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NANOSAUR1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/851-Nanosaur.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1792-nanosaur-vita.png",
+  "description": "Nanosaur is a science fiction third-person shooter video game developed by Pangea Software and published by Ideas From the Deep for Mac OS 9 and Microsoft Windows. The player takes on the form of a Nanosaur, a genetically engineered intelligent dinosaur from the future, sent back in time just prior to the Cretaceous-Paleogene extinction event.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1420,
+  "name": "Quake II for PSP",
+  "author": "Sergey Galushko (Crow_bar)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1420-quake-ii-for-psp.png",
+  "description": "PSP port of Quake II. The demo version of the game is included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspquake-ii.-7z/PSPQuakeII.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

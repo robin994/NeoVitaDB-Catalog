@@ -1,0 +1,16 @@
+{
+  "id": 976,
+  "name": "Mario Kart PSP",
+  "author": "Dark Momo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0976-mario-kart-psp.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-kart-psp-v-1.0.7z/Mario%20Kart%20PSP%20V1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

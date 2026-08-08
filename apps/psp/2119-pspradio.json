@@ -1,0 +1,16 @@
+{
+  "id": 2119,
+  "name": "PSPRadio",
+  "author": "Raf & Sandberg & jpfouch48",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2119-pspradio.png",
+  "description": "Homebrew that allows to listen to online radio streamings on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspradio-1.18.1400.7z/Old%20Versions/PSPRadio0[1].37-Final.zip",
+  "version": "v.1.18.1400",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2012,
+  "name": "Wild Bullet",
+  "author": "PEPO",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2012-wild-bullet.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wild-bullet/Wild_Bullet.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1466,
+  "name": "PuzzleShuffle",
+  "author": "luckymouse",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1466-puzzleshuffle.png",
+  "description": "Tile puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/puzzle-shuffle.-7z/puzzle%20shuffle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

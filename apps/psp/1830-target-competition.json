@@ -1,0 +1,16 @@
+{
+  "id": 1830,
+  "name": "Target Competition",
+  "author": "Jorge_97",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1830-target-competition.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/target-competitionv-1.1.7z/TargetCompetitionv1.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1868,
+  "name": "Siren Head Dating Sim",
+  "author": "Rayc",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SHDS88320",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1139-siren_head.vpk",
+  "version": "v.1.01",
+  "prerelease": false,
+  "icon": "1868-siren-head-dating-sim.png",
+  "description": "Port of Siren Head Dating Sim for PSVITA.\nHave you ever looked at Siren Head and think \"Man. I sure would love to date him.\"\nWELL NOW YOU CAN!\nCheck out Siren Head Dating Sim to have a magical day with Siren Head!\nJust make sure you don't get killed.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

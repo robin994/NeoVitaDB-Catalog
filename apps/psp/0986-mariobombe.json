@@ -1,0 +1,16 @@
+{
+  "id": 986,
+  "name": "Mariobombe",
+  "author": "Ayoub (pspflashsystem)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0986-mariobombe.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mariobombe.7z/mariobombe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

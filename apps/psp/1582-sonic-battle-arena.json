@@ -1,0 +1,16 @@
+{
+  "id": 1582,
+  "name": "Sonic Battle Arena",
+  "author": "Vaza",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1582-sonic-battle-arena.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sba.-7z/Old%20Versions/Sonic%20Battle%20Arena%20Online.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

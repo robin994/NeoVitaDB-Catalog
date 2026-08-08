@@ -1,0 +1,16 @@
+{
+  "id": 1875,
+  "name": "The Crazy Ball",
+  "author": "fede94boss",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1875-the-crazy-ball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/the-crazy-ball.-7z/The_Crazy_Ball.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

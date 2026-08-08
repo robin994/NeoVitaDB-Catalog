@@ -1,0 +1,16 @@
+{
+  "id": 1461,
+  "name": "PucePong",
+  "author": "pucelano",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1461-pucepong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/puce-pong-v-10.7z/PucePong-v10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

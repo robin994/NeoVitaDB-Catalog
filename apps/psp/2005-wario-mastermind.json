@@ -1,0 +1,16 @@
+{
+  "id": 2005,
+  "name": "Wario Mastermind",
+  "author": "N64Francois",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2005-wario-mastermind.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wario-mastermind.-7z/Wario_Mastermind.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1443,
+  "name": "Erik Rounds's PSP Tetris",
+  "author": "Erik Rounds",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1443-erik-rounds-s-psp-tetris.png",
+  "description": "Version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psptetris.-7z/PSPTetris.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

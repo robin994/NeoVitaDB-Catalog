@@ -1,0 +1,18 @@
+{
+  "id": 1959,
+  "name": "Vita Pong",
+  "author": "No-Storage7413",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GDOT00039",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1397-Pong.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1959-vita-pong.png",
+  "description": "A Pong clone for PSVita made in Godot.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 938,
+  "name": "Lucky 9",
+  "author": "Yeoj Vandal Basaghari",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0938-lucky-9.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lucky-9-portable.-7z/Lucky9_Portable.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

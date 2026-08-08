@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "name": "CrossCraft Classic",
+  "author": "Nathan Bourgeois (IridescentRose), MotoLegacy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0390-crosscraft-classic.png",
+  "description": "Minecraft-inspired homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cross-craft-psp/CrossCraft-PSP-1.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

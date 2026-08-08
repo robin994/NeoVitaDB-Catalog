@@ -1,0 +1,16 @@
+{
+  "id": 2123,
+  "name": "Guitar Tuner PSP",
+  "author": "Zion & PSPDemon",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2123-guitar-tuner-psp.png",
+  "description": "An app that allows to play a guitar on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/guitar-tuner-psp.-7z/Guitar-Tuner_PSP.zip",
+  "version": "v.0.1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

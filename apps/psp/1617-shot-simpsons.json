@@ -1,0 +1,16 @@
+{
+  "id": 1617,
+  "name": "Shot Simpsons",
+  "author": "Moxo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1617-shot-simpsons.png",
+  "description": "Simple homebrew for PSP. Earlier versions are titled 'Shot Bart'.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/shot-simpsons-ver-3.3.7z/Old%20Versions/Shot%20Bart%20V%202.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

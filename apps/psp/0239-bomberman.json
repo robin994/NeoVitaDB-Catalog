@@ -1,0 +1,16 @@
+{
+  "id": 239,
+  "name": "Bomberman",
+  "author": "LuMo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0239-bomberman.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bomberman-beta-by-lumo.-7z/Bomberman_BETA_by_lumo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

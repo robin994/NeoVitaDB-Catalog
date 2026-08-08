@@ -1,0 +1,16 @@
+{
+  "id": 1778,
+  "name": "SuDokuL",
+  "author": "Mips96",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1778-sudokul.png",
+  "description": "Sudoku game made in C++ and SDL2.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/su-doku-l/SuDokuL.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

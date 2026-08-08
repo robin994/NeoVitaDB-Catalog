@@ -1,0 +1,16 @@
+{
+  "id": 1057,
+  "name": "Whac-a-Mole",
+  "author": "kenny.bsp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1057-whac-a-mole.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mole.7z/mole.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

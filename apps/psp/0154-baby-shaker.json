@@ -1,0 +1,16 @@
+{
+  "id": 154,
+  "name": "Baby Shaker",
+  "author": "Dave Leaver (Danzel)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0154-baby-shaker.png",
+  "description": "This game requires the Neoflash PSP Motion Kit to function.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/baby_shaker.7z/baby_shaker.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

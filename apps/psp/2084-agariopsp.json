@@ -1,0 +1,17 @@
+{
+  "id": 2084,
+  "name": "AgarioPSP",
+  "author": "SJRNoodles",
+  "category": "game",
+  "platform": "psp",
+  "repo": "SJRNoodles/AgarioPSP",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2084-agariopsp.png",
+  "description": "Clone of agar.io for PSP.\nagar.io is a massively multiplayer online action game created by Brazilian developer Matheus Valadares. Players control one or more circular cells in a map representing a Petri dish. The goal is to gain as much mass as possible by eating agar and cells smaller than the player's cell while avoiding larger ones which can eat the player's cells.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

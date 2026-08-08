@@ -1,0 +1,16 @@
+{
+  "id": 1862,
+  "name": "Tetris Portable",
+  "author": "Weak, Pimpot",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1862-tetris-portable.png",
+  "description": "Version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetrisportable03_eboot.7z/Old%20Versions/Tetris%20Portable.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

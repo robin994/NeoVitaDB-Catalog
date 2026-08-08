@@ -1,0 +1,16 @@
+{
+  "id": 259,
+  "name": "Saving Ichigo: Brawler",
+  "author": "Rukia",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0259-saving-ichigo-brawler.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/brawler.-7z/Brawler.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

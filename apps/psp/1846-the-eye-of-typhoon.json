@@ -1,0 +1,16 @@
+{
+  "id": 1846,
+  "name": "The Eye of Typhoon",
+  "author": "OzzyOuzo, Johnny16bit",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1846-the-eye-of-typhoon.png",
+  "description": "Homebrew recreation of a NeoGeo game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/teotbeta-psp/teot%5BBeta-PSP%5D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

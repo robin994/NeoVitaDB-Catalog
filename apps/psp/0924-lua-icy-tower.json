@@ -1,0 +1,16 @@
+{
+  "id": 924,
+  "name": "Lua Icy Tower",
+  "author": "Freddy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0924-lua-icy-tower.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lua-icy-tower.-7z/Lua%20Icy%20Tower.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

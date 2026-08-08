@@ -1,0 +1,16 @@
+{
+  "id": 781,
+  "name": "IrDA Games",
+  "author": "Alex705",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0781-irda-games.png",
+  "description": "Collection of games played with the IR port of the PSP-1000.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ir-dagames-v-0.7.7z/IrDAGamesV0.7.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

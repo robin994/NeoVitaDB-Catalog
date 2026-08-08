@@ -1,0 +1,16 @@
+{
+  "id": 1624,
+  "name": "Simon Remix",
+  "author": "J@ricanese",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1624-simon-remix.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/simon.-7z/Simon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

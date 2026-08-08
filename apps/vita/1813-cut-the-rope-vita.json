@@ -1,0 +1,18 @@
+{
+  "id": 1813,
+  "name": "Cut the Rope Vita",
+  "author": "SpanishFreddy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ABCD12953",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1041-cut_the_rope.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1813-cut-the-rope-vita.png",
+  "description": "A clone of Cut the Rope for PSVITA made in Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 613,
+  "name": "Forever Chase",
+  "author": "Lewis N. Reed",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0613-forever-chase.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/forever-chase-v.-5.7z/Forever_Chase_v.5.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

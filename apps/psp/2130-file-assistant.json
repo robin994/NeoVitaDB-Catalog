@@ -1,0 +1,16 @@
+{
+  "id": 2130,
+  "name": "File Assistant",
+  "author": "linjr",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2130-file-assistant.png",
+  "description": "A simple filemanater for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/file-assistant-004.7z/FileAssistant004.zip",
+  "version": "v.0.4",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

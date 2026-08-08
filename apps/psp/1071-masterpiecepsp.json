@@ -1,0 +1,16 @@
+{
+  "id": 1071,
+  "name": "MasterPiecePSP",
+  "author": "LostSideDead",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1071-masterpiecepsp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mpsp.-7z/MPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

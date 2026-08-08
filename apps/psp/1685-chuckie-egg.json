@@ -1,0 +1,16 @@
+{
+  "id": 1685,
+  "name": "Chuckie Egg",
+  "author": "Richard Rose",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1685-chuckie-egg.png",
+  "description": "Homebrew game for PSP",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/snap004/chuckie.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

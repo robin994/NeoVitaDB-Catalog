@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "name": "Dancing Baby: The Gif: The Game",
+  "author": "just_sethh",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0429-dancing-baby-the-gif-the-game.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dancing-baby-psp-v-1.0/DancingBabyPSP_V1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

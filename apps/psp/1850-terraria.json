@@ -1,0 +1,16 @@
+{
+  "id": 1850,
+  "name": "Terraria",
+  "author": "DirecT",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1850-terraria.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/terraria-test-release.-7z/TerrariaTestRelease.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

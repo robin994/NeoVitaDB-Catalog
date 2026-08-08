@@ -1,0 +1,16 @@
+{
+  "id": 1290,
+  "name": "The Powder Toy",
+  "author": "Brian Ledbetter",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1290-the-powder-toy.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/powd-00941-00000/powder.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

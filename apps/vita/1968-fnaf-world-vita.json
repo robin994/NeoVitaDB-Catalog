@@ -1,0 +1,18 @@
+{
+  "id": 1968,
+  "name": "FNaF World Vita",
+  "author": "5PORT5Y",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FNAFW0RLD",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1426-fnaf-world.vpk",
+  "version": "v.0.1.1",
+  "prerelease": false,
+  "icon": "1968-fnaf-world-vita.png",
+  "description": "A complete remake of FNaF World, rebuilt from the ground up in the Godot 3 Engine.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

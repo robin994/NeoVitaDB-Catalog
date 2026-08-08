@@ -1,0 +1,16 @@
+{
+  "id": 1539,
+  "name": "Rockbot Kyoto Evolution",
+  "author": "Upperland Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1539-rockbot-kyoto-evolution.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rockbot100.7z/rockbot100.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

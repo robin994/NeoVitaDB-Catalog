@@ -1,0 +1,18 @@
+{
+  "id": 1678,
+  "name": "Fingerprint",
+  "author": "Freakler",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "FNPT00001",
+  "direct_url": "https://github.com/Freakler/vita-Fingerprint/releases/download/0.02/fingerprint_v002.vpk",
+  "version": "v.0.02",
+  "prerelease": false,
+  "icon": "1678-fingerprint.png",
+  "description": "An application that displays various Information of your console.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

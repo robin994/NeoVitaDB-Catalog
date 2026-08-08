@@ -1,0 +1,16 @@
+{
+  "id": 1272,
+  "name": "Pong",
+  "author": "Digikid13",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1272-pong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong-v-0.5.1.7z/Pong%20v0.5.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

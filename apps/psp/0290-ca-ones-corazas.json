@@ -1,0 +1,16 @@
+{
+  "id": 290,
+  "name": "Cañones Corazas",
+  "author": "Pipagerardo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0290-ca-ones-corazas.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/c-corazas.-7z/C-CORAZAS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1890,
+  "name": "Psee Demo",
+  "author": "aDeCon Production",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PSEE00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1187-psee.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1890-psee-demo.png",
+  "description": "In the mystical world of Psee, gravity rules everything.\nPsets creatures can control objects in their world and move using levitation.\nYou have to control a pset that works in a mine extracting water.\nSomewhere evil come to the world of Psee and the main character now needs to save his life.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

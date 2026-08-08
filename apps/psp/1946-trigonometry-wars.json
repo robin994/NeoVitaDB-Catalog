@@ -1,0 +1,16 @@
+{
+  "id": 1946,
+  "name": "Trigonometry Wars",
+  "author": "71M",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1946-trigonometry-wars.png",
+  "description": "Homebrew game for PSP, inspired by Geometry Wars.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/trig-wars.-7z/titan-PSPtrigwars.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

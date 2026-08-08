@@ -1,0 +1,16 @@
+{
+  "id": 1054,
+  "name": "Mobile Skat",
+  "author": "failbit",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1054-mobile-skat.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mobile-skat-0.2.7z/MobileSkat_0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

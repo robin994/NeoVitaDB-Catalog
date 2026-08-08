@@ -1,0 +1,16 @@
+{
+  "id": 294,
+  "name": "Calcula-Lo",
+  "author": "Francisco Muñoz",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0294-calcula-lo.png",
+  "description": "Homebrew calc game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/calcula-lo-vi.7z/calcula-lo-vi.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1154,
+  "name": "Old Miner",
+  "author": "Player Studio27",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1154-old-miner.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/old-miner/Old-Miner.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

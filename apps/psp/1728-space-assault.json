@@ -1,0 +1,16 @@
+{
+  "id": 1728,
+  "name": "Space Assault",
+  "author": "Zwergengraf",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1728-space-assault.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/space_assault_v0.3.7z/space_assault_v0.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

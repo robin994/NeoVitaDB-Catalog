@@ -1,0 +1,16 @@
+{
+  "id": 143,
+  "name": "Atomic for PSP",
+  "author": "SiGi, Frank Buß (Shine)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0143-atomic-for-psp.png",
+  "description": "PSP version of the open source game, WAtomic. All the assets of the PSP port were lost to link rot, and had to be converted anew from the originals.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/atomic-for-psp/atomic.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

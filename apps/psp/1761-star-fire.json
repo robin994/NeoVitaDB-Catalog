@@ -1,0 +1,16 @@
+{
+  "id": 1761,
+  "name": "Star Fire",
+  "author": "Led",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1761-star-fire.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/star_fire_demo_OE.7z/star_fire_demo_OE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

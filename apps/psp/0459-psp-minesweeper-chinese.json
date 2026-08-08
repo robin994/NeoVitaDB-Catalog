@@ -1,0 +1,16 @@
+{
+  "id": 459,
+  "name": "PSP Minesweeper [Chinese]",
+  "author": "JEK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0459-psp-minesweeper-chinese.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/demineur.-7z/Demineur.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

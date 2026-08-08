@@ -1,0 +1,18 @@
+{
+  "id": 1907,
+  "name": "IdleMiner",
+  "author": "c0rtax",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "IDLEMINER",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1231-IdleMiner.vpk",
+  "version": "v.1.00",
+  "prerelease": false,
+  "icon": "1907-idleminer.png",
+  "description": "IdleMiner is a game created in 2016 and re-coded in 2024 for PS Vita. It's an Idle mining arcade game where you hire workers, buy mines, mine and sell ores with the possibility of various upgrades and you'll also find a few mini-games to help you progress through the game. The PS Vita version is enriched with an cool upgrade, click on the display on the place you want to repeatedly click and for auto mining, sell ores or purchase workers upgrade hold the X button on the console. If you win the game, you can play the game again with a bonus mode, which is short but fun. The game is created in Game Maker Studio.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

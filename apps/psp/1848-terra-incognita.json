@@ -1,0 +1,16 @@
+{
+  "id": 1848,
+  "name": "Terra Incognita",
+  "author": "Mitsuru Kamiyama (紙山 満, Kami)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1848-terra-incognita.png",
+  "description": "PSP port of the homebrew game created by Team Fatal for PlayStation 1.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/terrapsp.7z/terrapsp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

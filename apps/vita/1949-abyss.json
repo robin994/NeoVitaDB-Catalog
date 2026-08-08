@@ -1,0 +1,18 @@
+{
+  "id": 1949,
+  "name": "ABYSS",
+  "author": "Balder",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BALD00003",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1336-ABYSS.2.vpk",
+  "version": "v.2.1",
+  "prerelease": false,
+  "icon": "1949-abyss.png",
+  "description": "Taking inspiration from Rengoku for the PSP, Armored Core and Blame!, ABYSS is a third person shooter duel game featuring randomly generated guns and enemies. How deep can you descend into the ABYSS?",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

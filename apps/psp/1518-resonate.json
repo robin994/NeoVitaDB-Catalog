@@ -1,0 +1,16 @@
+{
+  "id": 1518,
+  "name": "Resonate",
+  "author": "Team Sushi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1518-resonate.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/resonate045.7z/Old%20Versions/resonate045.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 420,
+  "name": "Cuphead Portable",
+  "author": "luigi2498",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0420-cuphead-portable.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cuphead-alpha0-6.7z/Old%20Versions/cuphead-alpha0-6.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

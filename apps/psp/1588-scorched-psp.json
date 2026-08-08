@@ -1,0 +1,16 @@
+{
+  "id": 1588,
+  "name": "Scorched PSP",
+  "author": "Romshark",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1588-scorched-psp.png",
+  "description": "2D tank battle game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/scorch-9.7z/Scorch9.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

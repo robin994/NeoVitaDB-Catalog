@@ -1,0 +1,16 @@
+{
+  "id": 353,
+  "name": "Cloud Ski Free",
+  "author": "LNAtropic",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0353-cloud-ski-free.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cloud-ski-free-v-1.0.7z/CloudSkiFree%20v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

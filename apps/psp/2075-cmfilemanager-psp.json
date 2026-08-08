@@ -1,0 +1,17 @@
+{
+  "id": 2075,
+  "name": "CMFileManager PSP",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "psp",
+  "repo": "joel16/CMFileManager-PSP",
+  "asset": "CMFileManager-PSP.zip",
+  "prerelease": false,
+  "icon": "2075-cmfilemanager-psp.png",
+  "description": "A multi-purpose file manager for the PSP, heavily inspired by the CM file manager design.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

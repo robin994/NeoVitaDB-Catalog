@@ -1,0 +1,16 @@
+{
+  "id": 1181,
+  "name": "PacMan",
+  "author": "Дмитрий Трунов (Da-nie)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1181-pacman.png",
+  "description": "Homebrew version of the game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pac-man.-7z/psp_pacman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

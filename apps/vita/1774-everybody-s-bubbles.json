@@ -1,0 +1,18 @@
+{
+  "id": 1774,
+  "name": "Everybody's Bubbles",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BUBB13579",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/794-EverybodyBubbles.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1774-everybody-s-bubbles.png",
+  "description": "Everybody's Bubbles is a port of an opensource chinese game inspired to Candy Crush available for Android and iOS. You have to make the highest possible score in 60 seconds by tapping bubbles with same colors in group of 3 or more.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

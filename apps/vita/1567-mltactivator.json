@@ -1,0 +1,18 @@
+{
+  "id": 1567,
+  "name": "MLTactivator",
+  "author": "MiraLaTijera & Draqen",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ACTIVAMLT",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/301-MLTactivatorFIX2.vpk",
+  "version": "FIX2",
+  "prerelease": false,
+  "icon": "1567-mltactivator.png",
+  "description": "Utility that activates your system offline using files from another account and device. Do not use the system online or you'll get a ban.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

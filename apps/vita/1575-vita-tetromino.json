@@ -1,0 +1,18 @@
+{
+  "id": 1575,
+  "name": "vita-tetromino",
+  "author": "svennd",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TETR00001",
+  "direct_url": "https://github.com/svennd/vita-tetromino/releases/download/0.8/tetromino.vpk",
+  "version": "v.0.8",
+  "prerelease": false,
+  "icon": "1575-vita-tetromino.png",
+  "description": "Tetris like game for PSVITA/PSTV written in Lua.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

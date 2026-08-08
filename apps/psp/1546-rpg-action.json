@@ -1,0 +1,16 @@
+{
+  "id": 1546,
+  "name": "RPG-Action",
+  "author": "Casaproduction",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1546-rpg-action.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rpg-0.03.7z/RPG_0.03.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

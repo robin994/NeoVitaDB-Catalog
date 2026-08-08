@@ -1,0 +1,16 @@
+{
+  "id": 670,
+  "name": "Go!Fall",
+  "author": "Total Noob",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0670-go-fall.png",
+  "description": "This homebrew game requires a Go!Cam to function.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/go-fall.-7z/Go%21Fall.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

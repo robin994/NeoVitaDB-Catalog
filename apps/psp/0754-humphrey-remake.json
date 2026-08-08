@@ -1,0 +1,16 @@
+{
+  "id": 754,
+  "name": "Humphrey Remake",
+  "author": "Diedel",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0754-humphrey-remake.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/humphrey_202207/Humphrey.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1510,
+  "name": "Hendoku",
+  "author": "Kuni59",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "KUNI00002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/130-sudokucpp.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1510-hendoku.png",
+  "description": "Sudoku game for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

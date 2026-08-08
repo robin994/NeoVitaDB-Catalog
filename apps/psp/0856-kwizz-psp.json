@@ -1,0 +1,16 @@
+{
+  "id": 856,
+  "name": "Kwizz PSP",
+  "author": "Jy98, Wassgha",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0856-kwizz-psp.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kwizz-psp-1.2.7z/Kwizz%20PSP%201.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1107,
+  "name": "ndSudoku",
+  "author": "Germano Fabio (Gefa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1107-ndsudoku.png",
+  "description": "Version of Sudoku running on the NanoDesktop engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ndSudokuv100CFPlusEng.7z/ndSudokuv100CFPlusEng.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

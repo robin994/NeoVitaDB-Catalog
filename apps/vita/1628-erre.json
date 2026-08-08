@@ -1,0 +1,18 @@
+{
+  "id": 1628,
+  "name": "ERRE",
+  "author": "Paulo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABCD13370",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/451-ERRE.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1628-erre.png",
+  "description": "Port of ERRE for PSVITA/PSTV.\nRun, It's for your own good.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

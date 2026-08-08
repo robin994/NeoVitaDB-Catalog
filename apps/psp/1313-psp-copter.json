@@ -1,0 +1,16 @@
+{
+  "id": 1313,
+  "name": "PSP Copter",
+  "author": "Preyker",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1313-psp-copter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-copter-by-preyker.-7z/Old%20Versions/PSP%20Copter%20by%20Preyker.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

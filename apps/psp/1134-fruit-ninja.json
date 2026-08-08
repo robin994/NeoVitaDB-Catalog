@@ -1,0 +1,16 @@
+{
+  "id": 1134,
+  "name": "Fruit Ninja",
+  "author": "Zharikov Vitaliy (Vittach)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1134-fruit-ninja.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ninja.-7z/NINJA.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

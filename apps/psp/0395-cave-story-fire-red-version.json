@@ -1,0 +1,16 @@
+{
+  "id": 395,
+  "name": "Cave Story - Fire Red Version",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0395-cave-story-fire-red-version.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cs-frv-psp.-7z/CS_FRV_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

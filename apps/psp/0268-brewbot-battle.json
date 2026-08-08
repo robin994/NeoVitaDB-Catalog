@@ -1,0 +1,16 @@
+{
+  "id": 268,
+  "name": "Brewbot Battle",
+  "author": "JC",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0268-brewbot-battle.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/brew-bot-battle.-7z/BrewBotBattle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

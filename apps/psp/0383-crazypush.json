@@ -1,0 +1,16 @@
+{
+  "id": 383,
+  "name": "CrazyPush",
+  "author": "Team Esp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0383-crazypush.png",
+  "description": "Button-mashing game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/crazy-push.-7z/CrazyPush.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

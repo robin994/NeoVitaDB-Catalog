@@ -1,0 +1,18 @@
+{
+  "id": 1546,
+  "name": "Vita Object Loader",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "OBJL00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/223-Vita_Object_Loader.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1546-vita-object-loader.png",
+  "description": "Vita Object Loader is a 3D model viewer wrote with lpp-vita fully opensource.\nIt can be used for benchmark purposes (take in mind models are soft rendered!) or just for fun.\nIt supports Wavefront (.obj) models but with some restrictions: only triangles primitives, materials are not supported.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

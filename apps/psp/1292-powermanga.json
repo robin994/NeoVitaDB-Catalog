@@ -1,0 +1,16 @@
+{
+  "id": 1292,
+  "name": "Powermanga",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1292-powermanga.png",
+  "description": "PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/powermanga-0.80_psp.7z/powermanga-0.80_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

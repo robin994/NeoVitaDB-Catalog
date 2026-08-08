@@ -1,0 +1,16 @@
+{
+  "id": 1119,
+  "name": "New Alchemy",
+  "author": "Sandroron's Game Inc",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1119-new-alchemy.png",
+  "description": "Combine the four elements to create new ones.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/new-alchemy.-7z/NewAlchemy.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1702,
+  "name": "Sqrxz 3",
+  "author": "Retroguru Team",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SQRXZ0003",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/614-SQRXZ0003.vpk",
+  "version": "v.1.05r",
+  "prerelease": false,
+  "icon": "1702-sqrxz-3.png",
+  "description": "Sqrxz 3 is a Jump’n’Run which will please the hardcore gamer amongst you. You need fast fingers and a fast brain. Original Sqrxz made by Marcus Vesterlund and John Holmvall.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

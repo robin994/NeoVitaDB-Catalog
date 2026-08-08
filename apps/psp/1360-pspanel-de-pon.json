@@ -1,0 +1,16 @@
+{
+  "id": 1360,
+  "name": "PSPanel De Pon",
+  "author": "db26",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1360-pspanel-de-pon.png",
+  "description": "PSP version of the puzzle game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspanel-de-pon-v-1.0.7z/PSPanelDePon-v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

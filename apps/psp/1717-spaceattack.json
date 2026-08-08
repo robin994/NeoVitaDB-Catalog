@@ -1,0 +1,16 @@
+{
+  "id": 1717,
+  "name": "SpaceAttack!",
+  "author": "phacergei",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1717-spaceattack.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/space-attack-psp.-7z/SpaceAttackPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

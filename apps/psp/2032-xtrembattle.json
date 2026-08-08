@@ -1,0 +1,16 @@
+{
+  "id": 2032,
+  "name": "XtremBattle",
+  "author": "Sabbator",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2032-xtrembattle.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/xbattle.7z/xbattle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

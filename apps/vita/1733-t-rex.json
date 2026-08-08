@@ -1,0 +1,18 @@
+{
+  "id": 1733,
+  "name": "T-Rex",
+  "author": "Toni Dumancic",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GNS111111",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/687-trex.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1733-t-rex.png",
+  "description": "A remake of the T-Rex minigame made by Google.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

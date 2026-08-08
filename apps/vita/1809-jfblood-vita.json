@@ -1,0 +1,18 @@
+{
+  "id": 1809,
+  "name": "jfblood-vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JFBLOOD01",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1017-jfblood.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1809-jfblood-vita.png",
+  "description": "jfblood-vita is a port of NBlood (a sourceport of Blood made by nukeykt) based on a backport of the matter to JFBuild made by BSzili.\nBlood is a 3D video game developed by Monolith Productions and published by GT Interactive and it was developed using Ken Silverman's Build engine.\nThe game follows the story of Caleb, an undead early 20th century gunslinger seeking revenge against the dark god Tchernobog.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

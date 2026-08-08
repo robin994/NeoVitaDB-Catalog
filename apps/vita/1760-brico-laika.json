@@ -1,0 +1,18 @@
+{
+  "id": 1760,
+  "name": "Brico Laika",
+  "author": "LaDropZone",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BRICOLAIK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/765-BricoLaika.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1760-brico-laika.png",
+  "description": "You should have seen it coming, first Laïka, now you. Abandoned in your space station, your goal is to endlessly maintain your home by fixing different technical problems. You will wander in zero G, armed with you trusty tools, but be mindful that they float around like you do.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

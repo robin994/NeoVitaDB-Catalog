@@ -1,0 +1,16 @@
+{
+  "id": 1315,
+  "name": "PSP Dungeons 3D",
+  "author": "Christoph Arnold (charnold)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1315-psp-dungeons-3d.png",
+  "description": "3D homebrew shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-dungeons-v-0.7.7z/Old%20Versions/Dungeons.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1329,
+  "name": "PSP Mental",
+  "author": "Omega9000",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1329-psp-mental.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-mental-v-1/PSP%20Mental%20v1%20Eng.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

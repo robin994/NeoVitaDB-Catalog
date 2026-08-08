@@ -1,0 +1,16 @@
+{
+  "id": 159,
+  "name": "Balls",
+  "author": "James Cutter",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0159-balls.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ball.7z/ball.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

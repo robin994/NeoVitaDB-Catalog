@@ -1,0 +1,16 @@
+{
+  "id": 1486,
+  "name": "Quake PSP with IR Keyboard support",
+  "author": "rein4ce",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1486-quake-psp-with-ir-keyboard-support.png",
+  "description": "Version of the PSP Quake port, modified with support for the PalmOne IR keyboard. Shareware version of the game included.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quake_keyboard/quake_keyboard.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

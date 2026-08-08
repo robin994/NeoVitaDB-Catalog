@@ -1,0 +1,18 @@
+{
+  "id": 1796,
+  "name": "Five Night at Freddy's 4 Lite",
+  "author": "AlexDev2",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FNAF40001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/859-fnaf4.vpk",
+  "version": "v.0.1.0",
+  "prerelease": false,
+  "icon": "1796-five-night-at-freddy-s-4-lite.png",
+  "description": "A receration made in Game Maker Studio of Five Night at Freddy's 4 for PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

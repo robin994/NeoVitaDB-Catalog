@@ -1,0 +1,16 @@
+{
+  "id": 263,
+  "name": "Break-in",
+  "author": "Callen Shaw",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0263-break-in.png",
+  "description": "BreakOut, but without the paddle.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breakin.7z/breakin.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

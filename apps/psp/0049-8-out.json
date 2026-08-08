@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "name": "8 Out",
+  "author": "10$man",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0049-8-out.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/8out.-7z/8out.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

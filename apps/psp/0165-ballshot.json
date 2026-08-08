@@ -1,0 +1,16 @@
+{
+  "id": 165,
+  "name": "Ballshot",
+  "author": "D!S",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0165-ballshot.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ballshot-v-0.1-by-d-s.-7z/Ballshot.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

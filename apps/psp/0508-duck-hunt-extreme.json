@@ -1,0 +1,16 @@
+{
+  "id": 508,
+  "name": "Duck Hunt Extreme",
+  "author": "JoJaSc",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0508-duck-hunt-extreme.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/duck-hunt-extreme.-7z/DuckHuntExtreme.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

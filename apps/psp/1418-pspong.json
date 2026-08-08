@@ -1,0 +1,16 @@
+{
+  "id": 1418,
+  "name": "PSPong",
+  "author": "Hardrive; Ludovic Jacomme (Zx-81)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1418-pspong.png",
+  "description": "This version of Pong can be played with infrared joysticks on a PSP-1000.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psppong-v1.0.1.7z/psppong-v1.0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

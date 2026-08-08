@@ -1,0 +1,16 @@
+{
+  "id": 1737,
+  "name": "Speeder",
+  "author": "gibbocool",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1737-speeder.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/speederbhKh.7z/speederbhKh.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

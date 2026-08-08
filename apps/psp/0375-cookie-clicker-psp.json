@@ -1,0 +1,16 @@
+{
+  "id": 375,
+  "name": "Cookie Clicker PSP",
+  "author": "XD",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0375-cookie-clicker-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cookie-clicker-psp/Cookie%20Clicker%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

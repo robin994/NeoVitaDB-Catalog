@@ -1,0 +1,18 @@
+{
+  "id": 1978,
+  "name": "Minecraft: Story Mode",
+  "author": "LeZergan",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MCSM00001",
+  "repo": "LeZergan/mcsm-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1978-minecraft-story-mode.png",
+  "description": "Port of Minecraft: Story Mode Season 1 for PSVITA, based on the Android release. The game data has to be supplied by the user and converted with the MCSM Vita Data Builder available on the release page.",
+  "requirements": "Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

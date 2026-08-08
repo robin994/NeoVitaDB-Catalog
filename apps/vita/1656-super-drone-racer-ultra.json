@@ -1,0 +1,18 @@
+{
+  "id": 1656,
+  "name": "Super Drone Racer Ultra",
+  "author": "JacobsPlayground",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DRON57468",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/490-DR0056.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1656-super-drone-racer-ultra.png",
+  "description": "An arcade race game with syntwave style.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

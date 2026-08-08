@@ -1,0 +1,16 @@
+{
+  "id": 1724,
+  "name": "Space Invaders",
+  "author": "Menace Inc",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1724-space-invaders.png",
+  "description": "Version of the game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/space-invaders.-7z/SpaceInvaders.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1717,
+  "name": "Pocket Wonder Sport",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SPORTPACK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/648-Pocket_Wonder_Sport.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1717-pocket-wonder-sport.png",
+  "description": "Collection of 10 ultra tiny minigames made by hwilson. Inspired by weird rom collections on pirate multicarts, but hopefully with a tiny bit more quality.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

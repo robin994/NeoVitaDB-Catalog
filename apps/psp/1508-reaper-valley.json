@@ -1,0 +1,16 @@
+{
+  "id": 1508,
+  "name": "Reaper Valley",
+  "author": "Phaseditto",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1508-reaper-valley.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/reape-r-valle-y.-7z/ReapeR%20ValleY.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

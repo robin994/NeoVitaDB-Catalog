@@ -1,0 +1,18 @@
+{
+  "id": 1659,
+  "name": "G&W Octopus",
+  "author": "JacobsPlayground",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "OCTO00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/496-OC029.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1659-g-w-octopus.png",
+  "description": "A clone of the Nintendo Game & Watch Octopus electronic console.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 267,
+  "name": "Breakthrough: An Inventor's Tale",
+  "author": "Francisco Marquez, Robert Greaux",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0267-breakthrough-an-inventor-s-tale.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breakthrough.-7z/Breakthrough.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1833,
+  "name": "Prototype Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PROTOTYPE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1092-Prototype.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1833-prototype-vita.png",
+  "description": "Port of Prototype for PSVITA.\nPrototype is an RType remake from Dark Castle Software.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

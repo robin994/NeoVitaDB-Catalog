@@ -1,0 +1,16 @@
+{
+  "id": 668,
+  "name": "Kill All Gnomes",
+  "author": "MrX256",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0668-kill-all-gnomes.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gnome.-7z/GNOME.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

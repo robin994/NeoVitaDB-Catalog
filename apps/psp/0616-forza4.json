@@ -1,0 +1,16 @@
+{
+  "id": 616,
+  "name": "Forza4",
+  "author": "LeoJava",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0616-forza4.png",
+  "description": "Connect 4 for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/forza-4-v-2.0.7z/forza4%20v2.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

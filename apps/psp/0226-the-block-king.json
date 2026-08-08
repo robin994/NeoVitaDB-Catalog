@@ -1,0 +1,16 @@
+{
+  "id": 226,
+  "name": "The Block King",
+  "author": "Neodudeman",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0226-the-block-king.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/block-king.-7z/Block%20King.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

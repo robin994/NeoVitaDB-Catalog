@@ -1,0 +1,18 @@
+{
+  "id": 1737,
+  "name": "Happy Blocks",
+  "author": "HisArmMan",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HAPPYBLOK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/692-happyblocks.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1737-happy-blocks.png",
+  "description": "Happy Blocks is an action puzzle game involving blocks. There are multiple game mode like 4 color race, low IQ race and even a death mode. Oh yeah we also have a Final Boss mode.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

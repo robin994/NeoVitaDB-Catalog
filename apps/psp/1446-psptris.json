@@ -1,0 +1,16 @@
+{
+  "id": 1446,
+  "name": "PSPTris",
+  "author": "Sandberg",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1446-psptris.png",
+  "description": "Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psptris-tfc-version.-7z/PSPTris_tfc_version.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

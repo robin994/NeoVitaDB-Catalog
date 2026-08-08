@@ -1,0 +1,16 @@
+{
+  "id": 802,
+  "name": "Jolly 2 PSP",
+  "author": "maxdevpsp",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0802-jolly-2-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jolly2psp-main/jolly2psp-main.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

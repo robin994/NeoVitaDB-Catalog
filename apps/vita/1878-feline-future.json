@@ -1,0 +1,18 @@
+{
+  "id": 1878,
+  "name": "Feline Future",
+  "author": "WIDEGCG",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "WHEN22095",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1150-feline_future.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1878-feline-future.png",
+  "description": "A sci-fi exploration and action game where players control a character with sword and blaster abilities, battling robots in a futuristic environment with no predefined objectives.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

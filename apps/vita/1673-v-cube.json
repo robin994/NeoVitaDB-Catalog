@@ -1,0 +1,18 @@
+{
+  "id": 1673,
+  "name": "V-Cube",
+  "author": "Anchitpatra",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VCUBE0000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/529-v-cube.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1673-v-cube.png",
+  "description": "A Rubk Cube puzzle game in 3D made with Unity for PSVITA.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

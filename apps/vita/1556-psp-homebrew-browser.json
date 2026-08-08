@@ -1,0 +1,18 @@
+{
+  "id": 1556,
+  "name": "PSP Homebrew Browser",
+  "author": "Arkanite",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ARKSPSPHB",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/264-PSPhbb.vpk",
+  "version": "v.0.9b",
+  "prerelease": false,
+  "icon": "1556-psp-homebrew-browser.png",
+  "description": "A HENkaku application to help with installing PSP homebrews to run under Adrenaline.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

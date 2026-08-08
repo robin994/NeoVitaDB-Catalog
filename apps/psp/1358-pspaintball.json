@@ -1,0 +1,16 @@
+{
+  "id": 1358,
+  "name": "PSPaintball",
+  "author": "slicer4ever, mr.game",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1358-pspaintball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspaintball.7z/pspaintball.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

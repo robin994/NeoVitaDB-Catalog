@@ -1,0 +1,16 @@
+{
+  "id": 1122,
+  "name": "The Newton War",
+  "author": "Realtech VR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1122-the-newton-war.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/newtonWar.7z/newtonWar.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

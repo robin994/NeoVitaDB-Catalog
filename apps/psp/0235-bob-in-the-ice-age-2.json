@@ -1,0 +1,16 @@
+{
+  "id": 235,
+  "name": "Bob in: The Ice Age 2",
+  "author": "Alex Gilbert Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0235-bob-in-the-ice-age-2.png",
+  "description": "Platform game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bobiceage2.7z/bobiceage2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

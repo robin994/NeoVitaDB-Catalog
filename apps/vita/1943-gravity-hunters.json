@@ -1,0 +1,18 @@
+{
+  "id": 1943,
+  "name": "Gravity Hunters",
+  "author": "NandXor96",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GRAVHUNT1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1330-gravity_hunters.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1943-gravity-hunters.png",
+  "description": "Pilot a nimble spaceship, bend your shots around planetary gravity, and clear handcrafted missions.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

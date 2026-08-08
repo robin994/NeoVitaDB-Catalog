@@ -1,0 +1,16 @@
+{
+  "id": 764,
+  "name": "Ikuzo",
+  "author": "Stéphane Lévesque",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0764-ikuzo.png",
+  "description": "Vertical shooter for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ikuzo.-7z/IKUZO.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

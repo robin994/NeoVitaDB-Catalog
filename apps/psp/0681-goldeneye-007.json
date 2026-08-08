@@ -1,0 +1,16 @@
+{
+  "id": 681,
+  "name": "GoldenEye 007",
+  "author": "michalt441",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0681-goldeneye-007.png",
+  "description": "GoldenEye mod for DoomPSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/goldeneye.-7z/Goldeneye.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

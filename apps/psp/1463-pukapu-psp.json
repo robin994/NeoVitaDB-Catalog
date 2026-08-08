@@ -1,0 +1,16 @@
+{
+  "id": 1463,
+  "name": "Pukapu [とんでけぷかぷ～PSP]",
+  "author": "ぶーにゃん",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1463-pukapu-psp.png",
+  "description": "Simple dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pukapu.7z/pukapu.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

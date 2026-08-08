@@ -1,0 +1,16 @@
+{
+  "id": 611,
+  "name": "Fool [Дурак подкидной]",
+  "author": "Дмитрий Трунов (da-nie)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0611-fool.png",
+  "description": "Homebrew card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fool.-7z/psp_fool.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

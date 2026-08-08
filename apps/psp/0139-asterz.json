@@ -1,0 +1,16 @@
+{
+  "id": 139,
+  "name": "Asterz",
+  "author": "Team Duck",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0139-asterz.png",
+  "description": "Asteroids clone in 3D; PSP homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/asterz.-7z/Asterz%20Version%201.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1353,
+  "name": "PSP Monopoly Fusion",
+  "author": "Bumuckl",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1353-psp-monopoly-fusion.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp_monopoly_fusion_ger.7z/psp_monopoly_fusion_ger.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

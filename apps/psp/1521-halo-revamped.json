@@ -1,0 +1,16 @@
+{
+  "id": 1521,
+  "name": "Halo Revamped",
+  "author": "Mexicouger",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1521-halo-revamped.png",
+  "description": "3D shooter homebrew for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/revamped-rev-17.7z/Revamped%20Rev%2017.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

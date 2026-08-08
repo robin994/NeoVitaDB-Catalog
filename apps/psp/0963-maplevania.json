@@ -1,0 +1,16 @@
+{
+  "id": 963,
+  "name": "Maplevania",
+  "author": "Nick Pizanias",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0963-maplevania.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/maplevania.-7z/Maplevania.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

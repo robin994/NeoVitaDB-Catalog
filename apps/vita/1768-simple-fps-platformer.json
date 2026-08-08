@@ -1,0 +1,18 @@
+{
+  "id": 1768,
+  "name": "Simple FPS Platformer",
+  "author": "MEGAgameBoy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SUPO27496",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/783-SimpleFPSplatformer.vpk",
+  "version": "v.1.6",
+  "prerelease": false,
+  "icon": "1768-simple-fps-platformer.png",
+  "description": "Simple FPS Platformer is a first person platformer where you can play a selection of levels and make the best time or create and share your levels.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1901,
+  "name": "Ancient Villa",
+  "author": "cojam",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VILA69420",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1213-ancient_villa.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1901-ancient-villa.png",
+  "description": "A famous archaeologist and her penguin companion went to a medieval castle-villa to inspect it in all details. Three months have already passed yet we have not received any news from her. Will she return with new discoveries?",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

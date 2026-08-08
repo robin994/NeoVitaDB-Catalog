@@ -1,0 +1,16 @@
+{
+  "id": 1078,
+  "name": "MultiCraft Portable",
+  "author": "LakeFeperd",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1078-multicraft-portable.png",
+  "description": "Mod of Multicraft for PSP, the Minecraft fan game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/multi-craft-1.2.7z/MultiCraft%201.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

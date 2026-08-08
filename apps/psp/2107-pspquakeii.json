@@ -1,0 +1,16 @@
+{
+  "id": 2107,
+  "name": "PSPQuakeII",
+  "author": "Crow_bar",
+  "category": "port",
+  "platform": "psp",
+  "icon": "2107-pspquakeii.png",
+  "description": "Port of Quake II for PSP.\nQuake II is a 1997 first-person shooter video game developed by id Software and published by Activision. It is the second installment of the Quake series.",
+  "requirements": "",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/893-PSPQuakeII.zip",
+  "version": "v.1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

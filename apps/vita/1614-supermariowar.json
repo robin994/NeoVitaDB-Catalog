@@ -1,0 +1,18 @@
+{
+  "id": 1614,
+  "name": "SuperMarioWar",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SMWAR0000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/422-SuperMarioWar.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1614-supermariowar.png",
+  "description": "Super Mario War is a Super Mario multiplayer game.\nThe goal is to stomp as many other Marios as possible to win the game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

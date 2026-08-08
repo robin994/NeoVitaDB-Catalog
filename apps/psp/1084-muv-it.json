@@ -1,0 +1,16 @@
+{
+  "id": 1084,
+  "name": "Muv-It",
+  "author": "Xerpi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1084-muv-it.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/muv-it.-7z/MuvIT.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

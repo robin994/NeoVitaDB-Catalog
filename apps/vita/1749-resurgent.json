@@ -1,0 +1,18 @@
+{
+  "id": 1749,
+  "name": "Resurgent",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RESURGENT",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/718-Resurgent.vpk",
+  "version": "v.1.0.0",
+  "prerelease": false,
+  "icon": "1749-resurgent.png",
+  "description": "Traverse a post-apocalyptic city, ravaged by an unknown virus, in search of safety Original game by Tristan Harris.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

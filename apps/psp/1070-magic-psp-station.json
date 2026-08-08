@@ -1,0 +1,16 @@
+{
+  "id": 1070,
+  "name": "Magic PSP Station",
+  "author": "transce080",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1070-magic-psp-station.png",
+  "description": "Homebrew card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mps.-7z/MPS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

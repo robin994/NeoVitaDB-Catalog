@@ -1,0 +1,16 @@
+{
+  "id": 358,
+  "name": "CollecTic",
+  "author": "Jonas Hielscher",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0358-collectic.png",
+  "description": "The objective of the game is to search for different access points, to collect them and to combine them in a puzzle in order to get points.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/collec-tic-v-0.13.7z/CollecTic_v0.13.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

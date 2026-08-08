@@ -1,0 +1,16 @@
+{
+  "id": 1069,
+  "name": "Move It",
+  "author": "2flower",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1069-move-it.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/moveit2xxvbeta.7z/moveit2xxvbeta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

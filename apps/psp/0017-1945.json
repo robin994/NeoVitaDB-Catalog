@@ -1,0 +1,16 @@
+{
+  "id": 17,
+  "name": "1945",
+  "author": "Shiftybill",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0017-1945.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/1945.7z/1945.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

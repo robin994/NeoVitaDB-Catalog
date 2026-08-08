@@ -1,0 +1,16 @@
+{
+  "id": 2102,
+  "name": "PMF Viewer",
+  "author": "mowglisanu",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2102-pmf-viewer.png",
+  "description": "A video player allowing to play videos in PMF format.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pmfviewer0_1.7z/pmfviewer0_1.zip",
+  "version": "v.0.1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 334,
+  "name": "Chip's Challenge",
+  "author": "Chimecho",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0334-chip-s-challenge.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chips-en-lua.-7z/Chips%20en%20Lua.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1833,
+  "name": "Taupechrono",
+  "author": "Pleaser",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1833-taupechrono.png",
+  "description": "Whack-a-mole for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/taupechrono.7z/taupechrono.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1597,
+  "name": "PKGInstaller Launcher",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGPKG2CH",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/381-PKGInstallerLauncher.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1597-pkginstaller-launcher.png",
+  "description": "PKGInstaller Launcher is an app wich allow you to choose the partition from where Package Installer will install .pkg files.\nIt supports also DEX pkgs installation by pressing L trigger in main menu.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

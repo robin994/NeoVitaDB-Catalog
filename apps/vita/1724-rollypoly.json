@@ -1,0 +1,18 @@
+{
+  "id": 1724,
+  "name": "RollyPoly",
+  "author": "Spartanfox",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ROLY90117",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/675-RollyPoly.vpk",
+  "version": "v.2.1",
+  "prerelease": false,
+  "icon": "1724-rollypoly.png",
+  "description": "Rolly Poly is a Marble Madness like game with Mario Galaxy style gravity where you have to collect gems and get to the end as fast as possible.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

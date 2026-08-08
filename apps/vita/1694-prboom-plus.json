@@ -1,0 +1,18 @@
+{
+  "id": 1694,
+  "name": "PrBoom Plus",
+  "author": "fgsfds",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FGS000667",
+  "direct_url": "https://github.com/fgsfdsfgs/prboom-plus/releases/download/v2.5.1.7um-vita-r1.2/prboom-plus-r1.2.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1694-prboom-plus.png",
+  "description": "PrBoom Plus is a Doom source port developed from the original PrBoom project.\nIt has completely hardware accelerated renderer and supports several advanced features.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

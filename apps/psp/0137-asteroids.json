@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "name": "Asteroids",
+  "author": "Elad_THC",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0137-asteroids.png",
+  "description": "Version of the game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/asteroids.-7z_202103/Asteroids.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

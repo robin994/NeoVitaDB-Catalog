@@ -1,0 +1,16 @@
+{
+  "id": 749,
+  "name": "Horror Quake PSP",
+  "author": "pisswad12",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0749-horror-quake-psp.png",
+  "description": "PSP port of a Quake mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/horror_quake.7z/horror_quake.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

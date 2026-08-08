@@ -1,0 +1,16 @@
+{
+  "id": 94,
+  "name": "Alley Cat",
+  "author": "Bill Williams",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0094-alley-cat.png",
+  "description": "Repack of the 1984 computer game (now available for free).",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alley-cat.-7z/AlleyCat.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

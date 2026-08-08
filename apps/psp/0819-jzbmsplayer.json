@@ -1,0 +1,16 @@
+{
+  "id": 819,
+  "name": "JzBMSPlayer",
+  "author": "siroimakeinu99",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0819-jzbmsplayer.png",
+  "description": "BMS player for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jz-bmsplayer.-7z/Extra/126SKIN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

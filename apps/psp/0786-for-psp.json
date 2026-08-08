@@ -1,0 +1,16 @@
+{
+  "id": 786,
+  "name": "枕投げゲーム for PSP",
+  "author": "Dadrfy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0786-for-psp.png",
+  "description": "It is a port of IT-chan's pillow throw game so that it can be started on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/it-v.-0.2/IT%20v.0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 41,
+  "name": "Jennifer",
+  "author": "MasterDerico",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0041-jennifer.png",
+  "description": "Horror-themed beat 'em up game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/30671-jennifer-psp.-7z/30671-Jennifer_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

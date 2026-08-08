@@ -1,0 +1,16 @@
+{
+  "id": 590,
+  "name": "Flappy Airat",
+  "author": "SIG, Gears, A12T Games",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0590-flappy-airat.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flappy-airat-rus-v-2.0.7z/Flappy%20Airat%20ENG%20v2.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

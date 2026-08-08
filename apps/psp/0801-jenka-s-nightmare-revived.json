@@ -1,0 +1,16 @@
+{
+  "id": 801,
+  "name": "Jenka's Nightmare Revived",
+  "author": "Andwhy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0801-jenka-s-nightmare-revived.png",
+  "description": "PSP port of a Cave Story mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jnrevivedpsp_r1.7z/jnrevivedpsp_r1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

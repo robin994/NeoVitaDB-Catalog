@@ -1,0 +1,16 @@
+{
+  "id": 652,
+  "name": "Galactic BreakOut",
+  "author": "Nino van Hooff (The Underminer)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0652-galactic-breakout.png",
+  "description": "Breakout for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/gbo-1.3.7z/GBO%201.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1739,
+  "name": "Crab Island",
+  "author": "Aramallo",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ALEXRA001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/695-crabisland.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1739-crab-island.png",
+  "description": "Just a barely coherent set of action RPG game mechanics and ugly (but very efficiently compressed!) textures.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

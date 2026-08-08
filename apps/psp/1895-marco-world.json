@@ -1,0 +1,16 @@
+{
+  "id": 1895,
+  "name": "Marco World",
+  "author": "Mathieu Cloniet, Boris Couturier, Antoine Craske, Jérôme Deboffles, Clément Lamotte",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1895-marco-world.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/themarcoworld-1.1.3.7z/themarcoworld_1.1.3.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

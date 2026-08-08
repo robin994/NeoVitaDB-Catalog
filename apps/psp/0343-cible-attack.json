@@ -1,0 +1,16 @@
+{
+  "id": 343,
+  "name": "Cible Attack",
+  "author": "Team HCN",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0343-cible-attack.png",
+  "description": "Target shooting game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cible-attack.-7z/CibleAttack.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

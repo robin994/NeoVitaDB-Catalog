@@ -1,0 +1,16 @@
+{
+  "id": 1233,
+  "name": "Pingo Demake",
+  "author": "tijesef",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1233-pingo-demake.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pingo-demake.-7z/Pingo%20Demake.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

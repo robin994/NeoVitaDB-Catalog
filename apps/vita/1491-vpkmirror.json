@@ -1,0 +1,18 @@
+{
+  "id": 1491,
+  "name": "VPKMirror",
+  "author": "NamelessGhoul0",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VPKMIRROR",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/82-VPKMirror.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1491-vpkmirror.png",
+  "description": "Downloads and installs homebrews from VPKMirror directly on your PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

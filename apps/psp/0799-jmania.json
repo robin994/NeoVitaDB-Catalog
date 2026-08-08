@@ -1,0 +1,16 @@
+{
+  "id": 799,
+  "name": "JMania",
+  "author": "Joreofiorio35",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0799-jmania.png",
+  "description": "Rhythm game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jmania.-7z/JMANIA.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

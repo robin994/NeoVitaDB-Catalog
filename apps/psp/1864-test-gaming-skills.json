@@ -1,0 +1,16 @@
+{
+  "id": 1864,
+  "name": "Test Gaming Skills",
+  "author": "Croccio",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1864-test-gaming-skills.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tgs.-7z/TGS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

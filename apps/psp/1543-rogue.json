@@ -1,0 +1,16 @@
+{
+  "id": 1543,
+  "name": "Rogue",
+  "author": "takka",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1543-rogue.png",
+  "description": "Homebrew roguelike game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rogue_test.7z/rogue_test.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

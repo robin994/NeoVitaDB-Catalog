@@ -1,0 +1,16 @@
+{
+  "id": 886,
+  "name": "Legend of Hyrule: Linken's Quest",
+  "author": "Zion, PSPdemon",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0886-legend-of-hyrule-linken-s-quest.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/legend-of-hyrule.-7z/Legend%20Of%20Hyrule.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

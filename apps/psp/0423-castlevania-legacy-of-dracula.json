@@ -1,0 +1,16 @@
+{
+  "id": 423,
+  "name": "Castlevania: Legacy of Dracula",
+  "author": "Pierwolf",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0423-castlevania-legacy-of-dracula.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cv-lod.-7z/CV_LOD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1576,
+  "name": "luaVitaSeccy",
+  "author": "Clem",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CLEM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/333-luaVitaSeccy.vpk",
+  "version": "v.0.3",
+  "prerelease": false,
+  "icon": "1576-luavitaseccy.png",
+  "description": "luaVitaSeccy is a “Section ID” calculator for “legacy” Phantasy Star Online games, namely PSO games that came out before “Blue Burst”. Section ID’s change what drop table enemies have and other minor aspect of those games.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

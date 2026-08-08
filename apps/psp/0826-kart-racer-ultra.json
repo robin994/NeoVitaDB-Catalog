@@ -1,0 +1,16 @@
+{
+  "id": 826,
+  "name": "Kart Racer Ultra",
+  "author": "David Simonsson",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0826-kart-racer-ultra.png",
+  "description": "3D racing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kart-racer-ultra.-7z/KartRacerUltra.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 122,
+  "name": "Arc Angel",
+  "author": "Remi59",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0122-arc-angel.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/arc-angel.-7z/ArcAngel.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

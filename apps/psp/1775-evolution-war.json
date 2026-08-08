@@ -1,0 +1,16 @@
+{
+  "id": 1775,
+  "name": "Evolution War",
+  "author": "Streaper2",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1775-evolution-war.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/streaper-2s-evolution-war.-7z/Streaper2sEvolutionWar.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

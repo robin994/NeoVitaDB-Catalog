@@ -1,0 +1,16 @@
+{
+  "id": 1253,
+  "name": "Pointless Pacman",
+  "author": "Brek Martin (Art)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1253-pointless-pacman.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pointless-pacman.-7z/Pointless%20Pacman.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

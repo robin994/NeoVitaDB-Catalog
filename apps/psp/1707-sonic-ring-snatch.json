@@ -1,0 +1,16 @@
+{
+  "id": 1707,
+  "name": "Sonic Ring Snatch",
+  "author": "IndianCheese",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1707-sonic-ring-snatch.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sonicringsnatch.7z/sonicringsnatch.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

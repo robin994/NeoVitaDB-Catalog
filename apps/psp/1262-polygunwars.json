@@ -1,0 +1,16 @@
+{
+  "id": 1262,
+  "name": "Polygunwars",
+  "author": "Ahrimanes",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1262-polygunwars.png",
+  "description": "Homebrew game for PSP, inspired by Geometry Wars. Won first place at the 2008 Scenery Beta coding competition, and second at the Neo Summer Coding Competition 2008.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/polygunwars.-7z/POLYGUNWARS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

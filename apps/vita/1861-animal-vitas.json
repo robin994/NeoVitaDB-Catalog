@@ -1,0 +1,18 @@
+{
+  "id": 1861,
+  "name": "Animal Vitas",
+  "author": "Spartanfox",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "ANIM41356",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1130-AnimalVitas.vpk",
+  "version": "v.2.0",
+  "prerelease": false,
+  "icon": "1861-animal-vitas.png",
+  "description": "Open world game where you build a town and make it look fancy\nMake friends or enemies with the villagers\nGather resources and trade with others or craft them into new items\nExplore the caves and maybe not die\nMake your house extra fancy and invite people over",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

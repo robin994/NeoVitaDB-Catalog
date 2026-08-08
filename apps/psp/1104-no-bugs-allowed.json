@@ -1,0 +1,16 @@
+{
+  "id": 1104,
+  "name": "No Bugs Allowed",
+  "author": "Shpuld",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1104-no-bugs-allowed.png",
+  "description": "3D shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nba-beta-2-psp.-7z/NBA_Beta2_PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

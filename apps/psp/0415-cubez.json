@@ -1,0 +1,16 @@
+{
+  "id": 415,
+  "name": "Cubez",
+  "author": "Gozy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0415-cubez.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cubez.7z/cubez.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

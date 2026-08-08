@@ -1,0 +1,16 @@
+{
+  "id": 1382,
+  "name": "PSPGolf",
+  "author": "LauriN",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1382-pspgolf.png",
+  "description": "Homebrew golf game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspgolf.-7z/PSPGolf.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1596,
+  "name": "Sensitive",
+  "author": "Jamie Fuller",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1596-sensitive.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sensepsp.7z/sensepsp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

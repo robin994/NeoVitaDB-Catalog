@@ -1,0 +1,16 @@
+{
+  "id": 513,
+  "name": "Duck Killer",
+  "author": "JoeDaStudd",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0513-duck-killer.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/duck-killer.-7z/Duck%20Killer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

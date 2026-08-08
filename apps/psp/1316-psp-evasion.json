@@ -1,0 +1,16 @@
+{
+  "id": 1316,
+  "name": "PSP Evasion",
+  "author": "Sunny (Sebastian M.)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1316-psp-evasion.png",
+  "description": "Dodge the blue balls.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-evasion.-7z/Old%20Versions/PSP%20Evasion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

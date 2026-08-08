@@ -1,0 +1,16 @@
+{
+  "id": 643,
+  "name": "GALPSP Courtroom Ed.",
+  "author": "Karurosu",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0643-galpsp-courtroom-ed.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/galpsp-last-demo.-7z/GALPSP-Last-Demo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

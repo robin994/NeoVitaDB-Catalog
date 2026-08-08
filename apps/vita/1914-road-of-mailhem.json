@@ -1,0 +1,18 @@
+{
+  "id": 1914,
+  "name": "Road of Mailhem",
+  "author": "MRKane",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VHZR12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1249-RoadOfMailhem.vpk",
+  "version": "Beta",
+  "prerelease": false,
+  "icon": "1914-road-of-mailhem.png",
+  "description": "In a world overrun by Zombies there’s only one way to get essential supplies between strongholds: parkour runners brave the zombie infested roads to deliver packages between centres. \nIn this PS1 classic styled game you take on the mantle of Runner braving against vicious zombies, and get a taste of the game as it could be!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 996,
+  "name": "Mayhem in Monsterland",
+  "author": "Jamie Fuller",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0996-mayhem-in-monsterland.png",
+  "description": "Homebrew platformer for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mayhem.7z/mayhem.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

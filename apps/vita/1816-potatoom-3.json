@@ -1,0 +1,18 @@
+{
+  "id": 1816,
+  "name": "Potatoom 3",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DHEWM3ES2",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1052-dhewm3.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1816-potatoom-3.png",
+  "description": "Potatoom 3 is a PoC level port of Doom 3, popular FPS made by idSoftware with idTech 4 engine.\nThis port is based over a modified version of dhewm3 that adds basic multithreading support to idTech 4 optimized furtherly to squeeze as much performances as possible.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

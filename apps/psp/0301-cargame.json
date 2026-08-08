@@ -1,0 +1,16 @@
+{
+  "id": 301,
+  "name": "Cargame",
+  "author": "Nick (dalejrrocks)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0301-cargame.png",
+  "description": "Button-pressing two-player game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cargame-v-0.2.7z/Cargame%20v0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

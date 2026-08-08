@@ -1,0 +1,18 @@
+{
+  "id": 1815,
+  "name": "2PlayersPong",
+  "author": "SoyKhaler",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GDOT00002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1049-2PlayersPong.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1815-2playerspong.png",
+  "description": "Local multiplayer pong for 2 persons in the same console.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

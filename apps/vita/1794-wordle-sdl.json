@@ -1,0 +1,18 @@
+{
+  "id": 1794,
+  "name": "Wordle SDL",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WORDLESDL",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/855-Wordle.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1794-wordle-sdl.png",
+  "description": "Wordle SDL is a port of a clone of Wordle made with SDL.\nWordle is a web-based word game created and developed by Welsh software engineer Josh Wardle, and owned and published by The New York Times Company since 2022. Players have six attempts to guess a five-letter word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

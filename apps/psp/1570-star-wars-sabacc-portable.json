@@ -1,0 +1,16 @@
+{
+  "id": 1570,
+  "name": "Star Wars Sabacc Portable",
+  "author": "Goumba",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1570-star-wars-sabacc-portable.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sabacc-basics-0.7.0a.-7z/Old%20Versions/SabaccBasics0.7.0a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

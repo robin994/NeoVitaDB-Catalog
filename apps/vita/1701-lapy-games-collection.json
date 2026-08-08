@@ -1,0 +1,18 @@
+{
+  "id": 1701,
+  "name": "Lapy Games Collection",
+  "author": "Lapy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LAPY30012",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/613-LapyGC.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1701-lapy-games-collection.png",
+  "description": "A collection of most of the original homebrew games made by Lapy for the PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

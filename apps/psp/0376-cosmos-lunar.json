@@ -1,0 +1,16 @@
+{
+  "id": 376,
+  "name": "Cosmos Lunar",
+  "author": "Team Zenyth",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0376-cosmos-lunar.png",
+  "description": "Dodging game set in space.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cosmos-lunar-french.-7z/Cosmos%20Lunar%20%5BEnglish%5D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

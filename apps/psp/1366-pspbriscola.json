@@ -1,0 +1,16 @@
+{
+  "id": 1366,
+  "name": "PSPBriscola",
+  "author": "Rinnegatamante",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1366-pspbriscola.png",
+  "description": "PSP version of the Italian card game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspbriscola-v.-1.4-signed.-7z/PSPBriscola_v.1.4_signed.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

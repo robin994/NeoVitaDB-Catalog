@@ -1,0 +1,16 @@
+{
+  "id": 1440,
+  "name": "PSPSudoku",
+  "author": "Hpnuts",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1440-pspsudoku.png",
+  "description": "PSP version of Sudoku.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspsudoku-v-1.0.7z/PSPSudoku_v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

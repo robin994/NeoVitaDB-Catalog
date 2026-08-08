@@ -1,0 +1,18 @@
+{
+  "id": 1953,
+  "name": "Door Kickers: Action Squad Vita",
+  "author": "elliencode",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DKAS00000",
+  "repo": "elliencode/actionsquad-psv",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1953-door-kickers-action-squad-vita.png",
+  "description": "This is a wrapper/port of Door Kickers: Action Squad for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as it is.\nThe port features support for physical controls. To have them working, wait for a few seconds in the main menu and press \"Confirm\" in the pop-up offering you to enable controller support.\nNote: The port is largely untested. Please file bug reports to elliencode@proton.me.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

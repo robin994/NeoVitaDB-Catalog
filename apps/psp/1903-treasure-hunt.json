@@ -1,0 +1,16 @@
+{
+  "id": 1903,
+  "name": "Treasure Hunt",
+  "author": "Zach Meston",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1903-treasure-hunt.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/thunt.7z/thunt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

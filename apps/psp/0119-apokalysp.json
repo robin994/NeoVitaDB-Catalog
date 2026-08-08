@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "name": "APokalySP",
+  "author": "Cau'XPROD",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0119-apokalysp.png",
+  "description": "Homebrew zombie game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/apokaly-sp.-7z/APokalySP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 435,
+  "name": "Dave Gnukem PSP",
+  "author": "Denis Televnyy (Deniska)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0435-dave-gnukem-psp.png",
+  "description": "PSP port of the 2D shooter created by David Joffe.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/daveGnukemPSP.7z/daveGnukemPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

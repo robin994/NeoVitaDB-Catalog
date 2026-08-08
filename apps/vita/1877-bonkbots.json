@@ -1,0 +1,18 @@
+{
+  "id": 1877,
+  "name": "BonkBots!",
+  "author": "Almidasa Studios",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BKBT13371",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1149-BonkBots.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1877-bonkbots.png",
+  "description": "BonkBots! is an arcade fighting game where your goal is to defeat waves of bots by either smashing them with a hammer or slashing their wires with a sword. Upgrade your gear and prepare for the incoming waves by taking the enemy drops to the incinerator.\nDestroy waves of bots, see how long you can last and most importantly, have fun bonking!\nOverclock is not mandatory, but recommended.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

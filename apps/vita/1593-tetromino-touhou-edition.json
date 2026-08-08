@@ -1,0 +1,18 @@
+{
+  "id": 1593,
+  "name": "Tetromino: Touhou Edition",
+  "author": "Aurora & svennd",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "THTR00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/376-Tetromino_20-_20Touhou_20Edition.vpk",
+  "version": "v.0.7A-TH1",
+  "prerelease": false,
+  "icon": "1593-tetromino-touhou-edition.png",
+  "description": "A Tetris clone based on vita-tetromino with added features and based on Touhou for the theme.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

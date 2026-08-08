@@ -1,0 +1,16 @@
+{
+  "id": 1407,
+  "name": "pspMastermind",
+  "author": "Chicky",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1407-pspmastermind.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspMastermind.7z/pspMastermind.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

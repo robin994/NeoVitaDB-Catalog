@@ -1,0 +1,17 @@
+{
+  "id": 2082,
+  "name": "Wagic",
+  "author": "Wagic Team",
+  "category": "game",
+  "platform": "psp",
+  "repo": "WagicProject/wagic",
+  "asset": "WagicPSP-*.zip",
+  "prerelease": false,
+  "icon": "2082-wagic.png",
+  "description": "An unofficial Magic: The Gathering card game for PSP.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 676,
+  "name": "Goku Scape",
+  "author": "Saya, Adrian",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0676-goku-scape.png",
+  "description": "Dodging homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/goku-scape.-7z/goku%20scape.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

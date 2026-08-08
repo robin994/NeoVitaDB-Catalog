@@ -1,0 +1,16 @@
+{
+  "id": 770,
+  "name": "IMPGame",
+  "author": "Germano Fabio (Gefa)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0770-impgame.png",
+  "description": "Hangman for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/impgame.-7z/ImpGAMEV21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

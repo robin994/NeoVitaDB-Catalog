@@ -1,0 +1,16 @@
+{
+  "id": 1803,
+  "name": "Super Pong",
+  "author": "Garak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1803-super-pong.png",
+  "description": "Version of Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/superpongv1.10/superpongv1.10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1891,
+  "name": "Smash TV HD-2D",
+  "author": "captkuso",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SMTV00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1190-smash_tv.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1891-smash-tv-hd-2d.png",
+  "description": "A short action game for PSVITA made in Godot.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

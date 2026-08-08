@@ -1,0 +1,16 @@
+{
+  "id": 875,
+  "name": "Last Call",
+  "author": "HardHat & Team",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0875-last-call.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lastcall031.7z/lastcall031.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

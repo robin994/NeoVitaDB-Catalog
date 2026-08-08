@@ -1,0 +1,16 @@
+{
+  "id": 1274,
+  "name": "Pong Portable",
+  "author": "Wiz (1989studio.com)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1274-pong-portable.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong.-7z/PONG.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1626,
+  "name": "Get the F off my lawn",
+  "author": "Paulo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OOPP54321",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/449-Get_20the_20F_20off_20my_20lawn.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1626-get-the-f-off-my-lawn.png",
+  "description": "A port of Get the F off my lawn for PSVITA/PSTV.\nDefend your home from Big Bad Wolves.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

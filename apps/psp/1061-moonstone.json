@@ -1,0 +1,16 @@
+{
+  "id": 1061,
+  "name": "Moonstone",
+  "author": "bWWd",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1061-moonstone.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/moonstonepcpsp.7z/moonstonepcpsp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

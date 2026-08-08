@@ -1,0 +1,16 @@
+{
+  "id": 757,
+  "name": "iPlay Arkanoid",
+  "author": "J3r3mie",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0757-iplay-arkanoid.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/i-play-arkanoid.-7z/iPlay%20Arkanoid.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

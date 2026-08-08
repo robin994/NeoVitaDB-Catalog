@@ -1,0 +1,16 @@
+{
+  "id": 1414,
+  "name": "PSPokemon",
+  "author": "sony psp player",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1414-pspokemon.png",
+  "description": "Pokemon fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspokemon.7z/pspokemon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

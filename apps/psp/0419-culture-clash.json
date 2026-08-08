@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "name": "Culture Clash",
+  "author": "Mario Vallo Jr, Joelito Permejo, Zechariah Lev Jabines",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0419-culture-clash.png",
+  "description": "Fighting homebrew game for PSP, created by the Kalog Dev Team.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/culture-clash.-7z/Culture%20Clash.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

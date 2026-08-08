@@ -1,0 +1,16 @@
+{
+  "id": 709,
+  "name": "Half-Life PSP",
+  "author": "QTeam",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0709-half-life-psp.png",
+  "description": "Recreation of the original PC game using the ADQuake engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/half-life.-7z_202101/Half-Life.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

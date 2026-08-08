@@ -1,0 +1,16 @@
+{
+  "id": 1083,
+  "name": "Musikr",
+  "author": "moikop",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1083-musikr.png",
+  "description": "Music game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/musikr.-7z/Musikr.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

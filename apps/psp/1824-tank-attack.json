@@ -1,0 +1,16 @@
+{
+  "id": 1824,
+  "name": "Tank Attack",
+  "author": "Waywardson",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1824-tank-attack.png",
+  "description": "Two-player homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tank-attack-v.-4.7z/Old%20Versions/Tank%20Attack%20v.4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

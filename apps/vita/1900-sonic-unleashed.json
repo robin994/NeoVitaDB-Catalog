@@ -1,0 +1,18 @@
+{
+  "id": 1900,
+  "name": "Sonic Unleashed",
+  "author": "UnrealDude06",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SOUN02006",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1212-sonic_unleashed.vpk",
+  "version": "v.1.6",
+  "prerelease": false,
+  "icon": "1900-sonic-unleashed.png",
+  "description": "Sonic Unleashed Demake for PSVITA. The game is based on the Wii/PS2 version of the game and includes a single level, Apotos Windmill Isle Act 1.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

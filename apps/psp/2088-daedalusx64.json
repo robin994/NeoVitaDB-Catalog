@@ -1,0 +1,17 @@
+{
+  "id": 2088,
+  "name": "DaedalusX64",
+  "author": "DaedalusX64 Team",
+  "category": "emulator",
+  "platform": "psp",
+  "repo": "DaedalusX64/daedalus",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2088-daedalusx64.png",
+  "description": "DaedalusX64 is a Nintendo 64 emulator whose focus is on speed over accuracy originally made for PSP and later ported to other devices as well.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

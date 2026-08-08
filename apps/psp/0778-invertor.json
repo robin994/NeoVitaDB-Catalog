@@ -1,0 +1,16 @@
+{
+  "id": 778,
+  "name": "Invertor",
+  "author": "miinaturvat",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0778-invertor.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/invertor.7z/invertor.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

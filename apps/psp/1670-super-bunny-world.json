@@ -1,0 +1,16 @@
+{
+  "id": 1670,
+  "name": "Super Bunny World",
+  "author": "MaDSouL",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1670-super-bunny-world.png",
+  "description": "Mod for Super Mini Mario.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smm.-7z_202105/SMM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

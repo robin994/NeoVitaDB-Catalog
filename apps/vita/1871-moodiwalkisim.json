@@ -1,0 +1,18 @@
+{
+  "id": 1871,
+  "name": "MoodiWalkiSim",
+  "author": "soham",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "YHUH12035",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1142-moodi.vpk",
+  "version": "v.1.62",
+  "prerelease": false,
+  "icon": "1871-moodiwalkisim.png",
+  "description": "A playable moody walking simulator using glitchy photogrammetry. Follow the light to find the large building to explore. It's a proof of concept made in two days, there is no ending or collectables.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

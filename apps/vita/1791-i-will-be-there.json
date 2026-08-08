@@ -1,0 +1,18 @@
+{
+  "id": 1791,
+  "name": "I WILL BE THERE",
+  "author": "tayfuntuna",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "IWBTDEMO1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/849-there_demo.vpk",
+  "version": "Demo",
+  "prerelease": false,
+  "icon": "1791-i-will-be-there.png",
+  "description": "I WILL BE THERE is a procedurally-generated, point & click survival-adventure game.\nPlayStation Vita users can exclusively enjoy this demo provided they enabled homebrew features.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

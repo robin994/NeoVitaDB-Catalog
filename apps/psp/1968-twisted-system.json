@@ -1,0 +1,16 @@
+{
+  "id": 1968,
+  "name": "Twisted System",
+  "author": "Soadnation",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1968-twisted-system.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/twisted-system.-7z/Twisted%20System.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

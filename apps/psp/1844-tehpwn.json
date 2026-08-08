@@ -1,0 +1,16 @@
+{
+  "id": 1844,
+  "name": "TehPwn",
+  "author": "Slasher",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1844-tehpwn.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/teh-pwn-v.-01.7z/TehPwnV.01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

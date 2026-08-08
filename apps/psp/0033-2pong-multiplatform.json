@@ -1,0 +1,16 @@
+{
+  "id": 33,
+  "name": "2Pong Multiplatform",
+  "author": "Antonio Escañuela Rodríguez",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0033-2pong-multiplatform.png",
+  "description": "According to the creator, this pong game can be played in network mode with other platforms, such as Nintendo DS and iPhone.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/2pong-multiplatform.-7z/2pong-multiplatform.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

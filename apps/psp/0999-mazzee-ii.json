@@ -1,0 +1,16 @@
+{
+  "id": 999,
+  "name": "Mazzee II",
+  "author": "Leo M. Cabrera",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0999-mazzee-ii.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mazzee.-7z/Mazzee.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

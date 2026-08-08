@@ -1,0 +1,16 @@
+{
+  "id": 1655,
+  "name": "SmashGpsp",
+  "author": "mATkEUpON",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1655-smashgpsp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smash-gpsp.-7z/Extra/SmashEdit.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

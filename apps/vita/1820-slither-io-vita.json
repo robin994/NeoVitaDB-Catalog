@@ -1,0 +1,18 @@
+{
+  "id": 1820,
+  "name": "Slither.io Vita",
+  "author": "SpanishFreddy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABCD96285",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1063-Slither.io_Vita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1820-slither-io-vita.png",
+  "description": "Port of Slither Snake for PSVITA.\nSlither Snake is a clone of Slither.io made in Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

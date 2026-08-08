@@ -1,0 +1,16 @@
+{
+  "id": 2098,
+  "name": "Ubuntu 12 PSP",
+  "author": "joel16",
+  "category": "utility",
+  "platform": "psp",
+  "icon": "2098-ubuntu-12-psp.png",
+  "description": "A multifunctional shell for PSP with Ubuntu 12 like GUI.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ubuntu-12.7z/Ubuntu%2012.zip",
+  "version": "v.1.9 Alpha",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 952,
+  "name": "Magic8Ball",
+  "author": "pspwner",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0952-magic8ball.png",
+  "description": "PSP version of the Magic 8 Ball toy.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/magic-8-ball.-7z/Magic8Ball.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

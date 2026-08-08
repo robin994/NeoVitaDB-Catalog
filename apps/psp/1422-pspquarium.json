@@ -1,0 +1,16 @@
+{
+  "id": 1422,
+  "name": "PSPQuarium",
+  "author": "puffo83",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1422-pspquarium.png",
+  "description": "Fish tank simulator for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspquarium-0-1.7z/PSPQuarium%200-1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

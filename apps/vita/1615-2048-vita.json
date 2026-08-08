@@ -1,0 +1,18 @@
+{
+  "id": 1615,
+  "name": "2048-Vita",
+  "author": "FantaHourglass",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DEFD20485",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/424-2048-Vita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1615-2048-vita.png",
+  "description": "A simple port of 2048 for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

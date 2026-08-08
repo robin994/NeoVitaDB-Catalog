@@ -1,0 +1,16 @@
+{
+  "id": 1379,
+  "name": "PSP GNU Chess",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1379-psp-gnu-chess.png",
+  "description": "Game of chess for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspgchess.7z/pspgchess.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

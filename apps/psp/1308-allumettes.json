@@ -1,0 +1,16 @@
+{
+  "id": 1308,
+  "name": "Allumettes",
+  "author": "Arthur42asse",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1308-allumettes.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-allumettes.-7z/PSP%20Allumettes.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

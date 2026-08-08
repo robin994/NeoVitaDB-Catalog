@@ -1,0 +1,18 @@
+{
+  "id": 1782,
+  "name": "Blue Bayou",
+  "author": "bokoyoss",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BKOYSS000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/818-BlueBayouVita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1782-blue-bayou.png",
+  "description": "Blue Bayou was originally made in one week for GBJAM-8 and ranked #1 in the \"Fun\" category. Part boss rush and part crawdad simulator, players assume the role of a cornered mudbug as they face down a slew of ruthless debt collectors in the Louisiana bayou.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

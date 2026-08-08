@@ -1,0 +1,18 @@
+{
+  "id": 1566,
+  "name": "Plugins Manager",
+  "author": "kylon",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PLMN00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/300-plgmn.vpk",
+  "version": "v.2.5",
+  "prerelease": false,
+  "icon": "1566-plugins-manager.png",
+  "description": "A minimalistic plugin manager for taiHEN.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

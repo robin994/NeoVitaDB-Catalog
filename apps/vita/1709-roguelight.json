@@ -1,0 +1,18 @@
+{
+  "id": 1709,
+  "name": "Roguelight",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ROLI00000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/627-Roguelight.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1709-roguelight.png",
+  "description": "\"The deeper you travel the darker it gets, and you only have your arrows to light the way.\"\nOriginal game by Daniel Linssen.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

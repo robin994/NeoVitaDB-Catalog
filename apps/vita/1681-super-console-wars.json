@@ -1,0 +1,18 @@
+{
+  "id": 1681,
+  "name": "Super Console Wars",
+  "author": "Lapy & Acekone & Dragonixplay",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LAPY30015",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/555-SuperConsoleWars.vpk",
+  "version": "v.1.05",
+  "prerelease": false,
+  "icon": "1681-super-console-wars.png",
+  "description": "A side scrolling shoot'em up for PSVITA/PSTV made with Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1652,
+  "name": "Duck Hunt Remake",
+  "author": "Lapy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LAPY00008",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/483-Duck_20Hunt_20Remake.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1652-duck-hunt-remake.png",
+  "description": "A clone of Duck Hunt, popular classic NES game, for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

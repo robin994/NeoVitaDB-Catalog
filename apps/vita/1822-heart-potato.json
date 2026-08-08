@@ -1,0 +1,18 @@
+{
+  "id": 1822,
+  "name": "Heart Potato",
+  "author": "Discord Mods",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HTPT12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1071-HeartPotato.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1822-heart-potato.png",
+  "description": "Heart Potato is originally a Chillenium game jam submission under the theme \"We Share a Heart\" and won third place.\nAn ancient artifact was discovered in the desert by a group of magical scientists. These scientists have been experimenting with the artifact's mystical powers and found that the artifact feeds on blood -- and its power can bring any fossil back to life. The scientists succeeded in reviving a monstrous T. rex. However, the creature and its partner broke free.  The two dinosaurs must now try to survive the scientists' attempt to subdue them while sharing the power of the ancient artifact.\nAs the player, your objective is to keep the ancient heart artifact charged with blood and balanced so neither T. rex dies while the two dinosaurs fight the scientists and obtain their research blood vials to feed this powerful artifact.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

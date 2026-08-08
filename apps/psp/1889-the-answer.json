@@ -1,0 +1,16 @@
+{
+  "id": 1889,
+  "name": "The Answer",
+  "author": "4LS",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1889-the-answer.png",
+  "description": "Visual novel ported to PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/the_answer.7z/the_answer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

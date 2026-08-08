@@ -1,0 +1,18 @@
+{
+  "id": 1606,
+  "name": "Wasteland Kings",
+  "author": "Vlambeer & JeffRuLz345",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WSTLNDKNG",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/409-WastelandKings.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1606-wasteland-kings.png",
+  "description": "Wasteland Kings is the precursor to Nuclear Throne. This game is a top-down shooter in which you fight enemies in a nuclear wasteland in order to become its ruler.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

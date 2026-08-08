@@ -1,0 +1,16 @@
+{
+  "id": 534,
+  "name": "Echeri",
+  "author": "Guillermo E. Mendez, Guillermo Becerra, fco_otaku",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0534-echeri.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/echeri.-7z/Echeri.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

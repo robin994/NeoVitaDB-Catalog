@@ -1,0 +1,16 @@
+{
+  "id": 1534,
+  "name": "RobotFindsKitten",
+  "author": "Trevor Wilson",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1534-robotfindskitten.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/robot-finds-kitten.-7z/rfk-psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

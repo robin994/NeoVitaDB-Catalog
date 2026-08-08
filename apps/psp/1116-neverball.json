@@ -1,0 +1,16 @@
+{
+  "id": 1116,
+  "name": "Neverball",
+  "author": "Clément Guérin (Geecko)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1116-neverball.png",
+  "description": "PSP version of the game. Font rendering does not work.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/neverball-svn.7z/neverball-svn.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

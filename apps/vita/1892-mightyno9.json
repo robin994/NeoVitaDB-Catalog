@@ -1,0 +1,18 @@
+{
+  "id": 1892,
+  "name": "MightyNo9",
+  "author": "Sungrand Studios",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "MIGHTYNO9",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1191-MightyNo9.vpk",
+  "version": "Demo",
+  "prerelease": false,
+  "icon": "1892-mightyno9.png",
+  "description": "Demo recreation of Mighty No. 9 for PSVITA made in Unity.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

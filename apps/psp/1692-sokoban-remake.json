@@ -1,0 +1,16 @@
+{
+  "id": 1692,
+  "name": "Sokoban Remake",
+  "author": "BuciMaci88",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1692-sokoban-remake.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sokobanRemake.7z/sokobanRemake.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

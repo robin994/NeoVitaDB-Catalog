@@ -1,0 +1,16 @@
+{
+  "id": 16,
+  "name": "1808",
+  "author": "mikethunder",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0016-1808.png",
+  "description": "Homebrew game about the Peninsular War.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/1808.7z/1808.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

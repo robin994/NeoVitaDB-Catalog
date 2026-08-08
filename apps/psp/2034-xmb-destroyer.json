@@ -1,0 +1,16 @@
+{
+  "id": 2034,
+  "name": "XMB Destroyer",
+  "author": "yongobongo, lmtlmt, Phlippi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2034-xmb-destroyer.png",
+  "description": "Destroy your XMB.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/xmb_destroyer.7z/xmb_destroyer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

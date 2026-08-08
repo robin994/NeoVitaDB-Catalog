@@ -1,0 +1,18 @@
+{
+  "id": 1909,
+  "name": "LSWTCS Vita",
+  "author": "gm666q",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LSWCS0000",
+  "direct_url": "https://github.com/gm666q/lswtcs-vita/releases/download/v0.1/lswtcs.vpk",
+  "version": "v.0.1",
+  "prerelease": false,
+  "icon": "1909-lswtcs-vita.png",
+  "description": "This is a wrapper/port of Lego Star Wars: The Complete Saga Android for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.\nBy doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as is.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

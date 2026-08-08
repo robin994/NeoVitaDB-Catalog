@@ -1,0 +1,16 @@
+{
+  "id": 2061,
+  "name": "ZM-Mod",
+  "author": "Hellangel98",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2061-zm-mod.png",
+  "description": "Zombie mod of CSPSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/zm-mod-final-v-1.7z/ZM_MOD_final_v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

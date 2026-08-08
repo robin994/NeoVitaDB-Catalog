@@ -1,0 +1,16 @@
+{
+  "id": 379,
+  "name": "Counter Strike",
+  "author": "Sujo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0379-counter-strike.png",
+  "description": "Doom mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/counter-strike.-7z/Counter%20Strike.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 921,
+  "name": "LuaChase",
+  "author": "ScottyBoyNow",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0921-luachase.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lua-chase-v-1-a.-7z/LuaChaseV1A.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

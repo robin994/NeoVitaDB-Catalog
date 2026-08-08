@@ -1,0 +1,16 @@
+{
+  "id": 1215,
+  "name": "Phase",
+  "author": "Jormii",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1215-phase.png",
+  "description": "A platformer about gaining inertia.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/phase-by-jormii/compilation.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

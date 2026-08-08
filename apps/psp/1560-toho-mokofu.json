@@ -1,0 +1,16 @@
+{
+  "id": 1560,
+  "name": "Toho Mokofu [東方模紅風]",
+  "author": "578",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1560-toho-mokofu.png",
+  "description": "Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rumia/rumia.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

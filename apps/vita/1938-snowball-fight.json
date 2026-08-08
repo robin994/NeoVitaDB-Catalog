@@ -1,0 +1,18 @@
+{
+  "id": 1938,
+  "name": "Snowball Fight",
+  "author": "xqspx",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SBFH12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1324-snowball.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1938-snowball-fight.png",
+  "description": "In Snowball Fight, you turn into the bravest snowball thrower. This is a classic arcade game that was popular on old push-button phones.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

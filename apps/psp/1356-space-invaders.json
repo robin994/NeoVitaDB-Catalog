@@ -1,0 +1,16 @@
+{
+  "id": 1356,
+  "name": "Space Invaders",
+  "author": "Memorix101",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1356-space-invaders.png",
+  "description": "Porting a space invaders game to different platforms, frameworks and game engines.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp_space_invaders_v1_1/psp_space_invaders_v1_1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2006,
+  "name": "Wario Ware PSP",
+  "author": "Jade2293",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2006-wario-ware-psp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wario-ware-psp.-7z/Wario%20Ware%20PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 663,
+  "name": "Glitchy PSP",
+  "author": "luigi2498",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0663-glitchy-psp.png",
+  "description": "Basic 2D platformer game made for the RE:Start! 2022 PSP Game Jam.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/glitchy-alpha-0_10/glitchy-alpha-0_10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

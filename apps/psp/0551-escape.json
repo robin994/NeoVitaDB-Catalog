@@ -1,0 +1,16 @@
+{
+  "id": 551,
+  "name": "Escape",
+  "author": "Trichi1082, Flashware",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0551-escape.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/escape.-7z/Escape.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

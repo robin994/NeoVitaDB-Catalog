@@ -1,0 +1,16 @@
+{
+  "id": 755,
+  "name": "Alien Hunt",
+  "author": "Agrecords",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0755-alien-hunt.png",
+  "description": "Homebrew game for PSP, similar to Duck Hunt.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hunt.7z/hunt.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

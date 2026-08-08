@@ -1,0 +1,16 @@
+{
+  "id": 1515,
+  "name": "Region X Area 0",
+  "author": "mcidclan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1515-region-x-area-0.png",
+  "description": "This homebrew game requires a Go!Cam to function.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/region-x-area-0.7z/RegionX_area0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

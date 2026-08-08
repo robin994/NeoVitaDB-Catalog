@@ -1,0 +1,16 @@
+{
+  "id": 266,
+  "name": "LuaBreakout",
+  "author": "Marc Weisser (mc99)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0266-luabreakout.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breakout.7z_202107/breakout.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

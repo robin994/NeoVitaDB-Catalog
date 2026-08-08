@@ -1,0 +1,18 @@
+{
+  "id": 1913,
+  "name": "Black Sails: Curse of the Deep",
+  "author": "MRKane",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VHPT64830",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1248-BlackSailsCurseOfTheDeep.vpk",
+  "version": "Beta",
+  "prerelease": false,
+  "icon": "1913-black-sails-curse-of-the-deep.png",
+  "description": "This is a quick beta demonstration of part of the combat system that would be intended for the full game: where you will be an upstart pirate who has to break the curse of being a Ghost Pirate!\nBlack Sails is intended to be a combination of Assassins Creed: Pirates for mobile, with the humour and storytelling of Monkey Island, and the vibe of the likes of Alestorm or Pirates of the Caribbean!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

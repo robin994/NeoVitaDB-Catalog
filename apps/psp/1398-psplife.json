@@ -1,0 +1,16 @@
+{
+  "id": 1398,
+  "name": "PSPLife",
+  "author": "Sergiusz Bazanski",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1398-psplife.png",
+  "description": "Game of Life for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psplife.-7z/PSPLife.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

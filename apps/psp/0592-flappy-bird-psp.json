@@ -1,0 +1,16 @@
+{
+  "id": 592,
+  "name": "Flappy Bird PSP",
+  "author": "UNSTOP4BLE",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0592-flappy-bird-psp.png",
+  "description": "Flappy Bird on the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/flappy-psp/FlappyPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

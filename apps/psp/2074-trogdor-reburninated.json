@@ -1,0 +1,17 @@
+{
+  "id": 2074,
+  "name": "Trogdor: Reburninated",
+  "author": "Mode8fx",
+  "category": "game",
+  "platform": "psp",
+  "repo": "Mode8fx/Trogdor-Reburninated",
+  "asset": "*-psp.zip",
+  "prerelease": false,
+  "icon": "2074-trogdor-reburninated.png",
+  "description": "An enhanced recreation of the Homestar Runner Flash game Trogdor, expanded with new features.\n- New Options menu to customize your game\n- Level select\n- New cheats\n- Optional soundtrack from Stinkoman 20X6, another Homestar Runner game\n- Multiple screen scaling options\n- Bugs from the original game have been fixed",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

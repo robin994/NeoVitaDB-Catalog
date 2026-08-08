@@ -1,0 +1,16 @@
+{
+  "id": 368,
+  "name": "Conker Mini",
+  "author": "pspman16",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0368-conker-mini.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/conker-mini.-7z/ConkerMini.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

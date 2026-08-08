@@ -1,0 +1,16 @@
+{
+  "id": 1472,
+  "name": "PvP Pong",
+  "author": "Julian Williams (BlackShark)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1472-pvp-pong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pv-ppongv-4.7z/PvPPongv4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

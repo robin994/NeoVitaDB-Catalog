@@ -1,0 +1,16 @@
+{
+  "id": 238,
+  "name": "Bomberman Arena",
+  "author": "Bruno Antunes (ShUr1k3n)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0238-bomberman-arena.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/bomberman-arena-v-1.0-fw-3.xx.-7z/Old%20Versions/bomberman%20arena%20v1.0%20fw%203.xx.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

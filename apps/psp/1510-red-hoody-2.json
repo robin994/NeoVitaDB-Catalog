@@ -1,0 +1,16 @@
+{
+  "id": 1510,
+  "name": "Red Hoody 2",
+  "author": "Alexandre Salvatore",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1510-red-hoody-2.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/red-hoody-2-demo-alpha-1.0.-7z/RedHoody%202%20%28Demo%20alpha%201.0%29.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

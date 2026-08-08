@@ -1,0 +1,16 @@
+{
+  "id": 1635,
+  "name": "Sisensyo [四川省 PSP]",
+  "author": "ぶーにゃん",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1635-sisensyo-psp.png",
+  "description": "Homebrew version of the Japanese game Shisen-Sho (similar to Mahjong solitaire).",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sisensyo.7z/sisensyo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

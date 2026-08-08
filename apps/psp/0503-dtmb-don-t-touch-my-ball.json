@@ -1,0 +1,16 @@
+{
+  "id": 503,
+  "name": "DTMB - Don't Touch My Ball",
+  "author": "markef, xerpi",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0503-dtmb-don-t-touch-my-ball.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dtmb.-7z/DTMB.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

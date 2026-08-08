@@ -1,0 +1,18 @@
+{
+  "id": 1975,
+  "name": "Rukavychka",
+  "author": "Holy Pangolin & dos",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "DOS1RUKAV",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1447-rukavychka-vita.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1975-rukavychka.png",
+  "description": "The game was inspired by Ukrainian legend of Rukavychka (glove) - in which an old man lost a glove, which came to be a home for many forest animals big and small: from a little mouse to a huge bear. In the story, the old man takes the glove back, but we imagine a story where the animals can live safely in the magical home. They are lost and we have to lead them to it by a fox from the Ukrainian story, and Wawel Dragon from Polish legends, to unify our nations by social cooperation, and unfold/bring safe future for everyone (including forest beings that also need peace to exist).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

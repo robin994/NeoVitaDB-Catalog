@@ -1,0 +1,18 @@
+{
+  "id": 1477,
+  "name": "rinCheat SE",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RCHT00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/46-rinCheatSE.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1477-rincheat-se.png",
+  "description": "rinCheat SE allows you to apply several cheats to your savedata with few passages.\nYou can select your savedata slot and your preferred cheats from the official database that will be automatically updated at homebrew start.\nrinCheat SE also works as a database updater for rinCheat since when it will download database updates, it will update both rinCheat and rinCheat SE updates.\nIt supports both rinCheat and vita-savemgr.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

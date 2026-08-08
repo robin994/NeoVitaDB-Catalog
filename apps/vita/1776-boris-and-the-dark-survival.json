@@ -1,0 +1,18 @@
+{
+  "id": 1776,
+  "name": "Boris and the Dark Survival",
+  "author": "Siul Animation Studios",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BATDS0000",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/801-boris-and-the-dark-survival.vpk",
+  "version": "v.0.1.11",
+  "prerelease": false,
+  "icon": "1776-boris-and-the-dark-survival.png",
+  "description": "Survival comes first...\nBoris needs to find all the tools to survive Joey Drew's study.\nBut be careful because you are not alone, and the Ink Demon is always on the prowl and it won't be good if he catches you!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

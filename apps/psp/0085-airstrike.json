@@ -1,0 +1,16 @@
+{
+  "id": 85,
+  "name": "AirStrike",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0085-airstrike.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/airstrike_psp.7z/airstrike_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

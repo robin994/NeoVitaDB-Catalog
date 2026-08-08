@@ -1,0 +1,16 @@
+{
+  "id": 1161,
+  "name": "OpenLara",
+  "author": "XProger",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1161-openlara.png",
+  "description": "Game engine for Tomb Raider. Data files from the original PlayStation 1 game are required. A demo version of Tomb Raider is included in the pack. Select the 'Game' icon to launch the demo level.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/open-lara.-7z/OpenLara.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

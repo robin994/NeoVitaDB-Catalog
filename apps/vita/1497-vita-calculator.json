@@ -1,0 +1,18 @@
+{
+  "id": 1497,
+  "name": "Vita Calculator",
+  "author": "Flappy Jesus",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITACALCI",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/96-Vita-Calculator.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1497-vita-calculator.png",
+  "description": "A standard calculator for PSVITA/PSTV.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

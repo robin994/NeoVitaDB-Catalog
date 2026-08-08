@@ -1,0 +1,16 @@
+{
+  "id": 2067,
+  "name": "Zombie Desert",
+  "author": "Calvin, Hardhat, Harry, DJ Sjors",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2067-zombie-desert.png",
+  "description": "2D homebrew game for PSP. Won first place at the Homebrew Idol 3 coding competition of 2010.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/zombiedesert.7z/zombiedesert.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

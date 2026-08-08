@@ -1,0 +1,16 @@
+{
+  "id": 744,
+  "name": "Half-Life",
+  "author": "Sisah",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0744-half-life.png",
+  "description": "Fan recreation of the game running on a modified Quake engine.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/hlfe0ne.7z/hlfe0ne.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

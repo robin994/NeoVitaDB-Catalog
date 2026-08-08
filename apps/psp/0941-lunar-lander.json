@@ -1,0 +1,16 @@
+{
+  "id": 941,
+  "name": "Lunar Lander",
+  "author": "Thepixelatedpoo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0941-lunar-lander.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lunarlander_v05.7z/LUNARLANDER.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

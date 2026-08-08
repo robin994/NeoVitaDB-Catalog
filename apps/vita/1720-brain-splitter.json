@@ -1,0 +1,18 @@
+{
+  "id": 1720,
+  "name": "Brain Splitter",
+  "author": "Lapy",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LAPY30017",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/665-BrainSplitter.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1720-brain-splitter.png",
+  "description": "Brain Splitter is an original vertically scrolling shoot 'em up single player where you have to controle two spaceships at the same time using both joysticks.It includes a Photo Mode which allows you to take incredible screenshots that will be saved directly in your image gallery and a trophy system simulating the trophy system of official games.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

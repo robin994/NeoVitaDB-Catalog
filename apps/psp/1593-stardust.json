@@ -1,0 +1,16 @@
+{
+  "id": 1593,
+  "name": "Stardust",
+  "author": "gozy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1593-stardust.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sdust.7z/sdust.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

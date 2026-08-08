@@ -1,0 +1,16 @@
+{
+  "id": 265,
+  "name": "Breakout",
+  "author": "Jairo David",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0265-breakout.png",
+  "description": "Breakout for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/breakout.-7z/Breakout.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1097,
+  "name": "Naruto Target Practice",
+  "author": "Dark_Wolf",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1097-naruto-target-practice.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/naruto-target-practice-demo.-7z/Naruto%20Target%20Practice%20Demo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

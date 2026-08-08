@@ -1,0 +1,16 @@
+{
+  "id": 606,
+  "name": "FNaF Plus PSP",
+  "author": "KystanSkill",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0606-fnaf-plus-psp.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fnaf-plus-psp/Five%20Nights%20at%20Freddy%27s%20Plus.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

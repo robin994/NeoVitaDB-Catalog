@@ -1,0 +1,16 @@
+{
+  "id": 1533,
+  "name": "RoadKill",
+  "author": "Jared Bruni, Shannon Bruni",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1533-roadkill.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/roadki-ll-psp-lsd.-7z/ROADKiLL_PSP-LSD.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1363,
+  "name": "PSPBlackJack",
+  "author": "CraVavr3",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1363-pspblackjack.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspblackjack-0.2b-4/PSPBlackjack%200.2b4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 544,
+  "name": "Eliminated",
+  "author": "Emeric Baveux (Emeric0101)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0544-eliminated.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eliminated.-7z/Eliminated.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

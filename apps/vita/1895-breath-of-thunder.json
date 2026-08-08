@@ -1,0 +1,18 @@
+{
+  "id": 1895,
+  "name": "Breath of Thunder",
+  "author": "Sungrand Studios",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BREATHOFT",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1197-BreathOfThunder.vpk",
+  "version": "Playable Teaser",
+  "prerelease": false,
+  "icon": "1895-breath-of-thunder.png",
+  "description": "Breath of Thunder is a turn based JRPG created specifically for people who long for a classic RPG experience free of modern complications. There is no obtuse, convoluted storyline, no buttonmashy battle system, and no boring, pointless filler content. Breath of Thunder will remind us all what made us fall in love with this genre in the first place; interesting characters we care about, engaging storylines, vibrant worlds full of fascinating lore, and beautiful music.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

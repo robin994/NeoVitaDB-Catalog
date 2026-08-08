@@ -1,0 +1,16 @@
+{
+  "id": 458,
+  "name": "Dementium: Return to the Ward",
+  "author": "Team Unsilenced",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0458-dementium-return-to-the-ward.png",
+  "description": "3D homebrew game for PSP. Created by: Shaun Zafar - Level Design Elias Monero - Modeling Cass Gentry - Modeling Clint Tryon - Programming",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dementium-rttw.-7z/DementiumRTTW.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

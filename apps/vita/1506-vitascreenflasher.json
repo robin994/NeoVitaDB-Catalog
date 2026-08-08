@@ -1,0 +1,18 @@
+{
+  "id": 1506,
+  "name": "VitaScreenFlasher",
+  "author": "NamelessGhoul0",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SCRENFLSH",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/122-VitaScreenFlasher.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1506-vitascreenflasher.png",
+  "description": "Application that just flashes the PSVITA's screen. Useful if you want to fix dead pixels on your screen.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

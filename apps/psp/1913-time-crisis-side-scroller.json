@@ -1,0 +1,16 @@
+{
+  "id": 1913,
+  "name": "Time Crisis Side Scroller",
+  "author": "NickyP",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1913-time-crisis-side-scroller.png",
+  "description": "OpenBOR mod for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/time_crisis_side_scroller_demov1.7z/time_crisis_side_scroller_demov1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

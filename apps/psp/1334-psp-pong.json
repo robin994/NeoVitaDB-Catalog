@@ -1,0 +1,16 @@
+{
+  "id": 1334,
+  "name": "PSP Pong",
+  "author": "Wonderman",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1334-psp-pong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-pong.-7z/PSP%20Pong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

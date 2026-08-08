@@ -1,0 +1,18 @@
+{
+  "id": 1490,
+  "name": "Katawa Shoujo",
+  "author": "sudovim",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KSVN00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/79-KatawaShoujo.vpk",
+  "version": "v.0.11",
+  "prerelease": false,
+  "icon": "1490-katawa-shoujo.png",
+  "description": "Katawa Shoujo port for PSVITA based on March33 engine.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

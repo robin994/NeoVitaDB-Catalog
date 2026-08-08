@@ -1,0 +1,16 @@
+{
+  "id": 1142,
+  "name": "Not Trust",
+  "author": "VitaCreator",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1142-not-trust.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/not-trust-v-1/Not%20Trust%20v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

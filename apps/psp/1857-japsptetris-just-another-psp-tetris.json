@@ -1,0 +1,16 @@
+{
+  "id": 1857,
+  "name": "JAPSPTetris - Just Another PSP Tetris",
+  "author": "khai_khai",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1857-japsptetris-just-another-psp-tetris.png",
+  "description": "Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tetris.7z/tetris.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1493,
+  "name": "Theme Manager EX",
+  "author": "kylon",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "THMX00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/84-vtheme.vpk",
+  "version": "v.2.1",
+  "prerelease": false,
+  "icon": "1493-theme-manager-ex.png",
+  "description": "Theme Manager Ex is an advanced theme manger for PS Vita that introduces a new type of custom themes: extended themes.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1478,
+  "name": "VitaPad",
+  "author": "Rinnegatamante",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VPAD00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/50-VitaPad.vpk",
+  "version": "v.1.3",
+  "prerelease": false,
+  "icon": "1478-vitapad.png",
+  "description": "VitaPad allows you to use your PSVITA as a wireless PC controller. It supports Windows (both 32 and 64 bit), Android and Linux.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1216,
+  "name": "Phlipple",
+  "author": "Marcin Klimczewski",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1216-phlipple.png",
+  "description": "PSP port of the original game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/phlipple_0.8.5_psp.7z/phlipple_0.8.5_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

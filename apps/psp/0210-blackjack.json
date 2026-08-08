@@ -1,0 +1,16 @@
+{
+  "id": 210,
+  "name": "Blackjack",
+  "author": "KOR",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0210-blackjack.png",
+  "description": "Blackjack for PSP; homebrew game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blackjack.-7z/Blackjack.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

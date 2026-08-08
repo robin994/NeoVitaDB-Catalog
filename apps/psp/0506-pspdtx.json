@@ -1,0 +1,16 @@
+{
+  "id": 506,
+  "name": "PSPDTX",
+  "author": "kidonaru",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0506-pspdtx.png",
+  "description": "Mod of JzBMSPlayer. Requires BMS files to play.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dtxmania-xgfor-psp/DTXManiaXGforPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

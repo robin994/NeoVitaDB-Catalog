@@ -1,0 +1,16 @@
+{
+  "id": 933,
+  "name": "LUAir Hockey",
+  "author": "zeroXorXdieXskater",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0933-luair-hockey.png",
+  "description": "Air hockey game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luair-hockey-v-0.21.7z/LUAirHockeyV0.21.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

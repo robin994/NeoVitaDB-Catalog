@@ -1,0 +1,18 @@
+{
+  "id": 1800,
+  "name": "Neverputt Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NEVERPUTT",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/874-neverputt.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1800-neverputt-vita.png",
+  "description": "A 3D Mini Golf game with lots of levels.\nTest your skills playing mini golf. This game provides variety of golf courses for players of any level.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

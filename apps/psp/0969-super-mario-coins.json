@@ -1,0 +1,16 @@
+{
+  "id": 969,
+  "name": "Super Mario Coins",
+  "author": "Ney Estrabelli",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0969-super-mario-coins.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mario-coinsv-2.0.7z/MarioCoinsv2.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

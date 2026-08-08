@@ -1,0 +1,16 @@
+{
+  "id": 1146,
+  "name": "Numeros",
+  "author": "Chimecho's Productions",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1146-numeros.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/numeros.-7z/Numeros.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 531,
+  "name": "Mario Eater",
+  "author": "Roland Yonaba (SeanPaul223)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0531-mario-eater.png",
+  "description": "Eat the falling Marios.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/eater.-7z/Eater.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

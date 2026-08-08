@@ -1,0 +1,18 @@
+{
+  "id": 1712,
+  "name": "We Are Broken",
+  "author": "m1s3ry",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WEREBROKE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/634-WeAreBroken.vpk",
+  "version": "v.1.0.1",
+  "prerelease": false,
+  "icon": "1712-we-are-broken.png",
+  "description": "You are in a dark room. The vampire in front of you wants to know where is the human resistance hideout. You must resist. Be unbreakable or be broken.\nOriginal game by @raulqueisso",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

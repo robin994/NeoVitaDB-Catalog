@@ -1,0 +1,18 @@
+{
+  "id": 1695,
+  "name": "Dark Paradigm",
+  "author": "ParkingLotStudio",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PLSG10001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/594-DarkParadigm.vpk",
+  "version": "v.0.08a",
+  "prerelease": false,
+  "icon": "1695-dark-paradigm.png",
+  "description": "Dark Paradigm is a project created to fill the hole that the PS Vita has regarding shooters, it's a mix of horror and FPS, the environments are mainly dark and you will lack ammunition if you don't aim to the head.\nThis is a work in progress looking to get feedback from the community. Currently only Arcade mode is available, no bullet/ammo/explosives/weapon pickups are available yet, but they will be soon!\nDon't forget to try out the photo mode!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

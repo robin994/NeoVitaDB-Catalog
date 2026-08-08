@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "name": "1337bells",
+  "author": "ro0kie42",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0013-1337bells.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/1337bells.-7z/1337bells.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

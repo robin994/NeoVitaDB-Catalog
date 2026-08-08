@@ -1,0 +1,18 @@
+{
+  "id": 1846,
+  "name": "Left 4 Dead 2D",
+  "author": "AlexDev2",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "L4D200001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1111-left-4-dead-2-2d-ps-vita-1.1-2.vpk",
+  "version": "v.0.1.1",
+  "prerelease": false,
+  "icon": "1846-left-4-dead-2d.png",
+  "description": "A 2D demake of Left 4 Dead offering a topside view similar to Hotline Miami made with GameMaker Studio.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

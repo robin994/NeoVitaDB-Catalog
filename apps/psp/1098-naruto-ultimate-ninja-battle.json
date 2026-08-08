@@ -1,0 +1,16 @@
+{
+  "id": 1098,
+  "name": "Naruto Ultimate Ninja Battle",
+  "author": "Shaplayer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1098-naruto-ultimate-ninja-battle.png",
+  "description": "Mod of the homebrew game Batalla Ninja, originally by Toños.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/naruto-ultimate-ninja-battle.-7z/Naruto%20Ultimate%20Ninja%20Battle.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

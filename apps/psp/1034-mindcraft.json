@@ -1,0 +1,16 @@
+{
+  "id": 1034,
+  "name": "MindCraft",
+  "author": "Roland Perli",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1034-mindcraft.png",
+  "description": "2D homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mind-craft.-7z/MindCraft.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

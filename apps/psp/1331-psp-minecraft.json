@@ -1,0 +1,16 @@
+{
+  "id": 1331,
+  "name": "PSP Minecraft",
+  "author": "Invisibros",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1331-psp-minecraft.png",
+  "description": "Unofficial PSP port of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psp-minecraft.-7z/PSP%20Minecraft%20%2832mb%29.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

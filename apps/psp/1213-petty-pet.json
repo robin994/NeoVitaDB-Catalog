@@ -1,0 +1,16 @@
+{
+  "id": 1213,
+  "name": "Petty Pet",
+  "author": "PSP-Maniac",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1213-petty-pet.png",
+  "description": "Pet simulator game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/petty.-7z/Old%20Versions/Petty.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

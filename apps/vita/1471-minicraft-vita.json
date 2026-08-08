@@ -1,0 +1,18 @@
+{
+  "id": 1471,
+  "name": "Minicraft Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CRFT00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/24-Minicraft.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1471-minicraft-vita.png",
+  "description": "This is a port of the Ludum Dare #22 entry by Notch called Minicraft.\n\nMinicraft is a 2D top-down sandbox game where your final goal is to \"kill the only other sentient being in the world, making sure youâ€™ll be alone forever\" as stated personally by Notch when he first released this game.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

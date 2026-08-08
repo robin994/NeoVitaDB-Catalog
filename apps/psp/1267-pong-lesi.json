@@ -1,0 +1,16 @@
+{
+  "id": 1267,
+  "name": "Pong LESI",
+  "author": "PEB",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1267-pong-lesi.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pong-lesi-v-01a/PongLESI_v01a.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

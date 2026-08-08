@@ -1,0 +1,16 @@
+{
+  "id": 1493,
+  "name": "Quiz Man",
+  "author": "Team Chilt",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1493-quiz-man.png",
+  "description": "Quiz app for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/quiz-manv-1.7z/QuizManv1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

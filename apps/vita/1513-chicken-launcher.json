@@ -1,0 +1,18 @@
+{
+  "id": 1513,
+  "name": "Chicken Launcher",
+  "author": "crait",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CHICKENS2",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/137-chickenlauncher.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1513-chicken-launcher.png",
+  "description": "Chicken Launcher is an addictive little game based off of Kitten Cannon where you shoot a chicken as far as you can. Try to hit springboards and TNT to give you a big boost, but watch out for spikes! Your high score is recorded and saved.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

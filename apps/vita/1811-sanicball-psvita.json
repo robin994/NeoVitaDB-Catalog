@@ -1,0 +1,18 @@
+{
+  "id": 1811,
+  "name": "SanicBall PSVita",
+  "author": "SpanishFreddy",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ABCD12349",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1027-sanicball.vpk",
+  "version": "v.3",
+  "prerelease": false,
+  "icon": "1811-sanicball-psvita.png",
+  "description": "Port of Sanicball for PSVITA.\nSanicball is a stupid, silly racing game that throws away complex gameplay mechanics, character progression and microtransactions in favor of pure fast.\nIt features the all the latest dumb internet memes thrown together in a blender to form a truly europhoic circlejerking experience. This wasn't the original intention but it ended up happening anyway.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

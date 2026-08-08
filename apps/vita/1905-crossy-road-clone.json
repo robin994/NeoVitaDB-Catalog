@@ -1,0 +1,18 @@
+{
+  "id": 1905,
+  "name": "Crossy Road Clone",
+  "author": "MRKane",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VHCR93675",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1221-CrossyRoadsClone.vpk",
+  "version": "v.0.70",
+  "prerelease": false,
+  "icon": "1905-crossy-road-clone.png",
+  "description": "This is the beta release of a clone of Crossy Road, with a base project made by David Yung-Sheng Lu, and expanded then adapted for Vita by MRKane where it runs at a silky 60fps. \nWhile there's only one character, and a lot of rough edges, the majority of the core Crossy Roads gameplay loop is present in game meaning you can enjoy the core experience of Crossy Road on the Vita.\nThe beta has been a lot of fun to make, but I'm far from finished and will be looking for good ideas to improve the game!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

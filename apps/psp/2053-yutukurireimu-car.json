@@ -1,0 +1,16 @@
+{
+  "id": 2053,
+  "name": "Yutukurireimu Car",
+  "author": "4CLOVERS",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2053-yutukurireimu-car.png",
+  "description": "Mod of the homebrew game JellyCar, inspired by Touhou Project.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/yutukurireimu-car-rev-0.1.7z/Yutukurireimu%20Car-Rev0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

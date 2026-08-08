@@ -1,0 +1,18 @@
+{
+  "id": 1522,
+  "name": "mGBA",
+  "author": "endrift",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "MGBA00001",
+  "repo": "mgba-emu/mgba",
+  "asset": "*vita*.7z",
+  "prerelease": false,
+  "icon": "1522-mgba.png",
+  "description": "mGBA is a new generation of Game Boy Advance emulator. The project started in April 2013 with the goal of being fast enough to run on lower end hardware than other emulators support, without sacrificing accuracy or portability. Even in the initial version, games generally played without problems. mGBA has only gotten better since then, and now boasts being the most accurate GBA emulator around.\n\nOther goals include accurate enough emulation to provide a development environment for homebrew software, a good workflow for tool-assist runners, and a modern feature set for emulators that older emulators may not support.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

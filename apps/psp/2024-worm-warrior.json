@@ -1,0 +1,16 @@
+{
+  "id": 2024,
+  "name": "Worm Warrior",
+  "author": "cdoty",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2024-worm-warrior.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/worm-warrior-psp.-7z/WormWarriorPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

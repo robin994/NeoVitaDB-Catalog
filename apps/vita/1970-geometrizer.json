@@ -1,0 +1,18 @@
+{
+  "id": 1970,
+  "name": "Geometrizer",
+  "author": "frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "GEOM00001",
+  "direct_url": "https://github.com/frangarcj/geometrizer/releases/download/vita-20260711/geometrizer.vpk",
+  "version": "vita-20260711",
+  "prerelease": false,
+  "icon": "1970-geometrizer.png",
+  "description": "A Sega Model 1 arcade-board emulator for the PlayStation Vita.\nGeometrizer is, above all, a playground for AI-assisted development.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

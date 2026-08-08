@@ -1,0 +1,18 @@
+{
+  "id": 1581,
+  "name": "HCL-Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HYDCASLAB",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/347-HCL.vpk",
+  "version": "v.1.1.1",
+  "prerelease": false,
+  "icon": "1581-hcl-vita.png",
+  "description": "HCL-Vita is a port of Hydra Castle Labyrinth for PSVITA.\nHydra Castle Labyrinth, originally Meikyuujou Hydra, is a freeware Indie platformer developed by E. Hashimoto, a.k.a. Buster, and released on his website. The original game was entirely in Japanese, but saw a translation patch months after its original creation.\nThe game hearkens back to early \"Metroidvania\" games like Knightmare II: The Maze of Galious and Legacy of the Wizard: the player explores an immense maze-like dungeon, collecting tools and keys that allow them to proceed deeper. Certain areas are cordoned off from the main dungeon area, and each presents a more linear zone with a boss at the end. The player can find new equipment to make themselves stronger as well.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

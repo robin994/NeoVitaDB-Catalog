@@ -1,0 +1,18 @@
+{
+  "id": 1561,
+  "name": "StemLoader",
+  "author": "Voxel",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "STEM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/279-StemLoader.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1561-stemloader.png",
+  "description": "Similar to b0xLoader for the PS3, it can be used for easily launching and testing/playing SELF (Vita executable) files, that either you or others have created, within a single app.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1699,
+  "name": "Temporary Space: Expanse",
+  "author": "xanderten50",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GMSV00099",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/603-tspace2.vpk",
+  "version": "v.0.52",
+  "prerelease": false,
+  "icon": "1699-temporary-space-expanse.png",
+  "description": "Temporary Space is at heart a simple shooty game based on Asteroids. Temporay Space: Expanse it's the sequel of the original Temporary Space.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46,
+  "name": "48 Hour Pong",
+  "author": "David Perry (Insomniac197)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0046-48-hour-pong.png",
+  "description": "3D version of Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/48-hr-pong.-7z/48HrPong.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

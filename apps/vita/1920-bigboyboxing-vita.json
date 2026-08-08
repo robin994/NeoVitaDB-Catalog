@@ -1,0 +1,18 @@
+{
+  "id": 1920,
+  "name": "BigBoyBoxing Vita",
+  "author": "LordChickenBlaster & SoupMasters",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BBBV04040",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1264-bbbv.vpk",
+  "version": "v.1.3.0",
+  "prerelease": false,
+  "icon": "1920-bigboyboxing-vita.png",
+  "description": "Experience the singleplayer action-boss-rush game with pixel-perfect retro aesthetics and inspiration from classic titles like 'Punch-Out!!', and recent indie hits like 'Cuphead'.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

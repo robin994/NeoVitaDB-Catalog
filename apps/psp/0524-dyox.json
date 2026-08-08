@@ -1,0 +1,16 @@
+{
+  "id": 524,
+  "name": "DYOX",
+  "author": "Bright Night Games",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0524-dyox.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dyox_20210116/DYOX.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

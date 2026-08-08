@@ -1,0 +1,16 @@
+{
+  "id": 398,
+  "name": "CS:GO - Wingman Mode",
+  "author": "St1x51",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0398-cs-go-wingman-mode.png",
+  "description": "Homebrew 3D shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/csgo-wingman-mode.-7z/CSGO%20Wingman%20Mode.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1728,
+  "name": "Have a Good One!",
+  "author": "Eva Vital & Isaque Sanches",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BEAR12340",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/682-HaveAGoodOne.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1728-have-a-good-one.png",
+  "description": "Have a Good One is a narrative puzzle game that follows a postman (post-bear) in a land of teddy bears, who tries to reunite two lost lovers with a letter.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

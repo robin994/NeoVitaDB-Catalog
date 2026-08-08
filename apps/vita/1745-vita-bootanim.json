@@ -1,0 +1,18 @@
+{
+  "id": 1745,
+  "name": "vita-bootanim",
+  "author": "SKGleba",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SKGVBANIM",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/706-vbanim.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1745-vita-bootanim.png",
+  "description": "Simple app that installs a plugin allowing for custom animations usage as replacement for the splashscreen at console boot.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

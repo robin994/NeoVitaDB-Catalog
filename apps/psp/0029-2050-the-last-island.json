@@ -1,0 +1,16 @@
+{
+  "id": 29,
+  "name": "2050: The Last Island",
+  "author": "Stealth Kill",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0029-2050-the-last-island.png",
+  "description": "3D adventure game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/205000870-00000/2050DemoEng.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

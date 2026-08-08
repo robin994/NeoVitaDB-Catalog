@@ -1,0 +1,18 @@
+{
+  "id": 1648,
+  "name": "chro.mono 2",
+  "author": "thp",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CHROMONO2",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/477-chromono2.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1648-chro-mono-2.png",
+  "description": "chro.mono 2 is a puzzle game for mobile devices. Solve puzzles with time limits in 120 exciting levels over 6 different level packs. Improve your scores by finishing levels faster than the target time.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

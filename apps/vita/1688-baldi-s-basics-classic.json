@@ -1,0 +1,18 @@
+{
+  "id": 1688,
+  "name": "Baldi's Basics Classic",
+  "author": "hatoving",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BALD14030",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/573-BaldisBasics.vpk",
+  "version": "v.1.4.3",
+  "prerelease": false,
+  "icon": "1688-baldi-s-basics-classic.png",
+  "description": "Inspired by creepy/bad edutainment games from the 90s, (Sonic's Schoolhouse, I.M. Meen, 3D Dinosaur Adventure: Save the Dinosaurs), Baldi's Basics is a meta-horror game that's really weird, with no real educational value to be found. Collect all 7 of the notebooks and escape the school, all while avoiding Baldi. Baldi has many friends in the school that will slow down your progress and put you at risk of being caught, so learn how each character works and how you can avoid their attention. Find and use items to your advantage. Oh, and finally, try not to get the quiz answers wrong... Each wrong answer makes Baldi angrier...",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

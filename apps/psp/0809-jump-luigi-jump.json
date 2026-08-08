@@ -1,0 +1,16 @@
+{
+  "id": 809,
+  "name": "Jump Luigi Jump",
+  "author": "Stealth Kill",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0809-jump-luigi-jump.png",
+  "description": "Mod of the homebrew game Jump Gunnar Jump.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jump-luigi-jump.-7z/JumpLuigiJump.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

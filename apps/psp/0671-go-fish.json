@@ -1,0 +1,16 @@
+{
+  "id": 671,
+  "name": "Go Fish",
+  "author": "DSI",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0671-go-fish.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/go-fish.-7z/GoFish.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 386,
+  "name": "Creeper Diver",
+  "author": "WS Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0386-creeper-diver.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/creeperdiver-1.2.7z/creeperdiver-1.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

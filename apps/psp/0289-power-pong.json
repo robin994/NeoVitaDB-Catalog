@@ -1,0 +1,16 @@
+{
+  "id": 289,
+  "name": "Power Pong",
+  "author": "Brek Martin (Art)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0289-power-pong.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/c-2.7z/C2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

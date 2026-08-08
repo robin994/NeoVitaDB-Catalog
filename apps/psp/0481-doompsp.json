@@ -1,0 +1,16 @@
+{
+  "id": 481,
+  "name": "DoomPSP",
+  "author": "lantus, Ryochan7, StereoMike, Greg Berkhof",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0481-doompsp.png",
+  "description": "Early PSP port of Doom; the shareware version is included, as well as the source code of the port.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/doom-psp.-7z/Old%20Versions/DOOM-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

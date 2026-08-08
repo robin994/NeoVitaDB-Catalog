@@ -1,0 +1,16 @@
+{
+  "id": 260,
+  "name": "BreakOut4PSP",
+  "author": "Clément Guérin (Geecko)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0260-breakout4psp.png",
+  "description": "Breakout for PSP, but with menus in French.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/break-out-4-psp.-7z/BreakOut4PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

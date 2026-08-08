@@ -1,0 +1,16 @@
+{
+  "id": 937,
+  "name": "LUAtris",
+  "author": "mikehaggar99",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0937-luatris.png",
+  "description": "Version of Tetris for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luatris-0.1-psp-1.0.7z/LUAtris%200.1%20PSP%201.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

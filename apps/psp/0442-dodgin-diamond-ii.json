@@ -1,0 +1,16 @@
+{
+  "id": 442,
+  "name": "Dodgin' Diamond II",
+  "author": "Cpasjuste",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0442-dodgin-diamond-ii.png",
+  "description": "PSP version of the game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dd2_psp.7z/dd2_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

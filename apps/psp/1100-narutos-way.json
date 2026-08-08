@@ -1,0 +1,16 @@
+{
+  "id": 1100,
+  "name": "Narutos Way",
+  "author": "Shaplayer",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1100-narutos-way.png",
+  "description": "Static car-dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/narutos-way-by-shaplayer.-7z/Narutos%20Way%20by%20Shaplayer.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 927,
+  "name": "Lua Blackjack",
+  "author": "Jigga05",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0927-lua-blackjack.png",
+  "description": "Card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/luablackjack-v-1.0.7z/LUABlackjack%20v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

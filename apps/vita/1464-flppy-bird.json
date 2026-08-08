@@ -1,0 +1,18 @@
+{
+  "id": 1464,
+  "name": "Flppy Bird",
+  "author": "gambikules",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FLPP00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/7-flppy_bird.vpk",
+  "version": "v.1.3",
+  "prerelease": false,
+  "icon": "1464-flppy-bird.png",
+  "description": "Flappy Bird clone for the PS Vita wrote in Lua using Lua Player Plus.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

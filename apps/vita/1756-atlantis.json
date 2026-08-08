@@ -1,0 +1,18 @@
+{
+  "id": 1756,
+  "name": "Atlantis",
+  "author": "xanderten50",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GMSGH0ATL",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/753-Atlantis.vpk",
+  "version": "v.0.8",
+  "prerelease": false,
+  "icon": "1756-atlantis.png",
+  "description": "Ported version of Glitchedheart's version of Atari 2600 game. Includes high score saving.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

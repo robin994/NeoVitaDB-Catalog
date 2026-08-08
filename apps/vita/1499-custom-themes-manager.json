@@ -1,0 +1,18 @@
+{
+  "id": 1499,
+  "name": "Custom Themes Manager",
+  "author": "Red Squirrel",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CTMANAGER",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/98-CTManager.vpk",
+  "version": "v.4.02",
+  "prerelease": false,
+  "icon": "1499-custom-themes-manager.png",
+  "description": "Custom Themes Manager is a simple application for PlayStation Vita that allows you, as the name implies, to fully manage your Custom Themes direcly from the console. The user can browse, view, download and install Custom Themes from the online repository of psv.altervista.org on his PSVita directly from the same application, without the need to use the Internet Browser, external apps or mods to the database or to connect the console to a PC. This application also includes a function to completely uninstall any Custom Theme you don't like anymore so as to free up space for new themes, again without the need of a PC or having to format the whole Memory Card. Included also an useful feature to create and restore (in case you need) a backup of your own database (app.db file). Finally, the application also includes a handy function to reboot your PSVita, saving you the trouble to manually shutdown and restart it, useful to correctly apply changes and avoid any bug after Custom Theme(s) installation or uninstallation.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

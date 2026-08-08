@@ -1,0 +1,16 @@
+{
+  "id": 1672,
+  "name": "Super Mini Mario",
+  "author": "Juan Antonio Arguelles Rius (Arguru)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1672-super-mini-mario.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smmh-00237-00000/Extra/Super%20Mini%20Mario%20-%20GFX%20Pack.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 885,
+  "name": "Legacy",
+  "author": "Jono",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0885-legacy.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/legacy_rpg_engine_psp.7z/legacy_rpg_engine_psp.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

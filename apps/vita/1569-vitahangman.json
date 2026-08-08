@@ -1,0 +1,18 @@
+{
+  "id": 1569,
+  "name": "VitaHangman",
+  "author": "Jackiepooh & Rinnegatamante",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HANG00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/306-VitaHangman.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1569-vitahangman.png",
+  "description": "Hangman game where you have to guess a word to win. Supports addition of extra words to the database.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1763,
+  "name": "PlumbersDontWearTies-SDL-vita",
+  "author": "Serph",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PDWT00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/770-PlumbersDontWearTies.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1763-plumbersdontwearties-sdl-vita.png",
+  "description": "Plumbers Don't Wear Ties is an adult-oriented \"romantic comedy\" visual novel/dating sim developed by United Pixtures and published by Kirin Entertainment for the 3DO Interactive Multiplayer. \nAlthough the game did have a DOS version, it had very limited distribution and was published by United Pixtures itself. \nThe game stars Edward J. Foster and Jeanne Basone as John and Jane, respectively; two people who are being pressured by their respective parents to go out and find a spouse. \nThe player's task is to get John and Jane together.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

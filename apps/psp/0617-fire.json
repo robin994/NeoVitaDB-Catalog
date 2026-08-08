@@ -1,0 +1,16 @@
+{
+  "id": 617,
+  "name": "Fire",
+  "author": "DSN",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0617-fire.png",
+  "description": "Fan recreation of the original game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fr-27.7z/FR27.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

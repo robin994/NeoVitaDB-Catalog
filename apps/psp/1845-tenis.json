@@ -1,0 +1,16 @@
+{
+  "id": 1845,
+  "name": "Tenis",
+  "author": "Pucelano",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1845-tenis.png",
+  "description": "Pong for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tenis.-7z/Tenis.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

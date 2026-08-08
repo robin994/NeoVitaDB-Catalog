@@ -1,0 +1,16 @@
+{
+  "id": 342,
+  "name": "Chuckie Egg",
+  "author": "InSoft",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0342-chuckie-egg.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chuckiee.-7z/CHUCKIEE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

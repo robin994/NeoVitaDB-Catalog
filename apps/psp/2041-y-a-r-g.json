@@ -1,0 +1,16 @@
+{
+  "id": 2041,
+  "name": "Y.A.R.G.",
+  "author": "Delta",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2041-y-a-r-g.png",
+  "description": "Homebrew RPG for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/y.-a.-r.-g-beta.-7z/Y.A.R.G%20Beta.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

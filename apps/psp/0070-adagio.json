@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "name": "Adagio",
+  "author": "17",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0070-adagio.png",
+  "description": "A young composer passes by an auditorium and chances upon a dancing performance that changes his very life ... [From insani ]",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/adagio.7z_202102/adagio.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

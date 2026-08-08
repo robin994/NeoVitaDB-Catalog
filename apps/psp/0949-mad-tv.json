@@ -1,0 +1,16 @@
+{
+  "id": 949,
+  "name": "MAD-TV",
+  "author": "Tim2001",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0949-mad-tv.png",
+  "description": "DOSBox repack to play the game (made available by the developer as freeware) on PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mad-tv-tim-2001.7z/MAD-TV_Tim2001.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

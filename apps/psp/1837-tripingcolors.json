@@ -1,0 +1,16 @@
+{
+  "id": 1837,
+  "name": "TriPingColors",
+  "author": "mcidclan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1837-tripingcolors.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tcch-00218-00000/TCC.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

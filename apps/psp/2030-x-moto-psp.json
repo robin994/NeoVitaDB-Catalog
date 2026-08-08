@@ -1,0 +1,16 @@
+{
+  "id": 2030,
+  "name": "X-Moto-PSP",
+  "author": "Antoine Jacquet (Royale)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2030-x-moto-psp.png",
+  "description": "Port of X-Moto 0.4.2 for the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/x-moto-psp-0.2.7z/X-Moto-PSP-0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

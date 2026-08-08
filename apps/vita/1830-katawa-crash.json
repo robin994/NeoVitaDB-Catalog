@@ -1,0 +1,18 @@
+{
+  "id": 1830,
+  "name": "Katawa Crash",
+  "author": "avonder",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VITAKSHOC",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1087-katawa-crash.vpk",
+  "version": "v.01.10",
+  "prerelease": false,
+  "icon": "1830-katawa-crash.png",
+  "description": "Recreation of Katawa Crash, a fan-made flash game inspired from Katawa Shoujo, remade in Godot engine.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

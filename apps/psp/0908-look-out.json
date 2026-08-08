@@ -1,0 +1,16 @@
+{
+  "id": 908,
+  "name": "Look Out!",
+  "author": "iLua Team",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0908-look-out.png",
+  "description": "Dodging game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/look-out-neo-flash.-7z/LookOutNeoFlash.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

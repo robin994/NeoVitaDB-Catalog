@@ -1,0 +1,16 @@
+{
+  "id": 1579,
+  "name": "Save The Castle",
+  "author": "Rubenelportero",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1579-save-the-castle.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/save-the-castle-v-neo.-7z/SaveTheCastle%20v%20neo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

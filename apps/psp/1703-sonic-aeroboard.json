@@ -1,0 +1,16 @@
+{
+  "id": 1703,
+  "name": "Sonic Aeroboard",
+  "author": "Dark_Wolf",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1703-sonic-aeroboard.png",
+  "description": "Dodging game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sonic-aeroboardby-dark-wolfv-1.0.7z/SonicAeroboardbyDark_Wolfv1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 34,
+  "name": "3D Roll",
+  "author": "Chimecho, DeViaNTe",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0034-3d-roll.png",
+  "description": "Homebrew puzzle game for the PlayStation Portable.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/3-d-roll/3D%20Roll.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

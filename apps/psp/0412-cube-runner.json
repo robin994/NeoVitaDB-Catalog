@@ -1,0 +1,16 @@
+{
+  "id": 412,
+  "name": "Cube Runner",
+  "author": "Stinkee2",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0412-cube-runner.png",
+  "description": "Racing game where you play as a cube.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cube-runner-1.7z/CubeRunner1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

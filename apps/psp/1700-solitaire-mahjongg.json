@@ -1,0 +1,16 @@
+{
+  "id": 1700,
+  "name": "Solitaire Mahjongg",
+  "author": "Sjur Kristiansen",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1700-solitaire-mahjongg.png",
+  "description": "Mahjong solitaire homebrew for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/solitaire_mahjongg_v1.0.7z/solitaire_mahjongg_v1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

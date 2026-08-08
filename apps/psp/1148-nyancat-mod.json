@@ -1,0 +1,16 @@
+{
+  "id": 1148,
+  "name": "NyanCat Mod",
+  "author": "Igor Gorev",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1148-nyancat-mod.png",
+  "description": "NyanCat Mod of Platform Portable.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/nyancat-mod-by-igor-gorev.-7z/Nyancat%20mod%20by%20IgorGorev.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

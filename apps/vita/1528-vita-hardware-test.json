@@ -1,0 +1,18 @@
+{
+  "id": 1528,
+  "name": "Vita Hardware Test",
+  "author": "ifrit05",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VHWT00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/177-VitaHangman.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1528-vita-hardware-test.png",
+  "description": "App that tests your console inputs and outputs (buttons, touchscreens, audio, video).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

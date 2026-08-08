@@ -1,0 +1,16 @@
+{
+  "id": 1805,
+  "name": "SuperTux PSP",
+  "author": "riviera71",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1805-supertux-psp.png",
+  "description": "Platform game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/supertux-0.1.3-psp.-7z/Supertux-0.1.3-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

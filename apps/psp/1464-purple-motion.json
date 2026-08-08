@@ -1,0 +1,16 @@
+{
+  "id": 1464,
+  "name": "Purple Motion",
+  "author": "Realtech VR, vertex origin",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1464-purple-motion.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/purple-motion.-7z/Purple%20Motion.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

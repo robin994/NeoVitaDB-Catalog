@@ -1,0 +1,16 @@
+{
+  "id": 71,
+  "name": "Asalto de los Cuadrados",
+  "author": "TheGecko.fr",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0071-asalto-de-los-cuadrados.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/adc-beta.-7z/ADC-BETA.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

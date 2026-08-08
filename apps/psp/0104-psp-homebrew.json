@@ -1,0 +1,16 @@
+{
+  "id": 104,
+  "name": "《彼岸花葬》重制版",
+  "author": "蓝天使制作组",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0104-psp-homebrew.png",
+  "description": "Visual novel for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/angels_blue/PSP%E3%80%8A%E5%BD%BC%E5%B2%B8%E8%8A%B1%E8%91%AC%E3%80%8B%E9%87%8D%E5%88%B6%E7%89%88.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

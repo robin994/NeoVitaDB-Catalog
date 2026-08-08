@@ -1,0 +1,18 @@
+{
+  "id": 1921,
+  "name": "BubblePunk",
+  "author": "CyberTokyo",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "BLPV00980",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1265-BubblePunk-Vita.vpk",
+  "version": "v.0.2",
+  "prerelease": false,
+  "icon": "1921-bubblepunk.png",
+  "description": "Lumina City, 2647.\nIn this cybernetic metropolis, corporations reign supreme, their influence looming large over every facet of society. From the incessant hum of holographic advertisements to the dance of shadows beneath neon signs, the city pulses with a relentless energy that never sleeps.\nYet amidst the chaos and corruption, there exists a haven of tranquility, a sanctuary from the clamor of the streets. Your own handcrafted beverage haven, a cozy retreat from the dystopian realities outside. \nAs the proprietor of this refuge, you are more than just a bartender; you are a listener, a confidant, and a seeker of stories.\nWith an array of handpicked ingredients and a flair for mixology, you craft beverages that transcend mere refreshment, becoming liquid works of art that tantalize the senses and ignite the imagination.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

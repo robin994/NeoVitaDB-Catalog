@@ -1,0 +1,16 @@
+{
+  "id": 37,
+  "name": "3G - Genesis Gravity Game",
+  "author": "Chocodino",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0037-3g-genesis-gravity-game.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/3-g.-7z/3G.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

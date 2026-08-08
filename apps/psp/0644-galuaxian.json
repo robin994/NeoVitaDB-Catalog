@@ -1,0 +1,16 @@
+{
+  "id": 644,
+  "name": "Galuaxian",
+  "author": "antiroC",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0644-galuaxian.png",
+  "description": "Shoot 'em up for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/galuaxian.-7z/Galuaxian_10.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

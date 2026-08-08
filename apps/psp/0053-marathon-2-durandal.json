@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "name": "Marathon 2: Durandal",
+  "author": "Mk (BarrySoft)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0053-marathon-2-durandal.png",
+  "description": "AlephOne port for the PSP, packed with Marathon 2 data.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/a-1-psp-m-2.7z/A1PSP-M2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

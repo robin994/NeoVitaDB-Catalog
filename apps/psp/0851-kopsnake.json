@@ -1,0 +1,16 @@
+{
+  "id": 851,
+  "name": "Kopsnake",
+  "author": "kaltorak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0851-kopsnake.png",
+  "description": "Version of snake for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/kopsnake.-7z/KOPSNAKE.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

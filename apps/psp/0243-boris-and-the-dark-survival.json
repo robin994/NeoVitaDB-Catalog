@@ -1,0 +1,16 @@
+{
+  "id": 243,
+  "name": "Boris and the Dark Survival",
+  "author": "Siul Animation Studios",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0243-boris-and-the-dark-survival.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/boris-and-the-dark-survival-1/boris-and-the-dark-survival-1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

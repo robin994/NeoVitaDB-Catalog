@@ -1,0 +1,16 @@
+{
+  "id": 437,
+  "name": "Spelunky",
+  "author": "Daniel Zalega",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0437-spelunky.png",
+  "description": "PSP port of Derek Yu's game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dbeef-spelunky-psp.7z/Old%20Versions/dbeef-spelunky-psp-04.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

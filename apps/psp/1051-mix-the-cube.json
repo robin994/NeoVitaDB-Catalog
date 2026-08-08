@@ -1,0 +1,16 @@
+{
+  "id": 1051,
+  "name": "Mix The Cube",
+  "author": "sinasquax",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1051-mix-the-cube.png",
+  "description": "Rubik's cube page for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mix-the-cube.-7z/MixTheCube.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1044,
+  "name": "Minesweeper",
+  "author": "Jordan Rehn (SG57)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1044-minesweeper.png",
+  "description": "Minesweeper for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/minesweeper.-7z/Minesweeper.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

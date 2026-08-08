@@ -1,0 +1,16 @@
+{
+  "id": 251,
+  "name": "BoxMan PSP",
+  "author": "Judas",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0251-boxman-psp.png",
+  "description": "Puzzle game; PSP homebrew.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/box-man-psp.-7z/BoxManPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

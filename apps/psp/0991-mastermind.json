@@ -1,0 +1,16 @@
+{
+  "id": 991,
+  "name": "Mastermind",
+  "author": "Team280",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0991-mastermind.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/mastermind.7z/mastermind.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

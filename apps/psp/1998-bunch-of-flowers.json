@@ -1,0 +1,16 @@
+{
+  "id": 1998,
+  "name": "Bunch of Flowers",
+  "author": "mcidclan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1998-bunch-of-flowers.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/vsiuo-v2bunch-of-flowers.7z/vsiuo-v2%2Bbunch-of-flowers.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

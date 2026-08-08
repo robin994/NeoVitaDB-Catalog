@@ -1,0 +1,16 @@
+{
+  "id": 1669,
+  "name": "Super Mini Shadow",
+  "author": "Maxime",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1669-super-mini-shadow.png",
+  "description": "Super Mini Mario mod.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/smm.-7z_202103/SMM.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

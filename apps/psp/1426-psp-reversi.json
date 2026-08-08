@@ -1,0 +1,16 @@
+{
+  "id": 1426,
+  "name": "PSP Reversi",
+  "author": "Joris Vergeer (jojojoris)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1426-psp-reversi.png",
+  "description": "Reversi for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspreversi-v-1.0.7z/PSPReversiV1.0.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1458,
+  "name": "Psy-Xtinction",
+  "author": "Mcidclan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1458-psy-xtinction.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/psy-xtinction_v1.0.1.7z/psy-xtinction_v1.0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1647,
+  "name": "Super Luigi Fighter",
+  "author": "Andres Aguilar (Luigi2498)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1647-super-luigi-fighter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/slf-2.0-psp-cso.-7z/SLF2.0%20PSP-CSO.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

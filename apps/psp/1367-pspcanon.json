@@ -1,0 +1,16 @@
+{
+  "id": 1367,
+  "name": "PSPcanon",
+  "author": "Arknais_14",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1367-pspcanon.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspcanon.-7z/PSPcanon.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

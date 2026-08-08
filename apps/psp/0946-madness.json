@@ -1,0 +1,16 @@
+{
+  "id": 946,
+  "name": "MaDnEsS",
+  "author": "Kozine",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0946-madness.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ma-dn-es-s.-7z/MaDnEsS.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

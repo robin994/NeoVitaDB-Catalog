@@ -1,0 +1,18 @@
+{
+  "id": 1735,
+  "name": "Real Waiting Simulator",
+  "author": "HWNJ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HWCG00003",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/689-RealWaitingSim.vpk",
+  "version": "v.1.1",
+  "prerelease": false,
+  "icon": "1735-real-waiting-simulator.png",
+  "description": "This game is all about waiting. If you last 10 minutes waiting, you win! You should always pay attention to the screen and wait for a \"Quickly! Press X!\" message to appear, since that's how the game knows you're waiting for real. The most realistic simulator ever. You will feel that waiting 10 minutes lasts an eternity...",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

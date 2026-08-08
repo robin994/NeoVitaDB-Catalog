@@ -1,0 +1,18 @@
+{
+  "id": 1850,
+  "name": "Wipeout Rewrite Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WIPEOUT95",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1116-Wipeout.vpk",
+  "version": "v.1.3",
+  "prerelease": false,
+  "icon": "1850-wipeout-rewrite-vita.png",
+  "description": "Port of Wipeout Rewrite for PSVITA.\nWipeout Rewrite is a reimplementation of the 1995 Wipeout game for modern systems featuring high resolution, 60 FPS support, a modernized renderer, CRT post-processing effect and many more features.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC/PSX",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

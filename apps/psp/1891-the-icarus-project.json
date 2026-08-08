@@ -1,0 +1,16 @@
+{
+  "id": 1891,
+  "name": "The Icarus Project",
+  "author": "chaosmachine",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1891-the-icarus-project.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/the_icarus_project_rel1_luaplayer.7z/icarus.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

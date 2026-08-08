@@ -1,0 +1,16 @@
+{
+  "id": 1524,
+  "name": "Space Shooter",
+  "author": "Carl1246",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1524-space-shooter.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/revision-v-0.01.7z/Revision_V0.01.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

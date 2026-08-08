@@ -1,0 +1,16 @@
+{
+  "id": 1942,
+  "name": "Transformers",
+  "author": "Jack118218",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1942-transformers.png",
+  "description": "Fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tranformersv0.2.7z/tranformersv0.2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

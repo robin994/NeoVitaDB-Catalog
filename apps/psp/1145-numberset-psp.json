@@ -1,0 +1,16 @@
+{
+  "id": 1145,
+  "name": "NumberSet PSP",
+  "author": "ぶーにゃん",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1145-numberset-psp.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/number.7z/number.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

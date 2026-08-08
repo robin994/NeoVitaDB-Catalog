@@ -1,0 +1,16 @@
+{
+  "id": 1566,
+  "name": "Rush Hour",
+  "author": "Crazy Coder",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1566-rush-hour.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rush.-7z/Rush.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 228,
+  "name": "BlockZ",
+  "author": "OxAVGP",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0228-blockz.png",
+  "description": "Homebrew puzzle game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blockz.-7z/BLOCKZ.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

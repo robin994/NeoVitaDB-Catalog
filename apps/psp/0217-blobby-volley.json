@@ -1,0 +1,16 @@
+{
+  "id": 217,
+  "name": "Blobby Volley",
+  "author": "Poustak",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0217-blobby-volley.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/blobby.-7z/Blobby.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

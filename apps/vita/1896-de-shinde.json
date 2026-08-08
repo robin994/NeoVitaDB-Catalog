@@ -1,0 +1,18 @@
+{
+  "id": 1896,
+  "name": "De, shinde",
+  "author": "firstbober",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FRBRDESHI",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1198-deshinde.vpk",
+  "version": "v.1.00",
+  "prerelease": false,
+  "icon": "1896-de-shinde.png",
+  "description": "Port of the desktop version of De, shinde made for Wowie Jam 4.0 in Godot Engine.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

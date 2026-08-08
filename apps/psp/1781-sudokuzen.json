@@ -1,0 +1,16 @@
+{
+  "id": 1781,
+  "name": "SudokuZen",
+  "author": "EvilDooinz",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1781-sudokuzen.png",
+  "description": "Sudoku for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/sudoku-zen-3xxr-2.7z/SudokuZen3xxr2.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

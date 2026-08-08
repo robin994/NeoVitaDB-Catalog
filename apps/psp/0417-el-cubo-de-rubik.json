@@ -1,0 +1,16 @@
+{
+  "id": 417,
+  "name": "El cubo de Rubik",
+  "author": "Carlosls",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0417-el-cubo-de-rubik.png",
+  "description": "Rubik's cube for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/cubo-de-rubik-psp.-7z/CuboDeRubikPSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

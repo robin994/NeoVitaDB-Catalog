@@ -1,0 +1,18 @@
+{
+  "id": 1952,
+  "name": ".hack//ez-i",
+  "author": "Twilight Games Studio",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "VTGS00100",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1339-hack-ez-i.vpk",
+  "version": "v.1.0.3",
+  "prerelease": false,
+  "icon": "1952-hack-ez-i.png",
+  "description": "Kite, a beginner in the game The World, is playing with his real-life friend known in-game as Orca when they are attacked by an unidentified monster chasing Aura, a secretive girl. Afterwards, Orca, who died from the monsters attack, enters a coma in the real world. Unable to understand the reason for Orcas coma, Kite joins two new characters to find Aura and bring his friend back.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

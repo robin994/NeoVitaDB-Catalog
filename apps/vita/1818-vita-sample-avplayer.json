@@ -1,0 +1,18 @@
+{
+  "id": 1818,
+  "name": "Vita Sample Avplayer",
+  "author": "yizhigai",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "AVPLAYER1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1057-sample_avplayer.vpk",
+  "version": "v.1.03",
+  "prerelease": false,
+  "icon": "1818-vita-sample-avplayer.png",
+  "description": "A simple video player for PSVITA based off SceAvPlayer module.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

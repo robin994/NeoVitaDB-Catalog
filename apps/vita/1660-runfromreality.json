@@ -1,0 +1,18 @@
+{
+  "id": 1660,
+  "name": "RunFromReality",
+  "author": "LuckTheGamers",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RFLM32541",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/498-RFLM.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1660-runfromreality.png",
+  "description": "Run From Reality is a 2D side-scroll endless running game where we as a player must pass through the very random obstacle to obtain the highest score.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

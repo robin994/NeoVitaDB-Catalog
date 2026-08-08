@@ -1,0 +1,18 @@
+{
+  "id": 1908,
+  "name": "Florpix",
+  "author": "Novi",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "FLRP12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1232-Florpix.vpk",
+  "version": "v.1.0.3",
+  "prerelease": false,
+  "icon": "1908-florpix.png",
+  "description": "Florpix is a fun and fast-paced top-down shooter where you control a ball in a colorful 80s-style inviroment. Your goal is to get the highest score you can by dodging enemies and using your turret. As the game gets harder, you'll need quick reflexes and sharp skills to keep up. Play, improve, and see how high you can score in this exciting, retro adventure.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

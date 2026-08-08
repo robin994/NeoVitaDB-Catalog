@@ -1,0 +1,18 @@
+{
+  "id": 1897,
+  "name": "Cave Story Vita",
+  "author": "IRUZZ",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DOKU41220",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1203-CSE2.vpk",
+  "version": "v.1.0.4",
+  "prerelease": false,
+  "icon": "1897-cave-story-vita.png",
+  "description": "Port of Cave Story for PSVITA based on CSE2 sourcecode.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

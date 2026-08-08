@@ -1,0 +1,16 @@
+{
+  "id": 1223,
+  "name": "TripingColors Lite",
+  "author": "Mcidclan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1223-tripingcolors-lite.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pic_0002/TripingColor_v1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

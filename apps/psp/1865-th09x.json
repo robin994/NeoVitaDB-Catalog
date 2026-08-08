@@ -1,0 +1,16 @@
+{
+  "id": 1865,
+  "name": "TH09x [東方花映塚]",
+  "author": "h5nc",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1865-th09x.png",
+  "description": "Touhou Project fan game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/th-09x/Th09x.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

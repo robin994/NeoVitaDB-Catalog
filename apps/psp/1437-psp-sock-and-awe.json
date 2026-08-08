@@ -1,0 +1,16 @@
+{
+  "id": 1437,
+  "name": "PSP Sock and Awe",
+  "author": "Miles",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1437-psp-sock-and-awe.png",
+  "description": "Hit President Bush with a shoe.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspsockandawe.-7z/PSPsockandawe.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1380,
+  "name": "PSPGGO",
+  "author": "Ludovic Jacomme (Zx-81)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1380-pspggo.png",
+  "description": "Go game for the PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspggo.7z/pspggo.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

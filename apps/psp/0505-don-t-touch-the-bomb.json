@@ -1,0 +1,16 @@
+{
+  "id": 505,
+  "name": "Don't Touch the Bomb",
+  "author": "Markef",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0505-don-t-touch-the-bomb.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/dttbv-demo.-7z/DTTBvDEMO.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

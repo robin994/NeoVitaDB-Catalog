@@ -1,0 +1,16 @@
+{
+  "id": 1820,
+  "name": "Taiko [太鼓の玄人 for PSP]",
+  "author": "requar000",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1820-taiko-for-psp.png",
+  "description": "Rhythm game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/taikopsp-ver084.7z/taikopsp-ver084.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

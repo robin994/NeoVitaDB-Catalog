@@ -1,0 +1,16 @@
+{
+  "id": 95,
+  "name": "AlphaAttackPSP",
+  "author": "Montrob, ZereoX, TMK",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0095-alphaattackpsp.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/alpha-attack-psp-public-beta-1.-7z/AlphaAttackPSP%20%5BPublic%20Beta%201%5D.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

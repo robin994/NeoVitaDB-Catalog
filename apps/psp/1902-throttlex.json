@@ -1,0 +1,16 @@
+{
+  "id": 1902,
+  "name": "ThrottleX",
+  "author": "Matthew Harris (AnonymousTipster)",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1902-throttlex.png",
+  "description": "3D driving game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/throttleX03b.7z/throttleX03b.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

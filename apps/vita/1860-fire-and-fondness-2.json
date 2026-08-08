@@ -1,0 +1,18 @@
+{
+  "id": 1860,
+  "name": "Fire and Fondness 2",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLFIRE201",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1129-fire_and_fondness_2.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1860-fire-and-fondness-2.png",
+  "description": "Port of Fire and Fondness 2 for PSVITA.\nDaytime television just got hot: in the hit gameshow, Fire & Fondness, young lovers put their relationships to the test in the ultimate courtship ritual: attempting to navigate a succession of convoluted, flamethrower-filled deathtraps.\nOur lawyers are advising us to clarify that the fire is fake. As are the teleporters. But the relationships are real! (Probably.)\nFire & Fondness 2 features thirty-five levels, tricks and mechanics around every corner, and a set of super-difficult challenges for expert players.\nOh, and it also has a dog.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

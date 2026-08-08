@@ -1,0 +1,18 @@
+{
+  "id": 1635,
+  "name": "vitaRTCW",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RTCW00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/459-vitaRTCW.vpk",
+  "version": "v.0.9",
+  "prerelease": false,
+  "icon": "1635-vitartcw.png",
+  "description": "A port of Return to Castle Wolfenstein for PSVITA/PSTV based on iortcw.\nWorld War II rages and nations fall. SS head Himmler has Hitler's full backing to twist science and the occult into an army capable of annihilating the Allies once and for all. Battling alone, you're on an intense mission to pierce the black heart of the Third Reich and stop Himmler -- or die trying. Fighting in advanced team-based multiplayer mode, you'll wage your own WWII in an all-out Axis vs. Allies contest for frontline domination.\nPowered by the Quake III Arena engine, the Wolfenstein universe explodes with the kind of epic environments, A.I., firepower and cinematic effects that only a game created by true masters can deliver. The dark reich's closing in. The time to act is now. Evil prevails when good men do nothing.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC Steam",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

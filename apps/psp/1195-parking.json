@@ -1,0 +1,16 @@
+{
+  "id": 1195,
+  "name": "ParKing",
+  "author": "taeKy",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1195-parking.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/par-king.-7z/ParKing.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

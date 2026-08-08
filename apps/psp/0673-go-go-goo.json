@@ -1,0 +1,16 @@
+{
+  "id": 673,
+  "name": "Go!Go!Goo!",
+  "author": "BennyRebirth, Dalk",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0673-go-go-goo.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/go-go-goo-cfv-07.7z/GoGoGooCFv07.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

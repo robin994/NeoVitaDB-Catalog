@@ -1,0 +1,16 @@
+{
+  "id": 633,
+  "name": "Dangerous Rise",
+  "author": "Lua_user",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0633-dangerous-rise.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/ftdangerous-rise.-7z/FTDangerousRise.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

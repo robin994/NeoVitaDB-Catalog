@@ -1,0 +1,18 @@
+{
+  "id": 1887,
+  "name": "Silver Falls Survive",
+  "author": "Sungrand Studios",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SILVERFAL",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1162-SFSurvive_v0_1beta.vpk",
+  "version": "v.0.1 Beta",
+  "prerelease": false,
+  "icon": "1887-silver-falls-survive.png",
+  "description": "Silver Falls Survive is an exclusive horror exploration homebrew game for the PS Vita. The lore and story are fully canonical to the Silver Falls series.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

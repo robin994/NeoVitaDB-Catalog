@@ -1,0 +1,16 @@
+{
+  "id": 1756,
+  "name": "Stakker PSP",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1756-stakker-psp.png",
+  "description": "Puzzle game for PSP. Won first place at the Homebrew Idol 2008 coding contest.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/stakker_psp_update2-mk2k.7z/Old%20Versions/stakker_psp_update2-mk2k.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

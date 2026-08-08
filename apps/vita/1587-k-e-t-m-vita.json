@@ -1,0 +1,18 @@
+{
+  "id": 1587,
+  "name": "K.E.T.M. Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KETM00001",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/356-KETM.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1587-k-e-t-m-vita.png",
+  "description": "This is the PSVITA port of K.E.T.M. (Kill Everything That Moves) , a fast paced 2D shooter.\nThe game is available with the original game style and 4 mods (1941, Star Wars, Iron man, Mario Kart). The Game mode is selectable at startup",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

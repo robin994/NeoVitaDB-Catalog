@@ -1,0 +1,16 @@
+{
+  "id": 957,
+  "name": "Magic",
+  "author": "unai",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0957-magic.png",
+  "description": "Number-guessing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/magic_202108/Magic.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

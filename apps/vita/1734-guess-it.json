@@ -1,0 +1,18 @@
+{
+  "id": 1734,
+  "name": "Guess It!",
+  "author": "HWNJ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HWCG00002",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/688-GuessIt.vpk",
+  "version": "v.1.0",
+  "prerelease": false,
+  "icon": "1734-guess-it.png",
+  "description": "\"Guess it!\" is a multiplayer game designed for 2 - 100 players. The players (or teams) will take turns and each one must guess an image in their corresponding turn. Depending on the category, the image could be related to books, movies, paintings, and more!\nWe also created a customization tool, so anyone can create new categories and make his own personalized \"Guess it!\" version.\nWe have a nice surprise for all of in the game! Take a look at how you can exit the game on the main menu!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

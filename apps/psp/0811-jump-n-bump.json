@@ -1,0 +1,16 @@
+{
+  "id": 811,
+  "name": "Jump 'n Bump",
+  "author": "MK2k",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0811-jump-n-bump.png",
+  "description": "Port of the platform game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/jump-n-bump-psp-1.51b-mk-2k.-7z/Jump_n_Bump_PSP_1.51b-MK2k.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

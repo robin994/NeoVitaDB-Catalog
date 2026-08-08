@@ -1,0 +1,16 @@
+{
+  "id": 2010,
+  "name": "Wedgewars",
+  "author": "Alex Carroll",
+  "category": "game",
+  "platform": "psp",
+  "icon": "2010-wedgewars.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/wedgewars-0.1.7z/Wedgewars_0.1.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

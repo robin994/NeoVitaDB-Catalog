@@ -1,0 +1,18 @@
+{
+  "id": 1915,
+  "name": "Chasing Dawn",
+  "author": "MRKane & Hypatia",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VHCD31415",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1250-ChasingDawn.vpk",
+  "version": "Beta",
+  "prerelease": false,
+  "icon": "1915-chasing-dawn.png",
+  "description": "Chasing Dawn is a collaboration made with Hypatia. Intended to be akin to a Metroidvania except with a branching pathway and story structure, Chasing Dawn is a love-letter to the platformers of old.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

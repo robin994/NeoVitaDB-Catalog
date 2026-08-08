@@ -1,0 +1,16 @@
+{
+  "id": 876,
+  "name": "Last Card",
+  "author": "Mathfacts",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0876-last-card.png",
+  "description": "Homebrew card game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/lastcard.7z/lastcard.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

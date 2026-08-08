@@ -1,0 +1,18 @@
+{
+  "id": 1555,
+  "name": "EUCLIOD",
+  "author": "HexZyle & Rinnegatamante",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "EUCLIOD01",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/263-EUCLIOD.vpk",
+  "version": "r8",
+  "prerelease": false,
+  "icon": "1555-eucliod.png",
+  "description": "EUCLIOD is a stylistic bullet hell game with several levels (with support for custom levels too), different kind of enemies and bosses and different playable ships. It also has a difficulty bar so unexperienced player with bullet hell games can start practicing.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

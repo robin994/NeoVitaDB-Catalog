@@ -1,0 +1,18 @@
+{
+  "id": 1928,
+  "name": "Slendrina the Cellar",
+  "author": "MaloneCZSD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SLCE12345",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1285-SlendrinaCellar.vpk",
+  "version": "v.1.2",
+  "prerelease": false,
+  "icon": "1928-slendrina-the-cellar.png",
+  "description": "This is the story of Slendrina The Cellar. Now she has become more evil than before and hates it when someone intruding on her territory. She will do anything to stop you. Whatever you do .... do not look back!\nTry to find 8 missing old books in the dark cellar and then run to the exit.\nYou also need to find keys to open certain doors.\nLook everywhere, for they could be anywhere.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

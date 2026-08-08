@@ -1,0 +1,16 @@
+{
+  "id": 1945,
+  "name": "Tricked Out Snowboarding",
+  "author": "cubiCPixel",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1945-tricked-out-snowboarding.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/tricked-out.-7z/TrickedOut.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

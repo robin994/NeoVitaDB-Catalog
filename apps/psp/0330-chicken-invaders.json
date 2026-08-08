@@ -1,0 +1,16 @@
+{
+  "id": 330,
+  "name": "Chicken Invaders",
+  "author": "CoderX, Kerey, Eclipse",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0330-chicken-invaders.png",
+  "description": "Space invaders, with chickens.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/chicken-invaders.-7z/Old%20Versions/ChickenInv0_9.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

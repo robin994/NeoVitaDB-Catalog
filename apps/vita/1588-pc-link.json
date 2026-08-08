@@ -1,0 +1,18 @@
+{
+  "id": 1588,
+  "name": "PC Link",
+  "author": "Arkanite",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ARKSPCLNK",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/358-pclink.vpk",
+  "version": "v.0.8b",
+  "prerelease": false,
+  "icon": "1588-pc-link.png",
+  "description": "Allows you to stream your PC session to your PSVITA/PSTV similarly to Vita Moonlight.\nDifferently to the latter, this homebrew supports even AMD cards and old NVIDIA ones.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

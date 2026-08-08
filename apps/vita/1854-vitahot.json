@@ -1,0 +1,18 @@
+{
+  "id": 1854,
+  "name": "VitaHot",
+  "author": "MRKane & digradi",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VTHT52118",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1122-VitaHot.vpk",
+  "version": "v.1.07",
+  "prerelease": false,
+  "icon": "1854-vitahot.png",
+  "description": "The full and really polished build for VitaHOT, the fan clone of SuperHot squeezed down into the palm of your hand! Featuring 21 varied levels inspired by some of the best action movies over the last 50 years, with game-breaking mods to unlock, and seven different gamemodes to shake up the action!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

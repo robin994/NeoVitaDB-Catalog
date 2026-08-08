@@ -1,0 +1,16 @@
+{
+  "id": 1365,
+  "name": "PSP Boxing South Park",
+  "author": "Miles",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1365-psp-boxing-south-park.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pspBoxingSouthPark.7z/pspBoxingSouthPark.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

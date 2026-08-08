@@ -1,0 +1,18 @@
+{
+  "id": 1797,
+  "name": "Lynne",
+  "author": "Just Fer",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RNPYLYNNE",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/862-Linne.vpk",
+  "version": "v.1.01",
+  "prerelease": false,
+  "icon": "1797-lynne.png",
+  "description": "Port of Lynne for PSVITA/PSTV, a visual novel made in RenPy.\nLynne is a short story about the scariest thing in the world: being a teenager.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

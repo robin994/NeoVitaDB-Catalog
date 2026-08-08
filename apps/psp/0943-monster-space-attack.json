@@ -1,0 +1,16 @@
+{
+  "id": 943,
+  "name": "Monster Space Attack",
+  "author": "BigProMan",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0943-monster-space-attack.png",
+  "description": "Shooter game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/m-s-a-0.2.7z/M_S_A_0.4.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

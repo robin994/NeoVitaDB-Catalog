@@ -1,0 +1,16 @@
+{
+  "id": 1475,
+  "name": "Q-PSP",
+  "author": "Calabato64",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1475-q-psp.png",
+  "description": "Quiz game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/q-psp.-7z/Q-PSP.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

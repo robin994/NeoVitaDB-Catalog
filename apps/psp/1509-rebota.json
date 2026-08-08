@@ -1,0 +1,16 @@
+{
+  "id": 1509,
+  "name": "Rebota",
+  "author": "Carlosgs",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1509-rebota.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/rebota.-7z/Rebota.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

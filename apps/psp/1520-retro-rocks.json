@@ -1,0 +1,16 @@
+{
+  "id": 1520,
+  "name": "Retro Rocks",
+  "author": "mathfacts",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1520-retro-rocks.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/retro-rocks.-7z/RetroRocks.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

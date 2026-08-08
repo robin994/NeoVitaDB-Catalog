@@ -1,0 +1,16 @@
+{
+  "id": 1229,
+  "name": "Heads or Tails",
+  "author": "x323, playa93",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1229-heads-or-tails.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/pile-ou-face-2.0-en.-7z/Pile_ou_Face_2.0_EN.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

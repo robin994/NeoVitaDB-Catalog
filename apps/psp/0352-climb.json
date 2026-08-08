@@ -1,0 +1,16 @@
+{
+  "id": 352,
+  "name": "Climb",
+  "author": "Walar",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0352-climb.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/climb.-7z/CLIMB.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

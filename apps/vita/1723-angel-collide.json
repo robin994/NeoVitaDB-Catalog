@@ -1,0 +1,18 @@
+{
+  "id": 1723,
+  "name": "Angel Collide",
+  "author": "xanderten50",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "GFPGM00AC",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/673-AngelCollide.vpk",
+  "version": "v.1",
+  "prerelease": false,
+  "icon": "1723-angel-collide.png",
+  "description": "Angel Collide is a simple side-scrolling shmup built in Gamemaker Studio.\nGifted with the powers of the Halo, the Angel must follow the Golem and his minions across 5 levels and finally defeat him in his stronghold.\nShoot anything that moves and aim for a high score.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 588,
+  "name": "Fishing",
+  "author": "Rechniji",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0588-fishing.png",
+  "description": "Fishing game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fishing.-7z/Fishing.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

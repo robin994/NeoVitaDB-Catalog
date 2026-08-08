@@ -1,0 +1,16 @@
+{
+  "id": 222,
+  "name": "Block Attack",
+  "author": "Error",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0222-block-attack.png",
+  "description": "Puzzle game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/block-attack.-7z_202103/Block%20Attack.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

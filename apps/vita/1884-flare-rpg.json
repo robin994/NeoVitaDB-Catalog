@@ -1,0 +1,18 @@
+{
+  "id": 1884,
+  "name": "Flare RPG",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FLARERPG1",
+  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/1158-flare.vpk",
+  "version": "v.0.8",
+  "prerelease": false,
+  "icon": "1884-flare-rpg.png",
+  "description": "Port of Flare engine for PSVita.\nFlare is an open source, 2D action RPG licensed under the GPL3 license. Its game play can be likened to the games in the Diablo series.\nThis release includes the Empyrean Campaign.\nThe Empyrean Campaign is a game made by the Flare team. The story begins with the player being exiled from their homeland of Empyrean, resulting in them embarking on a quest to regain entry. This journey takes the player through many regions, with plenty of side quests along the way.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": true
+}

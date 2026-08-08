@@ -1,0 +1,16 @@
+{
+  "id": 586,
+  "name": "Fish Fillets - Next Generation",
+  "author": "filip.zigo",
+  "category": "game",
+  "platform": "psp",
+  "icon": "0586-fish-fillets-next-generation.png",
+  "description": "PSP version of the open-source game.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/fish-fillets.-7z/FishFillets.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}

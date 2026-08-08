@@ -1,0 +1,16 @@
+{
+  "id": 1183,
+  "name": "Paf the Blork Reloaded",
+  "author": "Joalb",
+  "category": "game",
+  "platform": "psp",
+  "icon": "1183-paf-the-blork-reloaded.png",
+  "description": "Homebrew game for PSP.",
+  "requirements": "",
+  "direct_url": "https://archive.org/download/paf-the-blork.-7z/PafTheBlork.zip",
+  "version": "1.0",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
