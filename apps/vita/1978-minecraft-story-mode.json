@@ -13,6 +13,6 @@
   "requirements": "Game Data Files: Android",
   "screenshots": [],
   "trophies": false,
-  "ai": false,
+  "ai": true,
   "trusted": false
 }
