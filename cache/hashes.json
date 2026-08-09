@@ -1185,6 +1185,11 @@
     "hash": "74c1a3fada07b79226501996a6a05cfe",
     "hash2": ""
   },
+  "TheLostPantheon/openmw@506989674@2026-08-09T02:10:53Z": {
+    "folder": "",
+    "hash": "82a6c71a111d545e070c49a885425a4c",
+    "hash2": ""
+  },
   "TheMorc/MilkyTrackerVita@113322946@2023-06-18T23:32:54Z": {
     "hash": "49b0250e89f623b3741fbce440556c31",
     "hash2": ""
@@ -2214,6 +2219,11 @@
   "direct:https://archive.org/download/avalanche-v-5.7z/Avalanche%20V5.zip": {
     "folder": "Avalanche V5/Avalanche V5%",
     "hash": "91c9f540b99c25de99661c1c5db6613a",
+    "hash2": ""
+  },
+  "direct:https://archive.org/download/avoid-it-v.-02.7z/Avoid%20It%20v.02.zip": {
+    "folder": "Avoid It v.02",
+    "hash": "2a2b6d653789107ffd3be285b57d57fc",
     "hash2": ""
   },
   "direct:https://archive.org/download/awaker.-7z/Awaker.zip": {
@@ -11901,6 +11911,11 @@
     "hash": "2167302a62a8c0a755fd3e0d44279da6",
     "hash2": ""
   },
+  "direct:https://archive.org/download/zombie-escape-2xxv-11.7z/Zombie_Escape2xxv11.zip": {
+    "folder": "Zombie_Escape2xxv11",
+    "hash": "3904660ae941d25faf5e7a860d7944c6",
+    "hash2": ""
+  },
   "direct:https://archive.org/download/zombie-infections.-7z/Old%20Versions/ZombieInfections.zip": {
     "folder": "ZombieInfections",
     "hash": "521b00a9db033a35521ddbfc331d1af0",
@@ -15075,6 +15090,11 @@
   "nzp-team/nzportable@506181794@2026-08-08T07:54:40Z": {
     "folder": "",
     "hash": "ecb9570a7862a32c9fafcd74387bf803",
+    "hash2": ""
+  },
+  "nzp-team/nzportable@506911172@2026-08-09T00:27:19Z": {
+    "folder": "",
+    "hash": "0908c2497657fdfe0a9924e744e4cc14",
     "hash2": ""
   },
   "oestriot/GcToolKit@462947512@2026-07-01T07:21:09Z": {
