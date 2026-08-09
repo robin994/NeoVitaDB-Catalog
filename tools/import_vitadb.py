@@ -257,9 +257,18 @@ def main() -> None:
     # validate()), so a psp import must only avoid ids already taken under
     # apps/psp/, not apps/vita/ too.
     taken_ids = set()
+    # VitaDB assigns its own internal ids, so the same GitHub project can show
+    # up in the dump under an id this catalog hasn't used yet even though the
+    # project itself was already imported (or added by hand) earlier - the id
+    # check alone doesn't catch that. Dedup by repo too (see issue #19: the
+    # REALPACKA duplicate of LiEnby/real-package-installer got in this way).
+    taken_repos = set()
     for path in (APPS_DIR / args.platform).glob("*.json"):
         if not path.name.startswith("_"):
-            taken_ids.add(json.loads(path.read_text())["id"])
+            existing = json.loads(path.read_text())
+            taken_ids.add(existing["id"])
+            if existing.get("repo"):
+                taken_repos.add(existing["repo"].lower())
 
     skipped: dict[str, list[str]] = {}
 
@@ -282,6 +291,10 @@ def main() -> None:
         if not repo:
             skip("not published on GitHub", entry)
             continue
+        if repo.lower() in taken_repos:
+            skip("repo already in the catalog", entry)
+            continue
+        taken_repos.add(repo.lower())
         candidates.append((entry, repo))
 
     if args.limit:
