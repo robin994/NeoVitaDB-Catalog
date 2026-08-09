@@ -5,7 +5,7 @@
   "category": "utility",
   "platform": "vita",
   "titleid": "CEX2REX20",
-  "direct_url":"https://git.silica.codes/Li/cex-2-rex/releases/download/latest/CEX2REX.vpk",
+  "direct_url": "https://git.silica.codes/Li/cex-2-rex/releases/download/latest/CEX2REX.vpk",
   "version": "latest",
   "prerelease": false,
   "icon": "1986-CEX2REX.png",
@@ -13,6 +13,6 @@
   "requirements": "Henkaku Enso, reF00D and a Testing Kit firmware PUP",
   "screenshots": [],
   "trophies": false,
-  "ai": true,
+  "ai": false,
   "trusted": false
 }

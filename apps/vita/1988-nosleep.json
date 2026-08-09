@@ -5,7 +5,7 @@
   "category": "utility",
   "platform": "vita",
   "titleid": "NOSLEEP00",
-  "direct_url":"https://git.silica.codes/Li/nosleep/releases/download/latest/NoSleep.vpk",
+  "direct_url": "https://git.silica.codes/Li/nosleep/releases/download/latest/NoSleep.vpk",
   "version": "latest",
   "prerelease": false,
   "icon": "1988-nosleep.png",
@@ -13,6 +13,6 @@
   "requirements": "",
   "screenshots": [],
   "trophies": false,
-  "ai": true,
+  "ai": false,
   "trusted": false
 }
