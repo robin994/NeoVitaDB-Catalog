@@ -58,8 +58,8 @@ jobs:
 
       # On pull requests we stop here: the build having succeeded is the check.
       # Besides the checksum cache, the build also rewrites each entry's
-      # "trusted" flag in apps/*.json in place when its star count crosses
-      # TRUSTED_STARS, and it tracks lifetime download totals in
+      # "trusted" flag in apps/*.json in place when its author's membership in
+      # trusted_authors.json changes, and it tracks lifetime download totals in
       # cache/downloads.json (see accumulate_downloads() in build_catalog.py) -
       # both need committing back too, or the next run loses the running state.
       - name: Commit refreshed caches and trust flags
@@ -87,7 +87,20 @@ jobs:
                 exit 1
               fi
               git fetch origin main
-              git rebase origin/main
+              if ! git rebase origin/main; then
+                # A real content conflict (not just a fast-forward gap) means
+                # two runs' independently-regenerated cache files disagree -
+                # nothing worth reconciling line-by-line, since both sides
+                # are just derived data. Drop the botched rebase and recommit
+                # this run's already-built working tree on top of the new
+                # main instead. (A bare `git rebase origin/main` failure
+                # would otherwise kill this whole step immediately under
+                # GitHub Actions' implicit `bash -e`, skipping every
+                # remaining retry.)
+                git rebase --abort
+                git reset --soft origin/main
+                git diff --cached --quiet || git commit -m "Refresh caches and trust flags"
+              fi
             done
           fi
 
