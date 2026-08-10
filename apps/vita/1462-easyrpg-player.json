@@ -5,7 +5,7 @@
   "category": "emulator",
   "platform": "vita",
   "titleid": "EASYRPG01",
-  "direct_url": "https://github.com/DrDecki/VitaDBtoo-db/releases/download/mirror/5-EasyRPG_Player.vpk",
+  "direct_url": "https://ci.easyrpg.org/view/Player/job/player-vita/lastSuccessfulBuild/artifact/easyrpg-player-psvita.zip",
   "version": "v.0.8.1.1",
   "prerelease": false,
   "icon": "1462-easyrpg-player.png",
