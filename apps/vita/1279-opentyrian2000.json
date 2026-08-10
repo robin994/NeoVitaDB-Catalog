@@ -4,7 +4,7 @@
   "author": "andyvand",
   "category": "port",
   "platform": "vita",
-  "titleid": "OPTIRYAN2000",
+  "titleid": "OPTIRYAN2",
   "repo": "andyvand/opentyrian2000",
   "asset": "*.vpk",
   "prerelease": false,
