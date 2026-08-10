@@ -44,6 +44,11 @@
     "hash": "6cea84b6e906e5a228c3ebc563f88be4",
     "hash2": "00b111113e1429eda896e6fd42f463fe"
   },
+  "AntHJ/Reaction-Station@301362759@2025-10-07T03:25:54Z": {
+    "folder": "",
+    "hash": "65b69d3936e02cc49356d24cd937dace",
+    "hash2": "26895abc538ee664754077ab19b4e85f"
+  },
   "AntHJ/Retroarch-Bubble-Builder@49820817@2021-11-19T07:17:06Z": {
     "hash": "65b69d3936e02cc49356d24cd937dace",
     "hash2": "e132bd72f083b958a999be4dc91e670a"
@@ -59,6 +64,16 @@
   "AntHJ/UX0toSD@242402369@2025-03-31T21:19:52Z": {
     "hash": "6cea84b6e906e5a228c3ebc563f88be4",
     "hash2": "7ca9b2a6450720bb03cfb257a62f4c97"
+  },
+  "AntHJ/VitA-Sketch@288855611@2025-09-02T15:57:43Z": {
+    "folder": "",
+    "hash": "65b69d3936e02cc49356d24cd937dace",
+    "hash2": "8ff3ba82b2f93143687b803f87f03417"
+  },
+  "AntHJ/VitaDeck@296584237@2025-09-24T00:56:39Z": {
+    "folder": "",
+    "hash": "65b69d3936e02cc49356d24cd937dace",
+    "hash2": "42e78c917357af258866c5835552e381"
   },
   "Applelo/SwitchSD2Vita@8900688@2018-09-29T16:47:23Z": {
     "hash": "dc75124e6a80db41c408add4344bb60a",
@@ -1086,6 +1101,11 @@
   },
   "ScratchEverywhere/ScratchEverywhere@490537261@2026-07-26T17:21:11Z": {
     "hash": "25fbefe1597e836144036d7498c50299",
+    "hash2": ""
+  },
+  "SilverCrow2323/Don-t-OpenYourVita@61461217@2022-04-04T01:01:34Z": {
+    "folder": "",
+    "hash": "8445829cdea61154c8b91dc3ce8e8f6b",
     "hash2": ""
   },
   "SilverCrow2323/HIKE-BACK-Vita@61784947@2022-04-07T02:01:49Z": {
@@ -11961,6 +11981,11 @@
     "hash": "6affdbf7d051bedf2860325dacf52b5c",
     "hash2": ""
   },
+  "direct:https://ci.easyrpg.org/view/Player/job/player-vita/lastSuccessfulBuild/artifact/easyrpg-player-psvita.zip": {
+    "folder": "",
+    "hash": "43f3dac5a74e8b9a99f3f690422ec35f",
+    "hash2": ""
+  },
   "direct:https://git.silica.codes/Li/Server_Room_Simulator/releases/download/latest/server_room_simulator.vpk": {
     "folder": "",
     "hash": "0c91c430c618744af1f84c6e84f68c93",
@@ -14774,6 +14799,11 @@
     "hash": "28df76217cc4803a8d702c8597b59d38",
     "hash2": ""
   },
+  "hatoving/twewy-old-vita@121797983@2023-08-16T20:32:53Z": {
+    "folder": "",
+    "hash": "b057e4944d90b0d54007ca1d9c96e6d1",
+    "hash2": "b5fa05fb1fe0f97da819a7a0f5ce1d34"
+  },
   "hatoving/zeldapicross_vita@76362782@2022-08-31T00:16:10Z": {
     "hash": "a9646058b9b9df46a75e62fb319642a6",
     "hash2": ""
@@ -14994,6 +15024,11 @@
   },
   "mauricio-gg/vitaki-vitarps5@458034434@2026-06-25T22:00:46Z": {
     "hash": "4cddb53e1a07ae486efadabc21f433dd",
+    "hash2": ""
+  },
+  "mauricio-gg/vitaki-vitarps5@508961357@2026-08-10T16:06:50Z": {
+    "folder": "",
+    "hash": "1df1f2007c4906e251c365e5d7801775",
     "hash2": ""
   },
   "memory-hunter/garfield-wild-ride-vita@475638713@2026-07-13T15:51:42Z": {
@@ -15497,6 +15532,11 @@
   },
   "xyzz/vita-moonlight@316958250@2025-11-16T03:17:33Z": {
     "hash": "0afb9537c114dc3f60d35b5a8faec58f",
+    "hash2": ""
+  },
+  "yoyz/picoloop@3675271@2017-04-17T20:09:35Z": {
+    "folder": "",
+    "hash": "0d5c9559f4b93d08aaa597d83f8d5739",
     "hash2": ""
   },
   "yoyz/picoloop@3706464@2017-04-21T08:31:45Z": {
