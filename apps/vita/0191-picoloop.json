@@ -6,7 +6,7 @@
   "platform": "vita",
   "titleid": "PICOLOOP1",
   "repo": "yoyz/picoloop",
-  "asset": "*.zip",
+  "asset": "*vita.zip",
   "prerelease": false,
   "icon": "0191-picoloop.png",
   "description": "Picoloop is a synth and a stepsequencer (a clone of the famous nanoloop). The step sequencer play 4 tracks simultaneously, by default each track are 16 steps long, you can set the track to be up to 128 steps. Each track has a synthengine which can be a Virtual Analog, a Drum Synth, a FM synth. Each of the step can be edited on the 4 tracks. So for example, you can set a C4 note on step 0, nothing on step 1 and 2, then a D+5 on step 3 until the step 15.\n\nA pattern of 16 steps is played repeatedly while these notes can be edited in various respects like volume, pitch, filter, lfo etc. All parameters are set step-wise, so you can make huge variation of sound on the same pattern. Each channel's patterns can be saved to file slots and are then available for new combinations. Finally, saved patterns can be arranged in a song structure.",

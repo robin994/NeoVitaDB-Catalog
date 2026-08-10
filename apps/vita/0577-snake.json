@@ -6,7 +6,7 @@
   "platform": "vita",
   "titleid": "JJH000002",
   "repo": "JJH47E/snake",
-  "asset": "*.zip",
+  "asset": "*.vpk",
   "prerelease": false,
   "icon": "0577-snake.png",
   "description": "This is a recreation of the famous game, Snake. It includes the ability to play with different themes and difficulties.",

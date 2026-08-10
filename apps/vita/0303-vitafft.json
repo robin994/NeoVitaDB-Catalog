@@ -4,7 +4,7 @@
   "author": "pyroesp",
   "category": "utility",
   "platform": "vita",
-  "titleid": "MFFT00001",
+  "titleid": "MFFT00016",
   "repo": "pyroesp/vitaFFT",
   "asset": "*.vpk",
   "prerelease": false,
