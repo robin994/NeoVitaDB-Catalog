@@ -1,0 +1,19 @@
+{
+  "id": 1990,
+  "name": "My Shut-In Demon! Port",
+  "author": "xblade720",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RNPYMSID2",
+  "repo": "OmegaStator/msid-vita",
+  "asset": "*.vpk",
+  "direct_url": "https://github.com/OmegaStator/msid-vita/releases/download/2.0/My.shut-in.demon.vpk",
+  "prerelease": false,
+  "icon": "1990-renpy-myshutindemon.png",
+  "description": "Ren'py port of My Shut-in demon by MrJack \nGame Files are required for this to work, it is reccomended to use the files comming from itch.io",
+  "requirements": "PC Files from the itch.io version of the game",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
