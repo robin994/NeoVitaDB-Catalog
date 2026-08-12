@@ -1,0 +1,13 @@
+{
+  "id": 2131,
+  "name": "Trifle Psychotic",
+  "author": "KiddRwxSsj",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TRFL00001",
+  "repo": "KiddRwxSsj/trifle-psychotic-vita",
+  "asset": "*.vpk",
+  "icon": "2131-trifle-psychotic.png",
+  "description": "Native PS Vita port of Trifle Psychotic a retro sci-fi platformer written in C99. Built with SDL2 and the Vita's GXM backend.",
+  "trusted": false
+}
