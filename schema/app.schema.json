@@ -121,7 +121,12 @@
 
     "trophies": { "type": "boolean", "default": false },
     "ai": {
-      "description": "Flags homebrew built with AI assistance. Surfaced by a dedicated filter and icon.",
+      "description": "Flags homebrew that is fully vibecoded (AI-generated with little to no human review). Surfaced by a dedicated filter and icon. See ai_assisted for homebrew that only used AI as a development aid.",
+      "type": "boolean",
+      "default": false
+    },
+    "ai_assisted": {
+      "description": "Flags homebrew built with the help of AI but not purely vibecoded (a human author reviewed/wrote a meaningful share of it). Mutually exclusive with ai in intent, though not enforced by the schema.",
       "type": "boolean",
       "default": false
     },

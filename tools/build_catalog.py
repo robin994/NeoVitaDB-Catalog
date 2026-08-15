@@ -63,7 +63,7 @@ FIELD_ORDER = [
     "screenshots", "long_description", "downloads", "source", "release_page",
     "trailer", "size", "data_size", "hash", "hash2", "requirements",
     "trophies", "ai", "data", "url", "changelog", "trusted", "folder",
-    "direct", "added", "likes",
+    "direct", "added", "likes", "ai_assisted",
 ]
 
 # Engine loaders keep eboot.bin identical across releases, so the app also
@@ -578,6 +578,7 @@ def process_entry(path: Path, entry: dict, categories: dict, cache: dict, truste
         "direct": "1" if direct_url else "0",
         "added": added_date(path),
         "likes": str(likes),
+        "ai_assisted": "1" if entry.get("ai_assisted") else "0",
     }
     return result
 
