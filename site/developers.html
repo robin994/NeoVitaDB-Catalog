@@ -2,13 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>NeoVitaDB — Developers</title>
   <meta name="description" content="Learn how to add a PS Vita or PSP homebrew project to the NeoVitaDB catalog." />
+  <meta name="theme-color" content="#050a14" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23050a14'/%3E%3Cpath d='M32 15 L47 40 L17 40 Z' fill='none' stroke='%2316c98a' stroke-width='4' stroke-linejoin='round'/%3E%3Ccircle cx='44' cy='44' r='7' fill='none' stroke='%23ff5470' stroke-width='4'/%3E%3Cpath d='M15 38 L27 50 M27 38 L15 50' stroke='%233d8bff' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+  <script src="theme.js"></script>
 </head>
 <body>
   <div class="wavefield" aria-hidden="true">
@@ -16,6 +19,7 @@
     <div class="wave wave-b"></div>
     <div class="wave wave-c"></div>
   </div>
+  <div class="grain" aria-hidden="true"></div>
 
   <header class="xmb-bar" data-testid="developers-header">
     <a class="xmb-brand brand-link" href="index.html" aria-label="Back to NeoVitaDB catalog">
@@ -30,7 +34,13 @@
         <p class="tagline">developer guide</p>
       </div>
     </a>
-    <a class="developer-link" href="index.html" data-testid="catalog-link">&lt; Back to catalog</a>
+    <div class="xmb-info">
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch between day and night mode" aria-pressed="false" data-testid="theme-toggle">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="4.4" stroke="currentColor" stroke-width="2"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 14.5a8.5 8.5 0 1 1-9.5-13 7 7 0 0 0 9.5 13z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+      <a class="developer-link" href="index.html" data-testid="catalog-link">&lt; Back to catalog</a>
+    </div>
   </header>
 
   <main class="developer-page" aria-labelledby="developer-guide-title">

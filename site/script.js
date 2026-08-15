@@ -23,9 +23,11 @@ const savedFilters = (() => {
   } catch (_) { return {}; }
 })();
 const state = {
-  all: [], platform: "all", category: "all", sort: "date", query: "",
+  all: [], platform: "all", category: "all", sort: "added", query: "", page: 1,
+  pageSize: savedFilters.pageSize === "all" ? "all" : (parseInt(savedFilters.pageSize, 10) || 48),
   trustedOnly: savedFilters.trustedOnly === true,
-  includeAi: savedFilters.includeAi !== false,
+  includeAiAssisted: savedFilters.includeAiAssisted !== false,
+  includeVibecoded: savedFilters.includeVibecoded !== false,
 };
 const $ = (id) => document.getElementById(id);
 const grid = $("grid");
@@ -35,15 +37,23 @@ const emptyEl = $("empty");
 const resultCount = $("result-count");
 const resetBtn = $("reset");
 const trustedOnlyInput = $("trusted-only");
-const includeAiInput = $("include-ai");
+const includeAiAssistedInput = $("include-ai-assisted");
+const includeVibecodedInput = $("include-vibecoded");
+const pageSizeInput = $("page-size");
+const paginationEl = $("pagination");
+const pagePrevBtn = $("page-prev");
+const pageNextBtn = $("page-next");
+const pageIndicator = $("page-indicator");
 
 function isEnabled(value) { return value === true || value === 1 || value === "1" || value === "true"; }
 function saveFilterPreferences() {
-  try { localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify({ trustedOnly: state.trustedOnly, includeAi: state.includeAi })); } catch (_) { }
+  try { localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify({ trustedOnly: state.trustedOnly, includeAiAssisted: state.includeAiAssisted, includeVibecoded: state.includeVibecoded, pageSize: state.pageSize })); } catch (_) {}
 }
 function syncFilterInputs() {
   trustedOnlyInput.checked = state.trustedOnly;
-  includeAiInput.checked = state.includeAi;
+  includeAiAssistedInput.checked = state.includeAiAssisted;
+  includeVibecodedInput.checked = state.includeVibecoded;
+  pageSizeInput.value = String(state.pageSize);
 }
 syncFilterInputs();
 
@@ -134,6 +144,7 @@ async function loadData() {
     loadingEl.hidden = true;
     updateStats();
     render();
+    renderChart();
   } catch (error) {
     loadingEl.hidden = true;
     errorEl.hidden = false;
@@ -148,58 +159,137 @@ function updateStats() {
   $("stat-vita").textContent = fmtNum(vita);
   $("stat-psp").textContent = fmtNum(psp);
 }
+
+/* ---------------- top-10-per-category charts ---------------- */
+const CHART_SIZE = 10;
+let activeChartCategory = "Original Game";
+const chartListEl = $("chart-list");
+
+function chartItemHtml(item, rank) {
+  const initial = escapeHtml((item.name || "?").trim().charAt(0).toUpperCase());
+  const accent = (CAT_GLYPH[item.category] || {}).color || "var(--muted)";
+  return `<button type="button" class="chart-item" data-testid="chart-item-${rank}">
+    <span class="chart-rank">${rank}</span>
+    <span class="card-icon chart-icon" style="--accent:${accent}">
+      <img src="${iconUrl(item)}" alt="" loading="lazy" onerror="this.parentElement.classList.add('fallback')" />
+      <span class="icon-fallback" aria-hidden="true">${initial}</span>
+    </span>
+    <span class="chart-info">
+      <span class="chart-name">${escapeHtml(item.name)}</span>
+      <span class="chart-meta">${escapeHtml(item.author) || "Unknown"} · ${fmtNum(item.downloads)} downloads</span>
+    </span>
+  </button>`;
+}
+
+function renderChart() {
+  const items = state.all
+    .filter((item) => item.category === activeChartCategory)
+    .slice()
+    .sort((a, b) => (parseInt(b.downloads, 10) || 0) - (parseInt(a.downloads, 10) || 0))
+    .slice(0, CHART_SIZE);
+  chartListEl.innerHTML = items.map((item, i) => chartItemHtml(item, i + 1)).join("");
+  Array.from(chartListEl.children).forEach((element, i) => {
+    element.addEventListener("click", () => openModal(items[i]));
+  });
+}
 function getFiltered() {
   let list = state.all.slice();
   if (state.platform !== "all") list = list.filter((item) => item.platform === state.platform);
   if (state.category !== "all") list = list.filter((item) => item.category === state.category);
   if (state.trustedOnly) list = list.filter((item) => isEnabled(item.trusted));
-  if (!state.includeAi) list = list.filter((item) => !isEnabled(item.ai));
+  if (!state.includeAiAssisted) list = list.filter((item) => !isEnabled(item.ai_assisted));
+  if (!state.includeVibecoded) list = list.filter((item) => !isEnabled(item.ai));
   if (state.query) {
     const query = state.query.toLowerCase();
     list = list.filter((item) => (item.name || "").toLowerCase().includes(query) || (item.author || "").toLowerCase().includes(query));
   }
-  if (state.sort === "downloads") list.sort((a, b) => (parseInt(b.downloads, 10) || 0) - (parseInt(a.downloads, 10) || 0));
-  else if (state.sort === "date") list.sort((a, b) => new Date(b.date) - new Date(a.date));
+  if (state.sort === "added") list.sort((a, b) => new Date(b.added) - new Date(a.added));
+  else if (state.sort === "updated") list.sort((a, b) => new Date(b.date) - new Date(a.date));
+  else if (state.sort === "oldest") list.sort((a, b) => new Date(a.date) - new Date(b.date));
+  else if (state.sort === "downloads") list.sort((a, b) => (parseInt(b.downloads, 10) || 0) - (parseInt(a.downloads, 10) || 0));
+  else if (state.sort === "downloads_asc") list.sort((a, b) => (parseInt(a.downloads, 10) || 0) - (parseInt(b.downloads, 10) || 0));
   else if (state.sort === "name") list.sort((a, b) => (a.name || "").localeCompare(b.name || ""));
+  else if (state.sort === "name_desc") list.sort((a, b) => (b.name || "").localeCompare(a.name || ""));
+  else if (state.sort === "size_asc") list.sort((a, b) => (parseInt(a.size, 10) || 0) - (parseInt(b.size, 10) || 0));
+  else if (state.sort === "size_desc") list.sort((a, b) => (parseInt(b.size, 10) || 0) - (parseInt(a.size, 10) || 0));
+  else if (state.sort === "score_desc") list.sort((a, b) => (parseInt(b.likes, 10) || 0) - (parseInt(a.likes, 10) || 0));
+  else if (state.sort === "score_asc") list.sort((a, b) => (parseInt(a.likes, 10) || 0) - (parseInt(b.likes, 10) || 0));
   return list;
 }
 
 /* ---------------- rendering ---------------- */
 function cardHtml(item, index) {
   const initial = escapeHtml((item.name || "?").trim().charAt(0).toUpperCase());
+  const accent = (CAT_GLYPH[item.category] || {}).color || "var(--muted)";
   const platformBadge = item.platform === "vita" ? '<span class="badge badge-vita">PS Vita</span>' : '<span class="badge badge-psp">PSP</span>';
   const trusted = isEnabled(item.trusted) ? '<span class="badge badge-trusted">Trusted</span>' : "";
-  const ai = isEnabled(item.ai) ? '<span class="badge badge-ai">AI-assisted</span>' : "";
+  const vibecoded = isEnabled(item.ai) ? '<span class="badge badge-ai">Vibecoded</span>' : "";
+  const aiAssisted = isEnabled(item.ai_assisted) ? '<span class="badge badge-ai-assisted">AI-assisted</span>' : "";
   const direct = item.direct && item.direct !== "0" ? '<span class="badge badge-direct">Direct</span>' : "";
   const description = escapeHtml(item.long_description || item.description || "No description available.");
   return `<article class="card" data-plat="${item.platform}" tabindex="0" style="animation-delay:${Math.min(index, 24) * 20}ms" data-testid="card-${item.platform}-${escapeHtml(item.id)}">
     <div class="card-top">
-      <img class="card-icon" src="${iconUrl(item)}" alt="" loading="lazy" onerror="this.classList.add('fallback');this.removeAttribute('src');this.textContent='${initial}';" />
+      <span class="card-icon" style="--accent:${accent}">
+        <img src="${iconUrl(item)}" alt="" loading="lazy" onerror="this.parentElement.classList.add('fallback')" />
+        <span class="icon-fallback" aria-hidden="true">${initial}</span>
+      </span>
       <div class="card-head">
         <p class="card-name">${escapeHtml(item.name)}</p>
         <p class="card-author">${escapeHtml(item.author) || "Unknown"}</p>
       </div>
     </div>
-    <div class="badges">${platformBadge}<span class="badge badge-cat">${glyphSvg(item.category)}${escapeHtml(item.category)}</span>${trusted}${ai}${direct}</div>
+    <div class="badges">${platformBadge}<span class="badge badge-cat">${glyphSvg(item.category)}${escapeHtml(item.category)}</span>${trusted}${vibecoded}${aiAssisted}${direct}</div>
     <p class="card-description">${description}</p>
     <div class="card-meta">
-      <span class="dl"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>${fmtNum(item.downloads)} <span class="info-tooltip" title="Downloads are fetched directly from GitHub releases and may differ from legacy historical data." style="cursor:help;opacity:0.7;margin-left:4px;font-size:10px;">ⓘ</span></span>
+      <div class="counters">
+        <span class="dl"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>${fmtNum(item.downloads)} <span class="info-tooltip" title="Downloads are fetched directly from GitHub releases and may differ from legacy historical data." style="cursor:help;opacity:0.7;margin-left:4px;font-size:10px;">ⓘ</span></span>
+        <span class="dl likes"><svg viewBox="0 0 24 24" fill="none"><path d="M12 17.3l-5.4 3 1.4-6-4.6-4 6-.5L12 4l2.6 5.8 6 .5-4.6 4 1.4 6z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>${fmtNum(item.likes)}</span>
+      </div>
       <span class="ver">${escapeHtml(item.version) || "—"}</span>
     </div>
   </article>`;
 }
-function render() {
-  const list = getFiltered();
-  const active = state.platform !== "all" || state.category !== "all" || state.query || state.trustedOnly || !state.includeAi;
-  resetBtn.hidden = !active;
-  resultCount.innerHTML = `<b>${fmtNum(list.length)}</b> ${list.length === 1 ? "result" : "results"}`;
-  if (!list.length) { grid.innerHTML = ""; emptyEl.hidden = false; return; }
-  emptyEl.hidden = true;
-  grid.innerHTML = list.map(cardHtml).join("");
-  Array.from(grid.children).forEach((element, index) => {
-    element.addEventListener("click", () => openModal(list[index]));
-    element.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); openModal(list[index]); } });
+// Rendered a page at a time instead of all ~3,000+ cards at once. Page
+// size is user-selectable (24/48/96/all) and persisted alongside the
+// other filter preferences.
+let currentList = [];
+
+function totalPages() {
+  if (state.pageSize === "all") return 1;
+  return Math.max(1, Math.ceil(currentList.length / state.pageSize));
+}
+
+function renderPage() {
+  const pages = totalPages();
+  state.page = Math.min(Math.max(1, state.page), pages);
+  const items = state.pageSize === "all" ? currentList : currentList.slice((state.page - 1) * state.pageSize, state.page * state.pageSize);
+  grid.innerHTML = items.map(cardHtml).join("");
+  Array.from(grid.children).forEach((element, i) => {
+    const item = items[i];
+    element.addEventListener("click", () => openModal(item));
+    element.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); openModal(item); } });
   });
+  paginationEl.hidden = pages <= 1;
+  pageIndicator.textContent = `Page ${state.page} / ${pages}`;
+  pagePrevBtn.disabled = state.page <= 1;
+  pageNextBtn.disabled = state.page >= pages;
+}
+
+function goToPage(page) {
+  state.page = page;
+  renderPage();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function render() {
+  currentList = getFiltered();
+  state.page = 1;
+  const active = state.platform !== "all" || state.category !== "all" || state.query || state.trustedOnly || !state.includeAiAssisted || !state.includeVibecoded;
+  resetBtn.hidden = !active;
+  resultCount.innerHTML = `<b>${fmtNum(currentList.length)}</b> ${currentList.length === 1 ? "result" : "results"}`;
+  if (!currentList.length) { grid.innerHTML = ""; emptyEl.hidden = false; paginationEl.hidden = true; return; }
+  emptyEl.hidden = true;
+  renderPage();
 }
 
 /* ---------------- modal ---------------- */
@@ -219,11 +309,13 @@ function openModal(item) {
   const initial = escapeHtml((item.name || "?").trim().charAt(0).toUpperCase());
   const platformBadge = item.platform === "vita" ? '<span class="badge badge-vita">PS Vita</span>' : '<span class="badge badge-psp">PSP</span>';
   const trusted = isEnabled(item.trusted) ? '<span class="badge badge-trusted">Trusted</span>' : "";
-  const ai = isEnabled(item.ai) ? '<span class="badge badge-ai">AI-assisted</span>' : "";
+  const vibecoded = isEnabled(item.ai) ? '<span class="badge badge-ai">Vibecoded</span>' : "";
+  const aiAssisted = isEnabled(item.ai_assisted) ? '<span class="badge badge-ai-assisted">AI-assisted</span>' : "";
   const direct = item.direct && item.direct !== "0" ? '<span class="badge badge-direct">Direct Download</span>' : "";
   const specs = [
     spec("Version", escapeHtml(item.version) || "—"),
     spec("Downloads", `${fmtNum(item.downloads)} <span class="info-tooltip" title="Downloads are fetched directly from GitHub releases and may differ from legacy historical data." style="cursor:help;opacity:0.7;margin-left:4px;font-size:10px;">ⓘ</span>`),
+    spec("Likes", fmtNum(item.likes)),
     spec("Released", fmtDate(item.date)),
     spec("Size", fmtSize(item.size)),
     item.titleid ? spec("Title ID", escapeHtml(item.titleid), true) : "",
@@ -233,11 +325,15 @@ function openModal(item) {
   ].join("");
   const changelog = item.changelog ? `<div class="m-section-title">Changelog</div><div class="m-text m-changelog">${richText(item.changelog)}</div>` : "";
 
+  const accent = (CAT_GLYPH[item.category] || {}).color || "var(--muted)";
   modalBody.innerHTML = `<div class="m-head">
-      <img class="m-icon" src="${iconUrl(item)}" alt="" onerror="this.classList.add('fallback','card-icon');this.removeAttribute('src');this.textContent='${initial}';" />
+      <span class="m-icon card-icon" style="--accent:${accent}">
+        <img src="${iconUrl(item)}" alt="" onerror="this.parentElement.classList.add('fallback')" />
+        <span class="icon-fallback" aria-hidden="true">${initial}</span>
+      </span>
       <div><h2 class="m-title">${escapeHtml(item.name)}</h2><div class="m-author">by ${escapeHtml(item.author) || "Unknown"}</div></div>
     </div>
-    <div class="m-badges">${platformBadge}<span class="badge badge-cat">${glyphSvg(item.category)}${escapeHtml(item.category)}</span>${trusted}${ai}${direct}</div>
+    <div class="m-badges">${platformBadge}<span class="badge badge-cat">${glyphSvg(item.category)}${escapeHtml(item.category)}</span>${trusted}${vibecoded}${aiAssisted}${direct}</div>
     <div class="m-specs">${specs}</div>
     ${item.long_description ? `<div class="m-section-title">About</div><div class="m-text">${richText(item.long_description)}</div>` : ""}
     ${changelog}`;
@@ -265,12 +361,27 @@ document.querySelectorAll(".xmb-tab").forEach((button) => button.addEventListene
   state.platform = button.dataset.platform;
   render();
 }));
+document.querySelectorAll(".chart-tab").forEach((button) => button.addEventListener("click", () => {
+  document.querySelectorAll(".chart-tab").forEach((item) => { item.classList.remove("active"); item.setAttribute("aria-selected", "false"); });
+  button.classList.add("active");
+  button.setAttribute("aria-selected", "true");
+  activeChartCategory = button.dataset.cat;
+  renderChart();
+}));
 $("category").addEventListener("change", (event) => { state.category = event.target.value; render(); });
 $("sort").addEventListener("change", (event) => { state.sort = event.target.value; render(); });
 trustedOnlyInput.addEventListener("change", (event) => { state.trustedOnly = event.target.checked; saveFilterPreferences(); render(); });
-includeAiInput.addEventListener("change", (event) => { state.includeAi = event.target.checked; saveFilterPreferences(); render(); });
+includeAiAssistedInput.addEventListener("change", (event) => { state.includeAiAssisted = event.target.checked; saveFilterPreferences(); render(); });
+includeVibecodedInput.addEventListener("change", (event) => { state.includeVibecoded = event.target.checked; saveFilterPreferences(); render(); });
+pageSizeInput.addEventListener("change", (event) => {
+  state.pageSize = event.target.value === "all" ? "all" : parseInt(event.target.value, 10);
+  saveFilterPreferences();
+  render();
+});
+pagePrevBtn.addEventListener("click", () => { if (state.page > 1) goToPage(state.page - 1); });
+pageNextBtn.addEventListener("click", () => { if (state.page < totalPages()) goToPage(state.page + 1); });
 resetBtn.addEventListener("click", () => {
-  state.platform = "all"; state.category = "all"; state.query = ""; state.trustedOnly = false; state.includeAi = true;
+  state.platform = "all"; state.category = "all"; state.query = ""; state.trustedOnly = false; state.includeAiAssisted = true; state.includeVibecoded = true;
   $("search").value = ""; $("category").value = "all";
   syncFilterInputs();
   saveFilterPreferences();

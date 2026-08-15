@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>NeoVitaDB — PS Vita &amp; PSP Homebrew Catalog</title>
-  <meta name="description"
-    content="Browse the NeoVitaDB homebrew catalog for PlayStation Vita and PSP. Search games, ports, utilities and emulators." />
+  <meta name="description" content="Browse the NeoVitaDB homebrew catalog for PlayStation Vita and PSP. Search games, ports, utilities and emulators." />
+  <meta name="theme-color" content="#050a14" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23050a14'/%3E%3Cpath d='M32 15 L47 40 L17 40 Z' fill='none' stroke='%2316c98a' stroke-width='4' stroke-linejoin='round'/%3E%3Ccircle cx='44' cy='44' r='7' fill='none' stroke='%23ff5470' stroke-width='4'/%3E%3Cpath d='M15 38 L27 50 M27 38 L15 50' stroke='%233d8bff' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
-    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+  <script src="theme.js"></script>
 </head>
-
 <body>
 
   <!-- Power-on sequence, styled after the PSP/Vita boot flash. Skips itself if the
@@ -39,6 +37,7 @@
     <div class="wave wave-b"></div>
     <div class="wave wave-c"></div>
   </div>
+  <div class="grain" aria-hidden="true"></div>
 
   <header class="xmb-bar" data-testid="site-header">
     <div class="xmb-brand">
@@ -71,42 +70,76 @@
 
     <div class="xmb-info" data-testid="header-stats">
       <div class="info-clock" id="clock" data-testid="clock"></div>
-      <div class="info-stats">
-        <div class="stat"><span class="stat-num" id="stat-total" data-testid="stat-total">—</span><span
-            class="stat-label">entries</span></div>
-        <div class="stat"><span class="stat-num" id="stat-vita" data-testid="stat-vita">—</span><span
-            class="stat-label">vita</span></div>
-        <div class="stat"><span class="stat-num" id="stat-psp" data-testid="stat-psp">—</span><span
-            class="stat-label">psp</span></div>
-      </div>
-      <a class="developer-link" href="developers.html" data-testid="developers-link"><span
-          aria-hidden="true">&lt;/&gt;</span> Developers</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch between day and night mode" aria-pressed="false" data-testid="theme-toggle">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="4.4" stroke="currentColor" stroke-width="2"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 14.5a8.5 8.5 0 1 1-9.5-13 7 7 0 0 0 9.5 13z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+      <a class="developer-link" href="developers.html" data-testid="developers-link"><span aria-hidden="true">&lt;/&gt;</span> Developers</a>
     </div>
   </header>
 
+  <!-- Storefront masthead — the same brand + tagline as the header, given the
+       room a store gives its own identity before the shelf starts. -->
+  <section class="hero" data-testid="hero">
+    <div class="hero-card">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <svg viewBox="0 0 64 64" class="hero-glyph" aria-hidden="true">
+        <path class="g-triangle" d="M32 10 L50 42 L14 42 Z" />
+        <circle class="g-circle" cx="46" cy="46" r="9" />
+        <path class="g-cross" d="M12 38 L28 54 M28 38 L12 54" stroke-width="4" stroke-linecap="round" />
+        <rect class="g-square" x="4" y="6" width="16" height="16" rx="2" />
+      </svg>
+      <h2 class="hero-title">NeoVita<span>DB</span></h2>
+      <p class="hero-tagline">homebrew &amp; ports · vita / psp</p>
+
+      <div class="hero-stats" data-testid="header-stats-hero">
+        <div class="hero-stat"><span class="stat-num" id="stat-total" data-testid="stat-total">—</span><span class="stat-label">entries</span></div>
+        <div class="hero-stat"><span class="stat-num" id="stat-vita" data-testid="stat-vita">—</span><span class="stat-label">vita</span></div>
+        <div class="hero-stat"><span class="stat-num" id="stat-psp" data-testid="stat-psp">—</span><span class="stat-label">psp</span></div>
+      </div>
+    </div>
+  </section>
+
   <main class="container">
+    <section class="top-charts" data-testid="top-charts">
+      <div class="top-charts-head">
+        <h2 class="section-title">Top 10</h2>
+        <div class="chart-tabs" role="tablist" aria-label="Top 10 category" data-testid="chart-tabs">
+          <button class="chart-tab active" type="button" data-cat="Original Game" role="tab" aria-selected="true" style="--accent:var(--triangle)">▲ Original Games</button>
+          <button class="chart-tab" type="button" data-cat="Game Port" role="tab" aria-selected="false" style="--accent:var(--square)">■ Game Ports</button>
+          <button class="chart-tab" type="button" data-cat="Utility" role="tab" aria-selected="false" style="--accent:var(--cross)">✕ Utilities</button>
+          <button class="chart-tab" type="button" data-cat="Emulator" role="tab" aria-selected="false" style="--accent:var(--circle)">● Emulators</button>
+        </div>
+      </div>
+      <div id="chart-list" class="chart-list" data-testid="chart-list"></div>
+    </section>
+
     <section class="controls" data-testid="controls">
       <div class="search-wrap">
-        <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
-          <path d="M20 20L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
-        </svg>
-        <input id="search" type="text" placeholder="Search by name or author…" data-testid="search-input"
-          autocomplete="off" />
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M20 20L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="search" type="text" placeholder="Search by name or author…" data-testid="search-input" autocomplete="off" />
       </div>
 
       <select id="category" class="native-select" data-testid="category-select" aria-label="Category">
         <option value="all">All categories</option>
-        <option value="Original Game">▲ Original Game</option>
-        <option value="Game Port">■ Game Port</option>
-        <option value="Utility">✕ Utility</option>
-        <option value="Emulator">● Emulator</option>
+        <option value="Original Game">▲ Original Games</option>
+        <option value="Game Port">■ Game Ports</option>
+        <option value="Utility">✕ Utilities</option>
+        <option value="Emulator">● Emulators</option>
       </select>
 
       <select id="sort" class="native-select" data-testid="sort-select" aria-label="Sort">
-        <option value="date" selected>Newest</option>
-        <option value="downloads">Most downloaded</option>
-        <option value="name">Name (A–Z)</option>
+        <option value="added" selected>Recently Added</option>
+        <option value="updated">Recently Updated</option>
+        <option value="oldest">Oldest</option>
+        <option value="downloads">Most Downloaded</option>
+        <option value="downloads_asc">Least Downloaded</option>
+        <option value="name">Alphabetical (A-Z)</option>
+        <option value="name_desc">Alphabetical (Z-A)</option>
+        <option value="size_asc">Smallest</option>
+        <option value="size_desc">Largest</option>
+        <option value="score_desc">Highest Game Score</option>
+        <option value="score_asc">Lowest Game Score</option>
       </select>
 
       <div class="filter-options" aria-label="Catalog options">
@@ -115,18 +148,37 @@
           <span>Trusted only</span>
         </label>
         <label class="filter-option">
-          <input id="include-ai" type="checkbox" data-testid="ai-filter" checked />
+          <input id="include-ai-assisted" type="checkbox" data-testid="ai-assisted-filter" checked />
           <span>Include AI-assisted</span>
+        </label>
+        <label class="filter-option">
+          <input id="include-vibecoded" type="checkbox" data-testid="vibecoded-filter" checked />
+          <span>Include Vibecoded</span>
         </label>
       </div>
     </section>
 
     <div class="result-bar">
       <span id="result-count" class="result-count" data-testid="result-count"></span>
+      <div class="page-size-wrap">
+        <label for="page-size">Show</label>
+        <select id="page-size" class="native-select" data-testid="page-size-select" aria-label="Cards per page">
+          <option value="24">24</option>
+          <option value="48" selected>48</option>
+          <option value="96">96</option>
+          <option value="all">All</option>
+        </select>
+      </div>
       <button id="reset" class="reset-btn" data-testid="reset-btn" hidden>Clear filters</button>
     </div>
 
     <section id="grid" class="grid" data-testid="grid" aria-live="polite"></section>
+
+    <nav class="pagination" id="pagination" data-testid="pagination" hidden>
+      <button id="page-prev" class="reset-btn" data-testid="page-prev" type="button">&lt; Prev</button>
+      <span id="page-indicator" class="page-indicator" data-testid="page-indicator"></span>
+      <button id="page-next" class="reset-btn" data-testid="page-next" type="button">Next &gt;</button>
+    </nav>
 
     <div id="loading" class="state" data-testid="loading-state">
       <div class="disc-spinner" aria-hidden="true"><span></span></div>
@@ -146,8 +198,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>Data from <a href="https://robin994.github.io/NeoVitaDB-Catalog/" target="_blank" rel="noopener">NeoVitaDB
-        Catalog</a> · Browser for the public JSON feed</p>
+    <p>Data from <a href="https://robin994.github.io/NeoVitaDB-Catalog/" target="_blank" rel="noopener">NeoVitaDB Catalog</a> · Browser for the public JSON feed</p>
   </footer>
 
   <div id="modal" class="modal" data-testid="detail-modal" hidden>
@@ -163,5 +214,4 @@
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
   <script src="script.js"></script>
 </body>
-
 </html>

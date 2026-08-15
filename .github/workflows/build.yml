@@ -47,6 +47,7 @@ jobs:
           cp site/index.html dist/index.html
           cp site/developers.html dist/developers.html
           cp site/style.css dist/style.css
+          cp site/theme.js dist/theme.js
           cp site/script.js dist/script.js
 
       - name: Stage icons alongside the catalog
