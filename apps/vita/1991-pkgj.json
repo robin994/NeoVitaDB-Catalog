@@ -1,0 +1,18 @@
+{
+  "id": 1991,
+  "name": "PKGj",
+  "author": "blastrock",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PKGJ00000",
+  "repo": "blastrock/pkgj",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1991-pkgj.png",
+  "description": "NoPayStation Client for PSVita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "trusted": false
+}
