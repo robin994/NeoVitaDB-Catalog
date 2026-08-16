@@ -824,6 +824,11 @@
     "hash": "24736da3b6145a02caec12a059c1ea37",
     "hash2": ""
   },
+  "Rinnegatamante/VitaDB-Downloader@515960806@2026-08-15T18:39:59Z": {
+    "folder": "",
+    "hash": "19c978292cea8e8b58d421a3346d6b60",
+    "hash2": ""
+  },
   "Rinnegatamante/afterburner-vita@474642420@2026-07-12T19:00:07Z": {
     "hash": "7600121fd0f2c1da38f65decf19fd75e",
     "hash2": ""
@@ -1243,6 +1248,11 @@
   "TheLostPantheon/openmw@511955606@2026-08-12T19:04:34Z": {
     "folder": "",
     "hash": "6868289fb7064fd10ded18088270bbac",
+    "hash2": ""
+  },
+  "TheLostPantheon/openmw@515746335@2026-08-15T14:03:16Z": {
+    "folder": "",
+    "hash": "b675b0ab3e3dfcca787fe22e61245274",
     "hash2": ""
   },
   "TheMorc/MilkyTrackerVita@113322946@2023-06-18T23:32:54Z": {
@@ -14913,6 +14923,11 @@
     "hash": "d9c345c26dfaf4668dca57c91fdab95a",
     "hash2": ""
   },
+  "isledecomp/isle-portable@516259094@2026-08-16T01:09:14Z": {
+    "folder": "",
+    "hash": "5bb08040a2c0f88e9b4c541714bc400c",
+    "hash2": ""
+  },
   "jakubito/DoomRPG-RE-vita@155581871@2024-03-08T08:25:44Z": {
     "hash": "54c4119517632dac7fc59e60e173eb70",
     "hash2": ""
@@ -15136,6 +15151,11 @@
   "noword/Emu4VitaPlus@506214947@2026-08-08T08:51:46Z": {
     "folder": "",
     "hash": "57635ec4866f11e9f3709b51d2c5732b",
+    "hash2": ""
+  },
+  "noword/Emu4VitaPlus@515554713@2026-08-15T09:44:03Z": {
+    "folder": "",
+    "hash": "7888d3a0b63dd99c1bbdd3adc54150a7",
     "hash2": ""
   },
   "nxengine/nxengine-evo@61971948@2022-04-08T17:30:37Z": {
