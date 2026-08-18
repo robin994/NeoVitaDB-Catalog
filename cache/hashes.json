@@ -644,6 +644,11 @@
     "hash": "b8b24ff5af74c855fa1c86e2319a6ec4",
     "hash2": ""
   },
+  "ONElua/AutoPlugin2@517333557@2026-08-16T23:25:00Z": {
+    "folder": "",
+    "hash": "b64268b83a9b1b3cc2efc5714cd9c2cf",
+    "hash2": ""
+  },
   "OmegaStator/msid-vita@507877985@2026-08-09T20:33:11Z": {
     "folder": "",
     "hash": "56846799465caa38df51ae4bd86faeda",
@@ -657,6 +662,11 @@
   "OpenCloudGaming/OpenNOW-vita@498982601@2026-08-02T14:37:29Z": {
     "folder": "",
     "hash": "071e6d498ff09f48f2d1e656ec6f451e",
+    "hash2": ""
+  },
+  "OpenCloudGaming/OpenNOW-vita@517143806@2026-08-16T19:26:46Z": {
+    "folder": "",
+    "hash": "bc3336bfb39ba81a9c421a426569a8f2",
     "hash2": ""
   },
   "OrbitalFlagStudio/VitaGamesReleases@115250226@2023-07-02T12:27:42Z": {
@@ -761,6 +771,11 @@
   },
   "Rinnegatamante/DaedalusX64-vitaGL@349131093@2026-02-01T16:26:25Z": {
     "hash": "c4baefa7e9161b9591cdbebfad6515f4",
+    "hash2": ""
+  },
+  "Rinnegatamante/DaedalusX64-vitaGL@518651122@2026-08-17T23:33:06Z": {
+    "folder": "",
+    "hash": "fbd5b634ba3484595fcf122259934030",
     "hash2": ""
   },
   "Rinnegatamante/Death-Road-to-Canada-Lite@73062783@2022-07-29T10:47:37Z": {
@@ -14737,6 +14752,11 @@
     "hash": "251f5f55018533bd68c03b2438b8b4a8",
     "hash2": ""
   },
+  "falkenhawk/vita-save-keeper@516703272@2026-08-16T10:34:50Z": {
+    "folder": "",
+    "hash": "2553185b7d2cda4a043e9f89bf9ae0e5",
+    "hash2": ""
+  },
   "fgsfdsfgs/Serious-Engine@329940121@2025-12-17T20:41:21Z": {
     "hash": "583ca3c2bd21d695ba1b0d24e928c0ad",
     "hash2": ""
@@ -15091,6 +15111,11 @@
     "hash": "1df1f2007c4906e251c365e5d7801775",
     "hash2": ""
   },
+  "mauricio-gg/vitaki-vitarps5@517927902@2026-08-17T09:54:09Z": {
+    "folder": "",
+    "hash": "a324260a8a36a8d98132eb086f7f2f54",
+    "hash2": ""
+  },
   "memory-hunter/garfield-wild-ride-vita@475638713@2026-07-13T15:51:42Z": {
     "hash": "0acf31d8a282df9af79d7c2e2a732ae5",
     "hash2": ""
@@ -15114,6 +15139,11 @@
   },
   "minecraftpe-vita/minecraftpe-vita@429249666@2026-05-25T10:06:54Z": {
     "hash": "ad6801c2aaa8ceb369c9e31ad1aee912",
+    "hash2": ""
+  },
+  "mitcheldtaylor-stream/2048vita@518938975@2026-08-18T04:38:43Z": {
+    "folder": "",
+    "hash": "ea53cc6b999e45af3dfacc8586d3ac49",
     "hash2": ""
   },
   "mmozeiko/pkgi@5154755@2017-10-24T22:26:29Z": {
@@ -15217,6 +15247,11 @@
     "hash": "d74b3c153d01d3d638135b46635fa1cf",
     "hash2": ""
   },
+  "nzp-team/nzportable@516573687@2026-08-16T07:38:45Z": {
+    "folder": "",
+    "hash": "b9d32a4b4424937ca82cfeadb84c7739",
+    "hash2": ""
+  },
   "oestriot/GcToolKit@462947512@2026-07-01T07:21:09Z": {
     "hash": "59d1ca63addc6800e0fdf0f463dcb7fd",
     "hash2": ""
@@ -15307,6 +15342,11 @@
   "robin994/NeoVitaDB-Downloader@506533567@2026-08-08T16:04:45Z": {
     "folder": "",
     "hash": "4a004212f78eaa0edd42cbbaba78b8ff",
+    "hash2": ""
+  },
+  "robin994/NeoVitaDB-Downloader@516548825@2026-08-16T07:01:37Z": {
+    "folder": "",
+    "hash": "8bdb615f5af86564ca832e5585e37061",
     "hash2": ""
   },
   "rodentcat/deadknight-vita-port@54846350@2022-01-24T20:46:16Z": {
@@ -15467,6 +15507,11 @@
   "unveroleone/vita-save-sync@514356641@2026-08-14T11:48:22Z": {
     "folder": "",
     "hash": "6bd68bc489c8f26943eb008946f0a5bd",
+    "hash2": ""
+  },
+  "unveroleone/vita-save-sync@517084821@2026-08-16T18:20:21Z": {
+    "folder": "",
+    "hash": "8b7f20d06208c97654f7500a18ecac69",
     "hash2": ""
   },
   "usineur/SDLPoP-Vita@15454902@2019-10-13T15:15:19Z": {
