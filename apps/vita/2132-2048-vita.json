@@ -1,0 +1,21 @@
+{
+  "id": 2132,
+  "name": "2048",
+  "author": "mitcheldtaylor-stream",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "NARM20481",
+
+  "repo": "mitcheldtaylor-stream/2048vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+
+  "icon": "2132-2048-vita.png",
+
+  "description": "The sliding tile puzzle 2048, native for the Vita.\nSlide the grid with the D-pad or left stick, merge matching tiles, and try to reach 2048.\nBest score is saved between sessions.",
+  "requirements": "",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}
