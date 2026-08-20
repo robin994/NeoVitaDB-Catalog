@@ -1,0 +1,17 @@
+{
+  "id": 2133,
+  "name": "Usagi PKGj",
+  "author": "Marcus Coelho",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "USAG00001",
+  "repo": "coelhomarcus/usagi-pkgj",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2133-usagi-pkgj.png",
+  "description": "PKG download & installation directly on PSVita. A fork of PKGj that adds a cover-art grid view for browsing PS Vita, PSP, and PSX games, alongside the original's NoNpDrm/NoPsmDrm PKG download and install flow.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
