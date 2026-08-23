@@ -1,0 +1,18 @@
+{
+  "id": 2134,
+  "name": "BattleShip",
+  "author": "robin994 & Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SSB64VITA",
+  "repo": "robin994/battleship-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2134-battleship.png",
+  "description": "PS Vita port of Super Smash Bros 64, built from a decompilation using libultraship and Torch. Renamed to avoid using the original game's name directly - it is fully playable once set up with your own ROM.\nReal-hardware bring-up is ongoing; expect some rough edges around fighter models and the intro sequence on this early release.",
+  "requirements": "Needs your own copy of Super Smash Bros. (N64) US NTSC v1.0. Extract BattleShip.o2r from that ROM with scripts/extract-vita-data.sh from the repo, then copy it to ux0:data/battleship/BattleShip.o2r before first launch. First launch takes extra time to compile the shader cache.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
