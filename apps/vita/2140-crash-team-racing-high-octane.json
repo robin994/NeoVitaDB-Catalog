@@ -13,5 +13,6 @@
   "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": true
 }

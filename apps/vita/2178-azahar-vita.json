@@ -13,5 +13,6 @@
   "requirements": "- azaharnative.skprx\n- CapUnlocker",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": false
 }
