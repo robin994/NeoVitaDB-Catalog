@@ -1,0 +1,17 @@
+{
+  "id": 2170,
+  "name": "Touhou 6 Vita",
+  "author": "Wavy667",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TOHO06REV",
+  "repo": "Wavy667/th06-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2170-touhou-6-vita.png",
+  "description": "This is a port of Touhou Koumakyou - the Embodiment of Scarlet Devil to the Playstation Vita using GensokyoClub's portable EoSD decompilation.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

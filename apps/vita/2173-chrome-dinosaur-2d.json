@@ -1,0 +1,18 @@
+{
+  "id": 2173,
+  "name": "Chrome Dinosaur 2D",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WLOGICCD2",
+  "repo": "withLogic/chrome-dinosaur-2d",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2173-chrome-dinosaur-2d.png",
+  "description": "Guide a pixelated Tyrannosaurus rex across a side-scrolling swamp, avoiding obstacles to achieve a higher score. If that sounds or looks familiar, it is! It's the classic chrome offline game with a colorful and vibrant twist!",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/chrome-dinosaur-2d.zip"
+}

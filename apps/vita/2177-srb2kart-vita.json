@@ -1,0 +1,17 @@
+{
+  "id": 2177,
+  "name": "SRB2Kart Vita",
+  "author": "Esod",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SRB2KART0",
+  "repo": "Esodland/SRB2Kart-PSVita-PSTV",
+  "asset": "srb2kart-2019-vitagl*.vpk",
+  "prerelease": false,
+  "icon": "2177-srb2kart-vita.png",
+  "description": "A native port of SRB2Kart to the PlayStation Vita and PlayStation TV.\nHardware-accelerated OpenGL renderer, full online multiplayer (including the official Kart Krew master server), on-screen keyboard, LiveArea assets, and a Performance mode that targets 60 FPS.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

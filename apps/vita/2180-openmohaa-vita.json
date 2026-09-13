@@ -1,0 +1,17 @@
+{
+  "id": 2180,
+  "name": "OpenMoHAA Vita",
+  "author": "ChatProductions &amp; HenryKun55",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "OMHA00001",
+  "repo": "ChatProductions/openmohaavita",
+  "asset": "*.vpk",
+  "prerelease": true,
+  "icon": "2180-openmohaa-vita.png",
+  "description": "An experimental PlayStation Vita port of OpenMoHAA, a sourceport of Medal of Honor: Allied Assault.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

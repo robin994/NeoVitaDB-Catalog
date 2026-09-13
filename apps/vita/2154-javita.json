@@ -1,0 +1,17 @@
+{
+  "id": 2154,
+  "name": "JAVITA",
+  "author": "NDRW",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JAVITA001",
+  "repo": "NDRWhun/JAVITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2154-javita.png",
+  "description": "Port of Star Wars Jedi Knight: Jedi Academy for PSVita based on OpenJK.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

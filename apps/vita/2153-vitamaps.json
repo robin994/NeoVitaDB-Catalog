@@ -1,0 +1,17 @@
+{
+  "id": 2153,
+  "name": "VitaMaps",
+  "author": "spyro-98",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VMAP00001",
+  "repo": "spyro-98/VitaMaps",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2153-vitamaps.png",
+  "description": "VitaMaps is a native, GPU-rendered map viewer and cache explorer for PlayStation Vita homebrew. It uses VitaSDK and vita2d directly, there is no WebView, embedded browser, HTML, or JavaScript map engine.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

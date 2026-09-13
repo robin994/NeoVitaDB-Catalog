@@ -1,0 +1,17 @@
+{
+  "id": 2136,
+  "name": "Iron Coast: Scrap Tide",
+  "author": "Onur Kuru",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "KHYI00001",
+  "repo": "onurkuru/ironcoast",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2136-iron-coast-scrap-tide.png",
+  "description": "An original single-player run-and-gun homebrew for PlayStation Vita. Fight across six industrial coastal missions, rescue workers, commandeer the Scrap Walker and bring down the Iron Grid.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

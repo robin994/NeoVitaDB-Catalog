@@ -1,0 +1,17 @@
+{
+  "id": 2149,
+  "name": "Amnesia Vita",
+  "author": "FridiNaTor1",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "AMNE00001",
+  "repo": "FridiNaTor1/HPL2-handyman",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2149-amnesia-vita.png",
+  "description": "HPL2 Handyman is a community-maintained fork of the released Amnesia: The Dark Descent game and HPL2 engine source. It modernizes the desktop engine and brings the game to additional platforms while preserving compatibility with the original game data. It is not an official Frictional Games release.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

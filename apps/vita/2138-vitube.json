@@ -1,0 +1,17 @@
+{
+  "id": 2138,
+  "name": "ViTube",
+  "author": "shorelight82",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VTUB00001",
+  "repo": "shorelight82/vitube-vpk",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2138-vitube.png",
+  "description": "A native YouTube client for the PlayStation Vita, written in C against VitaSDK/vita2d. ViTube talks directly to YouTube's internal (\"innertube\") JSON API, plays videos through the Vita's hardware decoders.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2163,
+  "name": "Cordless",
+  "author": "bren &amp; Harommel Rabbid",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CRDL00001",
+  "repo": "Brendonm17/Cordless",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2163-cordless.png",
+  "description": "Unoffical Discord Client port for Playstation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

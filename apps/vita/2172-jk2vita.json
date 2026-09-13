@@ -1,0 +1,17 @@
+{
+  "id": 2172,
+  "name": "JK2VITA",
+  "author": "NDRW",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "JK2VITA01",
+  "repo": "NDRWhun/JK2VITA",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2172-jk2vita.png",
+  "description": "Port of Star Wars Jedi Knight II: Jedi Outcast for PSVita based over OpenJK.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2158,
+  "name": "Bounce Vita",
+  "author": "M-Essa11",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BZERO0001",
+  "repo": "M-Essa11/Bounce-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2158-bounce-vita.png",
+  "description": "Bounce Vita is a native PlayStation Vita port of the classic Nokia Bounce game. It is based on the open-source C reimplementation from amdray/bounce_zero, adapted for VitaSDK with Vita2D rendering, Vita controls, audio, persistent progress, and refreshed presentation assets.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

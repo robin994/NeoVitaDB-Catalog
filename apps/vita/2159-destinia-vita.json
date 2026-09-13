@@ -1,0 +1,17 @@
+{
+  "id": 2159,
+  "name": "Destinia Vita",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DEST00001",
+  "repo": "withLogic/destinia-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2159-destinia-vita.png",
+  "description": "Destinia follows the journey of Duke, a former Imperial Guard member imprisoned for refusing to kill innocent civilians, who teams up with a rebel princess named Crystal to fight the oppressive Empire and find his missing childhood sweetheart, Lena.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2171,
+  "name": "Inotia 3 Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "INOTIA3PV",
+  "repo": "MetalSyntax/Inotia3-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2171-inotia-3-vita.png",
+  "description": "An unofficial, native Android-to-PS Vita wrapper port of Inotia 3: Children of Carnia (originally developed by Com2uS). This port utilizes so-loader technology, FalsoJNI, and vitaGL to load the official ARMv6 shared library (libgame.so) directly in native PS Vita RAM.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2142,
+  "name": "Last Train Home Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LTRAIN001",
+  "repo": "Rocroverss/Last-Train-Home",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2142-last-train-home-vita.png",
+  "description": "Last Train Home is a short horror-adventure game about being stuck on a train. It is loosely based on a story of the same name that its creator, hby, read on the internet. This game was submitted to MiniJam 47. The whole thing was written in C.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

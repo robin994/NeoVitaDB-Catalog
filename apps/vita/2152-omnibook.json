@@ -1,0 +1,17 @@
+{
+  "id": 2152,
+  "name": "OmniBook",
+  "author": "ninuzzomagno",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "OMBK00001",
+  "repo": "ninuzzomagno/OmniBook",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2152-omnibook.png",
+  "description": "A book reader app for PSVITA with traslation support.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

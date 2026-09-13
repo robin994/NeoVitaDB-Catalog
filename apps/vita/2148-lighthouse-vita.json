@@ -1,0 +1,18 @@
+{
+  "id": 2148,
+  "name": "Lighthouse Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BANJO0064",
+  "repo": "Rinnegatamante/Lighthouse",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2148-lighthouse-vita.png",
+  "description": "Lighthouse Vita is a native port of Banjo Kazooie for PSVita based on Lighthouse, the PC port of the decompilation of Banjo Kazooie. It features several enhancements, new features, romhacks support, mods support, built-in randomizer, and much much more.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "data": "https://www.rinnegatamante.eu/files/vitadb/lighthouse.zip"
+}

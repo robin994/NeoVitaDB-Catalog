@@ -1,0 +1,17 @@
+{
+  "id": 2155,
+  "name": "Steel Blossom: Vita",
+  "author": "illestalive",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STBL00001",
+  "repo": "elliottwahl/Steel-Blossom-PSP",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2155-steel-blossom-vita.png",
+  "description": "Steel Blossom: Vita is a wave-based hack-and-slash game where the player must fight through 13 increasingly difficult waves without dying. Each run features six different enemy types with unique attacks and behaviors, along with three boss fights. Originally developed for the PSP in C++ and SDL2, Steel Blossom has now been ported natively to PS Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

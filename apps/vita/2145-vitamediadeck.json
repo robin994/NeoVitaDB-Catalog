@@ -1,0 +1,17 @@
+{
+  "id": 2145,
+  "name": "VitaMediaDeck",
+  "author": "spyro-98",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VMDK00001",
+  "repo": "spyro-98/VitaMediaDeck",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2145-vitamediadeck.png",
+  "description": "VitaMediaDeck plays video and music already owned and stored by the user. Media can come from the Vita memory card or from an authenticated WebDAV, SFTP, or SMB server. Browsing, demuxing, hardware decoding, audio/video synchronization, and rendering all run on the console; no companion service is required.\nVitaWave does not discover, acquire, export, convert, or copy media from online catalogues. It has no account integration with third-party media platforms and does not provide a download or audio-extraction feature.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

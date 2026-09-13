@@ -1,0 +1,17 @@
+{
+  "id": 2176,
+  "name": "Zenonia 2 Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVZ00002",
+  "repo": "MetalSyntax/Zenonia2-psvita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2176-zenonia-2-vita.png",
+  "description": "ZENONIA 2: The Lost Memories has been highly enhanced in every aspect compared to the original. Full character and control customization, four characters following individual epic storylines, three different modes, asynchronous online PvP feature and an extended world of ZENONIA guarantee greater enjoyment!",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

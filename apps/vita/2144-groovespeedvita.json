@@ -1,0 +1,17 @@
+{
+  "id": 2144,
+  "name": "GrooveSpeedVita",
+  "author": "smart-pickle",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "GROOVE001",
+  "repo": "smart-pickle/GrooveSpeed-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2144-groovespeedvita.png",
+  "description": "GrooveSpeed Vita is a standalone, precision turntable speed and flutter diagnostic tool for vinyl enthusiasts and audiophiles, built natively for the PlayStation Vita (PCH-1000 OLED, PCH-2000 Slim, and PlayStation TV (please don't use it on Playstation TV).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

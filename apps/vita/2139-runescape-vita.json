@@ -1,0 +1,17 @@
+{
+  "id": 2139,
+  "name": "Runescape Vita",
+  "author": "bren",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RSCC00001",
+  "repo": "Brendonm17/rsc-c-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2139-runescape-vita.png",
+  "description": "Unoffical Runescape Classic Client port for Playstation Vita.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

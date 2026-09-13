@@ -1,0 +1,17 @@
+{
+  "id": 2157,
+  "name": "NAOH: Arcade Collection",
+  "author": "KiddRwxSsj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "NAOH00001",
+  "repo": "KiddRwxSsj/naoh-ac",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2157-naoh-arcade-collection.png",
+  "description": "NAOH: Arcade Collection is a native PlayStation Vita arcade launcher written in C. It statically links the FB Alpha 2012 (CPS2) and MAME 2000 libretro cores behind a custom vita2d-rendered front end, so a set of classic Marvel vs Capcom arcade games can be launched and played.",
+  "requirements": "- Game Data Files: Different Systems",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

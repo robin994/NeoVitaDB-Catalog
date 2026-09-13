@@ -1,0 +1,17 @@
+{
+  "id": 2146,
+  "name": "ILLUSIA 2 Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ILLUSIA02",
+  "repo": "MetalSyntax/ILLUSIA-2-Vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2146-illusia-2-vita.png",
+  "description": "An ARM dynamic binary loader / native wrapper of ILLUSIA 2 (Android v1.0.3) for the PlayStation Vita / PlayStation TV using so-loader and vitaGL.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

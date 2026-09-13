@@ -1,0 +1,17 @@
+{
+  "id": 2179,
+  "name": "Vita Deck",
+  "author": "josephinoo",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITADECK1",
+  "repo": "josephinoo/vitaDeck",
+  "asset": "*.vpk",
+  "prerelease": true,
+  "icon": "2179-vita-deck.png",
+  "description": "VitaDeck is a high-performance game launcher and media library manager built natively for the PlayStation Vita in Rust using vita2d and vitasdk. It delivers a smooth, 60 FPS user experience modeled after the Steam Deck interface, automatically discovering installed titles, downloading high-resolution box art, and allowing custom game organization into playlists.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2178,
+  "name": "Azahar Vita",
+  "author": "Grarak",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "AZAHARPSV",
+  "repo": "Grarak/azahar",
+  "asset": "*.vpk",
+  "prerelease": true,
+  "icon": "2178-azahar-vita.png",
+  "description": "Early, almost entirely vibecoded port of Azahar for the PSVita, a popular 3DS emulator.",
+  "requirements": "- azaharnative.skprx\n- CapUnlocker",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

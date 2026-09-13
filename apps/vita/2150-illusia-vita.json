@@ -1,0 +1,17 @@
+{
+  "id": 2150,
+  "name": "Illusia Vita",
+  "author": "withLogic",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ILLU00001",
+  "repo": "withLogic/illusia-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2150-illusia-vita.png",
+  "description": "In the land of Aztaran, a bolt of light crashed down through the skies, and in its wake left a mysterious tower. The entrance to this tower is unknown. Soon, hostile creatures begin to come forth from the tower to wreak havoc on the citizens of Aztaran. In the prologue of the video game, it is prophesied that two adventurers, a mage and a warrior, will be able to enter the tower in order to defeat the creatures and save the land.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2174,
+  "name": "Castlevania Attack Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CAST00011",
+  "repo": "Rocroverss/Castlevania-Attack-Demo",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2174-castlevania-attack-vita.png",
+  "description": "Castlevania Attack is a combination of Castlevania and Tetris Attack. This Godot demo contains three fully playable levels.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

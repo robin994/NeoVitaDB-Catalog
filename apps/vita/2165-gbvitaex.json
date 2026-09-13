@@ -1,0 +1,17 @@
+{
+  "id": 2165,
+  "name": "GBVitaEX",
+  "author": "Zushikina-kun",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "GBVX00001",
+  "repo": "Zushikina-kun/GBVitaEX",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2165-gbvitaex.png",
+  "description": "Combines the fastest GBA emulator (gpSP ARMv7 JIT dynarec) with the most accurate GB/GBC emulator (mGBA), in a single standalone native VPK no RetroArch required.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

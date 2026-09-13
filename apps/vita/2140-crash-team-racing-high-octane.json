@@ -1,0 +1,17 @@
+{
+  "id": 2140,
+  "name": "Crash Team Racing: High Octane",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CTR000004",
+  "repo": "Rinnegatamante/Crash-Team-Racing-High-Octane",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2140-crash-team-racing-high-octane.png",
+  "description": "Crash Team Racing: High Octane is a sourceport for PSVita of Crash Team Racing based on the ctr-native project. It focuses on new features, enhancements and optimization.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

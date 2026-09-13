@@ -1,0 +1,17 @@
+{
+  "id": 2169,
+  "name": "WoozyLLM",
+  "author": "Luckyl13l",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "TCHAT0013",
+  "repo": "LuckyI13I/WoozyLLM",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2169-woozyllm.png",
+  "description": "Local LLM chat client for PlayStation Vita. It runs a SmolLM 135M Q8_0 model entirely on-device, no network required.",
+  "requirements": "- LLM model files",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2135,
+  "name": "Golden Balloon Vita",
+  "author": "zm2283145",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GBLN00001",
+  "repo": "zm2283145/goldenballoon-vita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2135-golden-balloon-vita.png",
+  "description": "A PS Vita port of Golden Balloon, itself a native and browser source port of the 1997 Nintendo 64 kart racer, built on the community decompilation.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

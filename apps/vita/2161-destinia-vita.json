@@ -1,0 +1,17 @@
+{
+  "id": 2161,
+  "name": "DESTINIA Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DESTINIA1",
+  "repo": "MetalSyntax/Destinia-vita",
+  "asset": "destinia.vpk",
+  "prerelease": false,
+  "icon": "2161-destinia-vita.png",
+  "description": "DESTINIA is an acclaimed 2D action-RPG originally released by Gamevil and Morisoft for mobile devices. This port runs the compiled C shared library (libdestinia_jni.so) from the Android version natively on the PlayStation Vita's ARM Cortex-A9 processor using a dynamic loader (soloader) and Android environment emulation (FalsoJNI).",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

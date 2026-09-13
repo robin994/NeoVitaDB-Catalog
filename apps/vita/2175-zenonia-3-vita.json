@@ -1,0 +1,17 @@
+{
+  "id": 2175,
+  "name": "Zenonia 3 Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVZ00003",
+  "repo": "MetalSyntax/zenonia3-psvita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2175-zenonia-3-vita.png",
+  "description": "Port of the Android game Zenonia 3 for PSVita.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2160,
+  "name": "Pocket Mortys Vita",
+  "author": "Celtic Gaming",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "POMO00137",
+  "repo": "celticg/AS-Pocket-Mortys-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2160-pocket-mortys-vita.png",
+  "description": "Native port of Pocket Mortys,",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
