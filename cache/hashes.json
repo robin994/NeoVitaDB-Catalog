@@ -293,6 +293,11 @@
     "hash": "05fff4cf7834d69ef43da5f6cf47d1be",
     "hash2": ""
   },
+  "DrDecki/Aleph-One-Marathon-Trilogy-PsVita-@586698587@2026-09-24T19:47:32Z": {
+    "folder": "",
+    "hash": "4a41e792133bd8f747941bba29c9d216",
+    "hash2": ""
+  },
   "DrakonPL/JellyCar@18900626@2020-03-22T21:58:43Z": {
     "hash": "8c24cc83b5ebbd0fc9e9ed9d70591dd8",
     "hash2": ""
@@ -359,8 +364,18 @@
     "hash": "aa3e86c39a1fece4c8e6c063c3b2d367",
     "hash2": ""
   },
+  "Freakler/vita-ConsoleID@577302786@2026-09-20T18:10:37Z": {
+    "folder": "",
+    "hash": "b603a110b1d7727dc3081a720f839dc0",
+    "hash2": ""
+  },
   "Freakler/vita-PSVident@135176353@2023-11-12T15:23:20Z": {
     "hash": "dd53ea063a4352cf2cc3f8d08d20a65a",
+    "hash2": ""
+  },
+  "Freakler/vita-PSVident@577349635@2026-09-20T18:41:44Z": {
+    "folder": "",
+    "hash": "a6a398ee78df93b5f986ebeaa3cfaa39",
     "hash2": ""
   },
   "Freakler/vita-uriCaller@2193379@2016-08-23T23:00:32Z": {
@@ -709,6 +724,11 @@
     "hash": "8f30c7c8e609ed31b7d3995a15693726",
     "hash2": ""
   },
+  "NDRWhun/JK2VITA@577728123@2026-09-20T23:06:03Z": {
+    "folder": "",
+    "hash": "2c8f85ba6a6e7ed8d5575cec228bf630",
+    "hash2": ""
+  },
   "NamelessGhoul0/PSVibe@2513574@2016-10-22T03:43:39Z": {
     "hash": "de8af3aba22a98ed0a119dcf0f8facfc",
     "hash2": ""
@@ -793,6 +813,11 @@
   "ONElua/AdrenalineBubbleManager@546607691@2026-09-06T02:18:57Z": {
     "folder": "",
     "hash": "79f51b890f8e4b245f2425807229ffc8",
+    "hash2": ""
+  },
+  "ONElua/AdrenalineBubbleManager@587424038@2026-09-25T03:26:39Z": {
+    "folder": "",
+    "hash": "63dac2894b4fdc0fcc7b8b99dcc16c3c",
     "hash2": ""
   },
   "ONElua/AutoPlugin2@445293087@2026-06-12T03:07:32Z": {
@@ -927,6 +952,11 @@
   "Rinnegatamante/Crash-Team-Racing-High-Octane@547750415@2026-09-06T22:16:01Z": {
     "folder": "",
     "hash": "0b7a39985fdf3721da9d4037ca799fbd",
+    "hash2": ""
+  },
+  "Rinnegatamante/Crash-Team-Racing-High-Octane@565390165@2026-09-15T09:42:28Z": {
+    "folder": "",
+    "hash": "6d0d402910c5f681753ba85aab738eeb",
     "hash2": ""
   },
   "Rinnegatamante/DaedalusX64-vitaGL@349131093@2026-02-01T16:26:25Z": {
@@ -15208,6 +15238,11 @@
     "hash": "e66a166625626f2eecda52313ef76763",
     "hash2": ""
   },
+  "isledecomp/isle-portable@589259728@2026-09-25T21:14:41Z": {
+    "folder": "",
+    "hash": "b32ec9fad10008ac59a2cb06d051db94",
+    "hash2": ""
+  },
   "jakubito/DoomRPG-RE-vita@155581871@2024-03-08T08:25:44Z": {
     "hash": "54c4119517632dac7fc59e60e173eb70",
     "hash2": ""
@@ -15228,6 +15263,11 @@
     "folder": "",
     "hash": "5817968ec2ca9f99b80b06a2b84a40ad",
     "hash2": "dd9c9f35fc41a421ca63e199f4dbb91f"
+  },
+  "jimbob4000/RetroFlow-Launcher@576969335@2026-09-20T14:36:43Z": {
+    "folder": "",
+    "hash": "113b9347279be34cb6b59b38b63dc98c",
+    "hash2": "3b33bb566bcfa0ac61b4403ec759de54"
   },
   "jitZpc/vita-activator@2232146@2016-08-30T23:28:39Z": {
     "hash": "ddc297eda90112a700d583794902d7e9",
@@ -15442,6 +15482,11 @@
     "hash": "dbe9ede5ff50df415929add7f3d4b44b",
     "hash2": ""
   },
+  "ninuzzomagno/OmniBook@570951436@2026-09-17T19:36:22Z": {
+    "folder": "",
+    "hash": "03fb86c52535cb98d67f1c9592058472",
+    "hash2": ""
+  },
   "nn9dev/tamatool-vita@178871116@2024-07-11T00:14:07Z": {
     "hash": "230bf0fab128f4a6e535dcb9776a77a0",
     "hash2": ""
@@ -15550,6 +15595,11 @@
   "nzp-team/nzportable@559159375@2026-09-12T11:35:22Z": {
     "folder": "",
     "hash": "195049f768cf0fd493a17ca96a805c87",
+    "hash2": ""
+  },
+  "nzp-team/nzportable@585938860@2026-09-24T12:42:16Z": {
+    "folder": "",
+    "hash": "eb7d11a70bf927c7144be63cd1395780",
     "hash2": ""
   },
   "oestriot/GcToolKit@462947512@2026-07-01T07:21:09Z": {
@@ -15745,6 +15795,11 @@
     "hash": "c110870f06beda8e5304a404e9ff1390",
     "hash2": ""
   },
+  "shorelight82/vitube-vpk@565189629@2026-09-15T07:45:05Z": {
+    "folder": "",
+    "hash": "568bd2499f0b2df131aa24974316042a",
+    "hash2": ""
+  },
   "sinusinu/vita-timer@17943912@2020-02-11T10:55:29Z": {
     "hash": "e238be46a5ff2f9bba4d75f0d797ad44",
     "hash2": ""
@@ -15808,6 +15863,11 @@
     "hash": "0898195a8b719ef5a67f8ad40ea195bf",
     "hash2": ""
   },
+  "thcolin/gamepad-media-center-aggregator@585674429@2026-09-24T10:06:17Z": {
+    "folder": "",
+    "hash": "b89789366d5567f9e4f19296492842d0",
+    "hash2": ""
+  },
   "theheroGAC/Digital-Clock-Vita@498660521@2026-08-02T06:58:03Z": {
     "hash": "5620c51477f780493f8c1b5a00c77d07",
     "hash2": ""
@@ -15830,6 +15890,11 @@
   "theheroGAC/PSV-Cleaner@514980621@2026-08-14T22:08:09Z": {
     "folder": "",
     "hash": "ca57aaf1434290521c53eab66b3ffe4c",
+    "hash2": ""
+  },
+  "theheroGAC/PSV-Cleaner@591128910@2026-09-26T17:41:37Z": {
+    "folder": "",
+    "hash": "ed9abe87f7fa046d96f0ca96741842bb",
     "hash2": ""
   },
   "theheroGAC/SuperTux-PSVITA@470162407@2026-07-08T10:31:34Z": {
@@ -16069,6 +16134,11 @@
   "zm2283145/goldenballoon-vita-port@556345773@2026-09-11T03:01:11Z": {
     "folder": "",
     "hash": "f454f0b580a8916f6646d858e2d703f9",
+    "hash2": ""
+  },
+  "zm2283145/goldenballoon-vita-port@571334303@2026-09-17T23:03:56Z": {
+    "folder": "",
+    "hash": "ae0633989c17f1cc7b58c2b45e28ed1c",
     "hash2": ""
   }
 }
