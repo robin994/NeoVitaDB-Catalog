@@ -1,0 +1,17 @@
+{
+  "id": 1941,
+  "name": "VitaCam Pro",
+  "author": "darking101",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VCAM00001",
+  "repo": "darking101/vitacam",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "1941-vitacam-pro.png",
+  "description": "VitaCam Pro is a full-featured camera application for PlayStation Vita. Features hardware EXIF metadata injection, mechanical shutter sound, self-timer, burst mode, pinch-to-zoom, persistent settings, system RAM monitor, and a Wi-Fi Web Hub with remote photo deletion and real-time gallery sync.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
