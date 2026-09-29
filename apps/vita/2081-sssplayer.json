@@ -1,0 +1,17 @@
+{
+  "id": 2081,
+  "name": "SSSPlayer",
+  "author": "SergioSSantiago",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SSSP00001",
+  "repo": "SergioSSantiago/SSSPlayer",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2081-sssplayer.png",
+  "description": "Music and video player for PS Vita by SergioSSantiago. VitaWave-style music (EQ, visualizer, playlists, themes), VitaMediaDeck-class H.264 video with precise seek, network streaming (SMB, SFTP, WebDAV, Jellyfin), plus YouTube search/play/download (video up to 720p MP4 or audio MP3/M4A) and in-app auto-update.",
+  "requirements": "PS Vita / PSTV with HENkaku / enso. Network features and YouTube need Wi-Fi.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

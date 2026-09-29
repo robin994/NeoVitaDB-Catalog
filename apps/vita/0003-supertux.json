@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "name": "SuperTux",
+  "author": "git-effl",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "STUX00040",
+  "repo": "git-effl/supertux-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0003-supertux.png",
+  "description": "A PSVita port of SuperTux,version 0.40.\nIf you don't know,SuperTux is a jump'n'run game with strong inspiration from the Super Mario Bros. games for the various Nintendo platforms.\nRun and jump through multiple worlds, fighting off enemies by jumping on them, bumping them from below or tossing objects at them, grabbing power-ups and other stuff on the way.\nStory: Penny gets captured!\nTux and Penny were out having a nice picnic on the ice fields of Antarctica. Suddenly, a creature jumped from behind an ice bush, there was a flash, and Tux fell asleep!\nWhen Tux wakes up, he finds that Penny is missing. Where she lay before now lies a letter. \"Tux, my arch enemy!\" says the letter. \"I have captured your beautiful Penny and have taken her to my fortress. The path to my fortress is littered with my minions. Give up on the thought of trying to reclaim her, you haven't got a chance! -Nolok\"\nTux looks and sees Nolok's fortress in the distance. Determined to save his beloved Penny, he begins his journey.\n\nNote about LLM Usage on this port:\nLLMs also worked on this project (especially on Makefiles),even though they helped,\nthis does not mean it's fully AI generated,an actual human being (maybe even more on the original pc version) worked on,created,built,and tested all of this!\n\nLicensing:\nSome images on the livearea screen were made by the Supertux Team,they are licensed under CC-BY-SA 3.0,check SupertuxArtwork.txt on the source code for more details.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}
