@@ -13,5 +13,6 @@
   "requirements": "",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": false
 }

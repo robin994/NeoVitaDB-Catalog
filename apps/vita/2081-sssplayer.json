@@ -13,5 +13,6 @@
   "requirements": "PS Vita / PSTV with HENkaku / enso. Network features and YouTube need Wi-Fi.",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }
