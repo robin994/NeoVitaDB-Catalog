@@ -1,0 +1,17 @@
+{
+  "id": 2181,
+  "name": "THUG Vita",
+  "author": "iwannagooutside",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "THUG00001",
+  "repo": "iwannagooutside/thug-vita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2181-thug-vita.png",
+  "description": "Native PS Vita port of Tony Hawk's Underground (2003). Not an emulator: the whole engine is rebuilt for the Vita with a vitaGL graphics backend.\nStory mode, free skate, Create-a-Skater and every level, most at or near 60 fps. No game data included: you need your own copy of the game.",
+  "requirements": "- Game Data Files: Xbox (USA)\n- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}
