@@ -1,0 +1,21 @@
+{
+  "id": 2182,
+  "name": "Music Vita",
+  "author": "Bville Retro",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MUSC00001",
+
+  "repo": "bvilleretro/music-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+
+  "icon": "2182-music-vita.png",
+
+  "description": "Music player for the PS Vita (MP3 and WAV).\nPlaylists, synced lyrics (embedded or .lrc files), cover art, themes, and several visualizers.\nPut your music in ux0:data/MusicVita/",
+  "requirements": "Vita with custom firmware",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
