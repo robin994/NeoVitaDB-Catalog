@@ -9,7 +9,7 @@
   "asset": "*.vpk",
   "prerelease": false,
   "icon": "2186-dancing-every-night.png",
-  "description": "A community rhythm game in the spirit of osu!. Six lanes on two arcs, taps, holds, double notes and scratches, with 3 official songs.\nInstall new songs made by other players (copy the .zip into ux0:data/dancingeverynight/import/) or make your own with the free online editor. Song library: https://dancing-every-night.pages.dev/songs/\nOpen source (GPLv3).",
+  "description": "A community rhythm game in the spirit of osu!. Six lanes on two arcs, taps, holds, double notes and scratches, with 3 official songs.\nNew in 1.0: the in-game LIBRARY. Browse the online song catalogue from the game, see what you already own and install community songs with one button (Wi-Fi needed).\nMake your own songs with the free online editor: https://dancing-every-night.pages.dev/editor/ - songs can also be added by copying a .zip or a folder into ux0:data/dancingeverynight/import/.\nOpen source (GPLv3).",
   "requirements": "",
   "screenshots": [],
   "trophies": false,
