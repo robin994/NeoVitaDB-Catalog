@@ -1,0 +1,17 @@
+{
+  "id": 11,
+  "name": "MyShell",
+  "author": "ALVA-Store",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MYSH00001",
+  "repo": "ALVA-Store/MyShell",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0011-myshell.png",
+  "description": "MyShell is a PS5-inspired homebrew launcher for PlayStation Vita, featuring a modern game carousel, PS Vita and PSP game libraries, customizable covers, backgrounds and logos, SteamGridDB integration, a built-in music player, homebrew store, news and game information. SteamGridDB artwork downloads require a personal API key.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}
