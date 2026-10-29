@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": true,
-  "ai_assisted": false
+  "ai_assisted": false,
+  "trusted": false
 }
