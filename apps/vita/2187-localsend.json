@@ -1,0 +1,18 @@
+{
+  "id": 2187,
+  "name": "LocalSend",
+  "author": "Tien Do Nam, Vita port by resashkin",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LSND00001",
+  "repo": "flutter-vita/localsend",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2187-localsend.png",
+  "description": "Sends and receives files with LocalSend devices on the same Wi-Fi network, with no internet connection and no account. It works with LocalSend on Android, iOS, Windows, macOS and Linux.\n\nThe Vita finds the other LocalSend devices on the network, and they find the Vita. It receives files over HTTPS and saves them to ux0:downloads. It sends files from the memory card or the internal storage, chosen in its own file browser. The console does not go to sleep while the app is open, so a transfer does not stop.\n\nA port of LocalSend 1.15.4 by Tien Do Nam and the LocalSend contributors (Apache 2.0). It runs the original Flutter app with flutter-vita, a Flutter embedder and toolchain for the PS Vita.",
+  "requirements": "libshacccg.suprx in ur0:data, the shader compiler. Without it the screen stays black.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "ai_assisted": false
+}
