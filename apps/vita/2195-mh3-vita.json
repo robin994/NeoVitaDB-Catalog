@@ -13,5 +13,6 @@
   "requirements": "- kubridge.skprx\n- CapUnlocker.skprx\n- Game Data Files: Wii",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }

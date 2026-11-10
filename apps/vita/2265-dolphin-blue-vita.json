@@ -13,5 +13,6 @@
   "requirements": "- Game Data Files: Atomiswave",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }

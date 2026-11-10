@@ -13,5 +13,6 @@
   "requirements": "- libshacccg.suprx\n- Game Data File: Gamecube",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": false
 }

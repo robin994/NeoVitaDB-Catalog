@@ -13,5 +13,6 @@
   "requirements": "- New: Open and modify a homebrew VPK\n- Cleaner UI\n- PNG8 compression, explained and improved",
   "screenshots": [],
   "trophies": false,
-  "ai": false
+  "ai": false,
+  "trusted": false
 }

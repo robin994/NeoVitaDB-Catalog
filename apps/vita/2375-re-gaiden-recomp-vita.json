@@ -13,5 +13,6 @@
   "requirements": "- libshacccg.suprx\n- Game Data Files: GBC",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": true
 }

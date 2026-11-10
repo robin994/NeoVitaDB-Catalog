@@ -13,5 +13,6 @@
   "requirements": "- libshacccg.suprx\n- kubridge.skprx",
   "screenshots": [],
   "trophies": false,
-  "ai": true
+  "ai": true,
+  "trusted": true
 }
