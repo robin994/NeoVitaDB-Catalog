@@ -1,0 +1,19 @@
+{
+  "id": 2188,
+  "name": "HardRPG",
+  "author": "Asukate",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "HARDRPG01",
+  "repo": "Asukate/mkxp-z-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2188-hardrpg.png",
+  "description": "Play your RPG Maker games on the Vita. HardRPG is a launcher for RPG Maker XP, VX and VX Ace games, running them natively on a Vita port of mkxp-z, and RPG Maker 2000/2003 games through a bundled EasyRPG Player.\n\nCopy your game folders to ux0:/data/hardrpg/games and play them, or add games from any folder with the built-in folder browser.\n\n- Per-game settings for display, audio, speed and controls\n- Map any button to an RPG Maker button or a keyboard key\n- Touch screen and rear pad as buttons, tap to walk on the map\n- In-game menu (hold L+R+Start), fast forward (L+R)\n- Volume boost, FPS overlay, crash rescue that resumes where you left\n- Game artwork and info, title music, carousel, grid and list views\n\nTested with BLACK SOULS, To the Moon, LISA, Hylics, The Witch's House, Ao Oni and more. Pokemon Essentials games are not supported yet. No games or RTP are included.",
+  "requirements": "libshacccg.suprx in ur0:/data/. Your own RPG Maker games, plus the RTP if a game needs it.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true,
+  "trusted": false
+}

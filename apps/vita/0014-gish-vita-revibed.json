@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "name": "Gish Vita: ReVibed",
+  "author": "isage, AGTS10k",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GISH00001",
+  "repo": "AGTS10k/Gish-vita-revibed",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0014-gish-vita-revibed.png",
+  "description": "This is a fork of isage's port of Gish to PS Vita, with the purpose of polishing it further into a more playable experience using AI.\nImprovements include: restored lighting and shadows, performance optimizations, 4:3 aspect ratio by default, other small fixes.",
+  "requirements": "- Game data required: Gish 1.6 (non-Steam, MS Windows), Gish 1.53 (non-Steam, Linux), or Gish 1.7 (Steam version).",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}
