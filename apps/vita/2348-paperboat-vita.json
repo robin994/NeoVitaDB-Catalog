@@ -1,0 +1,17 @@
+{
+  "id": 2348,
+  "name": "Paperboat Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PAPERBOAT",
+  "repo": "rinnegatamante/paperboat",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2348-paperboat-vita.png",
+  "description": "Port of Paperboat for PSVita.\nPaperboat is a sourceport of Paper Mario, based on the decompilation efforts of the game, that introduces several improvements to the game such as widescreen support, 60 FPS support via interpolation, mods support and many more.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

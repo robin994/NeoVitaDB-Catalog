@@ -1,0 +1,17 @@
+{
+  "id": 2305,
+  "name": "Tweebbo Vita",
+  "author": "Tweebbo",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TWEE00001",
+  "repo": "tweebbo/tweebbo-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2305-tweebbo-vita.png",
+  "description": "Play Tweebbo on your PlayStation Vita, in the same hotel as tweebbo.lol.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

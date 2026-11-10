@@ -1,0 +1,17 @@
+{
+  "id": 2328,
+  "name": "Hebdomad: Seven Vigils Vita",
+  "author": "Thanh Minh",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HBDM00001",
+  "repo": "0x4d696e68/hebdomad",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2328-hebdomad-seven-vigils-vita.png",
+  "description": "7 Days Salvation on the Nokia N900 and PS Vita\nAn unofficial engine, rewritten with SDL3, to play 7 Days Salvation (Symbian, 2009) on the Nokia N900 (Maemo 5, OpenGL ES 2.0) and the PS Vita (SceGxm).",
+  "requirements": "- Game Data Files: Symbian",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

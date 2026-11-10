@@ -1,0 +1,17 @@
+{
+  "id": 2343,
+  "name": "Ambidextro Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "AMBX00001",
+  "repo": "rocroverss/ambidextro-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2343-ambidextro-vita.png",
+  "description": "Ambidextro is a multiplayer game for a single player. Learn to control two characters at once, one with each hand. Develop your ambidexterity and rescue the prince and princess simultaneously!\nWill you get to level 100? :)",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

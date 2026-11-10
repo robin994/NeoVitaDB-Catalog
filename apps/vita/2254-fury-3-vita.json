@@ -1,0 +1,17 @@
+{
+  "id": 2254,
+  "name": "Fury 3 Vita",
+  "author": "StaticLift",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FURY00003",
+  "repo": "staticlift/fury3",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2254-fury-3-vita.png",
+  "description": "A static recompilation of Microsoft Fury3 (1995), a flight shooter, running natively on the PS Vita with no emulator. It includes all eight planets, the 24-mission campaign, GPU rendering, music, cutscenes, one save slot and a planet select on the title screen. Mods load through the game's own pod.ini file.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

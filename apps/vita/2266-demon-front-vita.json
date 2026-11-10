@@ -1,0 +1,17 @@
+{
+  "id": 2266,
+  "name": "Demon Front Vita",
+  "author": "Tobic-99",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DMFR00001",
+  "repo": "tobic-99/demonfront-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2266-demon-front-vita.png",
+  "description": "A static recompilation of Demon Front (IGS, PGM arcade board) to native ARM code. The game's two programs, the 68000 main CPU and the IGS027A ARM7 coprocessor (Thumb), are translated to C++ and linked with a native runtime that replaces the board: memory maps, the 68000 <-> ARM shared RAM and latches, the IGS023 video chip (software renderer), and the Z80 + ICS2115 sound. There is no emulator, interpreter or JIT on the hot paths.",
+  "requirements": "- Game Data Files: Arcade",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

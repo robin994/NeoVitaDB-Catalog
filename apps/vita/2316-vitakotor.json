@@ -1,0 +1,17 @@
+{
+  "id": 2316,
+  "name": "VitaKotor",
+  "author": "ScoobyDouche",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KOTR00001",
+  "repo": "scoobydouche/vitakotor",
+  "asset": "KOTOR.vpk",
+  "prerelease": false,
+  "icon": "2316-vitakotor.png",
+  "description": "A native Vita port of the Android release of KOTOR, built with the so-loader technique: rather than reimplementing the game, the loader loads Aspyr's own ARM libraries straight from your copy of the Android build, resolves everything they import against Vita equivalents, and hands control to the game's real entry point. Graphics run through vitaGL, with a from-scratch FMOD audio implementation over sceAudiodec and sceAudioOut underneath.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

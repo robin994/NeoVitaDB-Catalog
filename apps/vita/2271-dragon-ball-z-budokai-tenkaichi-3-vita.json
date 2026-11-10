@@ -1,0 +1,17 @@
+{
+  "id": 2271,
+  "name": "Dragon Ball Z: Budokai Tenkaichi 3 Vita",
+  "author": "arielxflores",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BTTD00010",
+  "repo": "arielxflores/tenkaichi3decomp-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2271-dragon-ball-z-budokai-tenkaichi-3-vita.png",
+  "description": "A native port of Dragon Ball Z: Budokai Tenkaichi 3 (PS2, USA release) to the PS Vita, based on z3xox's Tenkaichi3Decomp, a PC port built on the BT3-Decompiled decompilation. The game's own code is compiled for the Vita, with a renderer on vitaGL and sound, touch and controls written for the handheld.\nThe game runs from the opening film through the menus to the fights, with saving and loading. The PS2 version's screen effects (outlines, ground shadows, glow, blur, depth tint) are drawn. Fights are drawn for the 16:9 screen and run at the PS2 version's 30 fps, with drops on a few stages with heavy effects. L2, R2, L3 and R3 are on the rear touch pad's quarters, as in PS4 Remote Play, so grip attachments made for it work (each button can also be moved to a corner of the front screen or turned off), and the menus can be used with the touch screen. Two-player modes and online play are not available.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

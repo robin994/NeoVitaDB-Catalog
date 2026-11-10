@@ -1,0 +1,17 @@
+{
+  "id": 2297,
+  "name": "Snail Mail Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVSM0001",
+  "repo": "metalsyntax/snail-mail-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2297-snail-mail-vita.png",
+  "description": "Snail Mail is the fast-paced interstellar racing game originally developed by Sandlot Games, where you guide Turbo the snail across dynamic tracks full of obstacles, slugs, and speed boosters across the galaxy.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

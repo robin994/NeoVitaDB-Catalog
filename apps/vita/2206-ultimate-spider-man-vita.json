@@ -1,0 +1,17 @@
+{
+  "id": 2206,
+  "name": "Ultimate Spider-Man Vita",
+  "author": "boomannotjeff",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "USMR00001",
+  "repo": "boomannotjeff/usm_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2206-ultimate-spider-man-vita.png",
+  "description": "A PS Vita port of Ultimate Spider-Man (PC, 2005), made by statically recompiling the PC game's USM.exe to C (every x86 instruction becomes equivalent C, like N64Recomp / XenonRecomp), then running that on the Vita with its own Windows, Direct3D 9, DirectSound and input layer on top of vitaGL.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

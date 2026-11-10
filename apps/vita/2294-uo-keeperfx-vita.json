@@ -1,0 +1,17 @@
+{
+  "id": 2294,
+  "name": "UO KeeperFX Vita",
+  "author": "DannyDLux90",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KFXV00001",
+  "repo": "dannydlux90/keeperfx-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2294-uo-keeperfx-vita.png",
+  "description": "UO KeeperFX Vita is a PlayStation Vita port of KeeperFX, the open-source engine recreation and enhancement project for Bullfrog's Dungeon Keeper.\nThe port adapts KeeperFX for native execution on PlayStation Vita hardware and includes Vita-specific rendering, input, audio, video playback, storage and platform integration.\nThis port is not affiliated with the KeeperFX team.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2204,
+  "name": "The X-Files Vita",
+  "author": "xesf",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "XFIL00001",
+  "repo": "xesf/the-x-files-game",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2204-the-x-files-vita.png",
+  "description": "A portable C99 reimplementation of the VirtualCinema engine for The X-Files Game (HyperBole Studios / Fox Interactive, 1998). It has no third-party dependencies. You need your own copy of the original game data: this project ships none of it.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

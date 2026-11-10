@@ -1,0 +1,17 @@
+{
+  "id": 2270,
+  "name": "Plus Vita",
+  "author": "Calligula87",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "PLVT00001",
+  "repo": "calligula87/plus-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2270-plus-vita.png",
+  "description": "Plus-Vita lets you play eligible PlayStation Plus cloud games directly on your PlayStation Vita. You need your own Sony account and a PlayStation Plus subscription tier that includes cloud streaming in your region.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

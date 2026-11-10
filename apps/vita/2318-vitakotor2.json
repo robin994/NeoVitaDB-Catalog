@@ -1,0 +1,17 @@
+{
+  "id": 2318,
+  "name": "VitaKotor2",
+  "author": "pyjabox",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KOTR00002",
+  "repo": "pyjabox/vitakotor2",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2318-vitakotor2.png",
+  "description": "Star Wars: Knights of the Old Republic II - The Sith Lords running natively on the PS Vita. Based on VitaKotor, it loads Aspyr's own Android libraries via the so-loader technique, with graphics on vitaGL and a custom FMOD audio backend over sceAudiodec and sceAudioOut. Bink cutscenes play through the game's embedded decoder with synchronized audio. Because the sequel is more demanding, the port adds performance work: vitaGL runs on its own CPU core, distant objects hidden behind walls are culled on the GPU, DXT textures are uploaded natively, music and voices are streamed, and the frame rate is capped at 30 FPS. Dynamic shadows and bloom passes are disabled. The buttons, analog sticks and the front touchscreen are supported. No game data is included: the port requires the files of the Android release.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

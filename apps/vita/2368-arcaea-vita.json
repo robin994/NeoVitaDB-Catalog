@@ -1,0 +1,17 @@
+{
+  "id": 2368,
+  "name": "Arcaea Vita",
+  "author": "MemoryHunter",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ARCA69420",
+  "repo": "memory-hunter/arcaea-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2368-arcaea-vita.png",
+  "description": "This is an soloader port of an android game.\nArcaea is a mobile rhythm game developed by lowiro, released on March 9, 2017. The game known for its deep storyline and unique gameplay mechanics; players tap, hold, and slide on a musical arc as they follow notes that appear in time with music. It also features both \"sky\" and \"ground\" notes that players must interact with.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- libfmodstudio.suprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2214,
+  "name": "Carnivores: Dinosaur Hunter Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVCDH001",
+  "repo": "metalsyntax/carnivores-dinosaur-hunter-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2214-carnivores-dinosaur-hunter-vita.png",
+  "description": "so-loader port of the Android version (1.3.1) of Carnivores: Dinosaur Hunter (Tatem Games / Action Forms). It runs the original libdinHunter.so + libfmodex.so with an emulated Java layer (FalsoJNI).",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

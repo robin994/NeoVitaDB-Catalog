@@ -1,0 +1,17 @@
+{
+  "id": 2365,
+  "name": "Halyard",
+  "author": "Wasabules",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "HLYD00001",
+  "repo": "wasabules/halyard",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2365-halyard.png",
+  "description": "Halyard is an unofficial client for the Shadow cloud PC service. It connects to a Shadow machine owned by the user and streams its picture and sound to the PS Vita and PS TV, while sending the console inputs back to the machine.\nIt reimplements the protocol of the official Shadow desktop client. Video is decoded in hardware (H.264, through SceAvcdec); audio is Opus or FLAC, with a five-band equaliser. Inputs reach the machine as an Xbox 360 gamepad, a mouse driven by the front touchscreen, and an on-screen keyboard; the rear touch panel can act as ZL, ZR, L3, R3 or analogue triggers. A performance panel shows the frame rate, bitrate, packet loss and round-trip time during a session.\nA Shadow subscription is required. Halyard is not affiliated with, endorsed by or sponsored by Shadow or Sony. Using an unofficial client may breach the Shadow terms of service.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

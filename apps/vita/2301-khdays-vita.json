@@ -1,0 +1,17 @@
+{
+  "id": 2301,
+  "name": "khdays-vita",
+  "author": "Galetote",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KHDD00358",
+  "repo": "ggdrn/kh-days-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2301-khdays-vita.png",
+  "description": "A native PS Vita port of Kingdom Hearts 358/2 Days (Nintendo DS), built from the khdays-decomp decompilation.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: NDS",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

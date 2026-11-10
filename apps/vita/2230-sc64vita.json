@@ -1,0 +1,17 @@
+{
+  "id": 2230,
+  "name": "SC64VITA",
+  "author": "edenas",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SCVT00001",
+  "repo": "edenas/sc64vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2230-sc64vita.png",
+  "description": "SC64VITA is an unofficial, non-commercial, game-specific modification of DaedalusX64-vitaGL designed to improve StarCraft 64 compatibility on PlayStation Vita.\nThe application provides a dedicated standalone experience with direct game launching, a customized LiveArea interface, loading progress indication and a fixed PS Vita controller configuration.\nThe project includes game-specific graphics rendering and emulation timing improvements, native FlashRAM Save/Load support with persistent game saves, and recovery handling for save errors.\nSC64VITA targets the USA revision-0 version of StarCraft 64. Occasional gameplay slowdowns and audio stuttering may occur.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: N64",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2195,
+  "name": "MH3 Vita",
+  "author": "Grarak",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MH3WII001",
+  "repo": "grarak/mh3-wii",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2195-mh3-vita.png",
+  "description": "A static recompilation of Monster Hunter Tri (Wii) to native ARM code. The game's PowerPC code is translated to C++ and linked with a native runtime that replaces the Wii's hardware and system software: there is no emulator, interpreter or JIT. Rendering goes through native GXM on the PS Vita and OpenGL ES 3.0 on Linux; a WebAssembly build draws through WebGPU.",
+  "requirements": "- kubridge.skprx\n- CapUnlocker.skprx\n- Game Data Files: Wii",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

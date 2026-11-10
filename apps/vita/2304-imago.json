@@ -1,0 +1,17 @@
+{
+  "id": 2304,
+  "name": "Imago",
+  "author": "Sevy",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "IMAG00001",
+  "repo": "sevyw/imago",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2304-imago.png",
+  "description": "Browse thousands of PS Vita custom themes from psvt.ovh, tap one, and it's installed in the background while you keep scrolling. Imago is a fast, modern take on Red Squirrel's Custom Themes Manager: a fresh coat of paint, a much lighter network footprint, and a lot of care around the system theme database.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

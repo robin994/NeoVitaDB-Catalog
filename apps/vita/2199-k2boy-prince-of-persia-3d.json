@@ -1,0 +1,17 @@
+{
+  "id": 2199,
+  "name": "k2boy Prince of Persia 3D",
+  "author": "xesf",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "K2BY00001",
+  "repo": "xesf/k2boy",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2199-k2boy-prince-of-persia-3d.png",
+  "description": "An open-source work-in-progress reimplementation of the engine of Prince of Persia 3D (Red Orb Entertainment, 1999), rebuilt from the original binary with IDA Pro. It plays the retail game's own data on macOS and the PlayStation Vita.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

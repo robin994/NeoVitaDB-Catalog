@@ -1,0 +1,17 @@
+{
+  "id": 2250,
+  "name": "Doodle Jump Vita",
+  "author": "1theronin",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DOODLEJMP",
+  "repo": "ronin0095/doodlejump-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2250-doodle-jump-vita.png",
+  "description": "Doodle Jump is a vertical platformer by Lima Sky in which the player guides a small creature, the Doodler, upwards across an endless series of platforms while avoiding monsters, black holes and UFOs. Along the way, power-ups such as springs, propeller hats and jetpacks can be collected, and monsters can be shot. The game includes several themed worlds, missions and an in-game store.\nThis is a port of the Android version 3.10.0. The original Android binary runs natively on the PS Vita through a so_loader, with the game's Java side reimplemented for the Vita: saves, sound and music, dialogs and the rendering of text textures such as store prices and score markers, which use the game's own handwriting font.\nThe port supports an upright full-screen view, with the picture rotated to use the whole screen, as well as a centered landscape view; the view can be switched at any time. Steering is possible with the analog stick, the rear touchpad or the lower area of the touchscreen, and shooting is mapped to physical buttons. Online features (ads, in-app purchases, online highscores, Google Play Games and sharing) are not available; the related menu buttons are hidden.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

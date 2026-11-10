@@ -1,0 +1,17 @@
+{
+  "id": 2369,
+  "name": "Monster Shooter Vita",
+  "author": "RaZorGaToR",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MNST00001",
+  "repo": "federicoilgrandebardo/monstershooter-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2369-monster-shooter-vita.png",
+  "description": "A native PS Vita port of Monster Shooter (Gamelion, 2012), the top-down twin-stick shooter where a kidnapped kitten is reason enough to clear a planet of monsters. This runs the original ARMv7 Android binary through a so-loader, with the game's own Claw Engine driving vitaGL underneath.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

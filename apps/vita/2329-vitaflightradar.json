@@ -1,0 +1,17 @@
+{
+  "id": 2329,
+  "name": "VitaFlightRadar",
+  "author": "ULTRA DESIGN",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VFLR00001",
+  "repo": "1000660928-design/vitaflightradar",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2329-vitaflightradar.png",
+  "description": "VitaFlightRadar is a homebrew flight-tracking application for PS Vita. It uses Wi-Fi to retrieve live aircraft data and displays flights over an interactive satellite map with touch controls, search, route information and live tracking.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

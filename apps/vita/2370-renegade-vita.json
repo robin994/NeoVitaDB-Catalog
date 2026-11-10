@@ -1,0 +1,17 @@
+{
+  "id": 2370,
+  "name": "Renegade Vita",
+  "author": "TheGh0stShip",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RNEGA3101",
+  "repo": "thegh0stship/renegadevita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2370-renegade-vita.png",
+  "description": "A native ARM PlayStation Vita source port of Command & Conquer: Renegade.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

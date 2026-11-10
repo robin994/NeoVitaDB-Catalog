@@ -1,0 +1,17 @@
+{
+  "id": 2234,
+  "name": "Mystic Warriors Vita",
+  "author": "Tobic-99",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MYSW00001",
+  "repo": "tobic-99/mystwarr-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2234-mystic-warriors-vita.png",
+  "description": "A static recompilation of Mystic Warriors (Konami, 1993, GX128 arcade board) to native ARM code. The game's 68000 program is translated to C++ and linked with a native runtime that replaces the board: memory map, EEPROM, a software renderer (tile layers, sprites, shadows, blending) and the sound board (Z80 interpreter, two K054539).",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: MAME",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

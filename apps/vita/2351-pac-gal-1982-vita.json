@@ -1,0 +1,17 @@
+{
+  "id": 2351,
+  "name": "PAC-GAL 1982 Vita",
+  "author": "figarocool",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PACG19820",
+  "repo": "figarocool/pac-gal-dos-pc-game-produced-by-j.-jimenez-in-1982",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2351-pac-gal-1982-vita.png",
+  "description": "PAC-GAL is a DOS maze-chase game attributed to Al J. JimÃ©nez and dated May 1982. The player collects dots, avoids four enemies, and uses special dots to eat them temporarily. This project began with an old ZIP archive and the original DOS executable supplied for analysis; the original C source was not available.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2289,
+  "name": "Resident Evil Vita",
+  "author": "KiddRwxSsj",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RESI00001",
+  "repo": "kiddrwxssj/biohazard-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2289-resident-evil-vita.png",
+  "description": "Port of the 1997 PC version of Resident Evil to the PS Vita, built from the community decompilation of the game. It keeps the original game code and adds a Vita platform layer using vitaGL, SceAudio, ffmpeg and SceAvPlayer.\nIt supports the USA PC release and the Japanese MediaKite release, and adds a 60 FPS mode, an in-game settings panel, quick saves, PC save compatibility and a mod manager for HD background packs, movie packs and audio mods. No game files are included.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

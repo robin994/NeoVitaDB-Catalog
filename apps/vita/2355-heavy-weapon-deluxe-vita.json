@@ -1,0 +1,17 @@
+{
+  "id": 2355,
+  "name": "Heavy Weapon Deluxe Vita",
+  "author": "Chillaxhson",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "HWDL00001",
+  "repo": "chillaxhson/heavy-weapon-deluxe-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2355-heavy-weapon-deluxe-vita.png",
+  "description": "Heavy Weapon Deluxe is a 2005 side-scrolling shoot 'em up developed and published by PopCap Games. The game puts players in command of the Atomic Tank deployed behind enemy lines to repel invading military forces across eastern-bloc inspired battlegrounds. The game features a 19-mission campaign mode where players advance across different territories to defeat colossal multi-stage boss machines, as well as an endless Survival mode. Between missions, players can upgrade their tank's arsenal at the Armory with secondary weapons such as homing missiles, laser cannons, flak artillery, defense pods, and tactical nuclear strikes.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

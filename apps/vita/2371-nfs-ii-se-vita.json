@@ -1,0 +1,17 @@
+{
+  "id": 2371,
+  "name": "NFS II SE Vita",
+  "author": "veitorman",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NFSR00001",
+  "repo": "veitorman/nfs2se-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2371-nfs-ii-se-vita.png",
+  "description": "Native PlayStation Vita port of Need for Speed II: Special Edition for PC.\nThis port is based on the NFS Recompiled project and adapts the game to run natively on PlayStation Vita ARM hardware.\nThe project includes Vita-specific implementations and adaptations for memory management, rendering, audio, input, filesystem access, application startup and packaging.\nThe port also includes a custom pre-launch configurator designed specifically for the Vita version.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

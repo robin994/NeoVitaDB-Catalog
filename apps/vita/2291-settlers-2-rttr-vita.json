@@ -1,0 +1,17 @@
+{
+  "id": 2291,
+  "name": "Settlers 2 RTTR Vita",
+  "author": "Nathan Kewley",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RTTR00025",
+  "repo": "nathankewley/s25client-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2291-settlers-2-rttr-vita.png",
+  "description": "Port of Settlers 2 RTTR for PSVita.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

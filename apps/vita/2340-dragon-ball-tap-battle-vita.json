@@ -1,0 +1,17 @@
+{
+  "id": 2340,
+  "name": "Dragon Ball Tap Battle Vita",
+  "author": "VegettoSan",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DBTB01178",
+  "repo": "vegettosan/drag-n-ball-tap-battle-ps-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2340-dragon-ball-tap-battle-vita.png",
+  "description": "A native PlayStation Vita recreation of Dragon Ball Tap Battle built with VitaSDK, vitaGL, and the original game core compiled privately for Vita.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

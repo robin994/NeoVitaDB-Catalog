@@ -1,0 +1,17 @@
+{
+  "id": 2308,
+  "name": "Plague Inc. Vita",
+  "author": "danroxn",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PLAGUEINC",
+  "repo": "danroxn/plague_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2308-plague-inc-vita.png",
+  "description": "Port of the Android Game Plague Inc. v. 1.15.3 for PSVita.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

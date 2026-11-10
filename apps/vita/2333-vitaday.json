@@ -1,0 +1,17 @@
+{
+  "id": 2333,
+  "name": "VitaDay",
+  "author": "s1zzle5486",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VDAY00001",
+  "repo": "s1zzle5486/vitaday",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2333-vitaday.png",
+  "description": "A native clock, weather and calendar dashboard for PlayStation Vita.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

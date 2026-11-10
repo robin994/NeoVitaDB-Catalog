@@ -1,0 +1,17 @@
+{
+  "id": 2207,
+  "name": "Vampire Survivors Vita",
+  "author": "RaZorGaToR",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "VSPH00001",
+  "repo": "federicoilgrandebardo/vampire-survivors-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2207-vampire-survivors-vita.png",
+  "description": "A native PS Vita port of Vampire Survivors (poncle, 2022). Not an emulator and not a wrapper: the Phaser build of the game, the one Steam still ships as the old-engine beta branch, rewritten in C on top of raylib, SDL2 and vitaGL, logic class by class, so it plays like the original.\nThe whole base game is in: all 15 stages, 41 characters, the 76 base weapons with evolutions and Limit Break, the 22 Arcanas, relics, golden eggs, the shop, the collection, the bestiary, achievements, Inverse and Hyper modes, the endings and credits, and saves in 30 languages.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

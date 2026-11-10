@@ -1,0 +1,17 @@
+{
+  "id": 2320,
+  "name": "PCSX AwO",
+  "author": "Rinnegatamante",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "PCSXR0001",
+  "repo": "rinnegatamante/pcsx_awo",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2320-pcsx-awo.png",
+  "description": "PCSX AwO (ARMed with Octane) is a fork of PCSX ReARMed specifically tailored for PSVita, featuring a ultra optimized new renderer derived from Crash Team Racing: High Octane.\nIt features native Vita internal resolution, MSAA 4x, frame generation, post-processing shaders and many more features.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

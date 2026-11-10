@@ -1,0 +1,17 @@
+{
+  "id": 2233,
+  "name": "Tony Hawk Slop Skater",
+  "author": "DarthSully",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "THPS00001",
+  "repo": "darthsully/tony-hawk-slop-skater",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2233-tony-hawk-slop-skater.png",
+  "description": "Tony Hawk's Pro Skater (PS1, 1999) running natively on the PlayStation Vita, built from the community decompilation of the PS1 game (SLUS-00860): the PS1's own code, recompiled for the Vita's ARM CPU, with a native OpenGL ES renderer through vitaGL. No emulator.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

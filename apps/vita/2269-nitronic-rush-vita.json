@@ -1,0 +1,17 @@
+{
+  "id": 2269,
+  "name": "Nitronic Rush Vita",
+  "author": "arielxflores",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NRSH00001",
+  "repo": "arielxflores/nitronicrush-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2269-nitronic-rush-vita.png",
+  "description": "Nitronic Rush Vita is a native port of Nitronic Rush (2011), the free futuristic racing game made by Team Nitronic, a student team at DigiPen Institute of Technology. The game is rebuilt in C with vitaGL: it loads the PC version's own levels, models, textures, sounds and menus, and its handling, level objects, camera and race rules follow the PC game's code. It runs at 60 fps.\nIt includes Story mode (the tutorial, the six campaign levels with their intro and ending scenes, and the credits drive), the Arcade level sets (Story, Hardcore, Challenge, Stunt mode, old levels and the community levels that come with the PC version, 52 levels), ghost cars, local high scores, the 28 achievements, the unlockable cars, wings and air tricks, the PC version's visual effects, and the music with its interactive layers, the announcer and the sound effects from the game's Wwise sound bank. The online leaderboards of the PC version are not included.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2350,
+  "name": "VitaSDR",
+  "author": "hiraethclub",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VSDR00001",
+  "repo": "hiraethclub/vitasdr",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2350-vitasdr.png",
+  "description": "A PS Vita homebrew client for web SDR receivers. Point it at a KiwiSDR and it streams the audio, tunes it, and shows a live RF waterfall, a shortwave/HF radio in your hands, using someone else's antenna over the internet.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

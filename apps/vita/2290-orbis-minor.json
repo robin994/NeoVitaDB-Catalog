@@ -1,0 +1,17 @@
+{
+  "id": 2290,
+  "name": "Orbis Minor",
+  "author": "Drakon",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VSPC00001",
+  "repo": "drakonpl/orbisminor",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2290-orbis-minor.png",
+  "description": "A low-poly space exploration game for the PS Vita.\nFly from open space down to the surface of small planets. Find old ruins, fight pirates, and solve the secret of the system.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

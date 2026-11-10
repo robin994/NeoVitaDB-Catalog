@@ -1,0 +1,17 @@
+{
+  "id": 2307,
+  "name": "VitaSpot",
+  "author": "0oPerryo0",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VTAM00001",
+  "repo": "0operryo0/vitaspot",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2307-vitaspot.png",
+  "description": "A homebrew Spotify client for the PS Vita. It streams and plays music on the Vita itself through librespot, shows up as a Spotify Connect device in the official apps, and has a touch and button UI laid out like Spotify's own (sidebar, shelves, Now Playing) with its own branding. Spotify Premium is required.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

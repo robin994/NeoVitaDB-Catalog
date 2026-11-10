@@ -1,0 +1,17 @@
+{
+  "id": 2285,
+  "name": "Gravity Defied Vita",
+  "author": "Ports Collection",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GDIF00001",
+  "repo": "lokidsx/gravity-defied-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2285-gravity-defied-vita.png",
+  "description": "PlayStation Vita homebrew port of Gravity Defied, based on the C++ and SDL2 reconstruction of the original mobile mototrial game. This version runs natively on the console and introduces modern improvements, including an in-game menu with support for custom trackpacks (mods).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

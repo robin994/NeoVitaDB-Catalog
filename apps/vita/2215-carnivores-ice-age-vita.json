@@ -1,0 +1,17 @@
+{
+  "id": 2215,
+  "name": "Carnivores: Ice Age Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVCSIA01",
+  "repo": "metalsyntax/carnivores-ice-age-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2215-carnivores-ice-age-vita.png",
+  "description": "Carnivores: Ice Age is Tatem Games' prehistoric hunting game, originally released for Android. This port runs the original ARM libraries from the Android release.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

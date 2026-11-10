@@ -1,0 +1,17 @@
+{
+  "id": 2336,
+  "name": "Prince of Persia 2: The Shadow and the Flame Vita",
+  "author": "Cardas26",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "POP2RC001",
+  "repo": "cardas26/psp2-pop2",
+  "asset": "pop2.vpk",
+  "prerelease": false,
+  "icon": "2336-prince-of-persia-2-the-shadow-and-the-flame-vita.png",
+  "description": "Prince of Persia 2: The Shadow and the Flame is BrÃ¸derbund's 1993 sequel to Jordan Mechner's Prince of Persia, a cinematic platformer in which the prince is driven from the palace by the sorcerer Jaffar, and fights his way back to save the princess. This port runs the DOS version 1.1 natively on the PS Vita, with no emulator: Supermedo's static recompiler, extended for v1.1, translates the original PRINCE.EXE, its overlays and the Sound Blaster Pro driver into C. SDL2 and GXM handle the display, timing, input and audio. All levels and cutscenes are playable, saving and resuming are supported. Note: The game was designed to draw about 12 frames a second: its timing comes from its own 240 Hz timer, which the port reproduces at 241.5 Hz. The game plays at full speed.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

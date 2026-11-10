@@ -1,0 +1,17 @@
+{
+  "id": 2257,
+  "name": "Open Nectar Vita",
+  "author": "bren",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NECTAR001",
+  "repo": "brendonm17/open-nectar-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2257-open-nectar-vita.png",
+  "description": "Unofficial native PS Vita port of Pikmin, built on the Open Nectar decompilation. Requires your own Pikmin (USA) GameCube disc image (iso, gcm, rvz, wia or ciso) placed in ux0:data/Pikmin. Saves are standard GameCube .gci files compatible with Dolphin.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Gamecube",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

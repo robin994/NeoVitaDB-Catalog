@@ -1,0 +1,17 @@
+{
+  "id": 2232,
+  "name": "Ninjago Tournament Vita",
+  "author": "reallootfury",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NINJA0001",
+  "repo": "reallootfury/ninjago-tournament-vita",
+  "asset": "ninjago-vita.vpk",
+  "prerelease": false,
+  "icon": "2232-ninjago-tournament-vita.png",
+  "description": "An Android ARMv7 compatibility port of LEGO Ninjago Tournament using vitaGL. Release version: 1.00 (Vita SFO 01.00).\nProgressive player/boss heart depletion is confirmed working on a physical Vita. The release keeps that renderer fix and provides separate normal and logging-enabled packages; the packaging/logging changes need a device smoke test. Loading delays and occasional gameplay stutters remain known limitations.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

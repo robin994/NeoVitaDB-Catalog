@@ -1,0 +1,17 @@
+{
+  "id": 2335,
+  "name": "Predators Vita",
+  "author": "AJ170",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PRED42069",
+  "repo": "aj170/predators-psvita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2335-predators-vita.png",
+  "description": "You play as the predator and defend yourself from people and rival clans who hunt you. The main goal is to kill people and rival predator clans. You can also collect various trophies, unlock new technology, weapons, and upgrades. Theres also an unlockable survival mode and wave mode.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

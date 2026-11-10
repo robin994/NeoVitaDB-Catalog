@@ -1,0 +1,17 @@
+{
+  "id": 2261,
+  "name": "Neon Drift",
+  "author": "ToiletCat Games",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "TCGN00001",
+  "repo": "toiletcatgames/neondriftpsvitaport",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2261-neon-drift.png",
+  "description": "Neon Drift is an arcade racing game for PlayStation Vita focused on drifting mechanics and time-based gameplay. Players control a vehicle through neon-themed environments while aiming to maintain speed and complete runs as efficiently as possible.\nThe game features stylized visuals inspired by neon aesthetics, score-based progression, and driving challenges centered around precision and vehicle control. Neon Drift is developed by ToiletCat Games for the PlayStation Vita platform.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2224,
+  "name": "vkQuake2 Vita",
+  "author": "DrDecki",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "VKQUAKE02",
+  "repo": "drdecki/vkquake2-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2224-vkquake2-vita.png",
+  "description": "vkQuake2 is a port of Quake II for the PS Vita based on vkQuake2 by Krzysztof Kondrak. It runs the game's original Vulkan renderer and SPIR-V shaders on the Vita through VkVita, a Vulkan implementation on top of GXM.\nThe port supports the full single player campaign, deathmatch over Wi-Fi against Vita and PC players, sound effects and the ogg soundtrack. It runs at 960x544 with 2x MSAA and reaches 60 FPS in most areas.\nThe port was made mainly as a test case for VkVita, a vibecoded Vulkan layer, and not as a replacement for the existing Quake II port.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

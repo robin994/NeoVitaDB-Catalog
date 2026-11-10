@@ -1,0 +1,17 @@
+{
+  "id": 2278,
+  "name": "Carpocalypse 2 Vita",
+  "author": "bojan1986819",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "C2VITA001",
+  "repo": "bojan1986819/carpocalypse2",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2278-carpocalypse-2-vita.png",
+  "description": "A native PS Vita port of Carmageddon II: Carpocalypse Now (1998), built on the Carpocalypse 2 decompilation by Link4Electronics/Carpocalypse2. This fork's main focus is the Vita build (v1.0). Along the way it also continued the decompilation, fixed a number of bugs in the game code, and extended the PC (Windows) port; see Changes in this fork.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

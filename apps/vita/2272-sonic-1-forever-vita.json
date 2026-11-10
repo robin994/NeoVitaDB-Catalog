@@ -1,0 +1,17 @@
+{
+  "id": 2272,
+  "name": "Sonic 1 Forever Vita",
+  "author": "MDashK",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SNCF00001",
+  "repo": "mdashk/teamforever-v4-1.3-vita",
+  "asset": "*Sonic1Forever.vpk",
+  "prerelease": false,
+  "icon": "2272-sonic-1-forever-vita.png",
+  "description": "Sonic the Hedgehog Forever (also known as Sonic 1 Forever) is a mod of the 2013 remake of Sonic the Hedgehog. It adds many features, such as the Drop Dash, smooth rotation on sprites similar to Sonic Mania, and Amy Rose. Developed by Team Forever, it is considered the definitive and modernized version of the game.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

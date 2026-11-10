@@ -1,0 +1,17 @@
+{
+  "id": 2376,
+  "name": "AdvancedSlop",
+  "author": "Grarak",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "ADVSLOP00",
+  "repo": "grarak/advancedslop",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2376-advancedslop.png",
+  "description": "Fast GBA Emulator for PSVita based on the JIT implementaton of DSVita.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

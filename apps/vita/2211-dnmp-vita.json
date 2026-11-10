@@ -1,0 +1,17 @@
+{
+  "id": 2211,
+  "name": "DNMP Vita",
+  "author": "myname24",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DNMPIOS01",
+  "repo": "myname24/dnmp-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2211-dnmp-vita.png",
+  "description": "A loader that runs the original iOS (ARMv7) version of Duke Nukem: Manhattan Project natively on the PS Vita. This repository contains the instructions and the game-image preparation scripts. No original game data is included.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: iOS",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

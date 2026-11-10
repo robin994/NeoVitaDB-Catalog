@@ -1,0 +1,17 @@
+{
+  "id": 2321,
+  "name": "The Ledge",
+  "author": "James Beaufort",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "LEDGE0001",
+  "repo": "beaufortribbons/the-ledge-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2321-the-ledge.png",
+  "description": "The Ledge is a short narrative game originally created with RPG Maker MV and adapted for PlayStation Vita using a replacement native runtime incorporating modified LPP-Vita code.\nBased on the short story “Man With A Problem” by Donald Honig (1958). Approximate play time is 5–10 minutes.\nContent warning: suicide, death and disturbing imagery.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

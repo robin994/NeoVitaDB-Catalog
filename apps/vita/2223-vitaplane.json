@@ -1,0 +1,17 @@
+{
+  "id": 2223,
+  "name": "VitaPlane",
+  "author": "ing156",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITAGRM01",
+  "repo": "ing156/vitagram",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2223-vitaplane.png",
+  "description": "VitaPlane is an unofficial homebrew Telegram client for PS Vita, built with VitaSDK, vita2d and TDLib. Use the console's buttons and touchscreen to read chats, send messages and attachments, and record voice messages and video notes.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

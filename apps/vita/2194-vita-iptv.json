@@ -1,0 +1,17 @@
+{
+  "id": 2194,
+  "name": "Vita IPTV",
+  "author": "emrhky",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VIPTV0001",
+  "repo": "emrhky/vitaiptv",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2194-vita-iptv.png",
+  "description": "A native IPTV player for the PlayStation Vita and PS TV (HENkaku / Enso). Watch live TV and listen to radio from your own M3U playlists or Xtream accounts, decoded by the Vita's hardware H.264 decoder.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2375,
+  "name": "RE: Gaiden Recomp Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "REGD00001",
+  "repo": "rinnegatamante/regaiden-recomp",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2375-re-gaiden-recomp-vita.png",
+  "description": "A native static recompilation of Resident Evil Gaiden (Game Boy Color, 2001) for PlayStation Vita, built in C/C++ on top of SDL2 and Dear ImGui.\nThe Vita port runs the recompiled game code natively and adds optional enhancements including Item Sparkles, Widescreen, Dynamic Flashlight Lighting, Atmospheric Post-Processing, Savestates, Cheats, HD Texture Packs, and Replacement Music Packs.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: GBC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

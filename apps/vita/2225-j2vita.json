@@ -1,0 +1,17 @@
+{
+  "id": 2225,
+  "name": "J2Vita",
+  "author": "KiddRwxSsj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "JTVA00001",
+  "repo": "kiddrwxssj/j2vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2225-j2vita.png",
+  "description": "J2Vita lets you play your old Java ME (J2ME) phone games on the PS Vita. It runs MIDP 2.0 / CLDC 1.1 games, the .jar games every phone had before smartphones. It's built on PSPKVM, the Java ME virtual machine for the PSP, which is based on Sun's open source phoneME Feature VM. The Java side is mostly left alone, and the Vita side (video, input, sound and menus) was rewritten for the Vita.\nThe game list and menus follow a classic phone style, with four themes (White by default). Each game can have its own screen, filter, rotation, resolution and control settings, on top of the global defaults. The touchscreen works as the phone's touchscreen, and an on-screen keypad (hold SELECT) covers cheat codes and keys the Vita doesn't have. There is also a performance overlay to check whether a game is running at full speed.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

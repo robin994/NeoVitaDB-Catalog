@@ -1,0 +1,17 @@
+{
+  "id": 2208,
+  "name": "The Impossible Game Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVTIG001",
+  "repo": "metalsyntax/the-impossible-game-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2208-the-impossible-game-vita.png",
+  "description": "The Impossible Game is FlukeDude's rhythm-platformer, originally released for Android. This port runs the compiled native library directly on the PS Vita using a dynamic loader (soloader) and an Android environment emulation layer. The UI and audio layers, which were Java on Android, have been fully reimplemented natively in C (menu.c, audio.c, texture.c, save.c) for zero-latency input and native performance.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

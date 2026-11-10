@@ -1,0 +1,17 @@
+{
+  "id": 2252,
+  "name": "THE RHYTHM OF FIGHTERS Vita",
+  "author": "MDashK",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RHYTHMROF",
+  "repo": "mdashk/rof-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2252-the-rhythm-of-fighters-vita.png",
+  "description": "THE RHYTHM OF FIGHTERS - SNK Original Sound Collection is a rhythm action mobile game released by SNK Playmore for iOS and Android devices. The game features soundtracks from many traditional SNK games such as The King of Fighters, Fatal Fury, Samurai Shodown, Art of Fighting, Metal Slug and pachislot machines, but also arrangements special classics made especially for this game by its original composers.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2244,
+  "name": "Shadow Fight 2 Vita",
+  "author": "franciscoclou",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SHDF00002",
+  "repo": "franciscoclou/shadowfight2-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2244-shadow-fight-2-vita.png",
+  "description": "An unofficial port of Shadow Fight 2 1.9.38 (Nekki) to the PlayStation Vita.\nThis isn't a remake. The game's original ARM code runs unmodified on the Vita, and this project supplies everything underneath it: a loader for the game's executable and a replacement for the Android runtime it was built on. You provide the game from your own copy of the APK. Nothing in this repository or its releases will run without it.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

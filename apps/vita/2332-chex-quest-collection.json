@@ -1,0 +1,17 @@
+{
+  "id": 2332,
+  "name": "Chex Quest Collection",
+  "author": "SancioPanza88",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CHEX00004",
+  "repo": "sanciopanza88/chex-quest-collection",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2332-chex-quest-collection.png",
+  "description": "One Vita app for Chex Quest 1, Chex Quest 2, and Chex Quest 3: Vanilla Edition. Pick a game with the D-pad and press Cross or START.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

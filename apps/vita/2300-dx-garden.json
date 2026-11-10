@@ -1,0 +1,17 @@
+{
+  "id": 2300,
+  "name": "DX Garden",
+  "author": "hiraethclub",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "DXGA00001",
+  "repo": "hiraethclub/dx-garden",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2300-dx-garden.png",
+  "description": "A radio player and explorer for the PS Vita (homebrew, HENkaku/enso), in the spirit of spinning a globe and listening to what's on air somewhere else.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

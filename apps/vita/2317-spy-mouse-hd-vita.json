@@ -1,0 +1,17 @@
+{
+  "id": 2317,
+  "name": "Spy Mouse HD Vita",
+  "author": "myname24",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SPYM00001",
+  "repo": "myname24/spymouse-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2317-spy-mouse-hd-vita.png",
+  "description": "A PS Vita port of Spy Mouse HD (Firemint / EA, 2010-2011). It does not contain any game code or data: it loads the game's own Android library (libSpyMouse.so) from your copy of the game and emulates the small part of Android it needs (JNI, libc, OpenGL ES 1.1 on top of vitaGL, touch input, audio).",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

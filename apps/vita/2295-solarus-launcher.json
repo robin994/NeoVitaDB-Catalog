@@ -1,0 +1,17 @@
+{
+  "id": 2295,
+  "name": "Solarus Launcher",
+  "author": "LAB0ULANGE",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "SOLR00002",
+  "repo": "lab0ulange/solarus-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2295-solarus-launcher.png",
+  "description": "Solarus is a free and open-source 2D action-RPG game engine scripted in Lua, designed for games in the style of the 16-bit Zelda titles. This is an unofficial port of Solarus 2.0.3 to the PS Vita.\nThe port is based on the official Solarus 2.0.3 source code with changes required by the platform: audio is handled by mojoAL, an OpenAL implementation built on SDL2, instead of OpenAL Soft; video output uses SDL2's renderer without OpenGL; C++ exceptions are disabled in the build. The 320x240 game area is scaled and centered on the 960x544 screen. Savegames are stored on the console. The in-game video mode option (software pixel filters) was removed from the options menu of the bundled quest.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

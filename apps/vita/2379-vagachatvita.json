@@ -1,0 +1,17 @@
+{
+  "id": 2379,
+  "name": "VagaChatVITA",
+  "author": "Frxn5J",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VAGROUTE1",
+  "repo": "frxn5j/vagachatvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2379-vagachatvita.png",
+  "description": "VagaChatVITA is a homebrew application written in C that brings the VagaRoute AI experience to PlayStation Vita. Its interface is designed for the consoleâ€™s screen, featuring button-based navigation, touch support, and a dark appearance inspired by modern chat clients.\nWhen launched, the application asks for the userâ€™s name and saves it locally on the Vita. It then opens a chat screen with a message composer, persistent history, endpoint settings, a masked API key, and a model selector.\nThe chat uses an OpenAI-compatible chat/completions API, receives responses via streaming, and keeps the interface active while the response is being generated. The â€œCheck Connectionâ€ option queries the /models route of the configured endpoint.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

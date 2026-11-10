@@ -1,0 +1,17 @@
+{
+  "id": 2312,
+  "name": "Inotia 2 Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "INOTIA2PV",
+  "repo": "metalsyntax/inotia2-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2312-inotia-2-vita.png",
+  "description": "An unofficial, native iOS-to-PS Vita wrapper port of The Chronicles of Inotia 2: A Wanderer of Luone (originally developed by Com2uS). Unlike the Android ports, there is no ELF here: this port ships its own Mach-O loader that maps the official iOS ARMv6 executable (Inotia2, from the 1.1.41 IPA) into PS Vita RAM and replaces the Apple frameworks it uses (Foundation, UIKit, CoreGraphics, CoreAudio, OpenGL ES) with native implementations on top of vitaGL, FreeType and the Vita system libraries.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: iOS",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

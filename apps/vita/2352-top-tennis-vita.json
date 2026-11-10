@@ -1,0 +1,17 @@
+{
+  "id": 2352,
+  "name": "Top Tennis Vita",
+  "author": "figarocool",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TOPT00001",
+  "repo": "figarocool/top-tennis-game-factory",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2352-top-tennis-vita.png",
+  "description": "Top Tennis (The Game Factory, 1997, programmed by John Dolph) was a DOS tennis game written in Borland Pascal 7. This project is a faithful rewrite in C with SDL2, made by studying the original program (reverse engineering). It runs on Linux, on other systems with SDL2, on the PS Vita and on the PSP. It is not an emulator: the game logic is rewritten, with the same ball physics, the same AI, the same menus and the same timing as the original.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

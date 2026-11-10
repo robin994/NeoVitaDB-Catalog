@@ -1,0 +1,17 @@
+{
+  "id": 2212,
+  "name": "Space Taxi Mayhem",
+  "author": "rsn8887",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STXM00001",
+  "repo": "rsn8887/spacetaximayhem",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2212-space-taxi-mayhem.png",
+  "description": "A multiplayer gravity-based game with 1-5 local players, inspired by the Amiga PD classic Space Taxi 3. Pick up different passengers, land gently on the pad they call out, and most importantly don't crash. There are 45 levels, divided into 9 level sets, with many features such as switches, moving platforms, lasers, wind, and many more.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

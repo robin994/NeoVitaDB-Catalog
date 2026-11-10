@@ -1,0 +1,17 @@
+{
+  "id": 2303,
+  "name": "SSX Vita",
+  "author": "lukebrl",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SSXV00001",
+  "repo": "lukebrl/ssx-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2303-ssx-vita.png",
+  "description": "SSX (2012) Vita Port is an unofficial port of the Android version of EA's SSX (version 0.0.8430) to the PS Vita.\nThe port is a so loader: the game's original ARM code runs unmodified on the Vita, while the port provides what Android would provide around it (the C library, OpenGL ES through vitaGL, and the Java side of the app rewritten in C) and patches the game where the Vita needs it.\nThe menus, the campaign and the races can be played from start to finish, with sound, saves, ghosts and the in-game videos. Menus run at 60 FPS, and races at 35 to 60 FPS depending on the map. The ground nose and tail presses from the console versions, which are still present in the Android version's code and data but have no control there, are restored. The online features are not available, as the game's servers are no longer running.\nThe port includes a number of Vita-specific changes: memory heaps sized for the console, smaller audio banks and textures, a single packed file for faster loading, a reduced render resolution, GPU skinning for characters, off-screen terrain culling, and reworked shader and mesh setup to lower the CPU cost of each frame.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2339,
+  "name": "ABSvita",
+  "author": "DarthTigerson",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ABSV00001",
+  "repo": "darthtigerson/absvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2339-absvita.png",
+  "description": "An Audiobookshelf client for the PlayStation Vita. Stream your audiobooks from your own server, pick up where you left off, and keep your progress in sync with every other Audiobookshelf app.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

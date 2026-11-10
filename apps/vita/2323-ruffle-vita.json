@@ -1,0 +1,17 @@
+{
+  "id": 2323,
+  "name": "Ruffle Vita",
+  "author": "Ibrahim Dogan & Fancy2209",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "RUFFLEVIT",
+  "repo": "ibrahim-dogan/vita-flash-emulator",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2323-ruffle-vita.png",
+  "description": "A native Flash player for the PS Vita built on Ruffle.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

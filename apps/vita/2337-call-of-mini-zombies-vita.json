@@ -1,0 +1,17 @@
+{
+  "id": 2337,
+  "name": "Call of Mini Zombies Vita",
+  "author": "AJ170",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "COMZ42069",
+  "repo": "aj170/call-of-mini-zombies-1-psvita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2337-call-of-mini-zombies-vita.png",
+  "description": "Arcade/action style zombie shooter. The primary objective is to survive as long as possible, unlocking a variety of weapons, gadgets, and characters along the way.",
+  "requirements": "- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

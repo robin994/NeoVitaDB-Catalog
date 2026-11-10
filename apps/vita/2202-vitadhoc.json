@@ -1,0 +1,17 @@
+{
+  "id": 2202,
+  "name": "VitAdhoc",
+  "author": "CBOC-Vita",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "GBAD00001",
+  "repo": "cboc-vita-lab/vitadhoc",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2202-vitadhoc.png",
+  "description": "Remember trading Pokemon with a friend over a link cable? Or that one cartridge you played until the battery died? VitAdhoc brings all of it to the Vita, and makes it better than you remember. Your whole library on a home screen that fills itself with box art. A picture that is pin-sharp or beautifully smooth, and wide enough to fill the Vita's screen. Full speed, rewind, and a Continue button that drops you back into the exact moment you left. Link play with a friend, achievements, tilt games and ROM hacks.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

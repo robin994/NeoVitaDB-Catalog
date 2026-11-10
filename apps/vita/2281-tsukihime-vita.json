@@ -1,0 +1,17 @@
+{
+  "id": 2281,
+  "name": "Tsukihime Vita",
+  "author": "OZZ0AB",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TSUKI0001",
+  "repo": "ozz0ab/tsukihime-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2281-tsukihime-vita.png",
+  "description": "A native PS Vita homebrew port for the original Tsukihime English release. It runs ONScripter game data directly, using a VitaSDK build of ONScripter-JH.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2276,
+  "name": "Buckshot Roulette Portable",
+  "author": "voidchecksam",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BSHT00016",
+  "repo": "voidchecksam/buckshotrouletteportable-bsht",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2276-buckshot-roulette-portable.png",
+  "description": "A native C++ port(able) of Buckshot Roulette.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

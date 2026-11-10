@@ -1,0 +1,17 @@
+{
+  "id": 2378,
+  "name": "repentogxm",
+  "author": "0xl0cal",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ISAACR001",
+  "repo": "0xl0cal/repentogxm",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2378-repentogxm.png",
+  "description": "repentogxm is an experimental static-recompilation port of The Binding of Isaac: Repentance to the PlayStation Vita. The PC executable is translated ahead of time into C and compiled for the Vita's ARM CPU. There is no emulator. This repository contains no game code, resources or binaries; you supply your own PC copy. It is not affiliated with or endorsed by Edmund McMillen, Nicalis, Valve, Sony, or the maintainers of any dependency named below.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

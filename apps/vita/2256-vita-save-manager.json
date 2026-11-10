@@ -1,0 +1,17 @@
+{
+  "id": 2256,
+  "name": "Vita Save Manager++",
+  "author": "rreha & kylon & d3m3vilurr",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SAVEMGRPP",
+  "repo": "rreha/vita-savemgrpp",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2256-vita-save-manager.png",
+  "description": "Vita Save Manager++ is a fast, highly optimized, and customizable save data manager for the PS Vita. This project is a refactored fork of Vita Save Manager Plus.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2377,
+  "name": "Caffeine for Vita",
+  "author": "M-Essa11",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "CFNE00001",
+  "repo": "m-essa11/caffeine-for-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2377-caffeine-for-vita.png",
+  "description": "Caffeine for Vita adds a sleep-prevention toggle to the PS Vita Quick Menu. When enabled, it keeps the display awake and prevents automatic suspend. Manual standby remains available.\nThe toggle starts disabled after every reboot. Its state and blue cup indicator remain synchronized when the Quick Menu is closed and reopened.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

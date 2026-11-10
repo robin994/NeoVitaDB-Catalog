@@ -1,0 +1,17 @@
+{
+  "id": 2235,
+  "name": "Touhou 12.3 Vita",
+  "author": "Botarguirix",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "THSV12302",
+  "repo": "botarguirix/touhou123vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2235-touhou-12-3-vita.png",
+  "description": "Port of Touhou 12.3: Hisoutensoku for PSVita.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

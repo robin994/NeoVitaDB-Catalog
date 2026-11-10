@@ -1,0 +1,17 @@
+{
+  "id": 2238,
+  "name": "Gunforce 2 Vita",
+  "author": "Tobic-99",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "GNFC00002",
+  "repo": "tobic-99/gunforce2-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2238-gunforce-2-vita.png",
+  "description": "A static recompilation of Gunforce 2 (Irem, 1994, M92 arcade board) to native ARM code. The game's V33 main program is translated to C++ and linked with a native runtime that replaces the board: memory map, interrupt controller, DMA, a software video renderer, and the sound board (V35 with Irem's opcode encryption, YM2151 and GA20). The sound CPU runs in an interpreter.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: MAME",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

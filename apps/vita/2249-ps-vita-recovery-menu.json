@@ -1,0 +1,17 @@
+{
+  "id": 2249,
+  "name": "PS Vita Recovery Menu",
+  "author": "DrinkingSubset",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "RECM00001",
+  "repo": "drinkingsubset/ps-vita-recovery-menu-project",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2249-ps-vita-recovery-menu.png",
+  "description": "A diagnostic and recovery environment for the PlayStation Vita with plugin repair tools, storage diagnostics, and boot-time recovery via R trigger.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

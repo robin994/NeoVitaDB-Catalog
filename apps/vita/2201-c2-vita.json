@@ -1,0 +1,17 @@
+{
+  "id": 2201,
+  "name": "C2-Vita",
+  "author": "Paxrisen",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CIV200002",
+  "repo": "paxrisen/c2-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2201-c2-vita.png",
+  "description": "An unofficial PS Vita runtime for Civilization II: Multiplayer Gold Edition (PC).\nC2-Vita runs the original Windows version of the game on a PS Vita. It ships no game files and no game code. You need your own legally obtained PC copy of the game.",
+  "requirements": "- kubridge.skprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

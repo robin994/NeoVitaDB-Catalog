@@ -1,0 +1,17 @@
+{
+  "id": 2205,
+  "name": "Super Mario Galaxy Vita",
+  "author": "CBOC-Vita",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PDEV00001",
+  "repo": "producdevity/supermariogalaxyvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2205-super-mario-galaxy-vita.png",
+  "description": "This is Super Mario Galaxy running natively on a PS Vita. There's no emulator and no streaming involved: the game itself was rebuilt to run on the Vita's own processor and graphics chip. We haven't found anyone who has run Galaxy on the Vita before, so as far as we know this is a first.\nBoot it up and you land in the Comet Observatory with Rosalina's music playing, holding the whole game in your hands. And it plays like it was made for the Vita: slide a finger on the rear touch pad to aim Star Bits, touch the screen where you used to point the Wii Remote, and tilt the Vita to roll the Star Ball.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Wii",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

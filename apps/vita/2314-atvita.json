@@ -1,0 +1,17 @@
+{
+  "id": 2314,
+  "name": "ATVITA",
+  "author": "BM-Hicham19",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ATVM00001",
+  "repo": "bm-hicham19/atvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2314-atvita.png",
+  "description": "This is not a rewrite of the game. It is a small Dalvik virtual machine written in C (src/vm.c, ~800 lines) that runs the game's own classes.dex on the Vita, plus native implementations of the ~250 Android / Java calls the game makes (src/jlib.c, src/droid.c): a software canvas, bitmaps, PNG decoding, streams, strings, input, file storage. Game code, art and levels come from your own APK; nothing from the game is in this repository or in the VPK.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

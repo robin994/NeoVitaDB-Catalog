@@ -1,0 +1,17 @@
+{
+  "id": 2192,
+  "name": "RECVX Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "RECVX0001",
+  "repo": "rinnegatamante/recvx_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2192-recvx-vita.png",
+  "description": "Port of Resident Evil: Code Veronica X for PSVita based off the decompilation of the PS2 version of the game.\nIt features several enhancements such as 544p internal resolution, up to MSAA 4x, modern controls, widescreen, first person mode, ability to disable motion blur and more.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS2",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

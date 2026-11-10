@@ -1,0 +1,17 @@
+{
+  "id": 2200,
+  "name": "Burnout Legends Vita",
+  "author": "LAB0ULANGE",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "BRNG00001",
+  "repo": "lab0ulange/burnoutlegends-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2200-burnout-legends-vita.png",
+  "description": "Native PS Vita port of Burnout Legends, the 2005 arcade racing game by Criterion Games for the PSP. The game's PSP executable is statically recompiled to ARM code with PSPRecomp: the game runs natively on the Vita instead of through emulation, with its graphics, sound, movies and saves reimplemented for the console.\nRaces run at 30 frames per second at the Vita's native 960x544 resolution, with a dynamic resolution that keeps the frame rate stable on the most demanding tracks while menus and the player's car stay at full resolution. Graphics are rendered with vitaGL, sound and music are fully supported, and the menu movies are played.\nSaves use the Vita's native save dialog. Burnout Legends saves made with Adrenaline or on a PSP are detected on the memory card and can be loaded directly, and saves written by the port remain compatible with Adrenaline.\nOn first launch, the game files are built on the Vita from the user's own disc image: the game data is copied, the executable is decrypted and verified, and the music is converted. No game file or game code is included.\nOnly the European version of the game (ULES00125, version 1.01) is supported.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PSP",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

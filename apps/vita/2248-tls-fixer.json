@@ -1,0 +1,17 @@
+{
+  "id": 2248,
+  "name": "tls_fixer",
+  "author": "devnoname120",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "TLSF00001",
+  "repo": "devnoname120/vita_tls_fixer",
+  "asset": "tls_fixer.vpk",
+  "prerelease": false,
+  "icon": "2248-tls-fixer.png",
+  "description": "tls_fixer provides modern TLS transport using Mbed TLS 4.2.0 and TF-PSA-Crypto 1.2.0, alongside an authoritative Sony + curl/Mozilla certificate bundle. Sony's HTTP implementation continues to handle URLs, redirects, authentication, cookies and request processing.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

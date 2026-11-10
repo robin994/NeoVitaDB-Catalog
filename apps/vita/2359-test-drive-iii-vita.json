@@ -1,0 +1,17 @@
+{
+  "id": 2359,
+  "name": "Test Drive III Vita",
+  "author": "smart-pickle",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TDRV01990",
+  "repo": "smart-pickle/testdriveiii-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2359-test-drive-iii-vita.png",
+  "description": "A native, hardware-accelerated PlayStationVita and PlayStationTV port of Test Drive III: The Passion (1990), based on the static recompilation and reverse-engineering work by kylofon (test-drive-3-sdl3).",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

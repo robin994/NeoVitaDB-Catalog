@@ -1,0 +1,17 @@
+{
+  "id": 2299,
+  "name": "vitals",
+  "author": "nyirish & devnoname120",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITALS001",
+  "repo": "nyirsh/vitals",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2299-vitals.png",
+  "description": "Modern TLS (1.2 and 1.3) for the PS Vita browser, apps and games that use Sony's sceHttp APIs.\nAll of the heavylifting has been done by devnoname120 with tls_fixer, I'm only making those weights lighter. (more info)\nThe Vita's own TLS stack (RSA BSAFE, 2014) can no longer connect to many current servers. vitals replaces only the TLS layer with Mbed TLS and installs an up-to-date certificate store. Sony's HTTP code keeps handling URLs, redirects, cookies and everything else, so apps work unchanged.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

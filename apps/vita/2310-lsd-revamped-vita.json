@@ -1,0 +1,17 @@
+{
+  "id": 2310,
+  "name": "LSD Revamped Vita",
+  "author": "arielxflores",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LSDR00001",
+  "repo": "arielxflores/lsdrevamped-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2310-lsd-revamped-vita.png",
+  "description": "LSD Revamped Vita is a native port of LSD Revamped, Figglewatts' open source remake of LSD: Dream Emulator (1998), to the PS Vita. The game is reimplemented in C with vitaGL, following LSD Revamped's Unity code, and runs at 60 fps.\nIt includes all 14 dreams of the original journal, linking between dreams, the dream graph, flashbacks, special days, the Grey Man and saving; Classic graphics (pixelation, dithering, affine texture mapping, PSX framerate limit) and Revamped graphics with graphics profiles; Classic and Revamped controls with custom control schemes; the original soundtrack synthesised from the PS1 sequences and the Revamped soundtrack; and the intro and in-game videos. Mod and custom journal loading are not included.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

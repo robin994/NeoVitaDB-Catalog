@@ -1,0 +1,17 @@
+{
+  "id": 2242,
+  "name": "nestfolder",
+  "author": "emrhky",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "NESTF0001",
+  "repo": "emrhky/nestfolder",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2242-nestfolder.png",
+  "description": "Folders inside folders on the PS Vita home screen (LiveArea).\nThe stock Vita lets you group apps into folders, but a folder can't hold another folder. nestfolder adds that: you can put a folder inside a folder, open it, and manage it like any other folder.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

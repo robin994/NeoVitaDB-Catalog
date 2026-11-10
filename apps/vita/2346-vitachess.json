@@ -1,0 +1,17 @@
+{
+  "id": 2346,
+  "name": "VitaChess",
+  "author": "shoshkabob99",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SNCH00001",
+  "repo": "shoshkabob99/vitachess",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2346-vitachess.png",
+  "description": "A complete chess game for the PlayStation Vita.\nPlay the computer, solve puzzles, learn the game, and collect trophies.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

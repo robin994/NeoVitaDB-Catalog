@@ -1,0 +1,17 @@
+{
+  "id": 2361,
+  "name": "Army of Darkness Defense Vita",
+  "author": "PiSCES",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "AODD00001",
+  "repo": "p1r4n351/army-of-darkness-defense-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2361-army-of-darkness-defense-vita.png",
+  "description": "A port of the Android tower-defense game Army of Darkness Defense (Backflip Studios), version 1.1.1, to the PS Vita. It is a .so loader port: the original ARMv7 Android game library runs natively, with Vita-native graphics (vitaGL) and audio (FMOD Ex through OpenSL ES). Advertising, analytics and social-network services are removed, and the in-game coin store works offline without payment. No game data is included: a small offline preparation kit builds the data folder from the user's own copy of the Android game.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

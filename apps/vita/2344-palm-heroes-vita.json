@@ -1,0 +1,17 @@
+{
+  "id": 2344,
+  "name": "Palm Heroes Vita",
+  "author": "Cardas26",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PHEROES01",
+  "repo": "cardas26/psp2-pheroes",
+  "asset": "palmheroes.vpk",
+  "prerelease": false,
+  "icon": "2344-palm-heroes-vita.png",
+  "description": "Palm Heroes (iO UPG, 2010) is a Heroes-of-Might-and-Magic-style strategy game for Windows Mobile. v1.05.3 was released as free by the developers in 2010. This port uses a custom built WinMobile loader to bring that version of the game to the PS Vita, including several optional enhancements.",
+  "requirements": "- kubridge.skprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

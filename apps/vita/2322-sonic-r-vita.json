@@ -1,0 +1,17 @@
+{
+  "id": 2322,
+  "name": "Sonic R Vita",
+  "author": "PupueStudios",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SONICR001",
+  "repo": "fr3dsp/sonic-r-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2322-sonic-r-vita.png",
+  "description": "A reimplementation of Sonic R for the PlayStation Vita.\nSonic R is a racing game in the Sonic the Hedgehog series that was developed by Traveller's Tales and Sonic Team. It was initially released for the Sega Saturn in 1997 and was later ported to PC in 1998. It involves Sonic, his friends and the evil Dr. Eggman competing against each other in the World Grand Prix.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

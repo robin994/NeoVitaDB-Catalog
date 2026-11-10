@@ -1,0 +1,17 @@
+{
+  "id": 2380,
+  "name": "Wesnoth Vita",
+  "author": "Nathan Kewley",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WSNT00001",
+  "repo": "nathankewley/wesnoth-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2380-wesnoth-vita.png",
+  "description": "The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. Fight a desperate battle to reclaim the throne of Wesnoth, search for the key to immortality, or take part in any number of other adventures.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

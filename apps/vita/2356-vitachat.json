@@ -1,0 +1,17 @@
+{
+  "id": 2356,
+  "name": "VitaChat",
+  "author": "MisteriousFalcon",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VCHT00001",
+  "repo": "misteriousfalcon/vitachat",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2356-vitachat.png",
+  "description": "VitaChat is an AI chat client for the PS Vita. It supports Claude, ChatGPT, Grok, Groq and Gemini, plus any OpenAI-compatible endpoint (OpenRouter, Ollama, LM Studio). The model can be picked from each service's live model list.\nFeatures: questions about photos from the gallery or the front/back camera, image generation (OpenAI / Grok), voice input and a hands-free conversation mode with spoken replies, web search, extended thinking and code execution for Claude, memory across conversations, conversation history, cost tracking with an optional daily limit, landscape and portrait layouts, and 9 UI languages (English, Romanian, German, French, Italian, Spanish, Portuguese, Russian, Polish).\nAPI keys can be entered from a phone through a QR code on the local network. The app requires the user's own API key for at least one service (Groq and Gemini offer free tiers). Keys and conversations are stored only on the console; the app has no servers of its own and no telemetry.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

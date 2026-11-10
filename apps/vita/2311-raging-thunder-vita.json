@@ -1,0 +1,17 @@
+{
+  "id": 2311,
+  "name": "Raging Thunder Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVRT0001",
+  "repo": "metalsyntax/raging-thunder-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2311-raging-thunder-vita.png",
+  "description": "Unofficial port of Raging Thunder (Polarbit, Android) to the PS Vita, running the original ARM game library through a native loader (TheFloW's so-loader + FalsoJNI) with rendering via vitaGL.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

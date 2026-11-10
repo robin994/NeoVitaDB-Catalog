@@ -1,0 +1,17 @@
+{
+  "id": 2334,
+  "name": "Music Vita",
+  "author": "bvilleretro",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MUSC00001",
+  "repo": "bvilleretro/music-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2334-music-vita.png",
+  "description": "A music player for the PlayStation Vita (MP3 + WAV).",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

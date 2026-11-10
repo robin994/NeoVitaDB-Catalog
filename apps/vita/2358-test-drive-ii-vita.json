@@ -1,0 +1,17 @@
+{
+  "id": 2358,
+  "name": "Test Drive II Vita",
+  "author": "smart-pickle",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TDRV01989",
+  "repo": "smart-pickle/testdriveii-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2358-test-drive-ii-vita.png",
+  "description": "A native, hardware-accelerated PlayStationVita and PlayStationTV port of Test Drive II: The Duel (1989), based on the static recompilation and reverse-engineering work by kylofon.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2259,
+  "name": "kof95sr",
+  "author": "seba371375",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "KOF950001",
+  "repo": "seba371375/kof95sr",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2259-kof95sr.png",
+  "description": "The King of Fighters '95 Static Recompilation (kof95sr) is a native, source-level port of SNK's legendary\narcade fighting classic for the PlayStation Vita (Title ID: KOF950001).\nInstead of traditional full-system emulation, kof95sr statically recompiles 28,000+ Motorola 68000 arcade\nassembly entry points ahead-of-time into optimized C routines, executing them directly on the Vita's ARM\nCortex-A9 CPU at locked 60 FPS with zero interpreter overhead.",
+  "requirements": "- Game Data Files: MAME",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2273,
+  "name": "UFO 40",
+  "author": "naniiic137",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "UFOF00040",
+  "repo": "naniiic137/ufo-40",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2273-ufo-40.png",
+  "description": "UFO 40 is inspired by UFO 50 by Mossmouth, a collection of fifty \"lost\" games from a console that never existed. This is a joke port with a shorter name and fewer games: forty cartridge slots on the equally fictional Beamdown Softworks console.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2284,
+  "name": "ReST-V",
+  "author": "Reyanon",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "RSTV00001",
+  "repo": "reyanon/rest-v",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2284-rest-v.png",
+  "description": "ReST-V is an arcade emulator for the Sega ST-V (Titan) board, with additional support for the older Sega System C and System C2 boards. The ST-V core is based on Yabause / YabaSanshiro, with ST-V support from Kronos; System C / C2 runs on a separate 68000 based core with a 315-5313 VDP renderer, YM3438 (ymfm), SN76489 and uPD7759 sound.\nThe emulator targets full speed (60 fps) on the PS Vita without frame skipping. The SH-2 CPUs run through a dynamic recompiler for ARMv7, frequently used SGL library routines are replaced with native code, and idle loops are detected automatically. VDP1 sprites and VDP2 background layers are rendered and composited on the GPU through sceGxm, and the SCSP sound DSP is compiled to ARM code.\nThe game list covers 174 sets (117 ST-V, 47 System C2, 10 System C) with board tabs and Playable / All / Favorites filters. Other features include save states (10 slots plus quick save), button mapping with turbo, per-game settings, aspect ratio and filter options, scanlines, and border colors or user-supplied border artwork.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

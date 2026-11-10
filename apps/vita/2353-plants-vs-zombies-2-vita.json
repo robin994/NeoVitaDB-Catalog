@@ -1,0 +1,17 @@
+{
+  "id": 2353,
+  "name": "Plants vs Zombies 2 Vita",
+  "author": "LeZergan",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PVZ2VITA1",
+  "repo": "lezergan/pvz2vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2353-plants-vs-zombies-2-vita.png",
+  "description": "Unofficial PS Vita loader for the Android 4.5.2 ROW build of Plants vs. Zombies 2.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

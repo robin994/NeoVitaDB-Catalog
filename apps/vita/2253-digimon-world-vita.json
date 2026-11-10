@@ -1,0 +1,17 @@
+{
+  "id": 2253,
+  "name": "Digimon World Vita",
+  "author": "danicannt",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DGWD00001",
+  "repo": "danicannt/dw-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2253-digimon-world-vita.png",
+  "description": "A native port of Digimon World (PlayStation, 1999 - US version) for PS Vita and PS TV.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

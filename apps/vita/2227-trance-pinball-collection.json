@@ -1,0 +1,17 @@
+{
+  "id": 2227,
+  "name": "TRANCE PINBALL COLLECTION",
+  "author": "MDashK",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "TRPB00001",
+  "repo": "mdashk/trance-pinball-collection",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2227-trance-pinball-collection.png",
+  "description": "A collection of emulators dedicated to TAITO's Trance Pinball mobile phone games.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

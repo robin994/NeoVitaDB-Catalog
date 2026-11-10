@@ -1,0 +1,17 @@
+{
+  "id": 2203,
+  "name": "Ignition Vita",
+  "author": "xesf",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "IGNT00001",
+  "repo": "xesf/ignition",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2203-ignition-vita.png",
+  "description": "A reimplementation of Ignition, the 1997 top-down racing game by Unique Development Studios, published by Virgin Interactive. The game's Windows 95 executable, IGN_WIN.EXE, is reverse engineered and rewritten in portable C99. The port runs the original game data, which you supply from your own copy of the game.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

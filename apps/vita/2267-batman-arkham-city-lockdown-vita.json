@@ -1,0 +1,17 @@
+{
+  "id": 2267,
+  "name": "Batman: Arkham City Lockdown Vita",
+  "author": "KiddRwxSsj",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ACLD00001",
+  "repo": "kiddrwxssj/batman-acl-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2267-batman-arkham-city-lockdown-vita.png",
+  "description": "Batman: Arkham City Lockdown is a mobile fighting game developed by NetherRealm Studios and published by WB Games. The player controls Batman fighting through Arkham City against inmates and villains in one-on-one encounters, using strikes, counters and swipe-based combos, with upgradeable abilities and unlockable batsuits. This is a port of the Android version (1.0.2) to PS Vita, running the game's original code natively through a so-loader. It adds physical button mapping, tilt steering for the batarang, a built-in viewer for the Extras comic and batsuits purchasable with in-game WayneTech points instead of real money. Online features are not available.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

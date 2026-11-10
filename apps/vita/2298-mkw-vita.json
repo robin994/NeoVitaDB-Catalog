@@ -1,0 +1,17 @@
+{
+  "id": 2298,
+  "name": "MKW Vita",
+  "author": "boomannotjeff",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MKWV00001",
+  "repo": "boomannotjeff/mkwiita",
+  "asset": "mkw.vpk",
+  "prerelease": false,
+  "icon": "2298-mkw-vita.png",
+  "description": "Not an emulator. A native port of MKW-3DS, the 1:1 3DS recreation of Mario Kart Wii (not of the Wii game itself), running on the Vita's own APIs with vitaGL.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Wii",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

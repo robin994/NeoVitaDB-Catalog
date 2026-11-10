@@ -1,0 +1,17 @@
+{
+  "id": 2255,
+  "name": "ReiREM",
+  "author": "Reyanon",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "M92A00001",
+  "repo": "reyanon/reirem",
+  "asset": "*vita.zip",
+  "prerelease": false,
+  "icon": "2255-reirem.png",
+  "description": "ReiREM is an emulator for Irem arcade hardware based on the Irem drivers and CPU/sound cores of FinalBurn Neo. It supports ten Irem board families (M52, M57, M58, M62, M63, M72, M75/77, M90/97, M92 and M107) with 196 sets in total, including parents, clones and hacks, such as Ninja Baseball Bat Man, Hook, R-Type, R-Type II, Image Fight, Undercover Cops, In The Hunt, Gunforce, Dream Soccer '94, Vigilante and Kung-Fu Master.\nThe PS Vita version runs the main CPU, the sound CPU with synthesis, and the renderer on three separate cores, with NEON tile drawing, dynamic audio rate control and frame pacing locked to the display refresh. Emulation results are checked against a desktop reference build with per-frame video and audio hashes.\nThe game list is grouped by board, with Playable, All and Favorites filters. Features include save states with ten slots and quick save, DIP switch settings, button remapping with a configurable turbo button, FinalBurn Neo format cheat files, aspect ratio and filter options, user border artwork, and per-game settings.\nROM images are not included. FinalBurn Neo compatible ROM sets are required. ReiREM is distributed under the FinalBurn Neo non-commercial license and is not affiliated with Irem.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

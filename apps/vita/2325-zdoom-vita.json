@@ -1,0 +1,17 @@
+{
+  "id": 2325,
+  "name": "ZDoom Vita",
+  "author": "Mr. Azrael",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ZDVZ00001",
+  "repo": "mrazrael1/zdoom-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2325-zdoom-vita.png",
+  "description": "Vibecoded port of ZDoom to the PSVITA, based on ZDoom v2.8.1 source code, with minor tweaks to the engine and a novel launcher to select WADs. Comes with Freedoom and the Doom 1 Shareware Episode bundled since both are freely redistributable. Has support for Hexen, Heretic, Strife, etc. as well.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

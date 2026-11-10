@@ -1,0 +1,17 @@
+{
+  "id": 2196,
+  "name": "UMD Player",
+  "author": "xesf",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "UMDP00001",
+  "repo": "xesf/umd-player",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2196-umd-player.png",
+  "description": "UMD Player is a video playback decoder that can play PSP UMD Movies and PSP UMD-PG interactive games directly in PS Vita without the need of any PSP emulation. It works with multiple ISO formats including compressed ones. By default movies play directly without the extra clips (intro, warnings, copyrights) but user can change to disc mode where all the menu interactions are displayed like in PSP and DVD players.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

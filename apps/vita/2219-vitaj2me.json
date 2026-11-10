@@ -1,0 +1,17 @@
+{
+  "id": 2219,
+  "name": "VitaJ2ME",
+  "author": "MetalSyntax",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "VITAJ2ME0",
+  "repo": "metalsyntax/vita-j2me-emulator",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2219-vitaj2me.png",
+  "description": "VitaJ2ME runs Java ME (J2ME / MIDP 2.0, CLDC 1.1) games natively on the PlayStation Vita. It is a port of PSPKVM (Sun's phoneME Feature VM, as adapted for the PSP) from MIPS to ARMv7, with a new native front end: a game library, per-game settings, a virtual keypad, touch support and an in-game menu.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

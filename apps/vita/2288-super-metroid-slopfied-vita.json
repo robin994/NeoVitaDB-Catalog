@@ -1,0 +1,17 @@
+{
+  "id": 2288,
+  "name": "Super Metroid Slopfied Vita",
+  "author": "DarthSully",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SMRC00001",
+  "repo": "darthsully/supermetroid-slopified-vita-port",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2288-super-metroid-slopfied-vita.png",
+  "description": "A PS Vita port of mstan's SuperMetroidRecomp, a recompilation of Super Metroid.",
+  "requirements": "- Game Data Files: SNES",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

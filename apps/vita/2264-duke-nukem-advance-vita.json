@@ -1,0 +1,17 @@
+{
+  "id": 2264,
+  "name": "Duke Nukem Advance Vita",
+  "author": "ShayVD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DNAV00001",
+  "repo": "shayvd/duke-nukem-advance-tc-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2264-duke-nukem-advance-vita.png",
+  "description": "Duke Nukem Advance is a port of EDuke32 that runs the Duke Nukem Advance TC (DNA4PC) by branung and oasiz, a total conversion that remakes the 2002 Game Boy Advance game Duke Nukem Advance in the Duke Nukem 3D engine. It includes the full 19-level campaign along with the TC's options: PC Enhanced or GBA Original style, USA or EU script, and optional voiced cutscenes.\nThe port adds a control scheme for the Vita that uses the rear touchpad as L2/R2, with Vita button names in all on-screen prompts and optional gyro aiming. It renders natively through GXM at Half (480x272) or Full (960x544) resolution, with a VSync option and an FPS counter. The game pauses when the PS button is pressed, and it checks for the required data files at startup and reports any that are missing.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

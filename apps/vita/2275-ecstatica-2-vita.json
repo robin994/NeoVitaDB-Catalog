@@ -1,0 +1,17 @@
+{
+  "id": 2275,
+  "name": "Ecstatica 2 Vita",
+  "author": "xesf",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ECST00002",
+  "repo": "ecstatica-game/ecstatica",
+  "asset": "*e2*.vpk",
+  "prerelease": false,
+  "icon": "2275-ecstatica-2-vita.png",
+  "description": "Decompilation and portable C99 reimplementation of Ecstatica 1 & 2, the 1994/1997 ellipsoid-rendered adventure games by Andrew Spencer Studios.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

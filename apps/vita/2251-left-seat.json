@@ -1,0 +1,17 @@
+{
+  "id": 2251,
+  "name": "Left Seat",
+  "author": "Kyle Knowles",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SKYH00001",
+  "repo": "av8t4/leftseat",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2251-left-seat.png",
+  "description": "Left Seat is a flight simulator in the style of the early 1990s desktop flight games. It uses software-rendered, flat-shaded 3D. It has six aircraft (a piston trainer, a turboprop hauler, a single jet, a twin-jet courier, a twin-engine pusher and a small single-engine pusher). Each aircraft has its own model, cockpit view, handling and engine type.\nThe world includes several airports, towns, a city, mountains, a desert, a river and a coastline. Flights can be flown by day, at dusk or at night, in conditions from clear skies to storms. There is an open-world mode, landing challenges, ring courses and a cross-country trip, with saved best scores. Flight controls can use the sticks or the motion sensor. The menus and the chart support the touch screen, and the hangar has a rotating 3D preview of each aircraft and an AR view that uses the rear camera. The cockpit has a switch panel for the engine start-up and the aircraft lights. Engine, wind and effect sounds are generated on the fly, with no audio files.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

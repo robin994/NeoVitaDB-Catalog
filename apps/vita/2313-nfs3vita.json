@@ -1,0 +1,17 @@
+{
+  "id": 2313,
+  "name": "NFS3VITA",
+  "author": "NDRW",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NFS3VITA1",
+  "repo": "ndrwhun/nfs3vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2313-nfs3vita.png",
+  "description": "A port of Need for Speed III: Hot Pursuit (1998) to the PS Vita, built on the nfs-recompiled static recompilation with a native sceGxm backend.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

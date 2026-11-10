@@ -1,0 +1,17 @@
+{
+  "id": 2197,
+  "name": "ViTube Music",
+  "author": "PupueStudios",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "YTMV00001",
+  "repo": "pupuestudios/vitube-music",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2197-vitube-music.png",
+  "description": "A YouTube Music client for the PSVita. Search for a song, hit play, and autoplay radio keeps the music going. It runs entirely on the console, no companion server or PC needed.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2373,
+  "name": "Test Drive Vita",
+  "author": "smart-pickle",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "TDRV01987",
+  "repo": "smart-pickle/testdrive-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2373-test-drive-vita.png",
+  "description": "A native, hardware-accelerated PlayStationVita and PlayStationTV port of Test Drive (1987), based on the static recompilation and enhanced engine by kylofon.\nThis port brings Accolade's seminal 1987 PC racing classic to the PS Vita with native 60 FPS presentation via GXM hardware acceleration, authentic DOS sound synthesis, responsive physical controls, dynamic multi-mode aspect scaling, and a Sony TRC-compliant LiveArea digital user manual.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

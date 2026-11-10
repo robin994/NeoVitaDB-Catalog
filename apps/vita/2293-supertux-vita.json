@@ -1,0 +1,17 @@
+{
+  "id": 2293,
+  "name": "SuperTux Vita",
+  "author": "DrDecki",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "STUX00001",
+  "repo": "drdecki/supertux-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2293-supertux-vita.png",
+  "description": "SuperTux Vita is a port of SuperTux 0.7.0 to the PS Vita. SuperTux is an open source jump'n'run game inspired by the Super Mario Bros. series, in which Tux travels through multiple worlds to rescue Penny from Nolok's fortress.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

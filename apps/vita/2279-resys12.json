@@ -1,0 +1,17 @@
+{
+  "id": 2279,
+  "name": "ReSys12",
+  "author": "Reyanon",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "RSYS00012",
+  "repo": "reyanon/resys12",
+  "asset": "*.zip",
+  "prerelease": false,
+  "icon": "2279-resys12.png",
+  "description": "ReSys12 is an emulator for the Namco System 12 arcade board, the PlayStation-based hardware used by Tekken Tag Tournament, Tekken 3, Soul Calibur, Ehrgeiz, Point Blank 2 and other Namco titles from 1997 to 2001.\nThe R3000A CPU, GTE and GPU emulation come from pcsx_rearmed, using its ARMv7 dynamic recompiler, NEON GTE and the gpu_neon software rasterizer. The System 12 board itself (ROM banking, KC0xx protection, ROM DMA, the H8/3002 sub CPU, the C352 sound chip, EEPROM and JVS I/O) is ported from MAME.\nThe main CPU, the GPU rasterizer and the sound run on separate CPU cores. Idle loops of the main CPU and the H8/3002 are skipped, and only the VRAM rows that changed are uploaded to the GPU. Every frame is emulated and drawn; there is no frame skipping.\n52 of the 59 MAME System 12 sets run, including fighting games, gun games (aimed with an analog stick) and driving games (wheel or lever on an analog stick). Games that need the CD-XA board (Um Jammer Lammy NOW!, Quest for Fame, Truck Kyosokyoku) are not supported.\nFeatures include a game list grouped by controller type with Playable / All / Favorites filters, save states with 10 slots and quick save, button remapping with turbo and combo keys, service mode access, aspect ratio and filter options, border artwork, and per-game settings.\nReSys12 is free software under the GNU GPL version 3.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

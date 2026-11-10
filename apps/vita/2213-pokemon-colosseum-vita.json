@@ -1,0 +1,17 @@
+{
+  "id": 2213,
+  "name": "Pokemon Colosseum Vita",
+  "author": "Rinnegatamante",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PCOLN0010",
+  "repo": "rinnegatamante/colosseum-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2213-pokemon-colosseum-vita.png",
+  "description": "Port of Pokemon Colosseum for PSVita based off the decompilation of the Gamecube version.",
+  "requirements": "- libshacccg.suprx\n- CapUnlocker.skprx\n- Game Data Files: Gamecube",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

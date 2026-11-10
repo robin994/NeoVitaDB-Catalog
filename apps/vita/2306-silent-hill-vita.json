@@ -1,0 +1,17 @@
+{
+  "id": 2306,
+  "name": "Silent Hill Vita",
+  "author": "khajit2412",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SHPC00001",
+  "repo": "khajit2412/silentvitahill",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2306-silent-hill-vita.png",
+  "description": "A native PlayStation Vita port of Silent Hill (1999). It is built from the Silent Hill native PC port, which in turn is built on the Silent Hill PSX decompilation. The game runs as a native Vita executable compiled from decompiled C source. It is not an emulator and not a static recompilation.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

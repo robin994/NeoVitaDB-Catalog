@@ -1,0 +1,17 @@
+{
+  "id": 2360,
+  "name": "PSVitaman",
+  "author": "Biodam",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "SPOTMAN01",
+  "repo": "biodam/psvitaman",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2360-psvitaman.png",
+  "description": "PSVitaman is a standalone PlayStation Vita homebrew application (.vpk) functioning as a remote controller for Spotify playback. Borrowing the retro aesthetic of classic portable cassette tape players, it features mechanical-style transport buttons, cassette spools that rotate during active playback, text marquee scrolling for long titles, and dual physical/touchscreen controls.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

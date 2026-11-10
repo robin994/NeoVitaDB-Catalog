@@ -1,0 +1,17 @@
+{
+  "id": 2246,
+  "name": "Star Fox Enhanced",
+  "author": "kandowontu2",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SFXE00001",
+  "repo": "kandowontu2/starfox-enhanced",
+  "asset": "*vita.zip",
+  "prerelease": false,
+  "icon": "2246-star-fox-enhanced.png",
+  "description": "A native C++/SDL3 port of UltraStarFox, with Original Star Fox and Star Fox EX experiences, high-frame-rate presentation, widescreen support, and optional visual enhancements using Codex AI (5.6 Sol, 6 Astra, 6 Sol).",
+  "requirements": "Game Data Files: SNES",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

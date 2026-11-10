@@ -1,0 +1,17 @@
+{
+  "id": 2268,
+  "name": "VitaXMB",
+  "author": "dekiller82",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VXMB00001",
+  "repo": "dekiller82/vitaxmb",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2268-vitaxmb.png",
+  "description": "A PSP-style XMB launcher for the PlayStation Vita.\nThe cross media bar, rebuilt for the Vita: your games and homebrew, music, settings and system apps in the layout, motion and sound of the original.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

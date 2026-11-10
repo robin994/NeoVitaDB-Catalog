@@ -1,0 +1,17 @@
+{
+  "id": 2309,
+  "name": "PCSX ReArcade",
+  "author": "frangarcj",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "PCRA00001",
+  "repo": "frangarcj/pcsx_rearmed",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2309-pcsx-rearcade.png",
+  "description": "PCSX ReArcade is an emulator of Namco System 12 arcade games, based on PCSX-ReARMed and on Rinnegatamante's PCSX AwO frontend. Games load from MAME romset zips (split, merged or non-merged) and are shown as 3D arcade cabinets on a game shelf, with each game's regional versions grouped together.\nSoul Calibur, Tekken 3 and Tekken Tag Tournament have been tested on PS Vita. Other System 12 games that use no special hardware are recognised but not yet verified; light-gun games, Techno Drive, Truck Kyosokyoku, Um Jammer Lammy NOW!, Attack Pla Rail and Kart Duel are not emulated.\nIt offers two renderers, vitaGL with HD output and the NEON renderer with exact PlayStation GPU output, a pause menu with save states, configurable arcade buttons, the board's test switch for the service menu, and a volume boost for the board's sound. The cabinet art can be taken from the running game.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

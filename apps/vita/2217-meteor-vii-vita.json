@@ -1,0 +1,17 @@
+{
+  "id": 2217,
+  "name": "METEOR VII VITA",
+  "author": "Galetote",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FFSQ00007",
+  "repo": "ggdrn/meteor-vii-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2217-meteor-vii-vita.png",
+  "description": "A loader that runs the native library of the Android version of FINAL FANTASY VII (v1.0.29) on the PlayStation Vita, without emulation: the original ARMv7 .so runs directly on the CPU, with the Android system calls redirected to their Vita equivalents.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

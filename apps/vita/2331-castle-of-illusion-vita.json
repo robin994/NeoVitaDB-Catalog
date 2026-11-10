@@ -1,0 +1,17 @@
+{
+  "id": 2331,
+  "name": "Castle of Illusion Vita",
+  "author": "jwfeniello",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "COIV00001",
+  "repo": "jwfeniello/castle-of-illusion-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2331-castle-of-illusion-vita.png",
+  "description": "A PS Vita port of the Android version of Castle of Illusion Starring Mickey Mouse. It features physical controls mapped from the original touch screen controls. Some level music is missing, and performance can drop in heavier areas.",
+  "requirements": "- libshacccg.suprx\n- kubrdige.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

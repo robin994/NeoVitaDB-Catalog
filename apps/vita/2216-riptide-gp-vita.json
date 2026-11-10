@@ -1,0 +1,17 @@
+{
+  "id": 2216,
+  "name": "Riptide GP Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVRGP001",
+  "repo": "metalsyntax/riptide-gp-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2216-riptide-gp-vita.png",
+  "description": "so-loader port of the Android version (1.6.3) of Riptide GP (Vector Unit). It runs the original libBlue.so + libfmodex.so + libfmodevent.so with an emulated Java layer (FalsoJNI).",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

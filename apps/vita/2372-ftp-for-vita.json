@@ -1,0 +1,17 @@
+{
+  "id": 2372,
+  "name": "FTP for Vita",
+  "author": "M-Essa11",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "FTPV00001",
+  "repo": "m-essa11/ftp-for-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2372-ftp-for-vita.png",
+  "description": "FTP for Vita adds a VitaShell-compatible FTP server to the PS Vita Quick Menu. It starts disabled after every reboot and shows the current IP address and port next to the toggle while running.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

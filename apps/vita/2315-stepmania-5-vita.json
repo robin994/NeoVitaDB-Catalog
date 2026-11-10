@@ -1,0 +1,17 @@
+{
+  "id": 2315,
+  "name": "StepMania 5 Vita",
+  "author": "Luckyl13l",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SM50VITA1",
+  "repo": "luckyi13i/stepmania-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2315-stepmania-5-vita.png",
+  "description": "Port of the rhythm game StepMania 5.0.12 to the PS Vita. Toolchain: VitaSDK, graphics via vitaGL (fixed-function OpenGL over GXM).",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

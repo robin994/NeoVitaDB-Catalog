@@ -1,0 +1,17 @@
+{
+  "id": 2220,
+  "name": "Star Wars Battlefront II Vita",
+  "author": "tezla55",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SWBFVITA2",
+  "repo": "tezla55/swbf2-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2220-star-wars-battlefront-ii-vita.png",
+  "description": "A native PS Vita port of the 2005 classic, running on your own copy of the PC game.",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

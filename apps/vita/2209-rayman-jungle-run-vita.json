@@ -1,0 +1,17 @@
+{
+  "id": 2209,
+  "name": "Rayman Jungle Run Vita",
+  "author": "MetalSyntax",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "PSVRJR001",
+  "repo": "metalsyntax/rayman-jungle-run-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2209-rayman-jungle-run-vita.png",
+  "description": "An enhanced, native port of Rayman Jungle Run (Android) for the PlayStation Vita and PlayStation TV, powered by an ARMv7 dynamic shared library loader (so-loader) and custom FalsoJNI bridge.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": true,
+  "ai": false
+}

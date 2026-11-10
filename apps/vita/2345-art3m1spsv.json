@@ -1,0 +1,17 @@
+{
+  "id": 2345,
+  "name": "Art3m1sPSV",
+  "author": "DeQxJ00",
+  "category": "emulator",
+  "platform": "vita",
+  "titleid": "ART3DIR01",
+  "repo": "deqxj00/art3m1spsv",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2345-art3m1spsv.png",
+  "description": "An Artemis Engine (cross-platform visual novel engine) game runner for PlayStation Vita, based on the third-party Art3m1s implementation. Parsing and runtime behavior are based on Alphaly2K/art3m1s-core, with PSV adaptations for some newer engine script behaviors, rendering, shader, resource caching, audio/video, and input.",
+  "requirements": "- libshacccg.suprx\n- CapUnlocker.skprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

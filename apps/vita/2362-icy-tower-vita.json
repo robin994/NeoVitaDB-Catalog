@@ -1,0 +1,17 @@
+{
+  "id": 2362,
+  "name": "Icy Tower Vita",
+  "author": "Ibrahim Dogan",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "ICYT00131",
+  "repo": "ibrahim-dogan/vita-icy-tower",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2362-icy-tower-vita.png",
+  "description": "The original Icy Tower 1.3.1, frame for frame, on your PS Vita.\nA from-scratch engine port that plays with the game's own graphics, sounds and music, read from your copy of the free PC game.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

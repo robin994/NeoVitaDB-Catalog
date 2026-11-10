@@ -1,0 +1,17 @@
+{
+  "id": 2226,
+  "name": "Spyro Vita",
+  "author": "ShayVD",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SPYV00001",
+  "repo": "shayvd/spyro-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2226-spyro-vita.png",
+  "description": "A native PlayStation Vita port of Spyro the Dragon (1998, PlayStation, USA release SCUS-94228).\nThis is not an emulator. The game's own code, from the TheMobyCollective/spyro-1 decompilation, is compiled for the Vita's ARM CPU. PsyCross stands in for Sony's PlayStation libraries, and the PS1's graphics are drawn by the Vita's GPU (vitaGL).",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: PS1",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

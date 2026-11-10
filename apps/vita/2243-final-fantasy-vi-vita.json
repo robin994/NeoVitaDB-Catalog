@@ -1,0 +1,17 @@
+{
+  "id": 2243,
+  "name": "Final Fantasy VI Vita",
+  "author": "frangarcj",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "FF6000000",
+  "repo": "frangarcj/ff6_vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2243-final-fantasy-vi-vita.png",
+  "description": "A wrapper/port of the Android version of Final Fantasy VI for the PS Vita. The port loads the official Android ARMv7 executable in memory, resolves its imports with native functions and patches it to run natively. Android versions 2.1.6 and 2.1.7 are supported.\nIt includes a Configurator app, available from the LiveArea, to set the internal resolution, language, sound, button layout, font size and optional filters such as sharp-bilinear, FXAA and CRT.\nThe distributed package contains the loader, the Configurator, license notices and original Vita artwork. The Android executable and game data are not included. Online news, achievements and Google sign-in are unavailable.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

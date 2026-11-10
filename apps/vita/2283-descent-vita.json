@@ -1,0 +1,17 @@
+{
+  "id": 2283,
+  "name": "Descent Vita",
+  "author": "KiddRwxSsj",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "DSCT00001",
+  "repo": "kiddrwxssj/descent-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2283-descent-vita.png",
+  "description": "Descent is a native PS Vita port of Descent (1995), Parallax Software's six-degrees-of-freedom shooter, built from the official 1.5 source release. The original software renderer is kept and still draws the game at 320x200, while the Vita GPU only scales the finished frame to the screen. The x86 assembly for fixed-point math, the 3D pipeline, texture mapping and blitting was rewritten in portable C with matching results, and game tables are loaded field by field so the DOS data files work on ARM. Sound effects run through a custom mixer and the original HMP music is played back with a SoundFont synthesizer. The port offers original 4:3 and stretched display modes, optional smooth scaling, 30 or 60 FPS caps, twin-stick controls with per-axis inversion, remappable buttons including both halves of the rear touchpad, and system keyboard text input. The shareware release is fully playable at 60 FPS; network multiplayer is not supported.",
+  "requirements": "- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2341,
+  "name": "Smash Melee Vita",
+  "author": "zm2283145",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "MLVITA002",
+  "repo": "zm2283145/melee-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2341-smash-melee-vita.png",
+  "description": "An experimental native PlayStation Vita port of Super Smash Bros. Melee (NTSC-U 1.02).",
+  "requirements": "- libshacccg.suprx\n- Game Data Files: Gamecube",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

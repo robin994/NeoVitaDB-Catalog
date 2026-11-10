@@ -1,0 +1,17 @@
+{
+  "id": 2363,
+  "name": "VitaOS",
+  "author": "mvizensk",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VITAOS001",
+  "repo": "mvizensk/vitaos",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2363-vitaos.png",
+  "description": "A modern home screen for the PS Vita. VitaOS puts your games, films, music, apps and photos behind one fast, good-looking menu, with a PS5-style feel on the handheld you already own.\nVitaOS is free and open source (GPLv3). It is not affiliated with or endorsed by Sony Interactive Entertainment. PlayStation and PS Vita are trademarks of Sony Interactive Entertainment.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

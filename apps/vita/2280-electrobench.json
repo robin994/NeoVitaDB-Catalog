@@ -1,0 +1,17 @@
+{
+  "id": 2280,
+  "name": "ElectroBench",
+  "author": "Ayoub Lakrad",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "ELEB00002",
+  "repo": "deadbeef7/electrobench",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2280-electrobench.png",
+  "description": "A GPU benchmark that was ported from the PC version of ElectroBench made by the same develope, it has 2 scenes, is very intensive so it starts slowly. Uses vitaGL. Multi threaded.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

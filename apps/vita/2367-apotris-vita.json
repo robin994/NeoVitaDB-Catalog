@@ -1,0 +1,17 @@
+{
+  "id": 2367,
+  "name": "Apotris Vita",
+  "author": "Rocroverss",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "APOT00001",
+  "repo": "rocroverss/apotris-psvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2367-apotris-vita.png",
+  "description": "Apotris is a free multiplatform open-source block stacking game! What sets Apotris apart from other block stacking games is its extensive customization options, complemented by ultra-responsive controls that let you execute your moves with precision. With 14 unique game modes and a plethora of settings, you can tailor the game to your preferences, ensuring a fresh and challenging experience every time you play. Whether you're a casual player or a hardcore enthusiast, Apotris has something for everyone. While Apotris was originally designed for Gameboy Advance, it now supports all kinds of platforms, so between the ports and emulation you can play Apotris on almost anything.",
+  "requirements": "- libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

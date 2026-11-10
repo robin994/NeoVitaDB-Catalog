@@ -1,0 +1,17 @@
+{
+  "id": 2282,
+  "name": "Costume Quest Vita",
+  "author": "Galetote",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "CSTMQST01",
+  "repo": "ggdrn/costumequestvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2282-costume-quest-vita.png",
+  "description": "PS Vita port of Costume Quest, based on the 2015 Android/OUYA PowerVR build. It loads the original ARM libraries from the APK using so_util, FalsoJNI and vitaGL, starting from the soloader-boilerplate.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: Android",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

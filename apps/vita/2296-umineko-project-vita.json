@@ -1,0 +1,17 @@
+{
+  "id": 2296,
+  "name": "Umineko Project Vita",
+  "author": "stoicpingu",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "UMNK00001",
+  "repo": "stoicpingu/umineko-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2296-umineko-project-vita.png",
+  "description": "Umineko no Naku Koro ni is a visual novel by 07th Expansion. October 4th, 1986: the Ushiromiya family gathers on the private island of Rokkenjima for the annual family conference, as a typhoon closes in and the legend of the Golden Witch, Beatrice, starts to come true.",
+  "requirements": "- libshacccg.suprx\n- kubridge.skprx\n- Game Data Files: PC",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2193,
+  "name": "VivoTube",
+  "author": "hamburger101",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VIVO00001",
+  "repo": "hamburger101/vivotube",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2193-vivotube.png",
+  "description": "VivoTube is an unofficial YouTube client for PSVita written from scratch. It communicates directly with YouTube's InnerTube API, without a companion server, and plays videos at up to 720p using the console's hardware H.264 and AAC decoders.\nIt includes a Home page with topic feeds and a personal \"For you\" feed built from watch history and likes, a vertical Shorts player, search with filters, comments with replies, captions, chapters, a mini player, a play queue, and playback speeds from 0.25x to 2x with pitch-preserving audio. Subscriptions, watch history, Watch later, liked videos and playlists are stored on the memory card. Signing in with a Google account, through an OAuth client the user creates, syncs subscriptions, likes and playlists. Text in non-Latin scripts such as Arabic, Hebrew, Hindi, Thai, Chinese, Japanese and Korean is displayed with bundled Noto fonts, and emoji are shown in colour. A built-in updater installs new releases from the project's GitHub repository.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

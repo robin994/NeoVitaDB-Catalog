@@ -1,0 +1,17 @@
+{
+  "id": 2262,
+  "name": "Strikers Vita",
+  "author": "robin994",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SMSVITA01",
+  "repo": "robin994/strikersvita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2262-strikers-vita.png",
+  "description": "An unofficial port of Super Mario Strikers / Mario Smash Football for PlayStation Vita. The current runtime uses VitaGL, PC-prepared native graphics, PCM audio, and H.264/AAC MP4 movies streamed from PSARC through SceAvPlayer. This project is still under development. The next performance milestone is stable 30 FPS in rendered cutscenes, followed by 60 FPS. Neither target has been achieved or certified yet.",
+  "requirements": "- libshacccg.suprx\n- Game Data File: Gamecube",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true
+}

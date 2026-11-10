@@ -1,0 +1,17 @@
+{
+  "id": 2319,
+  "name": "LiveArea Designer",
+  "author": "robin994",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "LIVAREA01",
+  "repo": "robin994/liveareadesigner",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2319-livearea-designer.png",
+  "description": "LiveArea Designer is a homebrew utility for PlayStation Vita that helps developers and designers create and preview custom LiveArea layouts directly on the console.\nThe tool provides an interactive editor where users can position and resize a button within a LiveArea card using the front touchscreen or physical controls. All measurements are displayed in pixels relative to the card boundaries.",
+  "requirements": "- New: Open and modify a homebrew VPK\n- Cleaner UI\n- PNG8 compression, explained and improved",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
