@@ -5,18 +5,15 @@
   "category": "utility",
   "platform": "vita",
   "titleid": "ARPL00001",
-
   "repo": "NexArea-Official/AreaPlay",
   "asset": "AreaPlay.vpk",
   "prerelease": false,
-
   "icon": "2190-area-play.png",
-
   "description": "A fast and good-looking game hub for PS Vita.\nYour PS Vita, PSP and PS1 games, retro systems and homebrews in one place, with covers and backgrounds downloaded automatically.\nRetro games launched directly with RetroArch, Emu4Vita++ or standalone emulators. Themes, 26 accent colours, wallpapers, replaceable icons and sounds, carousel / grid / list views, favourites, collections and instant search.\nTouch screen and buttons. English and French.\nTrailer: https://youtu.be/WNm3kU46JUY",
   "requirements": "HENkaku / Enso. Wi-Fi and TLS 1.2 for covers (firmware 3.73 or iTLS-Enso). Optional: RetroArch, Emu4Vita++, Adrenaline.",
-
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "ai_assisted": true
+  "ai_assisted": true,
+  "trusted": false
 }
