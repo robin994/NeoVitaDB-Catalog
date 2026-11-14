@@ -1,0 +1,18 @@
+{
+  "id": 2381,
+  "name": "TNTV - The New Tetris",
+  "author": "T64NCollection",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "NTET00001",
+  "repo": "T64NCollection/TNTV",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2381-tntv.png",
+  "description": "Native PS Vita and PlayStation TV port of The New Tetris (Nintendo 64). Includes all eight solo stages optimized for approximately 60 FPS normal gameplay, restored Wonders construction and finale, and music and sound effects reconstructed locally from a user-supplied ROM. PlayStation TV supports local 2-, 3- and 4-player games, tested on real hardware with four physical controllers, including garbage, targeting and Hot Potato. Saves, original modes and secrets are supported.",
+  "requirements": "Requires a user-supplied compatible USA 1.0 The New Tetris N64 ROM in ux0:/data/TNTV/ (z64, v64 or n64). First launch prepares assets from that ROM locally. No original game media is included. PlayStation TV and multiple paired controllers are required for multiplayer.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
