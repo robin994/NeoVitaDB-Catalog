@@ -1,0 +1,19 @@
+{
+  "id": 2382,
+  "name": "LISA: The Painful Vita",
+  "author": "Pinol0",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LISA00001",
+  "repo": "Pinol0/LISA-Vita",
+  "asset": "LISA-Vita-*.vpk",
+  "prerelease": true,
+  "icon": "2382-lisa-the-painful-vita.png",
+  "description": "Unofficial native port of LISA: The Painful (Legacy Edition, RPG Maker VX Ace) to the PS Vita, built on mkxp-z with Ruby 3.1 and vitaGL. The game's own scripts run unchanged and it is playable from start to finish.\n\n- Screen options: 1:1, Original, Stretch and real widescreen (Wide)\n- The 58 Steam achievements, unlocked on the Vita\n- Combo keys on the face buttons and the right stick, PlayStation button prompts in battle\n- MP3, Ogg and WAV audio\n\nAlpha: very long sessions can still run out of memory, save often. No game files are included: copy Data, Graphics, Audio and Fonts from your own copy to ux0:data/lisa_vita/ (extract Game.rgss3a first). Runs well at the default 333 MHz; heavy maps drop a little more there, and the PSVshell overclock at 500 MHz smooths them out.",
+  "requirements": "Your own copy of LISA: The Painful, Legacy Edition (RPG Maker VX Ace, not the Unity Definitive Edition). Game files in ux0:data/lisa_vita/. Overclock optional (500 MHz smooths the heaviest maps).",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true,
+  "trusted": false
+}

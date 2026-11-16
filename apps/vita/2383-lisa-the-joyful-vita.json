@@ -1,0 +1,19 @@
+{
+  "id": 2383,
+  "name": "LISA: The Joyful Vita",
+  "author": "Pinol0",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "LISJ00001",
+  "repo": "Pinol0/LISA-Vita",
+  "asset": "LISA-Joyful-Vita-*.vpk",
+  "prerelease": true,
+  "icon": "2383-lisa-the-joyful-vita.png",
+  "description": "Unofficial native port of LISA: The Joyful (Legacy Edition, RPG Maker VX Ace) to the PS Vita, the same engine as LISA: The Painful Vita. Experimental: the game has been completed on hardware.\n\n- Screen options: 1:1, Original, Stretch and real widescreen (Wide)\n- The 10 Steam achievements, unlocked on the Vita\n- Combo keys on the face buttons and the right stick\n\nVery long sessions can still run out of memory, save often. No game files are included: copy Data, Graphics, Audio and Fonts from your own copy to ux0:data/lisa_joyful/ (extract Game.rgss3a first). Runs well at the default 333 MHz; heavy maps drop a little more there, and the PSVshell overclock at 500 MHz smooths them out.",
+  "requirements": "Your own copy of LISA: The Joyful, Legacy Edition (RPG Maker VX Ace, not the Unity Definitive Edition). Game files in ux0:data/lisa_joyful/. Overclock optional (500 MHz smooths the heaviest maps).",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true,
+  "trusted": false
+}
