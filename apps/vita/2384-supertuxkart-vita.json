@@ -20,5 +20,6 @@
   ],
   "trophies": false,
   "ai": false,
-  "ai_assisted": true
+  "ai_assisted": true,
+  "trusted": false
 }
