@@ -1,0 +1,24 @@
+{
+  "id": 2384,
+  "name": "SuperTuxKart Vita",
+  "author": "edgarlugo",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "STKV00001",
+  "repo": "edgarlugo/stk-code",
+  "asset": "supertuxkart.vpk",
+  "prerelease": false,
+  "icon": "2384-supertuxkart-vita.png",
+  "description": "Port of SuperTuxKart 1.5, the free kart racing game, based on the port by Rinnegatamante. All the offline modes work (races, time trials, follow the leader, battles, soccer and egg hunts) with up to 6 karts, at about 60 FPS on most tracks.\nThe game data is a separate download: extract supertuxkart-data.zip to ux0:data/ so that ux0:data/supertuxkart/stk-data/ exists.",
+  "requirements": "libshacccg.suprx. Game data: supertuxkart-data.zip from the GitHub release, extracted to ux0:data/.",
+  "data": "https://github.com/edgarlugo/stk-code/releases/download/vita-1.0/supertuxkart-data.zip",
+  "screenshots": [
+    "screenshots/2384-1.png",
+    "screenshots/2384-2.png",
+    "screenshots/2384-3.png",
+    "screenshots/2384-4.png"
+  ],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
