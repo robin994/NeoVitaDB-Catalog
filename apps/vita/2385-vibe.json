@@ -1,0 +1,18 @@
+{
+  "id": 2385,
+  "name": "Vibe",
+  "author": "disp06",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "VIBE00001",
+  "repo": "disp06/vibe-ps-vita-music-player",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "2385-vibe.png",
+  "description": "Lightweight music player tuned for the PCH-1000 OLED.\nPlays MP3, OGG, FLAC (up to 24-bit/192 kHz) and WAV from ux0: and uma0: with tags (Cyrillic too) and cover art.\nKeeps playing in the background and with the screen off. Screen-off timer, Always On mode with OLED burn-in shift, low clocks while the screen is dark.\nLandscape and portrait layouts, true-black dark and light themes and three animated skins: Windows Phone Metro, Retro-Futurism (tape deck, scope, spectrum) and Minimal.\nL/R skip tracks, Square toggles Always On, Select turns the screen off.",
+  "requirements": "HENkaku or Enso. Put music anywhere on ux0 or uma0 (ux0:music opens first).",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}

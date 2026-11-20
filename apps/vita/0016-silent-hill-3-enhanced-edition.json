@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "name": "Silent Hill 3 Enhanced Edition",
+  "author": "matfsouza",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "SH3EE0001",
+  "repo": "matfsouza/sh3vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0016-silent-hill-3-enhanced-edition.png",
+  "description": "Port of the PC version of Silent Hill 3 to the PS Vita, recompiled to run natively (no emulation). Locked 30 FPS, 960x544 in 16:9 with the 3D close to the PS2's 640x448, PS2 sound pitch restored, map and inventory in their PS2 4:3 frame, an on-screen cursor for the puzzles (left stick or D-pad) and safe saves. ",
+  "requirements": "- Game data required: Your own copy of Silent Hill 3 for Windows (2003), prepared on a PC with sh3prep (see the GitHub README) and copied to ux0:data/sh3/. Only the sh3.exe with SHA-256 A51F956BD5BE21FD704C4D19CF0674A175D002081DA43B1D377BE83226C36E5E works.\n- Plugin(s) required: libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "data": "https://archive.org/download/data-files_202611/DATA%20FILES.zip"
+}
