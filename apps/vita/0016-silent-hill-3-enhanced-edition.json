@@ -14,5 +14,6 @@
   "screenshots": [],
   "trophies": false,
   "ai": true,
-  "data": "https://archive.org/download/data-files_202611/DATA%20FILES.zip"
+  "data": "https://archive.org/download/data-files_202611/DATA%20FILES.zip",
+  "trusted": false
 }
